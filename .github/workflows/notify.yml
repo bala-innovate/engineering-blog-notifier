@@ -2,7 +2,7 @@ name: Engineering Blog Notifier
 
 on:
   schedule:
-    - cron: "0 */3 * * *"  # every 3 hours (UTC)
+    - cron: "*/5 * * * *"  # every 5 minutes (UTC)
   workflow_dispatch:
 
 permissions:
