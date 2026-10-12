@@ -1,0 +1,38 @@
+name: Engineering Blog Notifier
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"  # every 3 hours (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write  # needed to commit seen.json
+
+concurrency:
+  group: blog-notifier
+  cancel-in-progress: false
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Poll feeds and post to Discord
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python eng_blog_rss.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seen.json
+          git diff --staged --quiet || (git commit -m "update seen posts" && git push)
