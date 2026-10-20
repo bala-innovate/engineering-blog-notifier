@@ -1,15 +1,15 @@
 {
  ".NET": [
+  "https://devblogs.microsoft.com/dotnet/?p=61063",
+  "https://devblogs.microsoft.com/dotnet/?p=61061",
+  "https://devblogs.microsoft.com/dotnet/?p=61046",
+  "https://devblogs.microsoft.com/dotnet/?p=61028",
+  "https://devblogs.microsoft.com/dotnet/?p=61032",
   "https://devblogs.microsoft.com/dotnet/?p=61017",
   "https://devblogs.microsoft.com/dotnet/?p=60983",
   "https://devblogs.microsoft.com/dotnet/?p=60962",
   "https://devblogs.microsoft.com/dotnet/?p=60895",
-  "https://devblogs.microsoft.com/dotnet/?p=60885",
-  "https://devblogs.microsoft.com/dotnet/?p=60881",
-  "https://devblogs.microsoft.com/dotnet/?p=60868",
-  "https://devblogs.microsoft.com/dotnet/?p=60832",
-  "https://devblogs.microsoft.com/dotnet/?p=60786",
-  "https://devblogs.microsoft.com/dotnet/?p=60707"
+  "https://devblogs.microsoft.com/dotnet/?p=60885"
  ],
  "0xADADA": [
   "https://0xadada.pub/2024/06/23/the-disappearance-of-lived-time-film/",
@@ -100,6 +100,11 @@
   "https://8thlight.com/insights/tdd-effective-ai-collaboration"
  ],
  "AWS": [
+  "b26c8ec6bfaf7141b02ddd51b0832cb797e2fa86",
+  "cd5eb4df7600955259cf3d08d3dc859f994f08c5",
+  "dde1e88f3c93eabd2dbb3913d365d085496d24b2",
+  "7d8a98739984e60ca9480501cf2c370433bebfb8",
+  "4158873d220345e053e781fb51ca252fff001d13",
   "26926696f501ea30f54a1a0580ce8eb01bf59235",
   "b763b52a942275354399615fd56b8f7232f71f2c",
   "6936a126ff37e6868dadff2a0b59022a185e8d3c",
@@ -114,14 +119,10 @@
   "efef7c6cb4883104326929e4006dcf8d1349cb2d",
   "e54808ff9073a2b426d2baf919a0236eb2f63e40",
   "871c44b03c81444dbf2768f2c7efdf2a156c5808",
-  "08498470152ce637e9283653fce2e1e7198f87fb",
-  "936acd2588551fb9eea86f9b0eaf5f722128dc6e",
-  "a7eafcc0229cd1fa7f057426d064a4eca2d0738b",
-  "bd7e863a13091bede2374f2ed4b4748927b1e862",
-  "691506bc5e95268a961b15cf0a07d63a6837a457",
-  "3418fcf622154fda93d6ae0475d0ab9d6ec4180f"
+  "08498470152ce637e9283653fce2e1e7198f87fb"
  ],
  "Aaron Patterson": [
+  "https://tenderlovemaking.com/2026/10/18/static-analysis-for-the-uninitialized/",
   "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
   "https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/",
   "https://tenderlovemaking.com/2026/05/06/rails-security-ai-and-ibb/",
@@ -135,8 +136,7 @@
   "https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/",
   "https://tenderlovemaking.com/2025/09/10/file-preallocation-on-macos-in-ruby/",
   "https://tenderlovemaking.com/2024/10/16/monkey-patch-detection-in-ruby/",
-  "https://tenderlovemaking.com/2024/09/29/eliminating-intermediate-array-allocations/",
-  "https://tenderlovemaking.com/2024/02/16/using-serial-ports-with-ruby/"
+  "https://tenderlovemaking.com/2024/09/29/eliminating-intermediate-array-allocations/"
  ],
  "Abu Ashraf Masnun": [
   "https://masnun.com/?p=3549",
@@ -279,6 +279,7 @@
   "https://advancedweb.hu/shorts/hardening-with-firejail-landlock-and-bubblewrap"
  ],
  "Airbnb": [
+  "https://medium.com/p/3818ef8b4828",
   "https://medium.com/p/cea7ee9b1ab2",
   "https://medium.com/p/8e7891a1d486",
   "https://medium.com/p/8f1582578553",
@@ -287,8 +288,7 @@
   "https://medium.com/p/c606b9bdb0ab",
   "https://medium.com/p/3a8a4c917137",
   "https://medium.com/p/e817e5ae5788",
-  "https://medium.com/p/bcefd1915624",
-  "https://medium.com/p/14e2d35198b4"
+  "https://medium.com/p/bcefd1915624"
  ],
  "Alan Storm": [
   "https://alanastorm.com/?p=12606",
@@ -335,6 +335,7 @@
   "https://infrequently.org/2024/01/the-web-is-the-app-store/"
  ],
  "Amit Merchant": [
+  "https://www.amitmerchant.com/an-online-first-version-control-system",
   "https://www.amitmerchant.com/practical-way-to-check-your-ai-search-visibility",
   "https://www.amitmerchant.com/7-game-changing-web-ui-features-you-need-to-start-using-today",
   "https://www.amitmerchant.com/building-web-searching-ai-agent-javascript",
@@ -343,8 +344,7 @@
   "https://www.amitmerchant.com/one-css-property-that-makes-numbers-look-instantly-better",
   "https://www.amitmerchant.com/real-world-exmples-using-laravel-api-sdk",
   "https://www.amitmerchant.com/add-ui-sounds-in-your-web-apps-in-hearbeat",
-  "https://www.amitmerchant.com/svg-filters-are-just-amazing",
-  "https://www.amitmerchant.com/the-clamp-function-in-php-86"
+  "https://www.amitmerchant.com/svg-filters-are-just-amazing"
  ],
  "Andrew Bancroft": [
   "https://www.andrewcbancroft.com/blog/ai/how-i-learned-to-copy-and-paste/",
@@ -560,31 +560,26 @@
   "https://www.andrewcbancroft.com/portfolio/"
  ],
  "Android": [
-  "tag:blogger.com,1999:blog-6755709643044947179.post-912436019048406842",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-4525492135665505829",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-54966360760178150",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-6187679325667528883",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-8242644365515649127",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-3564094472242054542",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-2480597859769864074",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-2715897309015635904",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-4451614233790722986",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-5847283643542613891",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-2032266210748359882",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-6766967387297621648",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-2142519968365769225",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-3046254478597816363",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-7129797423235721416",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-6753712392854325591",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-4265891887313386931",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-95107061724834879",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-5965363738026017539",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-4347998413375612878",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-2798697072776672466",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-8497185682650112021",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-8539179489937049654",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-8100987187420918726",
-  "tag:blogger.com,1999:blog-6755709643044947179.post-4296509647035928483"
+  "tag:developer.android.com,2026-10-20:/blog/posts/remote-compose-gaming-widgets",
+  "tag:developer.android.com,2026-10-19:/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time",
+  "tag:developer.android.com,2026-10-13:/blog/posts/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli",
+  "tag:developer.android.com,2026-10-13:/blog/posts/google-play-discovery-engagement-growth",
+  "tag:developer.android.com,2026-10-12:/blog/posts/googlebook-linux-terminal-preview-vm",
+  "tag:developer.android.com,2026-10-02:/blog/posts/android-cli-device-streaming-and-skills",
+  "tag:developer.android.com,2026-09-30:/blog/posts/jetpack-compose-ai-native-ui-instagram-direct",
+  "tag:developer.android.com,2026-09-29:/blog/posts/driving-growth-on-google-play-the-next-era-of-subscriptions",
+  "tag:developer.android.com,2026-09-24:/blog/posts/build-your-way-use-any-ai-agent-of-your-choice-in-android-studio",
+  "tag:developer.android.com,2026-09-22:/blog/posts/land-your-apps-on-googlebook-with-adaptive-development",
+  "tag:developer.android.com,2026-09-21:/blog/posts/bring-your-android-game-to-the-car-screen-today",
+  "tag:developer.android.com,2026-09-17:/blog/posts/android-bench-2-0-pushing-the-frontier-with-challenging-long-horizon-tasks",
+  "tag:developer.android.com,2026-09-17:/blog/posts/introducing-the-android-x-security-state-libraries-a-unified-view-of-device-security",
+  "tag:developer.android.com,2026-09-09:/blog/posts/introducing-fast-and-reliable-wireless-debugging-with-android-debug-bridge-adb-wi-fi-2-0",
+  "tag:developer.android.com,2026-09-01:/blog/posts/leverage-android-skills-and-gemma-4-in-android-studio-quail-4",
+  "tag:developer.android.com,2026-08-31:/blog/posts/emulator-control-for-adaptive-app-development",
+  "tag:developer.android.com,2026-08-27:/blog/posts/how-whats-app-upgraded-to-secure-seamless-sign-in-for-1-billion-users-with-passkeys",
+  "tag:developer.android.com,2026-08-26:/blog/posts/elevating-app-quality-reducing-memory-usage-and-improving-device-migration",
+  "tag:developer.android.com,2026-08-25:/blog/posts/ensuring-safety-in-the-generative-ai-ecosystem-protecting-users-from-non-consensual-intimate-content",
+  "tag:developer.android.com,2026-08-24:/blog/posts/aaos-sdv-secure-by-design"
  ],
  "Antirez": [
   "http://antirez.com/news/172",
@@ -754,28 +749,28 @@
   "https://artsy.github.io/blog/2022/02/01/using-context-to-simplify-a-react-form/"
  ],
  "Atomic Object": [
+  "https://spin.atomicobject.com/?p=3675849",
+  "https://spin.atomicobject.com/?p=3675859",
+  "https://spin.atomicobject.com/?p=3675761",
+  "https://spin.atomicobject.com/?p=3675828",
+  "https://spin.atomicobject.com/?p=3675838",
+  "https://spin.atomicobject.com/?p=3675841",
+  "https://spin.atomicobject.com/?p=3675769",
   "https://spin.atomicobject.com/?p=3675781",
   "https://spin.atomicobject.com/?p=3675763",
-  "https://spin.atomicobject.com/?p=3675774",
-  "https://spin.atomicobject.com/?p=3675730",
-  "https://spin.atomicobject.com/?p=3675698",
-  "https://spin.atomicobject.com/?p=3675414",
-  "https://spin.atomicobject.com/?p=3675618",
-  "https://spin.atomicobject.com/?p=3675691",
-  "https://spin.atomicobject.com/?p=3675643",
-  "https://spin.atomicobject.com/?p=3675628"
+  "https://spin.atomicobject.com/?p=3675774"
  ],
  "Auth0": [
+  "https://auth0.com/blog/securing-ai-agents-with-auth0-cimd-token-exchange/",
+  "https://auth0.com/blog/what-is-id-jag/",
+  "https://auth0.com/blog/securing-the-front-door-of-agentic-commerce/",
+  "https://auth0.com/blog/on-behalf-of-is-a-pattern-token-exchange-is-the-standard/",
+  "https://auth0.com/blog/agentic-development-time-to-shift-focus/",
+  "https://auth0.com/blog/introducing-the-auth0-sdk-for-kotlin-multiplatform/",
+  "https://auth0.com/blog/introducing-the-auth0-sdk-for-tanstack-start/",
   "https://auth0.com/blog/multi-tenant-saas-apps-with-auth0-organizations-part-one/",
   "https://auth0.com/blog/everybody-thinks-login-is-easy/",
-  "https://auth0.com/blog/turning-customer-identity-into-growth-engine/",
-  "https://auth0.com/blog/user-metadata-vs-app-metadata/",
-  "https://auth0.com/blog/extending-auth0-privatelink-with-intelligent-gateways/",
-  "https://auth0.com/blog/seven-architectural-readiness-checks-before-production-launch/",
-  "https://auth0.com/blog/integrating-claude-code-with-auth0-apis/",
-  "https://auth0.com/blog/introducing-identiflows-a-visual-reference-for-identity-flows/",
-  "https://auth0.com/blog/auth0-for-chatgpt-build-manage-identity/",
-  "https://auth0.com/blog/securing-agentic-commerce-using-auth0-universal-commerce-protocol-ucp/"
+  "https://auth0.com/blog/turning-customer-identity-into-growth-engine/"
  ],
  "Avenue Code": [
   "https://blog.avenuecode.com/using-generative-ai-to-streamline-internal-it-support-a-comprehensive-demonstration",
@@ -850,6 +845,33 @@
   "http://bandcamptech.wordpress.com/?p=7",
   "http://bandcamptech.wordpress.com/?p=12"
  ],
+ "Bartlomiej Filipek": [
+  "https://www.cppstories.com/2026/cpp26_contracts/",
+  "https://www.cppstories.com/2018/05/using-optional/",
+  "https://www.cppstories.com/2026/hardening-experiments/",
+  "https://www.cppstories.com/2026/semaphore/",
+  "https://www.cppstories.com/2025/join_concat_ranges/",
+  "https://www.cppstories.com/2021/filter-cpp-containers/",
+  "https://www.cppstories.com/2026/shared_mutex/",
+  "https://www.cppstories.com/2016/11/iife-for-complex-initialization/",
+  "https://www.cppstories.com/2025/chrono-calendar-examples/",
+  "https://www.cppstories.com/2025/chrono-calendar-types/",
+  "https://www.cppstories.com/2025/tuple-iteration-cpp26/",
+  "https://www.cppstories.com/2022/tuple-iteration-apply/",
+  "https://www.cppstories.com/2025/structured-bindings-cpp26-updates/",
+  "https://www.cppstories.com/2025/thread_safety_function_statics/",
+  "https://www.cppstories.com/2025/ranges_split_chunk/",
+  "https://www.cppstories.com/2025/custom_iter_cpp_20_ranges_views/",
+  "https://www.cppstories.com/2025/cpp23_mdspan/",
+  "https://www.cppstories.com/2025/cpp23_mdspan_adj/",
+  "https://www.cppstories.com/2023/span-cpp20/",
+  "https://www.cppstories.com/2025/cpp26-safety-temp/",
+  "https://www.cppstories.com/2024/cpp23_more_examples/",
+  "https://www.cppstories.com/2024/cpp23_lib/",
+  "https://www.cppstories.com/2024/cpp23_lang/",
+  "https://www.cppstories.com/2024/zones_around_world_chrono/",
+  "https://www.cppstories.com/2024/chrono_dates_zones/"
+ ],
  "Bazaarvoice": [
   "https://blog.developer.bazaarvoice.com/?p=2012",
   "https://blog.developer.bazaarvoice.com/?p=2005",
@@ -875,6 +897,7 @@
   "https://medium.com/p/7f183657f0d9"
  ],
  "Blender": [
+  "https://code.blender.org/?p=13548",
   "https://code.blender.org/?p=13558",
   "https://code.blender.org/?p=13495",
   "https://code.blender.org/?p=13411",
@@ -883,8 +906,7 @@
   "https://code.blender.org/?p=13055",
   "https://code.blender.org/?p=13007",
   "https://code.blender.org/?p=12979",
-  "https://code.blender.org/?p=12924",
-  "https://code.blender.org/?p=12818"
+  "https://code.blender.org/?p=12924"
  ],
  "Blundell's Android Tutorials": [
   "https://blog.blundellapps.co.uk/?p=1859",
@@ -921,6 +943,7 @@
   "http://bohops.com/?p=2410"
  ],
  "Bootstrap.com": [
+  "https://blog.getbootstrap.com/2026/10/15/triaging-bootstrap-with-claude-agents/",
   "https://blog.getbootstrap.com/2026/10/08/bootstrap-6-alpha/",
   "https://blog.getbootstrap.com/2026/04/15/bootstrap-vscode-theme/",
   "https://blog.getbootstrap.com/2026/04/15/postcss-prefix-custom-properties/",
@@ -929,8 +952,7 @@
   "https://blog.getbootstrap.com/2025/06/17/bootstrap-5-3-7/",
   "https://blog.getbootstrap.com/2025/05/09/bootstrap-icons-1-12-1-13/",
   "https://blog.getbootstrap.com/2025/05/05/bootstrap-5-3-6/",
-  "https://blog.getbootstrap.com/2025/04/04/bootstrap-5-3-5/",
-  "https://blog.getbootstrap.com/2025/04/03/bootstrap-5-3-4/"
+  "https://blog.getbootstrap.com/2025/04/04/bootstrap-5-3-5/"
  ],
  "Brandwatch": [
   "https://www.brandwatch.com/?p=192412",
@@ -1020,6 +1042,7 @@
   "https://www.canva.dev/blog/engineering/canva-incident-report-api-gateway-outage/"
  ],
  "Capgemini": [
+  "https://capgemini.github.io/engineering/fosdem-2026",
   "https://capgemini.github.io/engineering/humans-compensate-for-bad-documentation",
   "https://capgemini.github.io/cloud/immutable-subject-claims-github-actions-oidc",
   "https://capgemini.github.io/engineering/ironies-of-ai-augmented-software-engineering",
@@ -1038,8 +1061,7 @@
   "https://capgemini.github.io/presentations/introduction-to-open-source",
   "https://capgemini.github.io/ai/use-cases-for-ai",
   "https://capgemini.github.io/cloud%20native/ses-email-security",
-  "https://capgemini.github.io/development/dcx-react-library-v1-is-here",
-  "https://capgemini.github.io/development/automation-scripting-bash"
+  "https://capgemini.github.io/development/dcx-react-library-v1-is-here"
  ],
  "Carlos Becker": [
   "https://carlosbecker.com/posts/bjj-comp/",
@@ -1357,14 +1379,14 @@
   "https://engineering.cerner.com/careers/"
  ],
  "Chris Wellons": [
+  "urn:uuid:21156575-515c-862e-9b0f-8a86d5b229fc",
   "urn:uuid:bee8d4c0-5185-8d4b-b14a-4aba71276e87",
   "urn:uuid:843e3ff4-8bd3-4106-bca9-608a80e66545",
   "urn:uuid:0b80f9d8-07a1-4d9f-a26d-f119b08364da",
   "urn:uuid:d877f4c2-b213-4af7-8fb9-269558ee6b86",
   "urn:uuid:91357133-9d2d-4a6f-9b39-4bd1d35c814e",
   "urn:uuid:9db72e48-92f3-4426-a18f-9a317354e2c8",
-  "urn:uuid:eb448519-0a55-4c1c-bc55-17a65634224f",
-  "urn:uuid:91d679b3-4f07-4b61-b359-5890695ad621"
+  "urn:uuid:eb448519-0a55-4c1c-bc55-17a65634224f"
  ],
  "Clever": [
   "https://engineering.clever.com/?p=301",
@@ -1379,6 +1401,18 @@
   "https://engineering.clever.com/?p=154"
  ],
  "Cloudflare": [
+  "01M5C833HV3W30PBZZYVMCVRR6",
+  "01M58NMKW6A1DQJNZXH37VZ9JH",
+  "01M5AKCKW0449M3Q6FW10XB4K3",
+  "01M537RHECVHNJPV12N2E54ZR7",
+  "01M510YDY2PS6BYR03DF8HHG2D",
+  "01M5072CXFWQ88M9NCXZBSPAF2",
+  "01M4EX2BRJ7RNGAPQTBRXWRYT1",
+  "01M4YQC31GRHMR5V2624TPHTH7",
+  "01M4Y1477Z7DBJHXRZDP6MM2FN",
+  "01M4VK1MXKAPMWG5QXYBFK222G",
+  "01M4TZM0P3VSCZHV70ZGX58319",
+  "01M4RYTJWRQG5ZF619XNRPYAZB",
   "01M4HA4SBV0ANTH6C2775H4SSY",
   "01M4GV0DTKYJTCM5GPYBCME1T4",
   "01M497Y0BQ6DVED6YT05KTNA6W",
@@ -1386,19 +1420,7 @@
   "01M4ATYPWQETFZA4EZJ5AJYSFT",
   "01M49SJF5QT2EPN5CTQ3C99EZW",
   "01M490D3EE2TBV2NFMN6FXMMQ8",
-  "01M45M6M9H2C1A45G0S8EC3KW9",
-  "01M40C00BDZBKANZ5QVXW0AD7X",
-  "01M3XHCB64KZ1NTN3N83GY590B",
-  "01M3XKBJCTDTMBBCNNHA141F04",
-  "01M3XM9KVCRB6JKE07Q88EPGD2",
-  "01M3XE7G2V6JJXPKX92B1D4080",
-  "01M3XD0M307DCDJ5QYA2RFTW87",
-  "01M3WRXHGNF2ZH02N0GWY6FHVV",
-  "01M3WNK9KTV3615MEM25RN3E4H",
-  "01M3WEQR3N79CDBSMHD5V067HA",
-  "01M3W899F5N6P98MYP180WJMS4",
-  "01M3T5GMDCTRDCS7CFJSMSJ2TS",
-  "01M3TJPSZAN4TKGKX6HWSNQWEP"
+  "01M45M6M9H2C1A45G0S8EC3KW9"
  ],
  "Confluent": [
   "https://www.confluent.io/blog/confluent-strengthens-trust-for-singapores-markets-with-ospar-attestation/",
@@ -1591,6 +1613,7 @@
   "https://danluu.com/why-hardware-development-is-hard/"
  ],
  "Daniel Doubrovkine (dB.)": [
+  "https://code.dblock.org/2026/10/15/ai-wants-to-eat-your-project-backlog",
   "https://code.dblock.org/2026/10/11/elpds-a-1995-dos-disk-inspection-tool",
   "https://code.dblock.org/2026/10/09/a-1998-pdf-to-text-converter",
   "https://code.dblock.org/2026/10/03/ucslink-fusion-configuring-university-workstations-in-1997",
@@ -1609,8 +1632,7 @@
   "https://code.dblock.org/2026/08/14/instance-variables-are-not-inherited-and-why-that-breaks-your-dsl",
   "https://code.dblock.org/2026/08/11/generating-ai-descriptions-of-automated-pull-requests",
   "https://code.dblock.org/2026/05/05/coding-with-ai-agents-is-now-a-baseline-expectation-for-managers",
-  "https://code.dblock.org/2026/04/11/how-i-made-360-dollars-by-serving-markdown-from-my-jekyll-blog",
-  "https://code.dblock.org/2026/04/08/opening-proprietary-code-to-contributors-checklist"
+  "https://code.dblock.org/2026/04/11/how-i-made-360-dollars-by-serving-markdown-from-my-jekyll-blog"
  ],
  "Daniel Schmidt": [
   "https://medium.com/p/825e6dedf46d",
@@ -1625,16 +1647,16 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
-  "https://www.databricks.com/blog/brickster-voices-meet-clara-kurian",
-  "https://www.databricks.com/blog/how-flo-health-built-safer-more-useful-open-models-databricks-ai-runtime",
-  "https://www.databricks.com/blog/how-california-built-its-behavioral-health-public-county-profile-databricks",
-  "https://www.databricks.com/blog/post-training-production-how-tinyfish-runs-its-web-native-model-databricks-ai-runtime",
-  "https://www.databricks.com/blog/solving-defense-supply-chain-visibility-through-governed-data-sharing",
-  "https://www.databricks.com/blog/announcing-workday-data-connect-federation-unity-catalog",
-  "https://www.databricks.com/blog/introducing-funke-native-hl7v2-parsing-databricks",
-  "https://www.databricks.com/blog/lakebase-and-agentic-sdlc-branching-databases-coding-agents",
-  "https://www.databricks.com/blog/biomedical-imagings-real-bottleneck-data-not-model",
-  "https://www.databricks.com/blog/load-terabytes-data-minutes-lakebase-postgres"
+  "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
+  "https://www.databricks.com/blog/introducing-agent-memory-databricks",
+  "https://www.databricks.com/blog/how-hamlet-uses-databricks-lakebase-postgres-test-changes-against-production-data",
+  "https://www.databricks.com/blog/hp-ai-ready-cdp-databricks-customerlake",
+  "https://www.databricks.com/blog/customerlake-beta",
+  "https://www.databricks.com/blog/what-makes-catalog-open-unity-catalog-advances-open-lakehouse",
+  "https://www.databricks.com/blog/how-get-most-out-running-dbt-databricks",
+  "https://www.databricks.com/blog/databricks-doubling-down-new-york-city-premier-ai-talent-hub",
+  "https://www.databricks.com/blog/transactions-are-generally-available-advancing-warehousing-lakehouse",
+  "https://www.databricks.com/blog/closing-binary-blind-spot-domain-knowledge-injection-llm-malware-triage-npm-packages"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -1681,6 +1703,7 @@
   "https://davidwalsh.name/?p=27788"
  ],
  "Dean Hume": [
+  "https://deanhume.com/deliberate-practice-and-continuous-improvement-in-software-teams/",
   "https://deanhume.com/oauth-2-0-vs-openid-connect/",
   "https://deanhume.com/a-modern-guide-to-using-oauth-2-0-with-node-js/",
   "https://deanhume.com/how-ai-helped-me-get-my-website-to-a-perfect-lighthouse-score/",
@@ -1694,8 +1717,7 @@
   "https://deanhume.com/building-a-custom-mcp-server-with-node-js/",
   "https://deanhume.com/technical-skills-every-tpm-should-learn-in-2026/",
   "https://deanhume.com/powertoys-advanced-paste-clipboard-supercharged/",
-  "https://deanhume.com/how-i-use-powertoys-workspaces-to-switch-contexts-in-two-clicks/",
-  "https://deanhume.com/staying-technical-as-a-technical-program-manager/"
+  "https://deanhume.com/how-i-use-powertoys-workspaces-to-switch-contexts-in-two-clicks/"
  ],
  "Deliveroo": [
   "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
@@ -1870,16 +1892,16 @@
   "https://discord.com/blog/how-to-use-discords-in-game-overlay-to-talk-while-playing-on-pc"
  ],
  "Docker": [
+  "https://www.docker.com/?p=94981",
+  "https://www.docker.com/?p=94888",
+  "https://www.docker.com/?p=94820",
   "https://www.docker.com/?p=94794",
   "https://www.docker.com/?p=94390",
   "https://www.docker.com/?p=94134",
   "https://www.docker.com/?p=94091",
   "https://www.docker.com/?p=94077",
   "https://www.docker.com/?p=93924",
-  "https://www.docker.com/?p=93953",
-  "https://www.docker.com/?p=93443",
-  "https://www.docker.com/?p=93273",
-  "https://www.docker.com/?p=93401"
+  "https://www.docker.com/?p=93953"
  ],
  "Domenico Luciani": [
   "https://domenicoluciani.com/2025/11/29/getting-started-with-open-telemetry.html",
@@ -1972,6 +1994,7 @@
   "https://dropbox.tech/machine-learning/introducing-nova-our-internal-platform-for-coding-agents"
  ],
  "Ebay": [
+  "https://www.ebayinc.com/stories/news/surprising-things-we-learned-from-ebays-2026-recommerce-report/",
   "https://www.ebayinc.com/stories/news/ebay-recommerce-report-secondhand-shopping-rises-worldwide-as-consumers-seek-value-and-stretch-budgets/",
   "https://www.ebayinc.com/stories/news/how-ebay-ceo-jamie-iannone-turns-feedback-into-ideas/",
   "https://www.ebayinc.com/stories/news/how-salt-lake-city-ebayers-welcome-new-neighbors/",
@@ -2000,8 +2023,7 @@
   "https://www.ebayinc.com/stories/news/ebay-for-charity-2025-in-review/",
   "https://www.ebayinc.com/stories/news/ebay-watchlist-trend-report-illustrates-how-spring-and-summer-trends-translate-into-resale-behavior/",
   "https://www.ebayinc.com/stories/news/ebay-rejects-unsolicited-proposal-from-gamestop/",
-  "https://www.ebayinc.com/stories/news/ebay-foundation-appoints-new-board-member-to-drive-community-impact/",
-  "https://www.ebayinc.com/stories/news/ebay-confirms-receipt-of-unsolicited-proposal-from-gamestop/"
+  "https://www.ebayinc.com/stories/news/ebay-foundation-appoints-new-board-member-to-drive-community-impact/"
  ],
  "Eddie Smith": [
   "http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html",
@@ -2039,11 +2061,11 @@
   "5a846a12f911ac0018cfb96a"
  ],
  "Eli Bendersky": [
+  "tag:eli.thegreenplace.net,2026-10-17:/2026/notes-on-the-complex-roots-of-unity/",
   "tag:eli.thegreenplace.net,2026-10-07:/2026/monte-carlo-simulations/",
   "tag:eli.thegreenplace.net,2026-09-30:/2026/summary-of-reading-july-september-2026/",
   "tag:eli.thegreenplace.net,2026-09-26:/2026/rusty-thoughts-on-parse-dont-validate/",
-  "tag:eli.thegreenplace.net,2026-09-19:/2026/notes-on-discrete-time-fourier-series-and-transform/",
-  "tag:eli.thegreenplace.net,2026-08-27:/2026/how-big-are-factorials/"
+  "tag:eli.thegreenplace.net,2026-09-19:/2026/notes-on-discrete-time-fourier-series-and-transform/"
  ],
  "Eric Elliot": [
   "https://medium.com/p/30ac7a3bf49c",
@@ -2082,6 +2104,7 @@
   "https://erikrunyon.com/2021/03/higher-eds-slow-page-speed-epidemic/"
  ],
  "Erlang Solutions": [
+  "https://www.erlang-solutions.com/?p=12549",
   "https://www.erlang-solutions.com/?p=12533",
   "https://www.erlang-solutions.com/?p=12516",
   "https://www.erlang-solutions.com/?p=3734",
@@ -2090,8 +2113,7 @@
   "https://www.erlang-solutions.com/?p=12264",
   "https://www.erlang-solutions.com/?p=12206",
   "https://www.erlang-solutions.com/?p=12194",
-  "https://www.erlang-solutions.com/?p=12178",
-  "https://www.erlang-solutions.com/?p=12166"
+  "https://www.erlang-solutions.com/?p=12178"
  ],
  "Evan Hahn": [
   "https://evanhahn.com/notes-from-september-2026/",
@@ -2149,6 +2171,8 @@
   "evanmiller.org/news/go20150421"
  ],
  "Evil Martians": [
+  "https://evilmartians.com/chronicles/why-engineers-should-come-to-the-sf-ruby-conference-in-2026",
+  "https://evilmartians.com/chronicles/dont-get-burned-make-your-stripe-mrr-boring-and-correct",
   "https://evilmartians.com/chronicles/dont-bet-on-select-order-shuffle-your-rows-see-what-folds",
   "https://evilmartians.com/chronicles/sf-ruby-conference-regular-ticket-deadline",
   "https://evilmartians.com/chronicles/ai-makes-design-system-guardrails-mandatory-this-framework-delivers-them",
@@ -2157,7 +2181,6 @@
   "https://evilmartians.com/chronicles/golden-switch-or-migrating-from-gatsby-to-astro-in-under-9-days",
   "https://evilmartians.com/chronicles/why-gusto-hired-evil-martians-for-sidekiq-infrastructure",
   "https://evilmartians.com/chronicles/ten-anti-ai-slop-moves-for-frontend-projects-going-faster-than-humans-can-review",
-  "https://evilmartians.com/chronicles/why-engineers-should-come-to-the-sf-ruby-conference-in-2026",
   "https://evilmartians.com/chronicles/access-control-for-ai-on-rails-gating-sql-with-action-policy",
   "https://evilmartians.com/chronicles/get-in-human-cut-rails-boot-time-with-require-profiler-and-this-guide",
   "https://evilmartians.com/chronicles/publishing-agent-skills-discovery-index",
@@ -2167,10 +2190,10 @@
   "https://evilmartians.com/chronicles/the-secure-way-to-release-an-npm-package",
   "https://evilmartians.com/chronicles/which-ai-actually-reads-your-site-two-months-of-llm-traffic-measured",
   "https://evilmartians.com/chronicles/the-joy-of-inertia-rails-painting-your-own-with-50-happy-little-lines",
-  "https://evilmartians.com/chronicles/storybook-workbench-audit-vibe-coded-uis-and-find-hidden-bugs-in-hours",
-  "https://evilmartians.com/chronicles/ai-vs-human-illustrators-ai-plus-human-illustrators"
+  "https://evilmartians.com/chronicles/storybook-workbench-audit-vibe-coded-uis-and-find-hidden-bugs-in-hours"
  ],
  "Expedia": [
+  "https://medium.com/p/43d71bd539c7",
   "https://medium.com/p/f7555fcce506",
   "https://medium.com/p/0bb9de03237c",
   "https://medium.com/p/7fec96f052fd",
@@ -2179,30 +2202,29 @@
   "https://medium.com/p/35eace7eeec4",
   "https://medium.com/p/d6cfaaca881d",
   "https://medium.com/p/a292fbdd22ce",
-  "https://medium.com/p/60f2f96c5351",
-  "https://medium.com/p/03e3f378a190"
+  "https://medium.com/p/60f2f96c5351"
  ],
  "Facebook": [
-  "https://engineering.fb.com/?p=24625",
-  "https://engineering.fb.com/?p=24593",
-  "https://engineering.fb.com/?p=24581",
-  "https://engineering.fb.com/?p=24499",
-  "https://engineering.fb.com/?p=24447",
-  "https://engineering.fb.com/?p=24485",
-  "https://engineering.fb.com/?p=24463",
-  "https://engineering.fb.com/?p=24419",
-  "https://engineering.fb.com/?p=24399"
+  "https://engineering.fb.com/?p=24783",
+  "https://engineering.fb.com/?p=24724",
+  "https://engineering.fb.com/?p=24763",
+  "https://engineering.fb.com/?p=24709",
+  "https://engineering.fb.com/?p=24735",
+  "https://engineering.fb.com/?p=24721",
+  "https://engineering.fb.com/?p=24641",
+  "https://engineering.fb.com/?p=24657",
+  "https://engineering.fb.com/?p=24625"
  ],
  "Facebook AI Research": [
-  "https://engineering.fb.com/?p=24625",
-  "https://engineering.fb.com/?p=24593",
-  "https://engineering.fb.com/?p=24581",
-  "https://engineering.fb.com/?p=24499",
-  "https://engineering.fb.com/?p=24447",
-  "https://engineering.fb.com/?p=24485",
-  "https://engineering.fb.com/?p=24463",
-  "https://engineering.fb.com/?p=24419",
-  "https://engineering.fb.com/?p=24399"
+  "https://engineering.fb.com/?p=24783",
+  "https://engineering.fb.com/?p=24724",
+  "https://engineering.fb.com/?p=24763",
+  "https://engineering.fb.com/?p=24709",
+  "https://engineering.fb.com/?p=24735",
+  "https://engineering.fb.com/?p=24721",
+  "https://engineering.fb.com/?p=24641",
+  "https://engineering.fb.com/?p=24657",
+  "https://engineering.fb.com/?p=24625"
  ],
  "Federico Cargnelutti": [
   "http://blog.fedecarg.com/?p=2190",
@@ -2229,6 +2251,7 @@
   "https://medium.com/p/1666908113fc"
  ],
  "Filippo Valsorda": [
+  "bae3afac-15d1-47eb-ac6c-8551068b168b",
   "c4205310-974e-4ee3-8631-69262f76174d",
   "4ca8795c-d926-43c2-ad5d-7cf913edf18e",
   "934ab302-3024-430f-856d-f850cdbedbb4",
@@ -2237,8 +2260,7 @@
   "ef208827-6e2d-4fee-b876-bbbdc92c71d1",
   "78167567-16ac-421c-87ea-c8632d59cb62",
   "821d2995-cb55-4b5e-a984-1d04f17180d7",
-  "b53ef7fa-3cfc-4ade-8e44-879d21fb1242",
-  "6a08ff4c-b068-4ec1-92c1-0afeb8e02173"
+  "b53ef7fa-3cfc-4ade-8e44-879d21fb1242"
  ],
  "Findmypast": [
   "https://tech.findmypast.com/how-spanners-implement-devops/",
@@ -2353,6 +2375,8 @@
   "http://code.flickr.net/?p=3370"
  ],
  "Freek Van der Herten": [
+  "https://freek.dev/3206",
+  "https://freek.dev/3205",
   "https://freek.dev/3204",
   "https://freek.dev/3203",
   "https://freek.dev/3202",
@@ -2370,9 +2394,7 @@
   "https://freek.dev/3196",
   "https://freek.dev/3195",
   "https://freek.dev/3193",
-  "https://freek.dev/3194",
-  "https://freek.dev/3192",
-  "https://freek.dev/3191"
+  "https://freek.dev/3194"
  ],
  "Freeletics": [
   "/2021/11/16/droidcon-berlin-2021",
@@ -2414,6 +2436,8 @@
   "https://tech.gc.com/demystifying-ios-layout"
  ],
  "GitHub": [
+  "https://github.blog/?p=99529",
+  "https://github.blog/?p=99364",
   "https://github.blog/?p=99275",
   "https://github.blog/?p=99030",
   "https://github.blog/?p=99002",
@@ -2421,23 +2445,22 @@
   "https://github.blog/?p=98354",
   "https://github.blog/?p=97992",
   "https://github.blog/?p=97894",
-  "https://github.blog/?p=97648",
-  "https://github.blog/?p=97770",
-  "https://github.blog/?p=97604"
+  "https://github.blog/?p=97648"
  ],
  "GitHub Old": [
+  "https://github.blog/?p=99538",
+  "https://github.blog/?p=99556",
+  "https://github.blog/?p=99541",
+  "https://github.blog/?p=99529",
+  "https://github.blog/?p=99506",
+  "https://github.blog/?p=99364",
+  "https://github.blog/?p=99413",
+  "https://github.blog/?p=99409",
   "https://github.blog/?p=99381",
-  "https://github.blog/?p=99392",
-  "https://github.blog/?p=99310",
-  "https://github.blog/?p=99275",
-  "https://github.blog/?p=99258",
-  "https://github.blog/?p=99170",
-  "https://github.blog/?p=99192",
-  "https://github.blog/?p=99134",
-  "https://github.blog/?p=98105",
-  "https://github.blog/?p=99087"
+  "https://github.blog/?p=99392"
  ],
  "Gleb Bahmutov": [
+  "https://glebbahmutov.com/blog/cypress-test-for-optional-data/",
   "https://glebbahmutov.com/blog/cypress-cloud-test-triage-using-ai/",
   "https://glebbahmutov.com/blog/implicit-assertions-are-more-readable/",
   "https://glebbahmutov.com/blog/cant-stop-wont-stop/",
@@ -2466,10 +2489,14 @@
   "https://glebbahmutov.com/blog/source-of-truth/",
   "https://glebbahmutov.com/blog/cy-vs-pw-browser/",
   "https://glebbahmutov.com/blog/check-data-in-page-objects/",
-  "https://glebbahmutov.com/blog/diff-feature-flags-before-testing/",
-  "https://glebbahmutov.com/blog/tell-copilot-where-to-find-test-selectors/"
+  "https://glebbahmutov.com/blog/diff-feature-flags-before-testing/"
  ],
  "GoCardless": [
+  "https://gocardless.com/blog/what-gym-members-actually-want",
+  "https://gocardless.com/guides/posts/member-retention-playbook",
+  "https://gocardless.com/blog/prospr-health",
+  "https://gocardless.com/blog/how-to-set-up-gocardless-for-gyms",
+  "https://gocardless.com/blog/gym-membership-admin",
   "https://gocardless.com/blog/businesses-think-about-agentic-payments",
   "https://gocardless.com/guides/posts/rising-tides-lending",
   "https://gocardless.com/blog/uk-first-agentic-payment-trussell",
@@ -5624,6 +5651,7 @@
   "https://www.gosquared.com/blog/?p=10129"
  ],
  "Grab": [
+  "https://engineering.grab.com/grabmart-data-for-faster-disease-outbreak-detection",
   "https://engineering.grab.com/price-sensitivity-profiling-using-llm",
   "https://engineering.grab.com/powering-ai-led-research-through-simulation",
   "https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
@@ -5632,8 +5660,7 @@
   "https://engineering.grab.com/grab-bench-evaluating-ai",
   "https://engineering.grab.com/how-ai-is-transforming-analytics",
   "https://engineering.grab.com/crowdsourced-taxonomy-verification",
-  "https://engineering.grab.com/how-grab-builds-and-runs-ai-agents-at-scale",
-  "https://engineering.grab.com/our-journey-to-apache-iceberg-adoption"
+  "https://engineering.grab.com/how-grab-builds-and-runs-ai-agents-at-scale"
  ],
  "Graham King": [
   "https://darkcoding.net/software/personal-ai-evals-aug-2025/",
@@ -6014,6 +6041,7 @@
   "http://engineering.hackerearth.com/2013/03/11/hackerearth-vim-plugin"
  ],
  "Haptik": [
+  "https://www.haptik.ai/tech/voice-ai-system-for-regulated-industries",
   "https://www.haptik.ai/tech/beyond-human-in-the-loop-ai-oversight-that-scales",
   "https://www.haptik.ai/tech/security-and-privacy-ai-voice-agents",
   "https://www.haptik.ai/tech/honest-truth-about-multi-cloud",
@@ -6022,8 +6050,7 @@
   "https://www.haptik.ai/tech/migrating-terabytes-of-mongodb-across-clouds-with-minimal-disruption",
   "https://www.haptik.ai/tech/ai-agent-for-enterprise-cx",
   "https://www.haptik.ai/tech/data-tagging-labeling",
-  "https://www.haptik.ai/tech/elevating-kubernetes-autoscaling-with-istio-metrics",
-  "https://www.haptik.ai/tech/llm-challenges-hallucination-security-ethics-compliance"
+  "https://www.haptik.ai/tech/elevating-kubernetes-autoscaling-with-istio-metrics"
  ],
  "Harry's": [
   "https://medium.com/p/32339604d1de",
@@ -6050,6 +6077,7 @@
   "https://hashrocket.com/blog/posts/nativewind-speeding-up-styling-in-react-native"
  ],
  "Hayden James": [
+  "https://linuxblog.io/?p=22653",
   "https://linuxblog.io/?p=22643",
   "https://haydenjames.io/?p=6358",
   "https://linuxblog.io/?p=22621",
@@ -6068,8 +6096,7 @@
   "https://linuxblog.io/?p=21328",
   "https://linuxblog.io/?p=20694",
   "https://linuxblog.io/?p=22437",
-  "https://linuxblog.io/?p=21364",
-  "https://haydenjames.io/?p=8196"
+  "https://linuxblog.io/?p=21364"
  ],
  "Helpshift": [
   "https://medium.com/p/881d32a7ef93",
@@ -6125,6 +6152,7 @@
   "65bceaca3953980001659b4b"
  ],
  "HomeAway": [
+  "https://medium.com/p/43d71bd539c7",
   "https://medium.com/p/f7555fcce506",
   "https://medium.com/p/0bb9de03237c",
   "https://medium.com/p/7fec96f052fd",
@@ -6133,8 +6161,7 @@
   "https://medium.com/p/35eace7eeec4",
   "https://medium.com/p/d6cfaaca881d",
   "https://medium.com/p/a292fbdd22ce",
-  "https://medium.com/p/60f2f96c5351",
-  "https://medium.com/p/03e3f378a190"
+  "https://medium.com/p/60f2f96c5351"
  ],
  "Hootsuite": [
   "https://medium.com/p/399d9955c7ac",
@@ -6149,15 +6176,15 @@
   "https://medium.com/p/e08972ae873e"
  ],
  "Hostinger": [
-  "https://www.hostinger.com/blog/?p=10542",
-  "https://www.hostinger.com/blog/?p=10532",
-  "https://www.hostinger.com/blog/?p=10513",
-  "https://www.hostinger.com/blog/?p=10504",
-  "https://www.hostinger.com/blog/?p=10491",
-  "https://www.hostinger.com/blog/?p=10467",
-  "https://www.hostinger.com/blog/?p=10461",
-  "https://www.hostinger.com/blog/?p=10445",
-  "https://www.hostinger.com/blog/?p=10359"
+  "https://www.hostinger.com/blog/?p=10660",
+  "https://www.hostinger.com/blog/?p=10648",
+  "https://www.hostinger.com/blog/?p=10636",
+  "https://www.hostinger.com/blog/?p=10626",
+  "https://www.hostinger.com/blog/?p=10616",
+  "https://www.hostinger.com/blog/?p=10598",
+  "https://www.hostinger.com/blog/?p=10580",
+  "https://www.hostinger.com/blog/?p=10568",
+  "https://www.hostinger.com/blog/?p=10542"
  ],
  "Housing.com": [
   "https://medium.com/p/9ea96a1f9fbe",
@@ -6248,6 +6275,7 @@
   "https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster/"
  ],
  "IPFS": [
+  "https://blog.ipfs.tech/2026-10-new-stewards-public-network-services/",
   "https://blog.ipfs.tech/2026-08-beyond-sponsored-gateways/",
   "https://github.com/ipfs/kubo/releases/tag/v0.43.0",
   "https://github.com/ipfs/kubo/releases/tag/v0.42.0",
@@ -6273,8 +6301,7 @@
   "https://blog.ipfs.tech/2024-brave-migration-guide/",
   "https://blog.ipfs.tech/newsletter-204/",
   "https://blog.ipfs.tech/verified-fetch/",
-  "https://blog.ipfs.tech/ipfs-camp-2024-track-list/",
-  "https://blog.ipfs.tech/shipyard-hello-world/"
+  "https://blog.ipfs.tech/ipfs-camp-2024-track-list/"
  ],
  "Ian Hummel": [
   "http://themodernlife.net/scala/hadoop/hdfs/sclading/flink/streaming/realtime/emr/aws/2016/01/06/running-apache-flink-on-amazon-elastic-mapreduce/",
@@ -7542,6 +7569,7 @@
   "https://idiosyncratic-ruby.com/1-test-highlights.html"
  ],
  "Jane Street": [
+  "https://blog.janestreet.com/flex-model-an-event-driven-feature-engineering-system/",
   "https://blog.janestreet.com/config-management-orchestrator-for-windows/",
   "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
   "https://blog.janestreet.com/how-recurring-network-maintenance-exposed-6-bugs/",
@@ -7640,8 +7668,7 @@
   "https://blog.janestreet.com/hiring-an-fpga-engineer/",
   "https://blog.janestreet.com/what-the-interns-have-wrought-2017/",
   "https://blog.janestreet.com/when-bash-scripts-bite/",
-  "https://blog.janestreet.com/looking-for-a-technical-writer/",
-  "https://blog.janestreet.com/caveat-configurator-how-to-replace-configs-with-code-and-why-you-might-not-want-to/"
+  "https://blog.janestreet.com/looking-for-a-technical-writer/"
  ],
  "Jay Fields": [
   "tag:blogger.com,1999:blog-12467669.post-8327653683391142627",
@@ -8619,6 +8646,7 @@
   "https://blog.reverberate.org/2018/08/07/bloaty-1.0.html"
  ],
  "Josh Sherman": [
+  "https://joshtronic.com/2026/10/18/halloween-movies-watch-list-2026/",
   "https://joshtronic.com/2026/10/11/pros-cons-self-hosted-git/",
   "https://joshtronic.com/2026/10/04/confessions-domain-hoarder/",
   "https://joshtronic.com/2026/09/27/rediscovering-long-form-email/",
@@ -8629,8 +8657,7 @@
   "https://joshtronic.com/2026/08/23/last-saturday/",
   "https://joshtronic.com/2026/08/16/taught-robot-detect-joshes/",
   "https://joshtronic.com/2026/08/09/reverse-engineering-posthog-superday/",
-  "https://joshtronic.com/2026/08/02/observations-building-pr-review-loop/",
-  "https://joshtronic.com/2026/07/26/new-feature-games/"
+  "https://joshtronic.com/2026/08/02/observations-building-pr-review-loop/"
  ],
  "Juan Treminio": [
   "https://jtreminio.com/blog/openapi-tutorial-part-iii-paths-and-basic-request-data/",
@@ -8815,6 +8842,9 @@
   "5664c2f3e4b0957c43aa14f4:5666531469a91a17ec801e9c:651cf4540ffe8f1059b23b86"
  ],
  "Kotlin": [
+  "https://blog.jetbrains.com/?post_type=kotlin&p=746576",
+  "https://blog.jetbrains.com/?post_type=kotlin&p=745924",
+  "https://blog.jetbrains.com/?post_type=kotlin&p=746126",
   "https://blog.jetbrains.com/?post_type=kotlin&p=744876",
   "https://blog.jetbrains.com/?post_type=kotlin&p=744281",
   "https://blog.jetbrains.com/?post_type=kotlin&p=743559",
@@ -8823,10 +8853,7 @@
   "https://blog.jetbrains.com/?post_type=kotlin&p=737362",
   "https://blog.jetbrains.com/?post_type=kotlin&p=736282",
   "https://blog.jetbrains.com/?post_type=kotlin&p=734018",
-  "https://blog.jetbrains.com/?post_type=kotlin&p=732373",
-  "https://blog.jetbrains.com/?post_type=kotlin&p=731768",
-  "https://blog.jetbrains.com/?post_type=kotlin&p=731283",
-  "https://blog.jetbrains.com/?post_type=research&p=729328"
+  "https://blog.jetbrains.com/?post_type=kotlin&p=732373"
  ],
  "Kyle Kingsbury": [
   "https://aphyr.com/posts/425-more-fake-mastodon-signups",
@@ -8843,11 +8870,11 @@
   "https://aphyr.com/posts/414-the-future-of-everything-is-lies-i-guess-information-ecology"
  ],
  "Laravel": [
-  "https://laravel-news.com/puzzleparty",
-  "https://laravel-news.com/bashbox-sandboxed-bash-php",
-  "https://laravel-news.com/laravel-scheduler-multiple-servers",
-  "https://laravel-news.com/laravel-fake-assertion-property-arrays",
-  "https://laravel-news.com/laravel-13-35-0"
+  "https://laravel-news.com/laravel-token-guard-auth-bypass",
+  "https://laravel-news.com/laravel-planetscale-olap",
+  "https://laravel-news.com/laravel-validation-rule-builders",
+  "https://laravel-news.com/laravel-url-ai-transformer",
+  "https://laravel-news.com/laravel-13-36-0"
  ],
  "Larry Land": [
   "https://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html",
@@ -9140,16 +9167,16 @@
   "https://lea.verou.me/blog/2026/icons/"
  ],
  "Lerner Consulting Blog": [
+  "https://lernerpython.com/2026/10/19/pandas-date-range-selection-slicing-a-datetime-index-with-loc/",
+  "https://lernerpython.com/2026/10/17/pandas-grouper-nans-why-outlier-dates-create-empty-groups/",
+  "https://lernerpython.com/2026/10/16/pandas-grouper-group-datetime-columns-by-custom-time-periods/",
+  "https://lernerpython.com/2026/10/14/pandas-groupby-on-datetime-parts-with-the-dt-accessor/",
+  "https://lernerpython.com/2026/10/12/pandas-groupby-aggregating-multiple-columns-with-multiple-functions/",
   "https://lernerpython.com/2026/10/11/pandas-groupby-multiple-columns-and-multiple-aggregation-methods/",
   "https://lernerpython.com/2026/10/09/pandas-groupby-get-a-data-frame-instead-of-a-series/",
   "https://lernerpython.com/2026/10/07/pandas-groupby-with-two-columns-reshape-results-with-unstack/",
   "https://lernerpython.com/2026/10/06/pandas-groupby-with-sort-false-keep-groups-in-order-of-appearance/",
-  "https://lernerpython.com/2026/10/05/pandas-groupby-basics-aggregating-a-numeric-column-by-category/",
-  "https://lernerpython.com/2026/09/27/pandas-dropna-with-thresh-drop-only-rows-with-too-many-nan-values/",
-  "https://lernerpython.com/2026/09/25/pandas-dropna-the-best-way-to-remove-nan-values-from-a-series/",
-  "https://lernerpython.com/?p=17803",
-  "https://lernerpython.com/2026/09/23/pyarrow-dtypes-in-pandas-nullable-integers-with-pd-na/",
-  "https://lernerpython.com/2026/09/22/pandas-nullable-integers-keeping-ints-with-int64-and-pd-na/"
+  "https://lernerpython.com/2026/10/05/pandas-groupby-basics-aggregating-a-numeric-column-by-category/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -9543,7 +9570,6 @@
   "https://www.maptiler.com/news/2014/01/visual-georeferencing-in-maptiler-0-5-2"
  ],
  "Marcelo Rinesi": [
-  "https://blog.rinesi.com/2026/01/echelon/index.html",
   "https://blog.rinesi.com/2026/01/post-ai/index.html",
   "https://blog.rinesi.com/2026/01/affinity/index.html",
   "https://blog.rinesi.com/2026/01/final-summation/index.html",
@@ -9592,7 +9618,8 @@
   "https://blog.rinesi.com/2026/09/harry-and-the-three-witches/index.html",
   "https://blog.rinesi.com/2026/09/relative-superintelligence/index.html",
   "https://blog.rinesi.com/2026/10/nighttime-games/index.html",
-  "https://blog.rinesi.com/2026/10/graduation-night/index.html"
+  "https://blog.rinesi.com/2026/10/graduation-night/index.html",
+  "https://blog.rinesi.com/2026/10/end-times-pill/index.html"
  ],
  "Marco Pivetta": [
   "https://ocramius.github.io/blog/php-logging-with-psr-3/",
@@ -9730,6 +9757,10 @@
   "tag:blogger.com,1999:blog-3888382143307542639.post-649405965458119143"
  ],
  "Martin Fowler": [
+  "tag:martinfowler.com,2026-10-15:When-Software-Meets-Hardware",
+  "tag:martinfowler.com,2026-10-14:Build-your-slide-template",
+  "tag:martinfowler.com,2026-10-13:The-Craft-of-Practitioner-Voice",
+  "tag:martinfowler.com,2026-10-13:Are-Harnesses-Worth-the-Cost-",
   "https://martinfowler.com/fragments/2026-10-04.html",
   "tag:martinfowler.com,2026-09-30:Principles-for-effective-slides",
   "https://martinfowler.com/bliki/SensibleDefault.html",
@@ -9755,11 +9786,7 @@
   "https://martinfowler.com/fragments/2026-08-04.html",
   "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
   "tag:martinfowler.com,2026-07-30:The-Economic-Benefit-of-Refactoring",
-  "tag:martinfowler.com,2026-07-28:The-Orchestrator-s-Tax",
-  "https://martinfowler.com/rachels-ramblings/intro.html",
-  "https://martinfowler.com/fragments/2026-07-21.html",
-  "tag:martinfowler.com,2026-07-16:The-Archaeologist-s-Copilot",
-  "tag:martinfowler.com,2026-07-14:DSLs-Enable-Reliable-Use-of-LLMs"
+  "tag:martinfowler.com,2026-07-28:The-Orchestrator-s-Tax"
  ],
  "Mary Rose Cook": [
   "https://maryrosecook.com/blog/post/using-encapsulated-development-to-code-on-my-phone",
@@ -10744,16 +10771,16 @@
   "https://blog.nelhage.com/2007/02/3/"
  ],
  "Netflix": [
-  "https://medium.com/p/516d5a29b252",
-  "https://medium.com/p/67a85b15b6be",
-  "https://medium.com/p/32f96320785e",
-  "https://medium.com/p/e9f6a1b1492b",
-  "https://medium.com/p/0f3468349607",
-  "https://medium.com/p/e7607acebde8",
-  "https://medium.com/p/f20be6f643e3",
-  "https://medium.com/p/a5a8e799ea2c",
-  "https://medium.com/p/f4b792f3f0d8",
-  "https://medium.com/p/77146fba8a08"
+  "https://medium.com/p/421392cf5adf",
+  "https://medium.com/p/cf176b5860eb",
+  "https://medium.com/p/92af926b40a5",
+  "https://medium.com/p/4c26be3a4d96",
+  "https://medium.com/p/e59d597c9d60",
+  "https://medium.com/p/826ebf9ad9fb",
+  "https://medium.com/p/41ad21067649",
+  "https://medium.com/p/588816b6b5f8",
+  "https://medium.com/p/c95bd8283508",
+  "https://medium.com/p/ddf9aa68a801"
  ],
  "New York Times": [
   "https://medium.com/p/6bb2ed3f5338",
@@ -10915,6 +10942,7 @@
   "https://nikola-breznjak.com/blog/?p=4823"
  ],
  "Nordic APIs": [
+  "https://nordicapis.com/?p=24336",
   "https://nordicapis.com/?p=24242",
   "https://nordicapis.com/?p=24268",
   "https://nordicapis.com/?p=24257",
@@ -10923,8 +10951,7 @@
   "https://nordicapis.com/?p=24179",
   "https://nordicapis.com/?p=24202",
   "https://nordicapis.com/?p=24170",
-  "https://nordicapis.com/?p=24157",
-  "https://nordicapis.com/?p=24149"
+  "https://nordicapis.com/?p=24157"
  ],
  "Novoda": [
   "https://novoda.com/?p=10414",
@@ -10941,36 +10968,36 @@
   "https://novoda.com/?p=10009"
  ],
  "Nvidia": [
+  "https://blogs.nvidia.com/?p=99066",
+  "https://blogs.nvidia.com/?p=99080",
+  "https://blogs.nvidia.com/?p=99038",
+  "https://blogs.nvidia.com/?p=99053",
+  "https://blogs.nvidia.com/?p=98987",
+  "https://blogs.nvidia.com/?p=98620",
+  "https://blogs.nvidia.com/?p=98870",
+  "https://blogs.nvidia.com/?p=98912",
+  "https://blogs.nvidia.com/?p=98901",
+  "https://blogs.nvidia.com/?p=98835",
+  "https://blogs.nvidia.com/?p=98818",
+  "https://blogs.nvidia.com/?p=98768",
+  "https://blogs.nvidia.com/?p=98737",
   "https://blogs.nvidia.com/?p=98706",
   "https://blogs.nvidia.com/?p=98677",
   "https://blogs.nvidia.com/?p=98628",
   "https://blogs.nvidia.com/?p=98615",
-  "https://blogs.nvidia.com/?p=98602",
-  "https://blogs.nvidia.com/?p=98578",
-  "https://blogs.nvidia.com/?p=98570",
-  "https://blogs.nvidia.com/?p=98527",
-  "https://blogs.nvidia.com/?p=98517",
-  "https://blogs.nvidia.com/?p=98535",
-  "https://blogs.nvidia.com/?p=98499",
-  "https://blogs.nvidia.com/?p=98507",
-  "https://blogs.nvidia.com/?p=98486",
-  "https://blogs.nvidia.com/?p=98480",
-  "https://blogs.nvidia.com/?p=98468",
-  "https://blogs.nvidia.com/?p=98374",
-  "https://blogs.nvidia.com/?p=98370",
-  "https://blogs.nvidia.com/?p=98386"
+  "https://blogs.nvidia.com/?p=98602"
  ],
  "OCTO Technology": [
+  "https://blog.octo.com/llm-local-sur-ios-27--ce-qu'apple-ne-dit-pas-dans-la-doc",
+  "https://blog.octo.com/les-salles-d'agents--le-seul-endroit-ou-l'on-est-content-d'etre-contredit",
+  "https://blog.octo.com/vers-une-plateforme-de-modeles",
+  "https://blog.octo.com/trois-techniques-d'animation-utiles-pour-les-consultantes",
+  "https://blog.octo.com/jumeau-numerique-systemique--referentiel-et-data",
   "https://blog.octo.com/je-ne-code-pas-bmad-code-pour-moi-avec-ses-agents--sur-parole-ou-sur-preuves",
   "https://blog.octo.com/le-developpement-agentique-est-il-le-fossoyeur-de-la-modelisation-metier",
   "https://blog.octo.com/l'iceberg-okr",
   "https://blog.octo.com/le-developpement-agentique-est-il-le-fossoyeur-de-la-modelisation-metier-part-1",
-  "https://blog.octo.com/l'agentic-sur-le-divan-du-coach--24-questions-huit-projets",
-  "https://blog.octo.com/rex--des-agents-ia-et-des-skills-sur-huit-projets-nous-gardons-le-volant-et-le-fosse-attendra",
-  "https://blog.octo.com/ce-que-le-numerique-responsable-doit-a-l'autonomie-strategique-(et-reciproquement)",
-  "https://blog.octo.com/pmania-66-du-prompt-au-produit--votre-premier-workflow-ia-de-bout-en-bout",
-  "https://blog.octo.com/pmania-56-apprendre-a-l'ia-les-regles-de-la-maison--les-skills",
-  "https://blog.octo.com/pmania-36-ces-nouveaux-collegues-qui-n'attendent-plus-vos-ordres--comprendre-les-agents-ia"
+  "https://blog.octo.com/l'agentic-sur-le-divan-du-coach--24-questions-huit-projets"
  ],
  "OLX": [
   "https://medium.com/p/ee1519586520",
@@ -11462,6 +11489,8 @@
   "https://os.phil-opp.com/multiboot-kernel/"
  ],
  "Pinterest": [
+  "https://medium.com/p/b7e9be9d29f8",
+  "https://medium.com/p/8fcb387d899c",
   "https://medium.com/p/9652b9417626",
   "https://medium.com/p/2c8fefe68756",
   "https://medium.com/p/4c7da6e4cc8f",
@@ -11469,9 +11498,7 @@
   "https://medium.com/p/aede4e831e01",
   "https://medium.com/p/0dce6e93d0f3",
   "https://medium.com/p/866d6b567803",
-  "https://medium.com/p/ecfba7e5a426",
-  "https://medium.com/p/bd2131ab238a",
-  "https://medium.com/p/8283bb12cbe5"
+  "https://medium.com/p/ecfba7e5a426"
  ],
  "Piotr Pasich": [
   "http://piotrpasich.com/?p=2884",
@@ -11522,6 +11549,7 @@
   "https://postmarkapp.com/blog/how-to-keep-your-postmark-account-secure-best-practices-guide"
  ],
  "PubNub": [
+  "https://www.pubnub.com/blog/why-mcp-alone-isnt-enough-for-ai-assisted-real-time-development/",
   "https://www.pubnub.com/blog/the-ultimate-guide-to-fandom-engagement-in-2026/",
   "https://www.pubnub.com/blog/ai-coding-one-year-later-product-manager/",
   "https://www.pubnub.com/blog/building-real-time-features-fast-with-the-pub-nub-mcp-eric-lake/",
@@ -12912,6 +12940,9 @@
   "http://nativeguru.wordpress.com/?p=32"
  ],
  "Ray Wenderlich": [
+  "https://www.kodeco.com/ios/programs/ai-assisted-ios-development",
+  "https://www.kodeco.com/ios/paths/planning-building-features-ai/53684606-ios-feature-implementation-using-ai",
+  "https://www.kodeco.com/ios/paths/planning-building-features-ai/53684583-ai-assisted-feature-development-for-ios",
   "https://www.kodeco.com/ios/paths/ai-assisted-ios-dev/53684496-getting-started-with-ai-augmented-coding-in-ios",
   "https://www.kodeco.com/54531900-kodebits-september-2026-day-100-and-a-pause",
   "https://www.kodeco.com/52032952-kodebits-day-100-enum-cases",
@@ -12930,8 +12961,6 @@
   "https://www.kodeco.com/52032923-kodebits-day-89-enum-raw-values",
   "https://www.kodeco.com/52032921-kodebits-day-88-inout-parameter",
   "https://www.kodeco.com/52032919-kodebits-day-87-default-parameters",
-  "https://www.kodeco.com/52032917-kodebits-day-86-computed-property",
-  "https://www.kodeco.com/54081605-kodebits-august-2026-kotlin-takes-the-lead",
   "https://www.kodeco.com/ai/programs/ai-apis",
   "https://www.kodeco.com/ai/paths/python",
   "https://www.kodeco.com/ai/paths/azure-ai-services",
@@ -12946,29 +12975,29 @@
   "https://www.kodeco.com/android/programs/beginning-android",
   "https://www.kodeco.com/ios/paths/networking-concurrency-swiftui",
   "https://www.kodeco.com/ios/paths/sharing-state-management-swiftui",
-  "https://www.kodeco.com/ios/programs/beginning-ios",
   "https://www.kodeco.com/ios/paths/getting-started-swiftui",
+  "https://www.kodeco.com/ios/programs/beginning-ios",
   "https://www.kodeco.com/android/paths/concurrency-networking",
-  "https://www.kodeco.com/android/paths/learn-kotlin-language",
   "https://www.kodeco.com/android/paths/object-oriented-programming",
+  "https://www.kodeco.com/android/paths/learn-kotlin-language",
   "https://www.kodeco.com/ios/paths/foundational-tools-ios",
   "https://www.kodeco.com/android/paths/foundational-tools-android",
-  "https://www.kodeco.com/ios/programs/visionos",
   "https://www.kodeco.com/ios/paths/visionos-beyond-the-basics",
+  "https://www.kodeco.com/ios/programs/visionos",
   "https://www.kodeco.com/ios/paths/introduction-to-visionos",
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112781",
+  "https://devblogs.microsoft.com/oldnewthing/?p=112778",
+  "https://devblogs.microsoft.com/oldnewthing/?p=112776",
+  "https://devblogs.microsoft.com/oldnewthing/?p=112774",
+  "https://devblogs.microsoft.com/oldnewthing/?p=112769",
+  "https://devblogs.microsoft.com/oldnewthing/?p=112767",
   "https://devblogs.microsoft.com/oldnewthing/?p=112764",
   "https://devblogs.microsoft.com/oldnewthing/?p=112762",
   "https://devblogs.microsoft.com/oldnewthing/?p=112759",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112757",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112755",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112753",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112747",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112744",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112740",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112738"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112757"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -12988,28 +13017,32 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
-  "https://realpython.com/extract-table-from-pdf-python/",
-  "https://realpython.com/quizzes/extract-table-from-pdf-python/",
-  "https://realpython.com/python-functional-programming/",
-  "https://realpython.com/what-can-i-do-with-python/",
-  "https://realpython.com/quizzes/python-continuous-integration/",
-  "https://realpython.com/python-for-loop/",
-  "https://realpython.com/python-namespace/",
-  "https://realpython.com/quizzes/get-all-files-in-directory-python/",
-  "https://realpython.com/huggingface-transformers/",
-  "https://realpython.com/generate-images-openai/",
-  "https://realpython.com/modern-web-automation-with-python-and-selenium/",
+  "https://realpython.com/claude-code-skills/",
+  "https://realpython.com/courses/tell-your-tech-career-story/",
+  "https://realpython.com/courses/building-ai-agent-langgraph-python/",
+  "https://realpython.com/quizzes/tell-your-tech-career-story-get-noticed/",
+  "https://realpython.com/quizzes/tell-your-tech-career-story-tailored-cv/",
+  "https://realpython.com/quizzes/tell-your-tech-career-story-show-proof/",
+  "https://realpython.com/quizzes/building-ai-agent-langgraph-python/",
+  "https://realpython.com/quizzes/tell-your-tech-career-story-interviews/",
+  "https://realpython.com/quizzes/tell-your-tech-career-story-know-your-story/",
+  "https://realpython.com/claude-code-hooks/",
+  "https://realpython.com/quizzes/claude-code-hooks/",
+  "https://realpython.com/django-migrations-a-primer/",
+  "https://realpython.com/digging-deeper-into-migrations/",
+  "https://realpython.com/python-mutable-vs-immutable-types/",
+  "https://realpython.com/python-rounding/",
+  "https://realpython.com/asynchronous-tasks-with-django-and-celery/",
+  "https://realpython.com/quizzes/python-comments-guide/",
+  "https://realpython.com/instance-class-and-static-methods-demystified/",
+  "https://realpython.com/python-histograms/",
+  "https://realpython.com/django-setup/",
+  "https://realpython.com/quizzes/python-callable-instances/",
+  "https://realpython.com/podcasts/rpp/315/",
+  "https://realpython.com/quizzes/python-profiling/",
+  "https://realpython.com/courses/python-first-steps/",
   "https://realpython.com/podcasts/rpp/314/",
-  "https://realpython.com/quizzes/generate-images-openai/",
-  "https://realpython.com/quizzes/python-exercises-string-methods/",
-  "https://realpython.com/what-is-meta-muse/",
-  "https://realpython.com/junior-developers-ahead-on-ai/",
-  "https://realpython.com/quizzes/python-boto3-aws-s3/",
-  "https://realpython.com/quizzes/python-ides-code-editors-guide/",
   "https://realpython.com/courses/exploring-mvc-pattern-python/",
-  "https://realpython.com/quizzes/pandas-python-explore-dataset/",
-  "https://realpython.com/quizzes/exploring-mvc-pattern-python/",
-  "https://realpython.com/quizzes/python-http-server/",
   "https://realpython.com/podcasts/rpp/313/",
   "https://realpython.com/courses/community-videos/",
   "https://realpython.com/courses/whats-new-in-python-315/",
@@ -13021,13 +13054,9 @@
   "https://realpython.com/podcasts/rpp/310/",
   "https://realpython.com/courses/get-started-with-ollama/",
   "https://realpython.com/podcasts/rpp/309/",
-  "https://realpython.com/courses/python-print/",
   "https://realpython.com/podcasts/rpp/308/",
-  "https://realpython.com/courses/working-with-pythons-deque/",
   "https://realpython.com/podcasts/rpp/307/",
-  "https://realpython.com/courses/coding-with-opencode-ai/",
   "https://realpython.com/podcasts/rpp/306/",
-  "https://realpython.com/podcasts/rpp/305/",
   "https://realpython.com/learning-paths/fastapi/",
   "https://realpython.com/learning-paths/python-game-development/",
   "https://realpython.com/learning-paths/llm-application-development-python/",
@@ -13226,6 +13255,7 @@
   "https://medium.com/p/de5d85ea96d7"
  ],
  "Rob Allen": [
+  "https://akrabat.com/?p=7595",
   "https://akrabat.com/?p=7592",
   "https://akrabat.com/?p=7569",
   "https://akrabat.com/?p=7566",
@@ -13234,8 +13264,7 @@
   "https://akrabat.com/?p=7549",
   "https://akrabat.com/?p=7538",
   "https://akrabat.com/?p=7531",
-  "https://akrabat.com/?p=7523",
-  "https://akrabat.com/?p=7516"
+  "https://akrabat.com/?p=7523"
  ],
  "Robert C. Martin": [
   "http://blog.cleancoder.com/uncle-bob/2023/01/19/functional-classes-clojure",
@@ -13367,6 +13396,7 @@
   "tag:ruslanspivak.com,2015-03-09:/lsbaws-part1/"
  ],
  "Rust": [
+  "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
   "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
   "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
   "https://blog.rust-lang.org/2026/09/22/announcing-a-maintainer-in-residence-scott-schafer-for-the-cargo-team/",
@@ -13375,8 +13405,7 @@
   "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
   "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
   "https://blog.rust-lang.org/2026/09/01/Rustup-1.29.1/",
-  "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/",
-  "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/"
+  "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/"
  ],
  "Sam Saffron": [
   "discuss.samsaffron.com-post-16580",
@@ -14143,6 +14172,8 @@
   "https://www.serverless.com/blog/typography"
  ],
  "Shopify": [
+  "https://shopify.engineering/catalog-clustering-part-ii",
+  "https://shopify.engineering/overexposed",
   "https://shopify.engineering/shopgym",
   "https://shopify.engineering/helix",
   "https://shopify.engineering/shop-app-migration",
@@ -14577,6 +14608,63 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/nextjs-hydration-error-localstorage/",
+  "https://www.sitepoint.com/codebase-design-for-ai-agents/",
+  "https://www.sitepoint.com/nextjs-isr-transient-error-notfound/",
+  "https://www.sitepoint.com/9-browser-based-checks-that-make-design-to-development-handoffs-more-reliable/",
+  "https://www.sitepoint.com/modern-html-forms-building-accessible-secure-and-user-friendly-experiences/",
+  "https://www.sitepoint.com/designing-maintainable-css-architecture-a-practical-guide-to-scalable-stylesheets/",
+  "https://www.sitepoint.com/web-performance-optimization-practical-techniques-for-building-faster-websites/",
+  "https://www.sitepoint.com/can-ai-write-accessible-code/",
+  "https://www.sitepoint.com/ampere-pmu-profiler-microarchitecture-guide/",
+  "https://www.sitepoint.com/react-useeffect-cleanup-patterns/",
+  "https://www.sitepoint.com/llm-structured-output-json-schema/",
+  "https://www.sitepoint.com/review-ai-generated-ui-changes/",
+  "https://www.sitepoint.com/llm-proxy-setup-litellm-observability/",
+  "https://www.sitepoint.com/beyond-the-password-reset-building-recovery-experiences-that-secure-online-shopper/",
+  "https://www.sitepoint.com/astro-vs-nextjs-choose-framework/",
+  "https://www.sitepoint.com/claude-code-hooks-enforce-project-conventions/",
+  "https://www.sitepoint.com/top-accessibility-errors-in-production/",
+  "https://www.sitepoint.com/how-to-prepare-for-a-meta-engineer-interview/",
+  "https://www.sitepoint.com/how-ai-search-is-changing-property-and-local-discovery-what-developers-should-build/",
+  "https://www.sitepoint.com/modern-css-grid-build-responsive-layouts-with-less-complexity/",
+  "https://www.sitepoint.com/building-accessible-web-interfaces-with-modern-html-and-css/",
+  "https://www.sitepoint.com/modern-javascript-modules-a-practical-guide-to-writing-maintainable-code/",
+  "https://www.sitepoint.com/react-form-validation-hook-form-zod/",
+  "https://www.sitepoint.com/esm-vs-commonjs-node-migration-guide/",
+  "https://www.sitepoint.com/handling-flac-and-mp3-in-web-projects-transcoding-delivery-and-performance/",
+  "https://www.sitepoint.com/why-ai-agents-break-how-to-test-them/",
+  "https://www.sitepoint.com/why-ai-is-making-revenue-growth-harder-not-easier-for-average-it-companies/",
+  "https://www.sitepoint.com/how-to-evaluate-an-outsourced-development-team-before-you-hire/",
+  "https://www.sitepoint.com/responsive-typography-with-modern-css-create-readable-interfaces-without-excessive-media-queries/",
+  "https://www.sitepoint.com/javascript-performance-optimization-practical-techniques-for-faster-web-applications/",
+  "https://www.sitepoint.com/ai-generated-documentation-human-readable/",
+  "https://www.sitepoint.com/vibe-coded-app-security-audit-playbook/",
+  "https://www.sitepoint.com/dark-mode-css-variables-light-dark/",
+  "https://www.sitepoint.com/nextjs-caching-revalidate-not-working/",
+  "https://www.sitepoint.com/typescript-discriminated-unions-exhaustive-checking/",
+  "https://www.sitepoint.com/optimizing-core-web-vitals-real-fixes-for-slow-inp/",
+  "https://www.sitepoint.com/css-container-queries-build-reusable-components-that-adapt-to-their-layout/",
+  "https://www.sitepoint.com/html-semantics-in-practice-building-more-accessible-and-maintainable-web-pages/",
+  "https://www.sitepoint.com/progressive-enhancement-building-websites-that-work-before-javascript-loads/",
+  "https://www.sitepoint.com/generate-visual-concepts-for-imaginary-festivals/",
+  "https://www.sitepoint.com/how-to-optimize-web-fonts-woff2-subsetting-and-loading-without-layout-shift/",
+  "https://www.sitepoint.com/test-real-mobile-behavior-actual-devices/",
+  "https://www.sitepoint.com/your-javascript-character-counter-is-probably-wrong-unicode-explained/",
+  "https://www.sitepoint.com/building-a-reliable-after-hours-call-routing-workflow-with-typescript/",
+  "https://www.sitepoint.com/how-to-move-a-site-off-cpanel-to-another-control-panel-without-downtime/",
+  "https://www.sitepoint.com/a-practical-guide-to-testing-javascript-functions-without-overcomplicating-your-workflow/",
+  "https://www.sitepoint.com/building-accessible-navigation-menus-with-modern-html-css-and-javascript/",
+  "https://www.sitepoint.com/beyond-faster-load-times-practical-web-performance-optimization-for-modern-applications/",
+  "https://www.sitepoint.com/best-hr-payroll-software-smbs/",
+  "https://www.sitepoint.com/tanstack-query-vs-swr-nextjs-app-router/",
+  "https://www.sitepoint.com/count-unique-visitors-without-cookies-tutorial/",
+  "https://www.sitepoint.com/node-js-jwks-endpoint-crypto/",
+  "https://www.sitepoint.com/7-responsive-design-checks-every-service-website-needs-before-launch/",
+  "https://www.sitepoint.com/modern-css-layouts-building-responsive-websites-without-unnecessary-complexity/",
+  "https://www.sitepoint.com/writing-maintainable-javascript-practical-patterns-for-scalable-web-applications/",
+  "https://www.sitepoint.com/building-better-web-forms-practical-html-css-and-javascript-techniques-for-modern-websites/",
+  "https://www.sitepoint.com/ampere-system-profiler/",
   "https://www.sitepoint.com/reverse-engineering-with-ai-rea-electron-tracing/",
   "https://www.sitepoint.com/designing-a-safer-account-recovery-backend-for-consumer-apps/",
   "https://www.sitepoint.com/beyond-the-password-reset-building-recovery-experiences-that-protect-online-shoppers/",
@@ -14599,7 +14687,6 @@
   "https://www.sitepoint.com/express-react-refresh-token-cookie-diagnosis/",
   "https://www.sitepoint.com/review-ai-generated-pull-requests/",
   "https://www.sitepoint.com/how-to-humanize-ai-written-technical-documentation/",
-  "https://www.sitepoint.com/designing-apps-for-ai-agent-phones-6-checks-developers-should-make-before-granting-access/",
   "https://www.sitepoint.com/what-is-a-managed-soc-service-and-who-needs-it/",
   "https://www.sitepoint.com/best-soc-2-software/",
   "https://www.sitepoint.com/managed-soc-services-explained-what-developers-should-know-before-buying/",
@@ -14620,63 +14707,7 @@
   "https://www.sitepoint.com/beyond-the-serial-monitor-micro-soldering-skills-for-developers-building-iot-prototypes/",
   "https://www.sitepoint.com/8-ways-to-turn-a-marketing-brief-into-a-testable-website/",
   "https://www.sitepoint.com/how-to-build-smarter-marketplace-search-with-vanilla-javascript/",
-  "https://www.sitepoint.com/7-features-every-creator-marketplace-should-build-before-launch/",
-  "https://www.sitepoint.com/nextjs-chunk-load-error-diagnosis-playbook/",
-  "https://www.sitepoint.com/node-26-debounce-throttle-guide/",
-  "https://www.sitepoint.com/pi-1-0-coding-agent-setup-mcp/",
-  "https://www.sitepoint.com/detect-breaking-api-changes-typescript-openapi/",
-  "https://www.sitepoint.com/building-lead-capture-forms-that-convert-a-developer-s-guide/",
-  "https://www.sitepoint.com/wordpress-accessibility-issues-that-are-getting-sites-sued-in-2026/",
-  "https://www.sitepoint.com/how-to-build-a-backlink-monitoring-dashboard-with-node-js/",
-  "https://www.sitepoint.com/cryptography-essentials-for-node-js-developers-hashing-encryption-and-signing-done-right/",
-  "https://www.sitepoint.com/javascript-fetch-error-handling-typescript-wrapper/",
-  "https://www.sitepoint.com/node-20-github-actions-deprecation-migration-guide/",
-  "https://www.sitepoint.com/oracle-cloud-application-services-for-developers/",
-  "https://www.sitepoint.com/sqlite-change-column-type-without-losing-data/",
-  "https://www.sitepoint.com/writing-native-gpu-kernels-in-rust-with-the-cuda-rust-toolchain/",
-  "https://www.sitepoint.com/how-to-implement-scoped-patient-consent-in-a-fhir-api/",
-  "https://www.sitepoint.com/7-tools-for-maintaining-saas-infrastructure-with-a-small-it-team/",
-  "https://www.sitepoint.com/webrtc-data-channels-vs-websockets-for-browser-games/",
-  "https://www.sitepoint.com/gpt-6-1-sol-developers-pricing-quickstart/",
-  "https://www.sitepoint.com/cloudflare-sandbox-sdk-1-0-durable-objects/",
-  "https://www.sitepoint.com/ag-ui-1-0-stable-spec-agent-user-interaction/",
-  "https://www.sitepoint.com/how-to-build-a-campaign-attribution-tracking-system/",
-  "https://www.sitepoint.com/how-to-build-an-openrtb-bid-request-handler-a-developer-s-guide-to-programmatic-advertising/",
-  "https://www.sitepoint.com/building-a-local-voice-controlled-hardware-system-with-python-and-termux/",
-  "https://www.sitepoint.com/architecture-drift-how-ai-generated-code-quietly-rewrites-your-system-s-design/",
-  "https://www.sitepoint.com/gemini-interactions-api-typescript-thinking-router/",
-  "https://www.sitepoint.com/streamlining-ev-customer-support-using-ai-bots/",
-  "https://www.sitepoint.com/building-llm-primitives-from-scratch-typescript/",
-  "https://www.sitepoint.com/custom-go-vanity-import-proxy-caddy-nginx/",
-  "https://www.sitepoint.com/building-smarter-email-workflows-with-ai-apis-and-automation/",
-  "https://www.sitepoint.com/from-live-event-to-evergreen-content-building-a-web-workflow-that-keeps-working-after-the-stream-ends/",
-  "https://www.sitepoint.com/designing-interactive-live-video-experiences-for-the-web-architecture-ux-and-monetization/",
-  "https://www.sitepoint.com/mcp-vs-skills-what-java-developers-actually-need-to-know/",
-  "https://www.sitepoint.com/7-security-checks-every-javascript-file-upload-needs/",
-  "https://www.sitepoint.com/technical-blogging-for-developers-how-to-build-an-audience-that-actually-compounds/",
-  "https://www.sitepoint.com/from-solo-developer-to-global-app-ecosystem-the-story-behind-multitool-pro-and-beyond/",
-  "https://www.sitepoint.com/automating-devsecops-static-analysis-with-github-actions-and-agent-skills/",
-  "https://www.sitepoint.com/node-js-multi-agent-task-supervision-heartbeats/",
-  "https://www.sitepoint.com/multi-tier-ai-agent-memory-typescript-sqlite-vec/",
-  "https://www.sitepoint.com/gemini-3-8-flash-reasoning-effort-balancing-latency-and-costs-in-typescript/",
-  "https://www.sitepoint.com/designing-a-production-ready-agent-harness-with-persistence-and-checkpointing/",
-  "https://www.sitepoint.com/how-to-build-and-deploy-a-production-ready-node-js-api-on-cloud-run/",
-  "https://www.sitepoint.com/how-to-build-a-postgresql-to-llm-analytics-pipeline-with-node-js/",
-  "https://www.sitepoint.com/building-monetized-live-streaming-experiences-a-developer-s-guide-to-interactive-web-video/",
-  "https://www.sitepoint.com/embedded-graphs-nodejs-kuzu-sqlite-recursive-ctes/",
-  "https://www.sitepoint.com/build-deterministic-llm-eval-suites-vitest-zod/",
-  "https://www.sitepoint.com/isolate-untrusted-code-rootless-docker-gvisor/",
-  "https://www.sitepoint.com/cost-aware-llm-router-nodejs-claude-opus-5-5-gpt-6-sol/",
-  "https://www.sitepoint.com/how-developers-can-protect-remote-workflows-from-email-scams-and-network-threats/",
-  "https://www.sitepoint.com/a-practical-guide-to-smarter-web-development-performance-and-hosting/",
-  "https://www.sitepoint.com/10-useful-tools-and-web-hosting-tricks-every-developer-should-know/",
-  "https://www.sitepoint.com/optimize-gemini-3-8-flash-coding-agents-thinking-levels/",
-  "https://www.sitepoint.com/asgi-microservices-on-cloudflare-python-workers/",
-  "https://www.sitepoint.com/optimize-github-actions-agent-prs-test-slicing/",
-  "https://www.sitepoint.com/migrate-to-git-3-0-sha-256-and-reftables/",
-  "https://www.sitepoint.com/how-to-prevent-stale-api-responses-with-abortcontroller/",
-  "https://www.sitepoint.com/safeline-waf-deployment-tutorial/",
-  "https://www.sitepoint.com/juicebox-vs-seekout-comparison/"
+  "https://www.sitepoint.com/7-features-every-creator-marketplace-should-build-before-launch/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -14833,8 +14864,8 @@
   "https://developers.soundcloud.com/blog//roshi-a-crdt-system-for-timestamped-events",
   "https://developers.soundcloud.com/blog//introducing-javascript-sdk-version-2",
   "https://developers.soundcloud.com/blog//buzzwords-contest",
-  "https://developers.soundcloud.com/blog//new-developer-site",
   "https://developers.soundcloud.com/blog//heartbleed",
+  "https://developers.soundcloud.com/blog//new-developer-site",
   "https://developers.soundcloud.com/blog//sponsoring-cocoapods",
   "https://developers.soundcloud.com/blog//smooth-image-loading-by-upscaling",
   "https://developers.soundcloud.com/blog//hassle-free-concurrency-in-android-using-rxjava",
@@ -14851,8 +14882,8 @@
   "https://developers.soundcloud.com/blog//coding-for-good",
   "https://developers.soundcloud.com/blog//story-hack-recap",
   "https://developers.soundcloud.com/blog//the-next-app-gallery-update",
-  "https://developers.soundcloud.com/blog//evolution-of-soundclouds-architecture",
   "https://developers.soundcloud.com/blog//how-to-make-a-soundcloud-powered-toy",
+  "https://developers.soundcloud.com/blog//evolution-of-soundclouds-architecture",
   "https://developers.soundcloud.com/blog//shoot-yourself-in-the-foot-with-iptables-and-kmod-auto-loading",
   "https://developers.soundcloud.com/blog//introducing-the-cloudseeder-devkit",
   "https://developers.soundcloud.com/blog//go-at-soundcloud",
@@ -14902,8 +14933,8 @@
   "https://developers.soundcloud.com/blog//mysql-stats-old-faithful",
   "https://developers.soundcloud.com/blog//hack-ideas",
   "https://developers.soundcloud.com/blog//java-api-wrapper",
-  "https://developers.soundcloud.com/blog//experiment-02-destroying-soundcloud-instagram",
   "https://developers.soundcloud.com/blog//post-mortem-on-api-outage-may-5th-2011",
+  "https://developers.soundcloud.com/blog//experiment-02-destroying-soundcloud-instagram",
   "https://developers.soundcloud.com/blog//introducing-the-large-hadron-migrator-3",
   "https://developers.soundcloud.com/blog//marbleo.us",
   "https://developers.soundcloud.com/blog//web-scale-statistics-failing-with-mongodb",
@@ -14921,11 +14952,11 @@
   "https://developers.soundcloud.com/blog//lets-go-backstage-welcome-to-the-soundcloud-development-blog"
  ],
  "Spotify": [
+  "https://engineering.atspotify.com/?p=237nFrtnxxwGVhert3vmha",
   "https://engineering.atspotify.com/?p=3ak5D3CnpWDbDfHK66OFCF",
   "https://engineering.atspotify.com/?p=3PqIQGV6v5xB9DK6ql80CA",
   "https://engineering.atspotify.com/?p=4ode0KMR0ZNP2v8r180XjX",
-  "https://engineering.atspotify.com/?p=4Q95CxFeg0bPD9rsoBjQuk",
-  "https://engineering.atspotify.com/?p=ln7E2AsSaOEViz9VzHqlL"
+  "https://engineering.atspotify.com/?p=4Q95CxFeg0bPD9rsoBjQuk"
  ],
  "Squarespace": [
   "56ab961ecbced617ccd2461e:56aba24fc6fc08c6cb69a290:6a569e503f15261de7255ce9",
@@ -14994,10 +15025,17 @@
   "2126"
  ],
  "Stack Overflow": [
+  "01b89c63-ea19-458a-9f1e-ea171c54e441",
+  "f13e8883-6d06-432d-9f93-10ae8b0fd048",
+  "79fd2f91-286a-43e4-a32b-1898dcc57eb5",
+  "8a557f3b-f430-4aa8-9417-3ccae2c581ed",
+  "f9482176-a574-4c5e-858c-e38018f2891d",
+  "6f51dd12-6bbb-44da-b831-d5d4eafe9de0",
+  "c077fd51-c06a-4456-882b-25580ea3f1b2",
+  "2ebc4597-984e-45d4-9b81-cb2a0046cdb8",
   "f22d7111-f9e2-4469-89e9-cbe110bb74be",
   "870dcae3-41b2-4900-aa96-bf1a15691828",
   "65868662-3b7d-4a63-9fa9-e699c48529fc",
-  "f13e8883-6d06-432d-9f93-10ae8b0fd048",
   "004e0789-dc2d-496b-a8af-b6e6aefde5f7",
   "358fa8ac-2467-4ef4-893c-dad3490046df",
   "4ae1a4e4-cb6e-4110-b6f3-50b8afa09f49",
@@ -15006,6 +15044,7 @@
   "39f2fc9f-742a-4273-a4d1-abdecd14fcf8",
   "7fdf107e-3649-4a6b-98c4-89788838cfbf",
   "f2b2b7a0-c8e2-4387-8a7d-439b28bab359",
+  "7c6d74d4-528a-482a-ab39-db594725c788",
   "8e6c3a8a-3d27-44c8-be90-0b74d1090a4a",
   "b1af6214-1a59-4309-8484-920746d31d04",
   "f7b6d808-33ec-4a2d-bf20-66847f8d6bc7",
@@ -15025,17 +15064,10 @@
   "49701d09-d32d-461c-8af8-b951380c0b3d",
   "655a3604-d47b-43f0-bfa4-980faa3f32df",
   "476c86b2-8996-40d1-a74e-08bfeb84c426",
-  "ad4420d5-b6ac-442a-9775-8f814044fcdb",
-  "2847bd65-57e7-4f74-b877-ebb3a529be2b",
-  "12c6a8a7-135f-401f-ac1a-1c26c33e69c0",
-  "3cdaadb7-f96a-4ddc-a8fd-e8b24f12bd99",
-  "600ab925-24bd-4cc6-a9b1-ec4fa27c628f",
-  "9e01c114-83be-4b7a-a527-762a63b29734",
-  "a676391e-e7b4-44e7-b05f-9ca5872e3adb",
-  "9abac319-a90e-4650-8f5d-849f29725e6a",
-  "d6558158-95fa-4a20-bd6d-53dd86eb876e"
+  "ad4420d5-b6ac-442a-9775-8f814044fcdb"
  ],
  "Stanko Tadi\u0107": [
+  "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
   "https://muffinman.io/blog/gameboy-pixel-art-jam-2026-spacedeck-trio/",
   "https://muffinman.io/blog/spacedeck-x-july-devlog/",
   "https://muffinman.io/blog/spacedeck-x-on-arcade-cabinet/",
@@ -15337,30 +15369,31 @@
   "https://medium.com/p/9e47a6c8743b"
  ],
  "Stripe": [
+  "https://stripe.com/blog/saas-platform-trends-in-AI-era",
+  "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
+  "https://stripe.com/blog/real-time-stripe-data-postgres",
+  "https://stripe.com/blog/economics-of-ai-monetization",
   "https://stripe.com/blog/where-pricing-is-headed",
   "https://stripe.com/blog/ousd-now-live-on-stripe",
   "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link",
   "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum",
   "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",
-  "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe",
-  "https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse",
-  "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups",
-  "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders",
-  "https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts"
+  "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe"
  ],
  "SurveyMonkey": [
+  "https://www.surveymonkey.com/curiosity/hris-integrations-workday-bamboohr/",
+  "https://www.surveymonkey.com/curiosity/surveymonkey-trends-2027-report-interest/",
+  "https://www.surveymonkey.com/curiosity/surveymonkey-research-ai-sentiment-study/",
+  "https://www.surveymonkey.com/curiosity/surveymonkey-research-customer-feedback-ca/",
   "https://www.surveymonkey.com/curiosity/diy-research-how-to-get-expert-level-human-insights/",
   "https://www.surveymonkey.com/curiosity/2025-social-impact-report/",
   "https://www.surveymonkey.com/curiosity/cnbc-money-survey-affordability-october-2026/",
   "https://www.surveymonkey.com/curiosity/ask-the-market-mental-health-ai/",
   "https://www.surveymonkey.com/curiosity/hubspot-unbound-market-research-engine/",
-  "https://www.surveymonkey.com/curiosity/cnbc-social-skills-pulse-survey/",
-  "https://www.surveymonkey.com/curiosity/accessible-brand-indentity-refresh/",
-  "https://www.surveymonkey.com/curiosity/eric-johnson-caroline-fairchild/",
-  "https://www.surveymonkey.com/curiosity/todays-surveymonkey-ai-product-evolution/",
-  "https://www.surveymonkey.com/curiosity/todays-surveymonkey-ai-powered-surveys/"
+  "https://www.surveymonkey.com/curiosity/cnbc-social-skills-pulse-survey/"
  ],
  "Swizec Teller": [
+  "https://swizec.com/blog/no-more-tech-debt",
   "https://swizec.com/blog/when-code-is-cheap-judgement-becomes-the-job",
   "https://swizec.com/blog/why-im-excited-about-jev-like-classifiers",
   "https://swizec.com/blog/we-now-auto-approve-and-merge-15p-of-prs",
@@ -15409,10 +15442,10 @@
   "https://swizec.com/blog/a-better-way-to-end-to-end-test-your-webapp",
   "https://swizec.com/blog/2025-year-in-review",
   "https://swizec.com/blog/are-you-playing-games-you-want-to-win",
-  "https://swizec.com/blog/how-good-engineering-unlocks-fast-scaling",
-  "https://swizec.com/blog/scaling-fast-my-new-book-on-software-engineering-through-the-hockeystick"
+  "https://swizec.com/blog/how-good-engineering-unlocks-fast-scaling"
  ],
  "T.J. Maher": [
+  "tag:blogger.com,1999:blog-3868566217808655382.post-315234326844963803",
   "tag:blogger.com,1999:blog-3868566217808655382.post-986168341377286699",
   "tag:blogger.com,1999:blog-3868566217808655382.post-3122418513425200845",
   "tag:blogger.com,1999:blog-3868566217808655382.post-6776234533185485912",
@@ -15436,8 +15469,7 @@
   "tag:blogger.com,1999:blog-3868566217808655382.post-4950204584584763411",
   "tag:blogger.com,1999:blog-3868566217808655382.post-5483053217235577220",
   "tag:blogger.com,1999:blog-3868566217808655382.post-7532288977203917251",
-  "tag:blogger.com,1999:blog-3868566217808655382.post-4949536437573943228",
-  "tag:blogger.com,1999:blog-3868566217808655382.post-3771241641970308362"
+  "tag:blogger.com,1999:blog-3868566217808655382.post-4949536437573943228"
  ],
  "Tania Rascia": [
   "https://www.taniarascia.com/apache-echarts-react/",
@@ -15526,6 +15558,12 @@
   "https://www.thecodedself.com/A-Caution-On-Superfluous-Code/"
  ],
  "The Daily WTF": [
+  "https://thedailywtf.com/articles/the-outage",
+  "https://thedailywtf.com/articles/a-vat-of-terrible-experiences",
+  "https://thedailywtf.com/articles/scrollpocalypse",
+  "https://thedailywtf.com/articles/the-frist-line-of-defense",
+  "https://thedailywtf.com/articles/a-diamond-in-the-rough",
+  "https://thedailywtf.com/articles/digital-mail",
   "https://thedailywtf.com/articles/a-type-of-type-safety",
   "https://thedailywtf.com/articles/fast-quick",
   "https://thedailywtf.com/articles/racing-trains",
@@ -15534,13 +15572,7 @@
   "https://thedailywtf.com/articles/the-date-and-time-and-time",
   "https://thedailywtf.com/articles/12345",
   "https://thedailywtf.com/articles/very-valid-tokens",
-  "https://thedailywtf.com/articles/quite-a-distance-from-the-right-solution",
-  "https://thedailywtf.com/articles/unique-testing",
-  "https://thedailywtf.com/articles/it-s-all-part-2-of-the-process",
-  "https://thedailywtf.com/articles/said-different",
-  "https://thedailywtf.com/articles/historical-pads",
-  "https://thedailywtf.com/articles/it-s-all-part-1-of-the-process",
-  "https://thedailywtf.com/articles/the-john-cage-variable"
+  "https://thedailywtf.com/articles/quite-a-distance-from-the-right-solution"
  ],
  "Thomas Young": [
   "https://upcoder.com/22/the-alignment-trap-ai-safety-as-path-to-power",
@@ -15550,7 +15582,8 @@
   "https://upcoder.com/18/static-libs-do-not-modular-make"
  ],
  "Thoughtbot": [
-  "https://thoughtbot.com/blog/what-causes-ai-fatigue-for-engineers-and-how-to-ease-the-strain"
+  "https://thoughtbot.com/blog/design-systems-in-an-ai-era",
+  "https://thoughtbot.com/blog/a-pragmatic-guide-to-ai-assisted-development"
  ],
  "Thumbtack": [
   "https://medium.com/p/7a381b47c640",
@@ -15577,7 +15610,7 @@
   "http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs"
  ],
  "Timescale": [
-  "https://www.tigerdata.com/blog/measuring-how-fast-iiot-queries-degrading"
+  "https://www.tigerdata.com/blog/introducing-searchgres-js-composable-search-postgresql"
  ],
  "Tinder": [
   "https://medium.com/p/48dcf01a6066",
@@ -15644,6 +15677,7 @@
   "claude-vs-chatgpt"
  ],
  "Transferwise": [
+  "https://medium.com/p/80f5e505d710",
   "https://medium.com/p/4eff3f015553",
   "https://medium.com/p/d0e63fe718c7",
   "https://medium.com/p/515c3de87b74",
@@ -15652,10 +15686,10 @@
   "https://medium.com/p/d369bb04689e",
   "https://medium.com/p/2765e9373b61",
   "https://medium.com/p/757e0e6d32e4",
-  "https://medium.com/p/39a6faf41f96",
-  "https://medium.com/p/a6ac089a382f"
+  "https://medium.com/p/39a6faf41f96"
  ],
  "Trivago": [
+  "https://tech.trivago.com/post/2026-10-16-im-sorry-have-we-met--frictionless-memory-for-ai/",
   "https://tech.trivago.com/post/2026-10-02-from-tools-to-teammates-how-ai-empowered-our-ux-team-to-level-up/",
   "https://tech.trivago.com/post/2026-08-12-agents-randomness-and-receipts-notes-from-trivagos-qa-meetup/",
   "https://tech.trivago.com/post/2026-06-30-frictionless-a-recap-of-trivago-tech-get-together-2026/",
@@ -15851,6 +15885,16 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/developers/tutorials/detect-sim-swaps-rust-twilio-lookup-api",
+  "https://www.twilio.com/en-us/blog/insights/what-is-an-email-blast",
+  "https://www.twilio.com/en-us/blog/insights/best-email-fonts",
+  "https://www.twilio.com/en-us/blog/insights/modernize-cx-without-rip-and-replace",
+  "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live-voice-ai-agent-typescript",
+  "https://www.twilio.com/en-us/blog/products/launches/video-media-sdk-public-beta-launch",
+  "https://www.twilio.com/en-us/blog/insights/agentic-identity",
+  "https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms-pumping-risk-score-rust",
+  "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week",
+  "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga",
   "https://www.twilio.com/en-us/blog/partners/integrations/voice-sms-whatsapp-salesforce",
   "https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve",
   "https://www.twilio.com/en-us/blog/events/webinar-master-automated-journeys",
@@ -15870,17 +15914,7 @@
   "https://www.twilio.com/en-us/blog/insights/improve-ai-satisfaction",
   "https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-intelligence-csharp",
   "https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-intelligence-php",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-php",
-  "https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-AI-voice-agents",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio",
-  "https://www.twilio.com/en-us/blog/insights/Scaling-Beyond-Borders--The-2026-Communication-Blueprint-for-Chinese-Brands",
-  "https://www.twilio.com/en-us/blog/insights/Best-AI-Contact-Center-Solutions-in-the-Philippines",
-  "https://www.twilio.com/en-us/blog/insights/Best-AI-Contact-Center-Solutions-in-the-Philippines1",
-  "https://www.twilio.com/en-us/blog/insights/Best-AI-Contact-Center-Solutions-in-Australia",
-  "https://www.twilio.com/en-us/blog/insights/AI-Powered-Agents-for-Contact-Centers-in-Philippines",
-  "https://www.twilio.com/en-us/blog/insights/AI-Powered-Agents-for-Contact-Centers-Australia",
-  "https://www.twilio.com/en-us/blog/insights/AI-Powered-Agents-for-Contact-Centers-in-India",
-  "https://www.twilio.com/en-us/blog/insights/lost-context-between-channels"
+  "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-php"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
