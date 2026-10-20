@@ -560,7 +560,6 @@
   "https://www.andrewcbancroft.com/portfolio/"
  ],
  "Android": [
-  "tag:developer.android.com,2026-10-20:/blog/posts/remote-compose-gaming-widgets",
   "tag:developer.android.com,2026-10-19:/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time",
   "tag:developer.android.com,2026-10-13:/blog/posts/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli",
   "tag:developer.android.com,2026-10-13:/blog/posts/google-play-discovery-engagement-growth",
@@ -579,7 +578,8 @@
   "tag:developer.android.com,2026-08-27:/blog/posts/how-whats-app-upgraded-to-secure-seamless-sign-in-for-1-billion-users-with-passkeys",
   "tag:developer.android.com,2026-08-26:/blog/posts/elevating-app-quality-reducing-memory-usage-and-improving-device-migration",
   "tag:developer.android.com,2026-08-25:/blog/posts/ensuring-safety-in-the-generative-ai-ecosystem-protecting-users-from-non-consensual-intimate-content",
-  "tag:developer.android.com,2026-08-24:/blog/posts/aaos-sdv-secure-by-design"
+  "tag:developer.android.com,2026-08-24:/blog/posts/aaos-sdv-secure-by-design",
+  "tag:developer.android.com,2026-08-19:/blog/posts/preparing-your-app-for-broader-memory-limits"
  ],
  "Antirez": [
   "http://antirez.com/news/172",
@@ -761,8 +761,8 @@
   "https://spin.atomicobject.com/?p=3675774"
  ],
  "Auth0": [
-  "https://auth0.com/blog/securing-ai-agents-with-auth0-cimd-token-exchange/",
   "https://auth0.com/blog/what-is-id-jag/",
+  "https://auth0.com/blog/securing-ai-agents-with-auth0-cimd-token-exchange/",
   "https://auth0.com/blog/securing-the-front-door-of-agentic-commerce/",
   "https://auth0.com/blog/on-behalf-of-is-a-pattern-token-exchange-is-the-standard/",
   "https://auth0.com/blog/agentic-development-time-to-shift-focus/",
@@ -1401,6 +1401,7 @@
   "https://engineering.clever.com/?p=154"
  ],
  "Cloudflare": [
+  "01M5DK5J81T0VC8YTBR2FKD8A3",
   "01M5C833HV3W30PBZZYVMCVRR6",
   "01M58NMKW6A1DQJNZXH37VZ9JH",
   "01M5AKCKW0449M3Q6FW10XB4K3",
@@ -1419,8 +1420,7 @@
   "01M4EHZFCN5RWBFJJ8WEERWAYZ",
   "01M4ATYPWQETFZA4EZJ5AJYSFT",
   "01M49SJF5QT2EPN5CTQ3C99EZW",
-  "01M490D3EE2TBV2NFMN6FXMMQ8",
-  "01M45M6M9H2C1A45G0S8EC3KW9"
+  "01M490D3EE2TBV2NFMN6FXMMQ8"
  ],
  "Confluent": [
   "https://www.confluent.io/blog/confluent-strengthens-trust-for-singapores-markets-with-ospar-attestation/",
@@ -8869,6 +8869,23 @@
   "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
   "https://aphyr.com/posts/414-the-future-of-everything-is-lies-i-guess-information-ecology"
  ],
+ "Lambda the Ultimate": [
+  "http://lambda-the-ultimate.org/node/5666",
+  "http://lambda-the-ultimate.org/node/5663",
+  "http://lambda-the-ultimate.org/node/5662",
+  "http://lambda-the-ultimate.org/node/5654",
+  "http://lambda-the-ultimate.org/node/5648",
+  "http://lambda-the-ultimate.org/node/5640",
+  "http://lambda-the-ultimate.org/introducing-google-path-query",
+  "http://lambda-the-ultimate.org/google-announces-logica",
+  "http://lambda-the-ultimate.org/node/5629",
+  "http://lambda-the-ultimate.org/node/5621",
+  "http://lambda-the-ultimate.org/google-brain-jax",
+  "http://lambda-the-ultimate.org/node/5605",
+  "http://lambda-the-ultimate.org/node/5603",
+  "http://lambda-the-ultimate.org/node/5597",
+  "http://lambda-the-ultimate.org/ltu-blockchain-plt-thinktank"
+ ],
  "Laravel": [
   "https://laravel-news.com/laravel-token-guard-auth-bypass",
   "https://laravel-news.com/laravel-planetscale-olap",
@@ -13253,6 +13270,18 @@
   "https://medium.com/p/1f41ee6ceaf4",
   "https://medium.com/p/f0010d140d3a",
   "https://medium.com/p/de5d85ea96d7"
+ ],
+ "RisingStack": [
+  "https://blog.risingstack.com/?p=4679",
+  "https://blog.risingstack.com/?p=4655",
+  "https://blog.risingstack.com/?p=4652",
+  "https://blog.risingstack.com/?p=4648",
+  "https://blog.risingstack.com/?p=4641",
+  "https://blog.risingstack.com/?p=4628",
+  "https://blog.risingstack.com/?p=4618",
+  "https://blog.risingstack.com/?p=4588",
+  "https://blog.risingstack.com/?p=4578",
+  "https://blog.risingstack.com/?p=4572"
  ],
  "Rob Allen": [
   "https://akrabat.com/?p=7595",
