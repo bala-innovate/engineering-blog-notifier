@@ -5651,6 +5651,7 @@
   "https://www.gosquared.com/blog/?p=10129"
  ],
  "Grab": [
+  "https://engineering.grab.com/app-stability-at-scale-with-a-layered-defense",
   "https://engineering.grab.com/grabmart-data-for-faster-disease-outbreak-detection",
   "https://engineering.grab.com/price-sensitivity-profiling-using-llm",
   "https://engineering.grab.com/powering-ai-led-research-through-simulation",
@@ -5659,8 +5660,7 @@
   "https://engineering.grab.com/jarvis-pro-route-firsr-answer-later",
   "https://engineering.grab.com/grab-bench-evaluating-ai",
   "https://engineering.grab.com/how-ai-is-transforming-analytics",
-  "https://engineering.grab.com/crowdsourced-taxonomy-verification",
-  "https://engineering.grab.com/how-grab-builds-and-runs-ai-agents-at-scale"
+  "https://engineering.grab.com/crowdsourced-taxonomy-verification"
  ],
  "Graham King": [
   "https://darkcoding.net/software/personal-ai-evals-aug-2025/",
@@ -8887,11 +8887,11 @@
   "http://lambda-the-ultimate.org/ltu-blockchain-plt-thinktank"
  ],
  "Laravel": [
+  "https://laravel-news.com/php-critical-security-release",
   "https://laravel-news.com/laravel-token-guard-auth-bypass",
   "https://laravel-news.com/laravel-planetscale-olap",
   "https://laravel-news.com/laravel-validation-rule-builders",
-  "https://laravel-news.com/laravel-url-ai-transformer",
-  "https://laravel-news.com/laravel-13-36-0"
+  "https://laravel-news.com/laravel-url-ai-transformer"
  ],
  "Larry Land": [
   "https://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html",
@@ -9184,6 +9184,7 @@
   "https://lea.verou.me/blog/2026/icons/"
  ],
  "Lerner Consulting Blog": [
+  "https://lernerpython.com/2026/10/20/pandas-datetimeindex-slicing-fix-keyerror-with-sort-index/",
   "https://lernerpython.com/2026/10/19/pandas-date-range-selection-slicing-a-datetime-index-with-loc/",
   "https://lernerpython.com/2026/10/17/pandas-grouper-nans-why-outlier-dates-create-empty-groups/",
   "https://lernerpython.com/2026/10/16/pandas-grouper-group-datetime-columns-by-custom-time-periods/",
@@ -9192,8 +9193,7 @@
   "https://lernerpython.com/2026/10/11/pandas-groupby-multiple-columns-and-multiple-aggregation-methods/",
   "https://lernerpython.com/2026/10/09/pandas-groupby-get-a-data-frame-instead-of-a-series/",
   "https://lernerpython.com/2026/10/07/pandas-groupby-with-two-columns-reshape-results-with-unstack/",
-  "https://lernerpython.com/2026/10/06/pandas-groupby-with-sort-false-keep-groups-in-order-of-appearance/",
-  "https://lernerpython.com/2026/10/05/pandas-groupby-basics-aggregating-a-numeric-column-by-category/"
+  "https://lernerpython.com/2026/10/06/pandas-groupby-with-sort-false-keep-groups-in-order-of-appearance/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -14201,6 +14201,7 @@
   "https://www.serverless.com/blog/typography"
  ],
  "Shopify": [
+  "https://shopify.engineering/open-model-task-experts",
   "https://shopify.engineering/catalog-clustering-part-ii",
   "https://shopify.engineering/overexposed",
   "https://shopify.engineering/shopgym",
@@ -14637,6 +14638,10 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/vibe-coding-to-production-a-developer-s-checklist-for-building-reliable-web-apps/",
+  "https://www.sitepoint.com/debugging-css-layout-issues-a-practical-guide-to-browser-devtools/",
+  "https://www.sitepoint.com/progressive-enhancement-in-web-forms-building-reliable-experiences-with-html-css-and-javascript/",
+  "https://www.sitepoint.com/build-a-startup-runway-calculator-in-javascript-and-stress-test-your-plan/",
   "https://www.sitepoint.com/nextjs-hydration-error-localstorage/",
   "https://www.sitepoint.com/codebase-design-for-ai-agents/",
   "https://www.sitepoint.com/nextjs-isr-transient-error-notfound/",
@@ -14732,11 +14737,7 @@
   "https://www.sitepoint.com/how-to-reduce-ai-costs-without-making-your-app-worse/",
   "https://www.sitepoint.com/how-to-build-privacy-conscious-discovery-analytics-for-a-creator-store/",
   "https://www.sitepoint.com/designing-connected-products-that-are-easier-to-debug-repair-and-use/",
-  "https://www.sitepoint.com/7-engineering-patterns-for-reliable-customer-messaging-integrations/",
-  "https://www.sitepoint.com/beyond-the-serial-monitor-micro-soldering-skills-for-developers-building-iot-prototypes/",
-  "https://www.sitepoint.com/8-ways-to-turn-a-marketing-brief-into-a-testable-website/",
-  "https://www.sitepoint.com/how-to-build-smarter-marketplace-search-with-vanilla-javascript/",
-  "https://www.sitepoint.com/7-features-every-creator-marketplace-should-build-before-launch/"
+  "https://www.sitepoint.com/7-engineering-patterns-for-reliable-customer-messaging-integrations/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
