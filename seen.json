@@ -749,6 +749,7 @@
   "https://artsy.github.io/blog/2022/02/01/using-context-to-simplify-a-react-form/"
  ],
  "Atomic Object": [
+  "https://spin.atomicobject.com/?p=3675894",
   "https://spin.atomicobject.com/?p=3675849",
   "https://spin.atomicobject.com/?p=3675859",
   "https://spin.atomicobject.com/?p=3675761",
@@ -757,8 +758,7 @@
   "https://spin.atomicobject.com/?p=3675841",
   "https://spin.atomicobject.com/?p=3675769",
   "https://spin.atomicobject.com/?p=3675781",
-  "https://spin.atomicobject.com/?p=3675763",
-  "https://spin.atomicobject.com/?p=3675774"
+  "https://spin.atomicobject.com/?p=3675763"
  ],
  "Auth0": [
   "https://auth0.com/blog/what-is-id-jag/",
@@ -1647,16 +1647,16 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models",
+  "https://www.databricks.com/blog/ai-runtime-generally-available",
+  "https://www.databricks.com/blog/deploy-rfd4-proteina-model-databricks",
   "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
   "https://www.databricks.com/blog/introducing-agent-memory-databricks",
   "https://www.databricks.com/blog/how-hamlet-uses-databricks-lakebase-postgres-test-changes-against-production-data",
   "https://www.databricks.com/blog/hp-ai-ready-cdp-databricks-customerlake",
   "https://www.databricks.com/blog/customerlake-beta",
   "https://www.databricks.com/blog/what-makes-catalog-open-unity-catalog-advances-open-lakehouse",
-  "https://www.databricks.com/blog/how-get-most-out-running-dbt-databricks",
-  "https://www.databricks.com/blog/databricks-doubling-down-new-york-city-premier-ai-talent-hub",
-  "https://www.databricks.com/blog/transactions-are-generally-available-advancing-warehousing-lakehouse",
-  "https://www.databricks.com/blog/closing-binary-blind-spot-domain-knowledge-injection-llm-malware-triage-npm-packages"
+  "https://www.databricks.com/blog/how-get-most-out-running-dbt-databricks"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -2263,6 +2263,7 @@
   "b53ef7fa-3cfc-4ade-8e44-879d21fb1242"
  ],
  "Findmypast": [
+  "https://tech.findmypast.com/technology-behind-names/",
   "https://tech.findmypast.com/how-spanners-implement-devops/",
   "https://tech.findmypast.com/postgres-database-upgrades/",
   "https://tech.findmypast.com/datsci-tree-structure-analysis/",
@@ -2271,8 +2272,7 @@
   "https://tech.findmypast.com/team-diversity/",
   "https://tech.findmypast.com/scaling-fmp-part-2/",
   "https://tech.findmypast.com/scaling-fmp-part-1/",
-  "https://tech.findmypast.com/datsci-dataset-rec0/",
-  "https://tech.findmypast.com/datsci-network-science/"
+  "https://tech.findmypast.com/datsci-dataset-rec0/"
  ],
  "Finn.no": [
   "https://tech.finn.no/2018/10/18/haskell-at-finn-no",
@@ -9774,6 +9774,7 @@
   "tag:blogger.com,1999:blog-3888382143307542639.post-649405965458119143"
  ],
  "Martin Fowler": [
+  "https://martinfowler.com/fragments/2026-10-21.html",
   "tag:martinfowler.com,2026-10-15:When-Software-Meets-Hardware",
   "tag:martinfowler.com,2026-10-14:Build-your-slide-template",
   "tag:martinfowler.com,2026-10-13:The-Craft-of-Practitioner-Voice",
@@ -9802,8 +9803,7 @@
   "tag:martinfowler.com,2026-08-11:TDD-inside-the-agent-loop---theater-or-actual-value-",
   "https://martinfowler.com/fragments/2026-08-04.html",
   "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
-  "tag:martinfowler.com,2026-07-30:The-Economic-Benefit-of-Refactoring",
-  "tag:martinfowler.com,2026-07-28:The-Orchestrator-s-Tax"
+  "tag:martinfowler.com,2026-07-30:The-Economic-Benefit-of-Refactoring"
  ],
  "Mary Rose Cook": [
   "https://maryrosecook.com/blog/post/using-encapsulated-development-to-code-on-my-phone",
@@ -10959,6 +10959,7 @@
   "https://nikola-breznjak.com/blog/?p=4823"
  ],
  "Nordic APIs": [
+  "https://nordicapis.com/?p=24363",
   "https://nordicapis.com/?p=24336",
   "https://nordicapis.com/?p=24242",
   "https://nordicapis.com/?p=24268",
@@ -10967,8 +10968,7 @@
   "https://nordicapis.com/?p=24189",
   "https://nordicapis.com/?p=24179",
   "https://nordicapis.com/?p=24202",
-  "https://nordicapis.com/?p=24170",
-  "https://nordicapis.com/?p=24157"
+  "https://nordicapis.com/?p=24170"
  ],
  "Novoda": [
   "https://novoda.com/?p=10414",
@@ -10985,6 +10985,16 @@
   "https://novoda.com/?p=10009"
  ],
  "Nvidia": [
+  "https://blogs.nvidia.com/?p=99244",
+  "https://blogs.nvidia.com/?p=99227",
+  "https://blogs.nvidia.com/?p=99232",
+  "https://blogs.nvidia.com/?p=99195",
+  "https://blogs.nvidia.com/?p=99204",
+  "https://blogs.nvidia.com/?p=99214",
+  "https://blogs.nvidia.com/?p=99221",
+  "https://blogs.nvidia.com/?p=99217",
+  "https://blogs.nvidia.com/?p=99238",
+  "https://blogs.nvidia.com/?p=99208",
   "https://blogs.nvidia.com/?p=99066",
   "https://blogs.nvidia.com/?p=99080",
   "https://blogs.nvidia.com/?p=99038",
@@ -10992,17 +11002,7 @@
   "https://blogs.nvidia.com/?p=98987",
   "https://blogs.nvidia.com/?p=98620",
   "https://blogs.nvidia.com/?p=98870",
-  "https://blogs.nvidia.com/?p=98912",
-  "https://blogs.nvidia.com/?p=98901",
-  "https://blogs.nvidia.com/?p=98835",
-  "https://blogs.nvidia.com/?p=98818",
-  "https://blogs.nvidia.com/?p=98768",
-  "https://blogs.nvidia.com/?p=98737",
-  "https://blogs.nvidia.com/?p=98706",
-  "https://blogs.nvidia.com/?p=98677",
-  "https://blogs.nvidia.com/?p=98628",
-  "https://blogs.nvidia.com/?p=98615",
-  "https://blogs.nvidia.com/?p=98602"
+  "https://blogs.nvidia.com/?p=98912"
  ],
  "OCTO Technology": [
   "https://blog.octo.com/llm-local-sur-ios-27--ce-qu'apple-ne-dit-pas-dans-la-doc",
@@ -13034,29 +13034,29 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
+  "https://realpython.com/quizzes/python-random/",
+  "https://realpython.com/quizzes/python-performance-optimization-guide/",
   "https://realpython.com/claude-code-skills/",
-  "https://realpython.com/courses/tell-your-tech-career-story/",
   "https://realpython.com/courses/building-ai-agent-langgraph-python/",
+  "https://realpython.com/courses/tell-your-tech-career-story/",
+  "https://realpython.com/quizzes/tell-your-tech-career-story-interviews/",
+  "https://realpython.com/quizzes/tell-your-tech-career-story-show-proof/",
   "https://realpython.com/quizzes/tell-your-tech-career-story-get-noticed/",
   "https://realpython.com/quizzes/tell-your-tech-career-story-tailored-cv/",
-  "https://realpython.com/quizzes/tell-your-tech-career-story-show-proof/",
-  "https://realpython.com/quizzes/building-ai-agent-langgraph-python/",
-  "https://realpython.com/quizzes/tell-your-tech-career-story-interviews/",
   "https://realpython.com/quizzes/tell-your-tech-career-story-know-your-story/",
+  "https://realpython.com/quizzes/building-ai-agent-langgraph-python/",
   "https://realpython.com/claude-code-hooks/",
   "https://realpython.com/quizzes/claude-code-hooks/",
-  "https://realpython.com/django-migrations-a-primer/",
-  "https://realpython.com/digging-deeper-into-migrations/",
   "https://realpython.com/python-mutable-vs-immutable-types/",
-  "https://realpython.com/python-rounding/",
+  "https://realpython.com/digging-deeper-into-migrations/",
+  "https://realpython.com/django-migrations-a-primer/",
   "https://realpython.com/asynchronous-tasks-with-django-and-celery/",
+  "https://realpython.com/python-rounding/",
   "https://realpython.com/quizzes/python-comments-guide/",
   "https://realpython.com/instance-class-and-static-methods-demystified/",
-  "https://realpython.com/python-histograms/",
   "https://realpython.com/django-setup/",
-  "https://realpython.com/quizzes/python-callable-instances/",
+  "https://realpython.com/python-histograms/",
   "https://realpython.com/podcasts/rpp/315/",
-  "https://realpython.com/quizzes/python-profiling/",
   "https://realpython.com/courses/python-first-steps/",
   "https://realpython.com/podcasts/rpp/314/",
   "https://realpython.com/courses/exploring-mvc-pattern-python/",
@@ -13425,6 +13425,7 @@
   "tag:ruslanspivak.com,2015-03-09:/lsbaws-part1/"
  ],
  "Rust": [
+  "https://blog.rust-lang.org/2026/10/20/Rustup-1.29.2/",
   "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
   "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
   "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
@@ -13433,8 +13434,7 @@
   "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
   "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
   "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
-  "https://blog.rust-lang.org/2026/09/01/Rustup-1.29.1/",
-  "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/"
+  "https://blog.rust-lang.org/2026/09/01/Rustup-1.29.1/"
  ],
  "Sam Saffron": [
   "discuss.samsaffron.com-post-16580",
@@ -15588,6 +15588,7 @@
   "https://www.thecodedself.com/A-Caution-On-Superfluous-Code/"
  ],
  "The Daily WTF": [
+  "https://thedailywtf.com/articles/doing-the-assignment",
   "https://thedailywtf.com/articles/the-outage",
   "https://thedailywtf.com/articles/a-vat-of-terrible-experiences",
   "https://thedailywtf.com/articles/scrollpocalypse",
@@ -15601,8 +15602,7 @@
   "https://thedailywtf.com/articles/a-random-article",
   "https://thedailywtf.com/articles/the-date-and-time-and-time",
   "https://thedailywtf.com/articles/12345",
-  "https://thedailywtf.com/articles/very-valid-tokens",
-  "https://thedailywtf.com/articles/quite-a-distance-from-the-right-solution"
+  "https://thedailywtf.com/articles/very-valid-tokens"
  ],
  "Thomas Young": [
   "https://upcoder.com/22/the-alignment-trap-ai-safety-as-path-to-power",
@@ -15640,7 +15640,7 @@
   "http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs"
  ],
  "Timescale": [
-  "https://www.tigerdata.com/blog/introducing-searchgres-js-composable-search-postgresql"
+  "https://www.tigerdata.com/blog/designing-iiot-ingest-that-survives-cut-uplink"
  ],
  "Tinder": [
   "https://medium.com/p/48dcf01a6066",
@@ -15719,6 +15719,7 @@
   "https://medium.com/p/39a6faf41f96"
  ],
  "Trivago": [
+  "https://tech.trivago.com/post/2026-10-20-spin-up-test-tear-down-how-trivago-runs-600-preview-environments-on-kubernetes/",
   "https://tech.trivago.com/post/2026-10-16-im-sorry-have-we-met--frictionless-memory-for-ai/",
   "https://tech.trivago.com/post/2026-10-02-from-tools-to-teammates-how-ai-empowered-our-ux-team-to-level-up/",
   "https://tech.trivago.com/post/2026-08-12-agents-randomness-and-receipts-notes-from-trivagos-qa-meetup/",
