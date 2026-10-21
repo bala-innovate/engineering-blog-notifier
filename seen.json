@@ -560,6 +560,7 @@
   "https://www.andrewcbancroft.com/portfolio/"
  ],
  "Android": [
+  "tag:developer.android.com,2026-10-21:/blog/posts/reliable-way-to-add-and-edit-contacts-android",
   "tag:developer.android.com,2026-10-19:/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time",
   "tag:developer.android.com,2026-10-13:/blog/posts/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli",
   "tag:developer.android.com,2026-10-13:/blog/posts/google-play-discovery-engagement-growth",
@@ -578,8 +579,7 @@
   "tag:developer.android.com,2026-08-27:/blog/posts/how-whats-app-upgraded-to-secure-seamless-sign-in-for-1-billion-users-with-passkeys",
   "tag:developer.android.com,2026-08-26:/blog/posts/elevating-app-quality-reducing-memory-usage-and-improving-device-migration",
   "tag:developer.android.com,2026-08-25:/blog/posts/ensuring-safety-in-the-generative-ai-ecosystem-protecting-users-from-non-consensual-intimate-content",
-  "tag:developer.android.com,2026-08-24:/blog/posts/aaos-sdv-secure-by-design",
-  "tag:developer.android.com,2026-08-19:/blog/posts/preparing-your-app-for-broader-memory-limits"
+  "tag:developer.android.com,2026-08-24:/blog/posts/aaos-sdv-secure-by-design"
  ],
  "Antirez": [
   "http://antirez.com/news/172",
@@ -955,16 +955,16 @@
   "https://blog.getbootstrap.com/2025/04/04/bootstrap-5-3-5/"
  ],
  "Brandwatch": [
+  "https://www.brandwatch.com/?p=188545",
+  "https://www.brandwatch.com/?p=192610",
+  "https://www.brandwatch.com/?p=192593",
   "https://www.brandwatch.com/?p=192412",
   "https://www.brandwatch.com/?p=164855",
   "https://www.brandwatch.com/?p=192364",
   "https://www.brandwatch.com/?p=192003",
   "https://www.brandwatch.com/?p=191908",
   "https://www.brandwatch.com/?p=176449",
-  "https://www.brandwatch.com/?p=191704",
-  "https://www.brandwatch.com/?p=191567",
-  "https://www.brandwatch.com/?p=175749",
-  "https://www.brandwatch.com/?p=191460"
+  "https://www.brandwatch.com/?p=191704"
  ],
  "Brendan Eich": [
   "https://brendaneich.com/?p=8834",
@@ -7743,6 +7743,7 @@
  ],
  "Jeremy Kun": [
   "https://www.jeremykun.com/2011/06/20/featured-posts/",
+  "https://www.jeremykun.com/2026/10/21/ckks-key-switching-and-relinearization/",
   "https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/",
   "https://www.jeremykun.com/shortform/2026-10-08-1120/",
   "https://www.jeremykun.com/2026/09/23/ckks-encryption-and-decryption/",
@@ -13005,6 +13006,8 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112786",
+  "https://devblogs.microsoft.com/oldnewthing/?p=112784",
   "https://devblogs.microsoft.com/oldnewthing/?p=112781",
   "https://devblogs.microsoft.com/oldnewthing/?p=112778",
   "https://devblogs.microsoft.com/oldnewthing/?p=112776",
@@ -13012,9 +13015,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112769",
   "https://devblogs.microsoft.com/oldnewthing/?p=112767",
   "https://devblogs.microsoft.com/oldnewthing/?p=112764",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112762",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112759",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112757"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112762"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -15412,6 +15413,7 @@
   "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe"
  ],
  "SurveyMonkey": [
+  "https://www.surveymonkey.com/curiosity/ask-the-market-holiday-shopping-pricing/",
   "https://www.surveymonkey.com/curiosity/hris-integrations-workday-bamboohr/",
   "https://www.surveymonkey.com/curiosity/surveymonkey-trends-2027-report-interest/",
   "https://www.surveymonkey.com/curiosity/surveymonkey-research-ai-sentiment-study/",
@@ -15420,8 +15422,7 @@
   "https://www.surveymonkey.com/curiosity/2025-social-impact-report/",
   "https://www.surveymonkey.com/curiosity/cnbc-money-survey-affordability-october-2026/",
   "https://www.surveymonkey.com/curiosity/ask-the-market-mental-health-ai/",
-  "https://www.surveymonkey.com/curiosity/hubspot-unbound-market-research-engine/",
-  "https://www.surveymonkey.com/curiosity/cnbc-social-skills-pulse-survey/"
+  "https://www.surveymonkey.com/curiosity/hubspot-unbound-market-research-engine/"
  ],
  "Swizec Teller": [
   "https://swizec.com/blog/no-more-tech-debt",
