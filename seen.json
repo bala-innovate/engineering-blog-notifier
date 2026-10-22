@@ -100,6 +100,7 @@
   "https://8thlight.com/insights/tdd-effective-ai-collaboration"
  ],
  "AWS": [
+  "7ce6bf5eb7b5d26b8ad5cb6ced771ac43468759d",
   "b26c8ec6bfaf7141b02ddd51b0832cb797e2fa86",
   "cd5eb4df7600955259cf3d08d3dc859f994f08c5",
   "dde1e88f3c93eabd2dbb3913d365d085496d24b2",
@@ -118,8 +119,7 @@
   "3f3cdf7764c9ed9c135b98890bec5b260beeb5ae",
   "efef7c6cb4883104326929e4006dcf8d1349cb2d",
   "e54808ff9073a2b426d2baf919a0236eb2f63e40",
-  "871c44b03c81444dbf2768f2c7efdf2a156c5808",
-  "08498470152ce637e9283653fce2e1e7198f87fb"
+  "871c44b03c81444dbf2768f2c7efdf2a156c5808"
  ],
  "Aaron Patterson": [
   "https://tenderlovemaking.com/2026/10/18/static-analysis-for-the-uninitialized/",
@@ -1647,16 +1647,16 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/ai-cost-management",
+  "https://www.databricks.com/blog/fraud-analyst-ai-coworker-detecting-telecom-fraud-real-time-one-platform",
+  "https://www.databricks.com/blog/ai-bill-coming",
   "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models",
   "https://www.databricks.com/blog/ai-runtime-generally-available",
   "https://www.databricks.com/blog/deploy-rfd4-proteina-model-databricks",
   "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
   "https://www.databricks.com/blog/introducing-agent-memory-databricks",
   "https://www.databricks.com/blog/how-hamlet-uses-databricks-lakebase-postgres-test-changes-against-production-data",
-  "https://www.databricks.com/blog/hp-ai-ready-cdp-databricks-customerlake",
-  "https://www.databricks.com/blog/customerlake-beta",
-  "https://www.databricks.com/blog/what-makes-catalog-open-unity-catalog-advances-open-lakehouse",
-  "https://www.databricks.com/blog/how-get-most-out-running-dbt-databricks"
+  "https://www.databricks.com/blog/hp-ai-ready-cdp-databricks-customerlake"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -1790,6 +1790,7 @@
   "https://www.dereuromark.de/?p=3336"
  ],
  "Discord": [
+  "https://discord.com/blog/discord-update-october-22-2026",
   "https://discord.com/blog/discord-patch-notes-october-6-2026",
   "https://discord.com/blog/halloween-2026",
   "https://discord.com/blog/discord-update-september-25-2026",
@@ -1888,8 +1889,7 @@
   "https://discord.com/blog/discord-appoints-new-ceo-humam-sakhnini",
   "https://discord.com/blog/passing-the-torch",
   "https://discord.com/blog/nameplates-land-in-the-shop",
-  "https://discord.com/blog/nitro-members-keep-quest-rewards-longer",
-  "https://discord.com/blog/how-to-use-discords-in-game-overlay-to-talk-while-playing-on-pc"
+  "https://discord.com/blog/nitro-members-keep-quest-rewards-longer"
  ],
  "Docker": [
   "https://www.docker.com/?p=95191",
@@ -14659,7 +14659,6 @@
   "https://www.sitepoint.com/llm-structured-output-json-schema/",
   "https://www.sitepoint.com/review-ai-generated-ui-changes/",
   "https://www.sitepoint.com/llm-proxy-setup-litellm-observability/",
-  "https://www.sitepoint.com/beyond-the-password-reset-building-recovery-experiences-that-secure-online-shopper/",
   "https://www.sitepoint.com/astro-vs-nextjs-choose-framework/",
   "https://www.sitepoint.com/claude-code-hooks-enforce-project-conventions/",
   "https://www.sitepoint.com/top-accessibility-errors-in-production/",
@@ -14731,7 +14730,8 @@
   "https://www.sitepoint.com/how-to-build-a-fast-responsive-artwork-gallery-for-the-web/",
   "https://www.sitepoint.com/secure-cookies-samesite-reference/",
   "https://www.sitepoint.com/cloudflare-web-search-api-ai-agent-tutorial/",
-  "https://www.sitepoint.com/typescript-generics-examples-practical-guide/"
+  "https://www.sitepoint.com/typescript-generics-examples-practical-guide/",
+  "https://www.sitepoint.com/react-dialog-exit-animation-troubleshooting/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15049,6 +15049,7 @@
   "2126"
  ],
  "Stack Overflow": [
+  "7e5742ce-e3b9-4fb8-a551-bc6ba0abbb1e",
   "6f410a39-0c37-419f-b9dd-b787092801db",
   "5595af09-4e52-4479-8331-b81c8eba28cd",
   "01b89c63-ea19-458a-9f1e-ea171c54e441",
@@ -15087,8 +15088,7 @@
   "db2f17fe-5638-42f9-b95e-da56989b4cba",
   "c10c4caa-421a-4545-b31e-be57d5cc11f4",
   "3aa74322-09c1-458a-9b30-0056f9528c2d",
-  "49701d09-d32d-461c-8af8-b951380c0b3d",
-  "655a3604-d47b-43f0-bfa4-980faa3f32df"
+  "49701d09-d32d-461c-8af8-b951380c0b3d"
  ],
  "Stanko Tadi\u0107": [
   "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
@@ -15910,6 +15910,8 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform",
+  "https://www.twilio.com/en-us/blog/insights/automate-call-summaries-sentiment-crm",
   "https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms",
   "https://www.twilio.com/en-us/blog/insights/token-limits-ai-support-conversations",
   "https://www.twilio.com/en-us/blog/developers/tutorials/detect-sim-swaps-rust-twilio-lookup-api",
@@ -15937,9 +15939,7 @@
   "https://www.twilio.com/en-us/blog/get-started-webrtc",
   "https://www.twilio.com/en-us/blog/insights/customers-want-an-answer-not-an-ai-friend",
   "https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-traffic-optimization-engine",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-conversation-intelligence-nodejs",
-  "https://www.twilio.com/en-us/blog/insights/improve-ai-satisfaction",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-intelligence-csharp"
+  "https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-conversation-intelligence-nodejs"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
