@@ -1447,6 +1447,7 @@
   "https://medium.com/p/d7fc19896acc"
  ],
  "Crystal": [
+  "https://crystal-lang.org/2026/10/22/1.22.1-released",
   "https://crystal-lang.org/2026/10/12/1.22.0-released",
   "https://crystal-lang.org/2026/09/26/1.21.1-released",
   "https://crystal-lang.org/2026/07/16/1.21.0-released",
@@ -1455,8 +1456,7 @@
   "https://crystal-lang.org/2026/05/26/http-request-smuggling-vulnerability-in-http-server",
   "https://crystal-lang.org/2026/05/15/1.20.2-released",
   "https://crystal-lang.org/2026/04/29/1.20.1-released",
-  "https://crystal-lang.org/2026/04/27/1.19.2-released",
-  "https://crystal-lang.org/2026/04/16/1.20.0-released"
+  "https://crystal-lang.org/2026/04/27/1.19.2-released"
  ],
  "Curalate": [
   "http://engineering.curalate.com/2019/05/30/gas-mask.html",
@@ -1613,6 +1613,7 @@
   "https://danluu.com/why-hardware-development-is-hard/"
  ],
  "Daniel Doubrovkine (dB.)": [
+  "https://code.dblock.org/2026/10/22/introducing-markdownlint-rule-spellcheck",
   "https://code.dblock.org/2026/10/22/introducing-dylint-spellcheck",
   "https://code.dblock.org/2026/10/21/introducing-rubocop-spellcheck",
   "https://code.dblock.org/2026/10/15/ai-wants-to-eat-your-project-backlog",
@@ -1631,8 +1632,7 @@
   "https://code.dblock.org/2026/09/05/standardizing-exception-message-style-in-ruby",
   "https://code.dblock.org/2026/08/28/adventures-in-daylight-saving-norfolk-island-and-time-zone-math-in-ruby",
   "https://code.dblock.org/2026/08/15/benchmarks-are-free-now",
-  "https://code.dblock.org/2026/08/14/instance-variables-are-not-inherited-and-why-that-breaks-your-dsl",
-  "https://code.dblock.org/2026/08/11/generating-ai-descriptions-of-automated-pull-requests"
+  "https://code.dblock.org/2026/08/14/instance-variables-are-not-inherited-and-why-that-breaks-your-dsl"
  ],
  "Daniel Schmidt": [
   "https://medium.com/p/825e6dedf46d",
@@ -10780,6 +10780,7 @@
   "https://blog.nelhage.com/2007/02/3/"
  ],
  "Netflix": [
+  "https://medium.com/p/6d8b1909d163",
   "https://medium.com/p/421392cf5adf",
   "https://medium.com/p/cf176b5860eb",
   "https://medium.com/p/92af926b40a5",
@@ -10788,8 +10789,7 @@
   "https://medium.com/p/826ebf9ad9fb",
   "https://medium.com/p/41ad21067649",
   "https://medium.com/p/588816b6b5f8",
-  "https://medium.com/p/c95bd8283508",
-  "https://medium.com/p/ddf9aa68a801"
+  "https://medium.com/p/c95bd8283508"
  ],
  "New York Times": [
   "https://medium.com/p/6bb2ed3f5338",
@@ -15606,6 +15606,7 @@
   "https://upcoder.com/18/static-libs-do-not-modular-make"
  ],
  "Thoughtbot": [
+  "https://thoughtbot.com/blog/who-s-reading-the-code-your-ai-writes",
   "https://thoughtbot.com/blog/design-systems-in-an-ai-era",
   "https://thoughtbot.com/blog/a-pragmatic-guide-to-ai-assisted-development"
  ],
