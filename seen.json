@@ -762,11 +762,11 @@
  ],
  "Auth0": [
   "https://auth0.com/blog/auth0-powered-saas-providers-unlock-growth-okta-integration-network/",
-  "https://auth0.com/blog/scaling-ai-agent-identity-cimd-application-profiles/",
   "https://auth0.com/blog/terraform-auth0-modules/",
+  "https://auth0.com/blog/scaling-ai-agent-identity-cimd-application-profiles/",
   "https://auth0.com/blog/your-agent-can-better-drive-auth0-cli-with-agent-mode/",
-  "https://auth0.com/blog/what-is-id-jag/",
   "https://auth0.com/blog/securing-ai-agents-with-auth0-cimd-token-exchange/",
+  "https://auth0.com/blog/what-is-id-jag/",
   "https://auth0.com/blog/securing-the-front-door-of-agentic-commerce/",
   "https://auth0.com/blog/on-behalf-of-is-a-pattern-token-exchange-is-the-standard/",
   "https://auth0.com/blog/agentic-development-time-to-shift-focus/",
@@ -955,16 +955,16 @@
   "https://blog.getbootstrap.com/2025/04/04/bootstrap-5-3-5/"
  ],
  "Brandwatch": [
+  "https://www.brandwatch.com/?p=178005",
+  "https://www.brandwatch.com/?p=164855",
   "https://www.brandwatch.com/?p=188545",
   "https://www.brandwatch.com/?p=192610",
   "https://www.brandwatch.com/?p=192593",
   "https://www.brandwatch.com/?p=192412",
-  "https://www.brandwatch.com/?p=164855",
   "https://www.brandwatch.com/?p=192364",
   "https://www.brandwatch.com/?p=192003",
   "https://www.brandwatch.com/?p=191908",
-  "https://www.brandwatch.com/?p=176449",
-  "https://www.brandwatch.com/?p=191704"
+  "https://www.brandwatch.com/?p=176449"
  ],
  "Brendan Eich": [
   "https://brendaneich.com/?p=8834",
@@ -1613,6 +1613,7 @@
   "https://danluu.com/why-hardware-development-is-hard/"
  ],
  "Daniel Doubrovkine (dB.)": [
+  "https://code.dblock.org/2026/10/23/i-am-just-one-engineer-armed-with-ai",
   "https://code.dblock.org/2026/10/22/introducing-markdownlint-rule-spellcheck",
   "https://code.dblock.org/2026/10/22/introducing-dylint-spellcheck",
   "https://code.dblock.org/2026/10/21/introducing-rubocop-spellcheck",
@@ -1631,8 +1632,7 @@
   "https://code.dblock.org/2026/09/16/porting-strata-to-microsoft-teams-entirely-with-ai",
   "https://code.dblock.org/2026/09/05/standardizing-exception-message-style-in-ruby",
   "https://code.dblock.org/2026/08/28/adventures-in-daylight-saving-norfolk-island-and-time-zone-math-in-ruby",
-  "https://code.dblock.org/2026/08/15/benchmarks-are-free-now",
-  "https://code.dblock.org/2026/08/14/instance-variables-are-not-inherited-and-why-that-breaks-your-dsl"
+  "https://code.dblock.org/2026/08/15/benchmarks-are-free-now"
  ],
  "Daniel Schmidt": [
   "https://medium.com/p/825e6dedf46d",
@@ -1647,6 +1647,8 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/built-agents-case-spark-declarative-pipelines",
+  "https://www.databricks.com/blog/real-time-energy-trading-and-analytics-databricks",
   "https://www.databricks.com/blog/ai-cost-management",
   "https://www.databricks.com/blog/fraud-analyst-ai-coworker-detecting-telecom-fraud-real-time-one-platform",
   "https://www.databricks.com/blog/ai-bill-coming",
@@ -1654,9 +1656,7 @@
   "https://www.databricks.com/blog/ai-runtime-generally-available",
   "https://www.databricks.com/blog/deploy-rfd4-proteina-model-databricks",
   "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
-  "https://www.databricks.com/blog/introducing-agent-memory-databricks",
-  "https://www.databricks.com/blog/how-hamlet-uses-databricks-lakebase-postgres-test-changes-against-production-data",
-  "https://www.databricks.com/blog/hp-ai-ready-cdp-databricks-customerlake"
+  "https://www.databricks.com/blog/introducing-agent-memory-databricks"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -10780,6 +10780,7 @@
   "https://blog.nelhage.com/2007/02/3/"
  ],
  "Netflix": [
+  "https://medium.com/p/9474f2fd4f90",
   "https://medium.com/p/6d8b1909d163",
   "https://medium.com/p/421392cf5adf",
   "https://medium.com/p/cf176b5860eb",
@@ -10788,8 +10789,7 @@
   "https://medium.com/p/e59d597c9d60",
   "https://medium.com/p/826ebf9ad9fb",
   "https://medium.com/p/41ad21067649",
-  "https://medium.com/p/588816b6b5f8",
-  "https://medium.com/p/c95bd8283508"
+  "https://medium.com/p/588816b6b5f8"
  ],
  "New York Times": [
   "https://medium.com/p/6bb2ed3f5338",
@@ -12997,6 +12997,8 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112793",
+  "https://devblogs.microsoft.com/oldnewthing/?p=112791",
   "https://devblogs.microsoft.com/oldnewthing/?p=112786",
   "https://devblogs.microsoft.com/oldnewthing/?p=112784",
   "https://devblogs.microsoft.com/oldnewthing/?p=112781",
@@ -13004,9 +13006,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112776",
   "https://devblogs.microsoft.com/oldnewthing/?p=112774",
   "https://devblogs.microsoft.com/oldnewthing/?p=112769",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112767",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112764",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112762"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112767"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -13026,16 +13026,16 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
-  "https://realpython.com/numpy-tutorial/",
-  "https://realpython.com/python-send-email/",
-  "https://realpython.com/python-property/",
-  "https://realpython.com/aws-chalice-serverless-python/",
   "https://realpython.com/python-f-strings/",
   "https://realpython.com/get-started-with-django-1/",
-  "https://realpython.com/python-sets/",
-  "https://realpython.com/python-gil/",
+  "https://realpython.com/python-property/",
+  "https://realpython.com/numpy-tutorial/",
   "https://realpython.com/python-metaclasses/",
-  "https://realpython.com/python-web-applications/",
+  "https://realpython.com/python-gil/",
+  "https://realpython.com/ai-news-weekly-2026-10-23/",
+  "https://realpython.com/aws-chalice-serverless-python/",
+  "https://realpython.com/python-sets/",
+  "https://realpython.com/python-send-email/",
   "https://realpython.com/podcasts/rpp/316/",
   "https://realpython.com/quizzes/python-pydantic-video/",
   "https://realpython.com/quizzes/get-started-with-django/",
