@@ -761,16 +761,16 @@
   "https://spin.atomicobject.com/?p=3675769"
  ],
  "Auth0": [
-  "https://auth0.com/blog/terraform-auth0-modules/",
+  "https://auth0.com/blog/auth0-powered-saas-providers-unlock-growth-okta-integration-network/",
   "https://auth0.com/blog/scaling-ai-agent-identity-cimd-application-profiles/",
+  "https://auth0.com/blog/terraform-auth0-modules/",
   "https://auth0.com/blog/your-agent-can-better-drive-auth0-cli-with-agent-mode/",
   "https://auth0.com/blog/what-is-id-jag/",
   "https://auth0.com/blog/securing-ai-agents-with-auth0-cimd-token-exchange/",
   "https://auth0.com/blog/securing-the-front-door-of-agentic-commerce/",
   "https://auth0.com/blog/on-behalf-of-is-a-pattern-token-exchange-is-the-standard/",
   "https://auth0.com/blog/agentic-development-time-to-shift-focus/",
-  "https://auth0.com/blog/introducing-the-auth0-sdk-for-kotlin-multiplatform/",
-  "https://auth0.com/blog/introducing-the-auth0-sdk-for-tanstack-start/"
+  "https://auth0.com/blog/introducing-the-auth0-sdk-for-kotlin-multiplatform/"
  ],
  "Avenue Code": [
   "https://blog.avenuecode.com/using-generative-ai-to-streamline-internal-it-support-a-comprehensive-demonstration",
@@ -1401,6 +1401,8 @@
   "https://engineering.clever.com/?p=154"
  ],
  "Cloudflare": [
+  "01M5MZPETYH27RS72QV5V85YZ8",
+  "01M5MYFG0SHDEYME96N0A4Z6PH",
   "01M5FTVN0D8MSEXMF36ZM9WWD4",
   "01M5E1HXVZGTKAKEYZ0KMZQ65Q",
   "01M5FBPW0VHJGHYHGS7CWWKGSP",
@@ -1418,9 +1420,7 @@
   "01M4VK1MXKAPMWG5QXYBFK222G",
   "01M4TZM0P3VSCZHV70ZGX58319",
   "01M4RYTJWRQG5ZF619XNRPYAZB",
-  "01M4HA4SBV0ANTH6C2775H4SSY",
-  "01M4GV0DTKYJTCM5GPYBCME1T4",
-  "01M497Y0BQ6DVED6YT05KTNA6W"
+  "01M4HA4SBV0ANTH6C2775H4SSY"
  ],
  "Confluent": [
   "https://www.confluent.io/blog/confluent-strengthens-trust-for-singapores-markets-with-ospar-attestation/",
@@ -6177,6 +6177,7 @@
   "https://medium.com/p/e08972ae873e"
  ],
  "Hostinger": [
+  "https://www.hostinger.com/blog/?p=10726",
   "https://www.hostinger.com/blog/?p=10697",
   "https://www.hostinger.com/blog/?p=10691",
   "https://www.hostinger.com/blog/?p=10683",
@@ -6184,8 +6185,7 @@
   "https://www.hostinger.com/blog/?p=10648",
   "https://www.hostinger.com/blog/?p=10636",
   "https://www.hostinger.com/blog/?p=10626",
-  "https://www.hostinger.com/blog/?p=10616",
-  "https://www.hostinger.com/blog/?p=10598"
+  "https://www.hostinger.com/blog/?p=10616"
  ],
  "Housing.com": [
   "https://medium.com/p/9ea96a1f9fbe",
@@ -8889,11 +8889,11 @@
   "http://lambda-the-ultimate.org/ltu-blockchain-plt-thinktank"
  ],
  "Laravel": [
+  "https://laravel-news.com/volker-dusch-php-rce-disclosure",
   "https://laravel-news.com/decide-with-jev-turn-ai-answers-into-decisions-with-php-rules",
   "https://laravel-news.com/skuul-school-management-laravel",
   "https://laravel-news.com/laravel-prevent-stale-database-reads",
-  "https://laravel-news.com/screenshot",
-  "https://laravel-news.com/laravel-queue-sticky-database-connections"
+  "https://laravel-news.com/screenshot"
  ],
  "Larry Land": [
   "https://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html",
@@ -14671,6 +14671,7 @@
   "https://www.sitepoint.com/modern-javascript-modules-a-practical-guide-to-writing-maintainable-code/",
   "https://www.sitepoint.com/react-form-validation-hook-form-zod/",
   "https://www.sitepoint.com/esm-vs-commonjs-node-migration-guide/",
+  "https://www.sitepoint.com/how-to-build-a-design-token-preview-tool-with-node-js/",
   "https://www.sitepoint.com/handling-flac-and-mp3-in-web-projects-transcoding-delivery-and-performance/",
   "https://www.sitepoint.com/why-ai-agents-break-how-to-test-them/",
   "https://www.sitepoint.com/why-ai-is-making-revenue-growth-harder-not-easier-for-average-it-companies/",
@@ -14730,8 +14731,7 @@
   "https://www.sitepoint.com/best-soc-2-software/",
   "https://www.sitepoint.com/managed-soc-services-explained-what-developers-should-know-before-buying/",
   "https://www.sitepoint.com/how-to-build-a-fast-responsive-artwork-gallery-for-the-web/",
-  "https://www.sitepoint.com/secure-cookies-samesite-reference/",
-  "https://www.sitepoint.com/cloudflare-web-search-api-ai-agent-tutorial/"
+  "https://www.sitepoint.com/secure-cookies-samesite-reference/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15049,6 +15049,7 @@
   "2126"
  ],
  "Stack Overflow": [
+  "e08e7a97-f678-4f32-8577-a5e15e31bcfb",
   "7e5742ce-e3b9-4fb8-a551-bc6ba0abbb1e",
   "6f410a39-0c37-419f-b9dd-b787092801db",
   "5595af09-4e52-4479-8331-b81c8eba28cd",
@@ -15087,8 +15088,7 @@
   "ff7ebfaf-2c77-42f0-b979-971af7d74278",
   "db2f17fe-5638-42f9-b95e-da56989b4cba",
   "c10c4caa-421a-4545-b31e-be57d5cc11f4",
-  "3aa74322-09c1-458a-9b30-0056f9528c2d",
-  "49701d09-d32d-461c-8af8-b951380c0b3d"
+  "3aa74322-09c1-458a-9b30-0056f9528c2d"
  ],
  "Stanko Tadi\u0107": [
   "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
@@ -15635,7 +15635,7 @@
   "http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs"
  ],
  "Timescale": [
-  "https://www.tigerdata.com/blog/how-retention-policies-silently-break-continuous-aggregates"
+  "https://www.tigerdata.com/blog/we-built-three-memory-systems-most-expressive-wasnt-most-useful"
  ],
  "Tinder": [
   "https://medium.com/p/48dcf01a6066",
@@ -15911,6 +15911,7 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/insights/ai-agent-order-status-refunds",
   "https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform",
   "https://www.twilio.com/en-us/blog/insights/automate-call-summaries-sentiment-crm",
   "https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms",
@@ -15939,8 +15940,7 @@
   "https://www.twilio.com/en-us/blog/developers/tutorials/track-opt-outs-in-php",
   "https://www.twilio.com/en-us/blog/get-started-webrtc",
   "https://www.twilio.com/en-us/blog/insights/customers-want-an-answer-not-an-ai-friend",
-  "https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-traffic-optimization-engine",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-conversation-intelligence-nodejs"
+  "https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-traffic-optimization-engine"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
