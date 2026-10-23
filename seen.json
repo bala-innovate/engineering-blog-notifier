@@ -749,6 +749,7 @@
   "https://artsy.github.io/blog/2022/02/01/using-context-to-simplify-a-react-form/"
  ],
  "Atomic Object": [
+  "https://spin.atomicobject.com/?p=3675937",
   "https://spin.atomicobject.com/?p=3675984",
   "https://spin.atomicobject.com/?p=3675894",
   "https://spin.atomicobject.com/?p=3675849",
@@ -757,15 +758,14 @@
   "https://spin.atomicobject.com/?p=3675828",
   "https://spin.atomicobject.com/?p=3675838",
   "https://spin.atomicobject.com/?p=3675841",
-  "https://spin.atomicobject.com/?p=3675769",
-  "https://spin.atomicobject.com/?p=3675781"
+  "https://spin.atomicobject.com/?p=3675769"
  ],
  "Auth0": [
-  "https://auth0.com/blog/scaling-ai-agent-identity-cimd-application-profiles/",
   "https://auth0.com/blog/terraform-auth0-modules/",
+  "https://auth0.com/blog/scaling-ai-agent-identity-cimd-application-profiles/",
   "https://auth0.com/blog/your-agent-can-better-drive-auth0-cli-with-agent-mode/",
-  "https://auth0.com/blog/securing-ai-agents-with-auth0-cimd-token-exchange/",
   "https://auth0.com/blog/what-is-id-jag/",
+  "https://auth0.com/blog/securing-ai-agents-with-auth0-cimd-token-exchange/",
   "https://auth0.com/blog/securing-the-front-door-of-agentic-commerce/",
   "https://auth0.com/blog/on-behalf-of-is-a-pattern-token-exchange-is-the-standard/",
   "https://auth0.com/blog/agentic-development-time-to-shift-focus/",
@@ -1778,6 +1778,7 @@
   "https://hookrace.net/blog/what-is-hookrace"
  ],
  "Dereuromark": [
+  "https://www.dereuromark.de/?p=3455",
   "https://www.dereuromark.de/?p=3449",
   "https://www.dereuromark.de/?p=3440",
   "https://www.dereuromark.de/?p=3422",
@@ -1786,8 +1787,7 @@
   "https://www.dereuromark.de/?p=3367",
   "https://www.dereuromark.de/?p=3307",
   "https://www.dereuromark.de/?p=3333",
-  "https://www.dereuromark.de/?p=3345",
-  "https://www.dereuromark.de/?p=3336"
+  "https://www.dereuromark.de/?p=3345"
  ],
  "Discord": [
   "https://discord.com/blog/discord-update-october-22-2026",
@@ -8889,11 +8889,11 @@
   "http://lambda-the-ultimate.org/ltu-blockchain-plt-thinktank"
  ],
  "Laravel": [
+  "https://laravel-news.com/decide-with-jev-turn-ai-answers-into-decisions-with-php-rules",
+  "https://laravel-news.com/skuul-school-management-laravel",
+  "https://laravel-news.com/laravel-prevent-stale-database-reads",
   "https://laravel-news.com/screenshot",
-  "https://laravel-news.com/laravel-queue-sticky-database-connections",
-  "https://laravel-news.com/php-critical-rce-security-releases",
-  "https://laravel-news.com/laravel-13-38-0",
-  "https://laravel-news.com/php-critical-security-release"
+  "https://laravel-news.com/laravel-queue-sticky-database-connections"
  ],
  "Larry Land": [
   "https://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html",
@@ -10218,26 +10218,26 @@
   "https://devblogs.microsoft.com/python/?p=10158"
  ],
  "Miguel Quinones": [
-  "http://miqu.me/blog/2018/01/28/top-5-must-have-technical-books",
-  "http://miqu.me/blog/2017/06/16/fixing-autocompletion-on-mixed-objective-c-and-swift-projects",
-  "http://miqu.me/blog/2017/05/21/automatic-bridging-from-swift-to-objective-c-using-sourcery",
-  "http://miqu.me/blog/2017/01/29/temporary-build-settings",
-  "http://miqu.me/blog/2017/01/22/reducing-the-pain-of-git-bisect-with-xcode",
-  "http://miqu.me/blog/2016/11/28/app-extensions-xcode-and-cocoapods-omg",
-  "http://miqu.me/blog/2016/11/19/easy-localizations-management-with-spreadsheets",
-  "http://miqu.me/blog/2016/10/26/controlling-time-in-the-app",
-  "http://miqu.me/blog/2016/08/16/knowing-when-to-delete-code",
-  "http://miqu.me/blog/2016/07/31/xcode-8-new-build-settings-and-analyzer-improvements",
-  "http://miqu.me/blog/2016/04/22/dear-sdk-developer",
-  "http://miqu.me/blog/2016/01/21/xcode-7-dot-3-analyzer-improvements",
-  "http://miqu.me/blog/2015/12/14/transitioning-ios-versions",
-  "http://miqu.me/blog/2015/12/05/building-swift-on-osx",
-  "http://miqu.me/blog/2015/11/19/three-months-with-xvim",
-  "http://miqu.me/blog/2015/11/15/jumping-into-existing-codebases",
-  "http://miqu.me/blog/2015/09/09/functional-programming-in-the-small-with-swift",
-  "http://miqu.me/blog/2015/08/31/poor-mans-functional-programming",
-  "http://miqu.me/blog/2015/08/20/freehand-drawing",
-  "http://miqu.me/blog/2015/08/07/one-commit-a-day"
+  "https://miqu.me/blog/2018/01/28/top-5-must-have-technical-books/",
+  "https://miqu.me/blog/2017/06/16/fixing-autocompletion-on-mixed-objective-c-and-swift-projects/",
+  "https://miqu.me/blog/2017/05/21/automatic-bridging-from-swift-to-objective-c-using-sourcery/",
+  "https://miqu.me/blog/2017/01/29/temporary-build-settings/",
+  "https://miqu.me/blog/2017/01/22/reducing-the-pain-of-git-bisect-with-xcode/",
+  "https://miqu.me/blog/2016/11/28/app-extensions-xcode-and-cocoapods-omg/",
+  "https://miqu.me/blog/2016/11/19/easy-localizations-management-with-spreadsheets/",
+  "https://miqu.me/blog/2016/10/26/controlling-time-in-the-app/",
+  "https://miqu.me/blog/2016/08/16/knowing-when-to-delete-code/",
+  "https://miqu.me/blog/2016/07/31/xcode-8-new-build-settings-and-analyzer-improvements/",
+  "https://miqu.me/blog/2016/04/22/dear-sdk-developer/",
+  "https://miqu.me/blog/2016/01/21/xcode-7-dot-3-analyzer-improvements/",
+  "https://miqu.me/blog/2015/12/14/transitioning-ios-versions/",
+  "https://miqu.me/blog/2015/12/05/building-swift-on-osx/",
+  "https://miqu.me/blog/2015/11/19/three-months-with-xvim/",
+  "https://miqu.me/blog/2015/11/15/jumping-into-existing-codebases/",
+  "https://miqu.me/blog/2015/09/09/functional-programming-in-the-small-with-swift/",
+  "https://miqu.me/blog/2015/08/31/poor-mans-functional-programming/",
+  "https://miqu.me/blog/2015/08/20/freehand-drawing/",
+  "https://miqu.me/blog/2015/08/07/one-commit-a-day/"
  ],
  "Mike Ash": [
   "http://www.mikeash.com/?page=pyblog/objc_msgsends-new-prototype.html",
@@ -13026,29 +13026,30 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
-  "https://realpython.com/python-itertools/",
-  "https://realpython.com/pygame-a-primer/",
-  "https://realpython.com/python-operators-expressions/",
-  "https://realpython.com/python-matplotlib-guide/",
-  "https://realpython.com/python-concurrency/",
-  "https://realpython.com/api-integration-in-python/",
-  "https://realpython.com/python-supply-chain-security/",
-  "https://realpython.com/python-csv/",
-  "https://realpython.com/emacs-the-best-python-editor/",
-  "https://realpython.com/python-program-structure/",
-  "https://realpython.com/quizzes/pipenv-guide/",
+  "https://realpython.com/numpy-tutorial/",
+  "https://realpython.com/python-send-email/",
+  "https://realpython.com/python-property/",
+  "https://realpython.com/aws-chalice-serverless-python/",
+  "https://realpython.com/python-f-strings/",
+  "https://realpython.com/get-started-with-django-1/",
+  "https://realpython.com/python-sets/",
+  "https://realpython.com/python-gil/",
+  "https://realpython.com/python-metaclasses/",
+  "https://realpython.com/python-web-applications/",
+  "https://realpython.com/podcasts/rpp/316/",
+  "https://realpython.com/quizzes/python-pydantic-video/",
+  "https://realpython.com/quizzes/get-started-with-django/",
+  "https://realpython.com/quizzes/python-send-email-update/",
   "https://realpython.com/quizzes/python-supply-chain-security/",
+  "https://realpython.com/quizzes/pipenv-guide/",
   "https://realpython.com/courses/python-itertools-by-example/",
-  "https://realpython.com/quizzes/python-random/",
   "https://realpython.com/quizzes/python-performance-optimization-guide/",
-  "https://realpython.com/courses/building-ai-agent-langgraph-python/",
+  "https://realpython.com/quizzes/python-random/",
   "https://realpython.com/courses/tell-your-tech-career-story/",
+  "https://realpython.com/courses/building-ai-agent-langgraph-python/",
   "https://realpython.com/quizzes/tell-your-tech-career-story-get-noticed/",
-  "https://realpython.com/quizzes/building-ai-agent-langgraph-python/",
   "https://realpython.com/quizzes/tell-your-tech-career-story-know-your-story/",
-  "https://realpython.com/quizzes/tell-your-tech-career-story-tailored-cv/",
   "https://realpython.com/quizzes/tell-your-tech-career-story-interviews/",
-  "https://realpython.com/quizzes/tell-your-tech-career-story-show-proof/",
   "https://realpython.com/podcasts/rpp/315/",
   "https://realpython.com/courses/python-first-steps/",
   "https://realpython.com/podcasts/rpp/314/",
@@ -13065,7 +13066,6 @@
   "https://realpython.com/podcasts/rpp/309/",
   "https://realpython.com/podcasts/rpp/308/",
   "https://realpython.com/podcasts/rpp/307/",
-  "https://realpython.com/podcasts/rpp/306/",
   "https://realpython.com/learning-paths/fastapi/",
   "https://realpython.com/learning-paths/python-game-development/",
   "https://realpython.com/learning-paths/llm-application-development-python/",
@@ -13377,14 +13377,14 @@
   "http://rocksdb.org/blog/2025/09/25/io-tagging.html"
  ],
  "RoseHosting": [
-  "https://www.rosehosting.com/blog/?p=52231",
-  "https://www.rosehosting.com/blog/?p=52222",
-  "https://www.rosehosting.com/blog/?p=52145",
-  "https://www.rosehosting.com/blog/?p=52164",
-  "https://www.rosehosting.com/blog/?p=52177",
-  "https://www.rosehosting.com/blog/?p=52157",
-  "https://www.rosehosting.com/blog/?p=52100",
-  "https://www.rosehosting.com/blog/?p=52133"
+  "https://www.rosehosting.com/blog/?p=52206",
+  "https://www.rosehosting.com/blog/?p=52189",
+  "https://www.rosehosting.com/blog/?p=52271",
+  "https://www.rosehosting.com/blog/?p=52182",
+  "https://www.rosehosting.com/blog/?p=52259",
+  "https://www.rosehosting.com/blog/?p=52250",
+  "https://www.rosehosting.com/blog/?p=52241",
+  "https://www.rosehosting.com/blog/?p=52244"
  ],
  "Ruslan Spivak": [
   "tag:ruslanspivak.com,2025-08-19:/bb07/",
@@ -14632,6 +14632,7 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/best-claude-tracking-tools/",
   "https://www.sitepoint.com/ai-agents-need-idempotency-the-distributed-systems-problem-hiding-inside-agentic-ai/",
   "https://www.sitepoint.com/linkedin-recruiter-alternatives/",
   "https://www.sitepoint.com/best-ai-brand-mention-tracking-tools-enterprises/",
@@ -14730,8 +14731,7 @@
   "https://www.sitepoint.com/managed-soc-services-explained-what-developers-should-know-before-buying/",
   "https://www.sitepoint.com/how-to-build-a-fast-responsive-artwork-gallery-for-the-web/",
   "https://www.sitepoint.com/secure-cookies-samesite-reference/",
-  "https://www.sitepoint.com/cloudflare-web-search-api-ai-agent-tutorial/",
-  "https://www.sitepoint.com/typescript-generics-examples-practical-guide/"
+  "https://www.sitepoint.com/cloudflare-web-search-api-ai-agent-tutorial/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15582,6 +15582,7 @@
   "https://www.thecodedself.com/A-Caution-On-Superfluous-Code/"
  ],
  "The Daily WTF": [
+  "https://thedailywtf.com/articles/it-s-about-time",
   "https://thedailywtf.com/articles/readable-formats",
   "https://thedailywtf.com/articles/doing-the-assignment",
   "https://thedailywtf.com/articles/the-outage",
@@ -15595,8 +15596,7 @@
   "https://thedailywtf.com/articles/racing-trains",
   "https://thedailywtf.com/articles/a-tool-for-you",
   "https://thedailywtf.com/articles/a-random-article",
-  "https://thedailywtf.com/articles/the-date-and-time-and-time",
-  "https://thedailywtf.com/articles/12345"
+  "https://thedailywtf.com/articles/the-date-and-time-and-time"
  ],
  "Thomas Young": [
   "https://upcoder.com/22/the-alignment-trap-ai-safety-as-path-to-power",
@@ -15635,7 +15635,7 @@
   "http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs"
  ],
  "Timescale": [
-  "https://www.tigerdata.com/blog/we-built-three-memory-systems-most-expressive-wasnt-most-useful"
+  "https://www.tigerdata.com/blog/how-retention-policies-silently-break-continuous-aggregates"
  ],
  "Tinder": [
   "https://medium.com/p/48dcf01a6066",
@@ -16140,6 +16140,7 @@
   "https://vinted.engineering//2025/07/15/clocksource-performance"
  ],
  "Vlad Mihalcea": [
+  "https://vladmihalcea.com/?p=52765",
   "https://vladmihalcea.com/?p=52704",
   "https://vladmihalcea.com/?p=52649",
   "https://vladmihalcea.com/?p=52484",
@@ -16148,8 +16149,7 @@
   "https://vladmihalcea.com/?p=49280",
   "https://vladmihalcea.com/?p=49060",
   "https://vladmihalcea.com/?p=48900",
-  "https://vladmihalcea.com/?p=48716",
-  "https://vladmihalcea.com/?p=48650"
+  "https://vladmihalcea.com/?p=48716"
  ],
  "Wealthfront": [
   "https://eng.wealthfront.com/?p=4188",
