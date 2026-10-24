@@ -2116,6 +2116,7 @@
   "https://www.erlang-solutions.com/?p=12178"
  ],
  "Evan Hahn": [
+  "https://evanhahn.com/list-of-vim-forks/",
   "https://evanhahn.com/notes-from-september-2026/",
   "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
   "https://evanhahn.com/notes-from-august-2026/",
@@ -2124,8 +2125,7 @@
   "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
   "https://evanhahn.com/notes-from-june-2026/",
   "https://evanhahn.com/sixteenth-of-a-year/",
-  "https://evanhahn.com/notes-from-may-2026/",
-  "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/"
+  "https://evanhahn.com/notes-from-may-2026/"
  ],
  "Evan Jones": [
   "https://www.evanjones.ca/setenv-is-not-thread-safe.html",
@@ -13026,30 +13026,30 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
+  "https://realpython.com/intro-to-python-threading/",
+  "https://realpython.com/storing-images-in-python/",
+  "https://realpython.com/python-dicts/",
+  "https://realpython.com/python-string-formatting/",
+  "https://realpython.com/python-formatted-output/",
+  "https://realpython.com/alexa-python-skill/",
+  "https://realpython.com/quizzes/python-threading/",
+  "https://realpython.com/quizzes/python-json/",
   "https://realpython.com/quizzes/running-python-scripts/",
-  "https://realpython.com/numpy-tutorial/",
-  "https://realpython.com/get-started-with-django-1/",
-  "https://realpython.com/aws-chalice-serverless-python/",
-  "https://realpython.com/python-property/",
-  "https://realpython.com/python-f-strings/",
+  "https://realpython.com/quizzes/python-function/",
+  "https://realpython.com/quizzes/python-formatted-output/",
   "https://realpython.com/python-sets/",
-  "https://realpython.com/ai-news-weekly-2026-10-23/",
   "https://realpython.com/python-gil/",
-  "https://realpython.com/python-metaclasses/",
-  "https://realpython.com/python-send-email/",
+  "https://realpython.com/python-property/",
+  "https://realpython.com/ai-news-weekly-2026-10-23/",
   "https://realpython.com/podcasts/rpp/316/",
   "https://realpython.com/quizzes/python-send-email-update/",
-  "https://realpython.com/quizzes/python-pydantic-video/",
   "https://realpython.com/quizzes/get-started-with-django/",
-  "https://realpython.com/quizzes/python-supply-chain-security/",
+  "https://realpython.com/quizzes/python-pydantic-video/",
   "https://realpython.com/quizzes/pipenv-guide/",
+  "https://realpython.com/quizzes/python-supply-chain-security/",
   "https://realpython.com/courses/python-itertools-by-example/",
-  "https://realpython.com/quizzes/python-performance-optimization-guide/",
-  "https://realpython.com/quizzes/python-random/",
   "https://realpython.com/courses/building-ai-agent-langgraph-python/",
   "https://realpython.com/courses/tell-your-tech-career-story/",
-  "https://realpython.com/quizzes/tell-your-tech-career-story-know-your-story/",
-  "https://realpython.com/quizzes/tell-your-tech-career-story-get-noticed/",
   "https://realpython.com/podcasts/rpp/315/",
   "https://realpython.com/courses/python-first-steps/",
   "https://realpython.com/podcasts/rpp/314/",
@@ -14632,8 +14632,11 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/ai-recruiting-tools-for-agencies/",
   "https://www.sitepoint.com/7-checks-developers-should-make-so-ai-search-can-read-their-site/",
+  "https://www.sitepoint.com/how-to-test-location-aware-apis-with-fastapi-and-postgis/",
   "https://www.sitepoint.com/best-claude-tracking-tools/",
+  "https://www.sitepoint.com/web-ready-ai-images-formats-sizes-and-srcset-done-right/",
   "https://www.sitepoint.com/ai-agents-need-idempotency-the-distributed-systems-problem-hiding-inside-agentic-ai/",
   "https://www.sitepoint.com/linkedin-recruiter-alternatives/",
   "https://www.sitepoint.com/best-ai-brand-mention-tracking-tools-enterprises/",
@@ -14728,10 +14731,7 @@
   "https://www.sitepoint.com/express-react-refresh-token-cookie-diagnosis/",
   "https://www.sitepoint.com/review-ai-generated-pull-requests/",
   "https://www.sitepoint.com/how-to-humanize-ai-written-technical-documentation/",
-  "https://www.sitepoint.com/what-is-a-managed-soc-service-and-who-needs-it/",
-  "https://www.sitepoint.com/best-soc-2-software/",
-  "https://www.sitepoint.com/managed-soc-services-explained-what-developers-should-know-before-buying/",
-  "https://www.sitepoint.com/how-to-build-a-fast-responsive-artwork-gallery-for-the-web/"
+  "https://www.sitepoint.com/what-is-a-managed-soc-service-and-who-needs-it/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15911,6 +15911,9 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/insights/best-practices/passkeys",
+  "https://www.twilio.com/en-us/blog/insights/best-practices/authentication-methods",
+  "https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam",
   "https://www.twilio.com/en-us/blog/insights/ai-agent-order-status-refunds",
   "https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform",
   "https://www.twilio.com/en-us/blog/insights/automate-call-summaries-sentiment-crm",
@@ -15937,10 +15940,7 @@
   "https://www.twilio.com/en-us/blog/insights/design-ai-agent-for-resolution",
   "https://www.twilio.com/en-us/blog/products/launches/branded-calling-att-t-mobile-verizon-networks",
   "https://www.twilio.com/en-us/blog/developers/tutorials/create-send-vcards-with-go",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/track-opt-outs-in-php",
-  "https://www.twilio.com/en-us/blog/get-started-webrtc",
-  "https://www.twilio.com/en-us/blog/insights/customers-want-an-answer-not-an-ai-friend",
-  "https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-traffic-optimization-engine"
+  "https://www.twilio.com/en-us/blog/developers/tutorials/track-opt-outs-in-php"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
