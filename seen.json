@@ -1483,11 +1483,12 @@
   "https://medium.com/p/cb2ccf37515c"
  ],
  "Dan Luu": [
+  "https://danluu.com/ambitious/",
   "https://danluu.com/brain-off/",
   "https://danluu.com/agentic-testing/",
   "https://danluu.com/zitron/",
   "https://danluu.com/bug-blind/",
-  "https://danluu.com/perf-opt/",
+  "https://danluu.com/no-slow/",
   "https://danluu.com/benchpocalypse/",
   "https://danluu.com/pl-tokens/",
   "https://danluu.com/exercise-7/",
@@ -1609,8 +1610,7 @@
   "https://danluu.com/hardware-unforgiving/",
   "https://danluu.com/discourage-oss/",
   "https://danluu.com/randomize-hn/",
-  "https://danluu.com/pl-troll/",
-  "https://danluu.com/why-hardware-development-is-hard/"
+  "https://danluu.com/pl-troll/"
  ],
  "Daniel Doubrovkine (dB.)": [
   "https://code.dblock.org/2026/10/23/i-am-just-one-engineer-armed-with-ai",
@@ -9186,6 +9186,7 @@
   "https://lea.verou.me/blog/2026/icons/"
  ],
  "Lerner Consulting Blog": [
+  "https://lernerpython.com/2026/10/24/pandas-multiindex-select-rows-by-the-outer-level-with-loc/",
   "https://lernerpython.com/2026/10/23/pandas-offset-aliases-for-resample-me-ms-and-other-codes/",
   "https://lernerpython.com/2026/10/20/pandas-datetimeindex-slicing-fix-keyerror-with-sort-index/",
   "https://lernerpython.com/2026/10/19/pandas-date-range-selection-slicing-a-datetime-index-with-loc/",
@@ -9194,8 +9195,7 @@
   "https://lernerpython.com/2026/10/14/pandas-groupby-on-datetime-parts-with-the-dt-accessor/",
   "https://lernerpython.com/2026/10/12/pandas-groupby-aggregating-multiple-columns-with-multiple-functions/",
   "https://lernerpython.com/2026/10/11/pandas-groupby-multiple-columns-and-multiple-aggregation-methods/",
-  "https://lernerpython.com/2026/10/09/pandas-groupby-get-a-data-frame-instead-of-a-series/",
-  "https://lernerpython.com/2026/10/07/pandas-groupby-with-two-columns-reshape-results-with-unstack/"
+  "https://lernerpython.com/2026/10/09/pandas-groupby-get-a-data-frame-instead-of-a-series/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -14642,7 +14642,9 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/7-engineering-patterns-for-measuring-traffic-from-ai-search-and-chat-tools/",
   "https://www.sitepoint.com/ai-recruiting-tools-for-agencies/",
+  "https://www.sitepoint.com/stop-overpaying-for-app-builders-how-to-build-premium-websites-and-web-apps-with-ai/",
   "https://www.sitepoint.com/7-checks-developers-should-make-so-ai-search-can-read-their-site/",
   "https://www.sitepoint.com/how-to-test-location-aware-apis-with-fastapi-and-postgis/",
   "https://www.sitepoint.com/best-claude-tracking-tools/",
@@ -14739,9 +14741,7 @@
   "https://www.sitepoint.com/vue-3-composition-api-watcher-lifecycle/",
   "https://www.sitepoint.com/javascript-event-loop-explained-debugging-guide/",
   "https://www.sitepoint.com/express-react-refresh-token-cookie-diagnosis/",
-  "https://www.sitepoint.com/review-ai-generated-pull-requests/",
-  "https://www.sitepoint.com/how-to-humanize-ai-written-technical-documentation/",
-  "https://www.sitepoint.com/what-is-a-managed-soc-service-and-who-needs-it/"
+  "https://www.sitepoint.com/review-ai-generated-pull-requests/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
