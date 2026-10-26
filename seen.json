@@ -749,6 +749,7 @@
   "https://artsy.github.io/blog/2022/02/01/using-context-to-simplify-a-react-form/"
  ],
  "Atomic Object": [
+  "https://spin.atomicobject.com/?p=3675939",
   "https://spin.atomicobject.com/?p=3675922",
   "https://spin.atomicobject.com/?p=3675896",
   "https://spin.atomicobject.com/?p=3675937",
@@ -757,8 +758,7 @@
   "https://spin.atomicobject.com/?p=3675849",
   "https://spin.atomicobject.com/?p=3675859",
   "https://spin.atomicobject.com/?p=3675761",
-  "https://spin.atomicobject.com/?p=3675828",
-  "https://spin.atomicobject.com/?p=3675838"
+  "https://spin.atomicobject.com/?p=3675828"
  ],
  "Auth0": [
   "https://auth0.com/blog/auth0-powered-saas-providers-unlock-growth-okta-integration-network/",
@@ -1892,16 +1892,16 @@
   "https://discord.com/blog/nitro-members-keep-quest-rewards-longer"
  ],
  "Docker": [
+  "https://www.docker.com/?p=95296",
   "https://www.docker.com/?p=95191",
   "https://www.docker.com/?p=95131",
   "https://www.docker.com/?p=95096",
+  "https://www.docker.com/?p=95076",
   "https://www.docker.com/?p=94981",
   "https://www.docker.com/?p=94888",
   "https://www.docker.com/?p=94820",
   "https://www.docker.com/?p=94794",
-  "https://www.docker.com/?p=94390",
-  "https://www.docker.com/?p=94134",
-  "https://www.docker.com/?p=94091"
+  "https://www.docker.com/?p=94390"
  ],
  "Domenico Luciani": [
   "https://domenicoluciani.com/2025/11/29/getting-started-with-open-telemetry.html",
@@ -6173,6 +6173,7 @@
   "https://medium.com/p/e08972ae873e"
  ],
  "Hostinger": [
+  "https://www.hostinger.com/blog/?p=10740",
   "https://www.hostinger.com/blog/?p=10726",
   "https://www.hostinger.com/blog/?p=10697",
   "https://www.hostinger.com/blog/?p=10691",
@@ -6180,8 +6181,7 @@
   "https://www.hostinger.com/blog/?p=10660",
   "https://www.hostinger.com/blog/?p=10648",
   "https://www.hostinger.com/blog/?p=10636",
-  "https://www.hostinger.com/blog/?p=10626",
-  "https://www.hostinger.com/blog/?p=10616"
+  "https://www.hostinger.com/blog/?p=10626"
  ],
  "Housing.com": [
   "https://medium.com/p/9ea96a1f9fbe",
@@ -13032,27 +13032,27 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
-  "https://realpython.com/python-logging/",
-  "https://realpython.com/python-modules-packages/",
-  "https://realpython.com/flask-connexion-rest-api-part-3/",
-  "https://realpython.com/python-with-statement/",
-  "https://realpython.com/python-code-quality/",
+  "https://realpython.com/quizzes/working-apis-reading-public-data/",
   "https://realpython.com/flask-connexion-rest-api-part-2/",
-  "https://realpython.com/quizzes/build-a-python-url-shortener-with-fastapi/",
+  "https://realpython.com/flask-connexion-rest-api-part-3/",
+  "https://realpython.com/python-modules-packages/",
+  "https://realpython.com/sort-python-dictionary/",
+  "https://realpython.com/flask-connexion-rest-api/",
+  "https://realpython.com/python-pathlib/",
+  "https://realpython.com/python-debugging-pdb/",
+  "https://realpython.com/python-code-quality/",
+  "https://realpython.com/python-logging/",
+  "https://realpython.com/python-with-statement/",
   "https://realpython.com/quizzes/python-debugging-pdb/",
   "https://realpython.com/quizzes/python-pathlib/",
-  "https://realpython.com/alexa-python-skill/",
-  "https://realpython.com/async-io-python/",
-  "https://realpython.com/python-string-formatting/",
-  "https://realpython.com/python-formatted-output/",
-  "https://realpython.com/quizzes/python-json/",
+  "https://realpython.com/quizzes/build-a-python-url-shortener-with-fastapi/",
   "https://realpython.com/quizzes/python-formatted-output/",
+  "https://realpython.com/quizzes/python-function/",
+  "https://realpython.com/quizzes/python-json/",
   "https://realpython.com/quizzes/python-threading/",
   "https://realpython.com/quizzes/running-python-scripts/",
-  "https://realpython.com/quizzes/python-function/",
   "https://realpython.com/podcasts/rpp/316/",
-  "https://realpython.com/quizzes/python-send-email-update/",
-  "https://realpython.com/quizzes/get-started-with-django/",
+  "https://realpython.com/quizzes/python-pydantic-video/",
   "https://realpython.com/courses/python-itertools-by-example/",
   "https://realpython.com/courses/building-ai-agent-langgraph-python/",
   "https://realpython.com/courses/tell-your-tech-career-story/",
@@ -13423,6 +13423,7 @@
   "tag:ruslanspivak.com,2015-03-09:/lsbaws-part1/"
  ],
  "Rust": [
+  "https://blog.rust-lang.org/2026/10/26/how-to-fund-rust-contributors/",
   "https://blog.rust-lang.org/2026/10/20/Rustup-1.29.2/",
   "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
   "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
@@ -13431,8 +13432,7 @@
   "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
   "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
   "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
-  "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
-  "https://blog.rust-lang.org/2026/09/01/Rustup-1.29.1/"
+  "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/"
  ],
  "Sam Saffron": [
   "discuss.samsaffron.com-post-16580",
@@ -14644,6 +14644,7 @@
   "https://www.sitepoint.com/stop-overpaying-for-app-builders-how-to-build-premium-websites-and-web-apps-with-ai/",
   "https://www.sitepoint.com/7-checks-developers-should-make-so-ai-search-can-read-their-site/",
   "https://www.sitepoint.com/how-to-test-location-aware-apis-with-fastapi-and-postgis/",
+  "https://www.sitepoint.com/top-5-3d-animation-software-in-2026/",
   "https://www.sitepoint.com/beyond-the-password-reset-building-recovery-experiences-that-protect-online-shopping/",
   "https://www.sitepoint.com/8-checks-developers-should-add-before-importing-pdf-tables-into-an-application/",
   "https://www.sitepoint.com/best-claude-tracking-tools/",
@@ -14736,8 +14737,7 @@
   "https://www.sitepoint.com/progressive-web-apps-how-they-are-changing-the-future-of-online-experiences/",
   "https://www.sitepoint.com/how-ai-is-transforming-web-development-tools-trends-and-best-practices/",
   "https://www.sitepoint.com/making-javascript-api-requests-more-reliable-with-timeouts-retries-and-cancellation/",
-  "https://www.sitepoint.com/how-to-improve-website-performance-without-rewriting-your-front-end/",
-  "https://www.sitepoint.com/vue-3-composition-api-watcher-lifecycle/"
+  "https://www.sitepoint.com/how-to-improve-website-performance-without-rewriting-your-front-end/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -14941,8 +14941,8 @@
   "https://developers.soundcloud.com/blog//stop-hacker-time",
   "https://developers.soundcloud.com/blog//front-end-javascript-bug-tracking",
   "https://developers.soundcloud.com/blog//omniauth-soundcloud",
-  "https://developers.soundcloud.com/blog//javascript-sdk",
   "https://developers.soundcloud.com/blog//competition-app",
+  "https://developers.soundcloud.com/blog//javascript-sdk",
   "https://developers.soundcloud.com/blog//music-hack-day-boston-2011",
   "https://developers.soundcloud.com/blog//soundcloud-launches-the-html5-audio-improvement-initiative",
   "https://developers.soundcloud.com/blog//velocity-europe-birds-of-a-feather-meetup",
@@ -14963,8 +14963,8 @@
   "https://developers.soundcloud.com/blog//mysql-stats-old-faithful",
   "https://developers.soundcloud.com/blog//hack-ideas",
   "https://developers.soundcloud.com/blog//java-api-wrapper",
-  "https://developers.soundcloud.com/blog//post-mortem-on-api-outage-may-5th-2011",
   "https://developers.soundcloud.com/blog//experiment-02-destroying-soundcloud-instagram",
+  "https://developers.soundcloud.com/blog//post-mortem-on-api-outage-may-5th-2011",
   "https://developers.soundcloud.com/blog//introducing-the-large-hadron-migrator-3",
   "https://developers.soundcloud.com/blog//marbleo.us",
   "https://developers.soundcloud.com/blog//web-scale-statistics-failing-with-mongodb",
@@ -15588,6 +15588,7 @@
   "https://www.thecodedself.com/A-Caution-On-Superfluous-Code/"
  ],
  "The Daily WTF": [
+  "https://thedailywtf.com/articles/securely-useless",
   "https://thedailywtf.com/articles/it-s-about-time",
   "https://thedailywtf.com/articles/readable-formats",
   "https://thedailywtf.com/articles/doing-the-assignment",
@@ -15601,8 +15602,7 @@
   "https://thedailywtf.com/articles/fast-quick",
   "https://thedailywtf.com/articles/racing-trains",
   "https://thedailywtf.com/articles/a-tool-for-you",
-  "https://thedailywtf.com/articles/a-random-article",
-  "https://thedailywtf.com/articles/the-date-and-time-and-time"
+  "https://thedailywtf.com/articles/a-random-article"
  ],
  "Thomas Young": [
   "https://upcoder.com/22/the-alignment-trap-ai-safety-as-path-to-power",
