@@ -1401,6 +1401,7 @@
   "https://engineering.clever.com/?p=154"
  ],
  "Cloudflare": [
+  "01M5X2P6CQYMNAESRJ922DG5J3",
   "01M5MZPETYH27RS72QV5V85YZ8",
   "01M5MYFG0SHDEYME96N0A4Z6PH",
   "01M5FTVN0D8MSEXMF36ZM9WWD4",
@@ -1419,8 +1420,7 @@
   "01M4Y1477Z7DBJHXRZDP6MM2FN",
   "01M4VK1MXKAPMWG5QXYBFK222G",
   "01M4TZM0P3VSCZHV70ZGX58319",
-  "01M4RYTJWRQG5ZF619XNRPYAZB",
-  "01M4HA4SBV0ANTH6C2775H4SSY"
+  "01M4RYTJWRQG5ZF619XNRPYAZB"
  ],
  "Confluent": [
   "https://www.confluent.io/blog/new-forrester-study-why-modernizing-data-streaming-is-about-more-than-cost-savings/",
@@ -1647,6 +1647,8 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/how-teach-databricks-free-edition",
+  "https://www.databricks.com/blog/building-live-intelligence-databricks-ai-search-supports-streaming-tables-materialized-views",
   "https://www.databricks.com/blog/media-industry-becoming-prediction-economy",
   "https://www.databricks.com/blog/built-agents-case-spark-declarative-pipelines",
   "https://www.databricks.com/blog/real-time-energy-trading-and-analytics-databricks",
@@ -1654,9 +1656,7 @@
   "https://www.databricks.com/blog/fraud-analyst-ai-coworker-detecting-telecom-fraud-real-time-one-platform",
   "https://www.databricks.com/blog/ai-bill-coming",
   "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models",
-  "https://www.databricks.com/blog/ai-runtime-generally-available",
-  "https://www.databricks.com/blog/deploy-rfd4-proteina-model-databricks",
-  "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents"
+  "https://www.databricks.com/blog/ai-runtime-generally-available"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
