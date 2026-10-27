@@ -1,5 +1,6 @@
 {
  ".NET": [
+  "https://devblogs.microsoft.com/dotnet/?p=61112",
   "https://devblogs.microsoft.com/dotnet/?p=61101",
   "https://devblogs.microsoft.com/dotnet/?p=61063",
   "https://devblogs.microsoft.com/dotnet/?p=61061",
@@ -8,8 +9,7 @@
   "https://devblogs.microsoft.com/dotnet/?p=61032",
   "https://devblogs.microsoft.com/dotnet/?p=61017",
   "https://devblogs.microsoft.com/dotnet/?p=60983",
-  "https://devblogs.microsoft.com/dotnet/?p=60962",
-  "https://devblogs.microsoft.com/dotnet/?p=60895"
+  "https://devblogs.microsoft.com/dotnet/?p=60962"
  ],
  "0xADADA": [
   "https://0xadada.pub/2024/06/23/the-disappearance-of-lived-time-film/",
@@ -1647,16 +1647,16 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
+  "https://www.databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation",
+  "https://www.databricks.com/blog/spot-fixes-measured-gains-improving-document-extraction-accuracy-aiextract-and-mlflow-prompt",
+  "https://www.databricks.com/blog/bigquery-databricks-strategic-framework",
   "https://www.databricks.com/blog/unify-your-productivity-and-ai-data-lakeflow-connect",
   "https://www.databricks.com/blog/how-teach-databricks-free-edition",
   "https://www.databricks.com/blog/building-live-intelligence-databricks-ai-search-supports-streaming-tables-materialized-views",
   "https://www.databricks.com/blog/media-industry-becoming-prediction-economy",
   "https://www.databricks.com/blog/built-agents-case-spark-declarative-pipelines",
-  "https://www.databricks.com/blog/real-time-energy-trading-and-analytics-databricks",
-  "https://www.databricks.com/blog/ai-cost-management",
-  "https://www.databricks.com/blog/fraud-analyst-ai-coworker-detecting-telecom-fraud-real-time-one-platform",
-  "https://www.databricks.com/blog/ai-bill-coming",
-  "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models"
+  "https://www.databricks.com/blog/real-time-energy-trading-and-analytics-databricks"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -1790,6 +1790,7 @@
   "https://www.dereuromark.de/?p=3345"
  ],
  "Discord": [
+  "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
   "https://discord.com/blog/discord-update-october-22-2026",
   "https://discord.com/blog/discord-patch-notes-october-6-2026",
   "https://discord.com/blog/halloween-2026",
@@ -1888,8 +1889,7 @@
   "https://discord.com/blog/how-discord-indexes-trillions-of-messages",
   "https://discord.com/blog/discord-appoints-new-ceo-humam-sakhnini",
   "https://discord.com/blog/passing-the-torch",
-  "https://discord.com/blog/nameplates-land-in-the-shop",
-  "https://discord.com/blog/nitro-members-keep-quest-rewards-longer"
+  "https://discord.com/blog/nameplates-land-in-the-shop"
  ],
  "Docker": [
   "https://www.docker.com/?p=95296",
@@ -2201,26 +2201,26 @@
   "https://medium.com/p/a292fbdd22ce"
  ],
  "Facebook": [
+  "https://engineering.fb.com/?p=24851",
+  "https://engineering.fb.com/?p=24841",
   "https://engineering.fb.com/?p=24816",
   "https://engineering.fb.com/?p=24783",
   "https://engineering.fb.com/?p=24724",
   "https://engineering.fb.com/?p=24763",
   "https://engineering.fb.com/?p=24709",
   "https://engineering.fb.com/?p=24735",
-  "https://engineering.fb.com/?p=24721",
-  "https://engineering.fb.com/?p=24641",
-  "https://engineering.fb.com/?p=24657"
+  "https://engineering.fb.com/?p=24721"
  ],
  "Facebook AI Research": [
+  "https://engineering.fb.com/?p=24851",
+  "https://engineering.fb.com/?p=24841",
   "https://engineering.fb.com/?p=24816",
   "https://engineering.fb.com/?p=24783",
   "https://engineering.fb.com/?p=24724",
   "https://engineering.fb.com/?p=24763",
   "https://engineering.fb.com/?p=24709",
   "https://engineering.fb.com/?p=24735",
-  "https://engineering.fb.com/?p=24721",
-  "https://engineering.fb.com/?p=24641",
-  "https://engineering.fb.com/?p=24657"
+  "https://engineering.fb.com/?p=24721"
  ],
  "Federico Cargnelutti": [
   "http://blog.fedecarg.com/?p=2190",
@@ -6074,6 +6074,7 @@
   "https://hashrocket.com/blog/posts/nativewind-speeding-up-styling-in-react-native"
  ],
  "Hayden James": [
+  "https://linuxblog.io/?p=20926",
   "https://linuxblog.io/?p=19535",
   "https://linuxblog.io/?p=22653",
   "https://linuxblog.io/?p=22643",
@@ -6092,8 +6093,7 @@
   "https://haydenjames.io/?p=15569",
   "https://linuxblog.io/?p=20202",
   "https://linuxblog.io/?p=21328",
-  "https://linuxblog.io/?p=20694",
-  "https://linuxblog.io/?p=22437"
+  "https://linuxblog.io/?p=20694"
  ],
  "Helpshift": [
   "https://medium.com/p/881d32a7ef93",
@@ -10983,6 +10983,7 @@
   "https://novoda.com/?p=10009"
  ],
  "Nvidia": [
+  "https://blogs.nvidia.com/?p=99512",
   "https://blogs.nvidia.com/?p=99413",
   "https://blogs.nvidia.com/?p=99404",
   "https://blogs.nvidia.com/?p=99414",
@@ -10999,10 +11000,10 @@
   "https://blogs.nvidia.com/?p=99204",
   "https://blogs.nvidia.com/?p=99214",
   "https://blogs.nvidia.com/?p=99221",
-  "https://blogs.nvidia.com/?p=99217",
-  "https://blogs.nvidia.com/?p=99238"
+  "https://blogs.nvidia.com/?p=99217"
  ],
  "OCTO Technology": [
+  "https://blog.octo.com/octo-que-s'est-il-passe-avec-les-packages-npm-sur-ces-12-derniers-mois",
   "https://blog.octo.com/harnais-agentiques-(22)--huit-reflexes-a-desapprendre-pour-un-harnais-frugal-1",
   "https://blog.octo.com/harnais-agentiques-(12)--pourquoi-les-bonnes-pratiques-d'hier-coutent-cher-aujourd'hui",
   "https://blog.octo.com/mes-agents-lisaient-trop--ce-que-dix-semaines-de-chasse-aux-tokens-m'ont-appris",
@@ -11011,8 +11012,7 @@
   "https://blog.octo.com/vers-une-plateforme-de-modeles",
   "https://blog.octo.com/trois-techniques-d'animation-utiles-pour-les-consultantes",
   "https://blog.octo.com/jumeau-numerique-systemique--referentiel-et-data",
-  "https://blog.octo.com/je-ne-code-pas-bmad-code-pour-moi-avec-ses-agents--sur-parole-ou-sur-preuves",
-  "https://blog.octo.com/le-developpement-agentique-est-il-le-fossoyeur-de-la-modelisation-metier"
+  "https://blog.octo.com/je-ne-code-pas-bmad-code-pour-moi-avec-ses-agents--sur-parole-ou-sur-preuves"
  ],
  "OLX": [
   "https://medium.com/p/ee1519586520",
@@ -13032,26 +13032,27 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
+  "https://realpython.com/python-circular-imports/",
+  "https://realpython.com/how-to-get-out-of-tutorial-hell/",
+  "https://realpython.com/pyrefly-python/",
+  "https://realpython.com/mcp-vs-api/",
+  "https://realpython.com/courses/exploring-ai-coding-agent-workflows/",
   "https://realpython.com/quizzes/how-to-get-out-of-tutorial-hell/",
   "https://realpython.com/quizzes/mcp-vs-api/",
   "https://realpython.com/quizzes/pyrefly-python/",
   "https://realpython.com/quizzes/exploring-ai-coding-agent-workflows/",
   "https://realpython.com/quizzes/python-circular-imports/",
-  "https://realpython.com/command-line-interfaces-python-argparse/",
-  "https://realpython.com/python-protocol/",
   "https://realpython.com/introduction-to-python-generators/",
-  "https://realpython.com/python-web-scraping-practical-introduction/",
-  "https://realpython.com/flask-google-login/",
-  "https://realpython.com/python-double-underscore/",
-  "https://realpython.com/python-uv/",
-  "https://realpython.com/chromadb-vector-database/",
   "https://realpython.com/intermediate-python-project-ideas/",
+  "https://realpython.com/python-uv/",
+  "https://realpython.com/python-web-scraping-practical-introduction/",
+  "https://realpython.com/chromadb-vector-database/",
+  "https://realpython.com/flask-google-login/",
   "https://realpython.com/courses/ai-agents-101/",
   "https://realpython.com/quizzes/python-web-scraping-practical-introduction/",
   "https://realpython.com/quizzes/generators-and-yield-in-python/",
   "https://realpython.com/quizzes/working-apis-reading-public-data/",
   "https://realpython.com/quizzes/python-uv/",
-  "https://realpython.com/flask-connexion-rest-api/",
   "https://realpython.com/quizzes/python-debugging-pdb/",
   "https://realpython.com/podcasts/rpp/316/",
   "https://realpython.com/courses/python-itertools-by-example/",
@@ -13066,7 +13067,6 @@
   "https://realpython.com/courses/whats-new-in-python-315/",
   "https://realpython.com/podcasts/rpp/312/",
   "https://realpython.com/courses/using-claude-api-python/",
-  "https://realpython.com/courses/automating-eda-with-fg-data-profiling/",
   "https://realpython.com/podcasts/rpp/311/",
   "https://realpython.com/podcasts/rpp/310/",
   "https://realpython.com/podcasts/rpp/309/",
@@ -14638,6 +14638,8 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/7-checks-that-make-form-bugs-easier-to-reproduce-across-teams/",
+  "https://www.sitepoint.com/7-ways-to-keep-api-changes-safe-as-more-teams-join-a-project/",
   "https://www.sitepoint.com/building-location-aware-interfaces-without-mixing-up-language-currency-and-region/",
   "https://www.sitepoint.com/best-ai-recruiting-agents/",
   "https://www.sitepoint.com/6-tools-for-building-email-automations-you-can-test-and-debug/",
@@ -14735,9 +14737,7 @@
   "https://www.sitepoint.com/beyond-lazy-loading-how-to-build-faster-websites-with-responsive-images/",
   "https://www.sitepoint.com/building-accessible-web-forms-with-html-css-and-javascript/",
   "https://www.sitepoint.com/test-readme-with-real-users/",
-  "https://www.sitepoint.com/ai-agent-tool-calling-typescript-guardrails/",
-  "https://www.sitepoint.com/self-host-nextjs-production-docker-standalone/",
-  "https://www.sitepoint.com/tailwind-css-v4-dynamic-themes/"
+  "https://www.sitepoint.com/ai-agent-tool-calling-typescript-guardrails/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15399,6 +15399,7 @@
   "https://medium.com/p/9e47a6c8743b"
  ],
  "Stripe": [
+  "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
   "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services",
   "https://stripe.com/blog/saas-platform-trends-in-AI-era",
   "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
@@ -15407,8 +15408,7 @@
   "https://stripe.com/blog/where-pricing-is-headed",
   "https://stripe.com/blog/ousd-now-live-on-stripe",
   "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link",
-  "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum",
-  "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk"
+  "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum"
  ],
  "SurveyMonkey": [
   "https://www.surveymonkey.com/curiosity/ask-the-market-holiday-shopping-pricing/",
