@@ -749,6 +749,7 @@
   "https://artsy.github.io/blog/2022/02/01/using-context-to-simplify-a-react-form/"
  ],
  "Atomic Object": [
+  "https://spin.atomicobject.com/?p=3675853",
   "https://spin.atomicobject.com/?p=3675939",
   "https://spin.atomicobject.com/?p=3675922",
   "https://spin.atomicobject.com/?p=3675896",
@@ -757,8 +758,7 @@
   "https://spin.atomicobject.com/?p=3675894",
   "https://spin.atomicobject.com/?p=3675849",
   "https://spin.atomicobject.com/?p=3675859",
-  "https://spin.atomicobject.com/?p=3675761",
-  "https://spin.atomicobject.com/?p=3675828"
+  "https://spin.atomicobject.com/?p=3675761"
  ],
  "Auth0": [
   "https://auth0.com/blog/auth0-powered-saas-providers-unlock-growth-okta-integration-network/",
@@ -1401,6 +1401,8 @@
   "https://engineering.clever.com/?p=154"
  ],
  "Cloudflare": [
+  "01M5YGNW60G1XYREPZQ9W8PSTD",
+  "01M5G72REK3978980FNZCPDBRR",
   "01M5X2P6CQYMNAESRJ922DG5J3",
   "01M5MZPETYH27RS72QV5V85YZ8",
   "01M5MYFG0SHDEYME96N0A4Z6PH",
@@ -1418,9 +1420,7 @@
   "01M4EX2BRJ7RNGAPQTBRXWRYT1",
   "01M4YQC31GRHMR5V2624TPHTH7",
   "01M4Y1477Z7DBJHXRZDP6MM2FN",
-  "01M4VK1MXKAPMWG5QXYBFK222G",
-  "01M4TZM0P3VSCZHV70ZGX58319",
-  "01M4RYTJWRQG5ZF619XNRPYAZB"
+  "01M4VK1MXKAPMWG5QXYBFK222G"
  ],
  "Confluent": [
   "https://www.confluent.io/blog/new-forrester-study-why-modernizing-data-streaming-is-about-more-than-cost-savings/",
@@ -2189,6 +2189,7 @@
   "https://evilmartians.com/chronicles/the-joy-of-inertia-rails-painting-your-own-with-50-happy-little-lines"
  ],
  "Expedia": [
+  "https://medium.com/p/9ac26e3b2706",
   "https://medium.com/p/43d71bd539c7",
   "https://medium.com/p/f7555fcce506",
   "https://medium.com/p/0bb9de03237c",
@@ -2197,8 +2198,7 @@
   "https://medium.com/p/434677770fe9",
   "https://medium.com/p/35eace7eeec4",
   "https://medium.com/p/d6cfaaca881d",
-  "https://medium.com/p/a292fbdd22ce",
-  "https://medium.com/p/60f2f96c5351"
+  "https://medium.com/p/a292fbdd22ce"
  ],
  "Facebook": [
   "https://engineering.fb.com/?p=24816",
@@ -6149,6 +6149,7 @@
   "65bceaca3953980001659b4b"
  ],
  "HomeAway": [
+  "https://medium.com/p/9ac26e3b2706",
   "https://medium.com/p/43d71bd539c7",
   "https://medium.com/p/f7555fcce506",
   "https://medium.com/p/0bb9de03237c",
@@ -6157,8 +6158,7 @@
   "https://medium.com/p/434677770fe9",
   "https://medium.com/p/35eace7eeec4",
   "https://medium.com/p/d6cfaaca881d",
-  "https://medium.com/p/a292fbdd22ce",
-  "https://medium.com/p/60f2f96c5351"
+  "https://medium.com/p/a292fbdd22ce"
  ],
  "Hootsuite": [
   "https://medium.com/p/399d9955c7ac",
@@ -6173,15 +6173,15 @@
   "https://medium.com/p/e08972ae873e"
  ],
  "Hostinger": [
+  "https://www.hostinger.com/blog/?p=10767",
+  "https://www.hostinger.com/blog/?p=10768",
   "https://www.hostinger.com/blog/?p=10753",
   "https://www.hostinger.com/blog/?p=10740",
   "https://www.hostinger.com/blog/?p=10726",
   "https://www.hostinger.com/blog/?p=10697",
   "https://www.hostinger.com/blog/?p=10691",
   "https://www.hostinger.com/blog/?p=10683",
-  "https://www.hostinger.com/blog/?p=10660",
-  "https://www.hostinger.com/blog/?p=10648",
-  "https://www.hostinger.com/blog/?p=10636"
+  "https://www.hostinger.com/blog/?p=10660"
  ],
  "Housing.com": [
   "https://medium.com/p/9ea96a1f9fbe",
@@ -8885,11 +8885,11 @@
   "http://lambda-the-ultimate.org/ltu-blockchain-plt-thinktank"
  ],
  "Laravel": [
+  "https://laravel-news.com/filament-5-8-0",
+  "https://laravel-news.com/sloppy",
   "https://laravel-news.com/mastering-laravel-testing-course",
   "https://laravel-news.com/nativephp-mobile-security-advisories",
-  "https://laravel-news.com/volker-dusch-php-rce-disclosure",
-  "https://laravel-news.com/decide-with-jev-turn-ai-answers-into-decisions-with-php-rules",
-  "https://laravel-news.com/skuul-school-management-laravel"
+  "https://laravel-news.com/volker-dusch-php-rce-disclosure"
  ],
  "Larry Land": [
   "https://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html",
@@ -10957,6 +10957,7 @@
   "https://nikola-breznjak.com/blog/?p=4823"
  ],
  "Nordic APIs": [
+  "https://nordicapis.com/?p=24377",
   "https://nordicapis.com/?p=24363",
   "https://nordicapis.com/?p=24336",
   "https://nordicapis.com/?p=24242",
@@ -10965,8 +10966,7 @@
   "https://nordicapis.com/?p=24230",
   "https://nordicapis.com/?p=24189",
   "https://nordicapis.com/?p=24179",
-  "https://nordicapis.com/?p=24202",
-  "https://nordicapis.com/?p=24170"
+  "https://nordicapis.com/?p=24202"
  ],
  "Novoda": [
   "https://novoda.com/?p=10414",
@@ -13032,30 +13032,31 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
-  "https://realpython.com/python-double-underscore/",
-  "https://realpython.com/python-protocol/",
+  "https://realpython.com/quizzes/how-to-get-out-of-tutorial-hell/",
+  "https://realpython.com/quizzes/mcp-vs-api/",
+  "https://realpython.com/quizzes/pyrefly-python/",
+  "https://realpython.com/quizzes/exploring-ai-coding-agent-workflows/",
+  "https://realpython.com/quizzes/python-circular-imports/",
   "https://realpython.com/command-line-interfaces-python-argparse/",
+  "https://realpython.com/python-protocol/",
   "https://realpython.com/introduction-to-python-generators/",
-  "https://realpython.com/flask-google-login/",
-  "https://realpython.com/intermediate-python-project-ideas/",
-  "https://realpython.com/chromadb-vector-database/",
-  "https://realpython.com/python-uv/",
   "https://realpython.com/python-web-scraping-practical-introduction/",
+  "https://realpython.com/flask-google-login/",
+  "https://realpython.com/python-double-underscore/",
+  "https://realpython.com/python-uv/",
+  "https://realpython.com/chromadb-vector-database/",
+  "https://realpython.com/intermediate-python-project-ideas/",
+  "https://realpython.com/courses/ai-agents-101/",
+  "https://realpython.com/quizzes/python-web-scraping-practical-introduction/",
+  "https://realpython.com/quizzes/generators-and-yield-in-python/",
   "https://realpython.com/quizzes/working-apis-reading-public-data/",
   "https://realpython.com/quizzes/python-uv/",
-  "https://realpython.com/quizzes/generators-and-yield-in-python/",
-  "https://realpython.com/quizzes/python-web-scraping-practical-introduction/",
   "https://realpython.com/flask-connexion-rest-api/",
-  "https://realpython.com/quizzes/build-a-python-url-shortener-with-fastapi/",
   "https://realpython.com/quizzes/python-debugging-pdb/",
-  "https://realpython.com/quizzes/python-pathlib/",
-  "https://realpython.com/quizzes/running-python-scripts/",
-  "https://realpython.com/quizzes/python-json/",
-  "https://realpython.com/quizzes/python-formatted-output/",
   "https://realpython.com/podcasts/rpp/316/",
   "https://realpython.com/courses/python-itertools-by-example/",
-  "https://realpython.com/courses/building-ai-agent-langgraph-python/",
   "https://realpython.com/courses/tell-your-tech-career-story/",
+  "https://realpython.com/courses/building-ai-agent-langgraph-python/",
   "https://realpython.com/podcasts/rpp/315/",
   "https://realpython.com/courses/python-first-steps/",
   "https://realpython.com/podcasts/rpp/314/",
@@ -13067,7 +13068,6 @@
   "https://realpython.com/courses/using-claude-api-python/",
   "https://realpython.com/courses/automating-eda-with-fg-data-profiling/",
   "https://realpython.com/podcasts/rpp/311/",
-  "https://realpython.com/courses/python-timer-functions/",
   "https://realpython.com/podcasts/rpp/310/",
   "https://realpython.com/podcasts/rpp/309/",
   "https://realpython.com/podcasts/rpp/308/",
@@ -14638,6 +14638,7 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/building-location-aware-interfaces-without-mixing-up-language-currency-and-region/",
   "https://www.sitepoint.com/best-ai-recruiting-agents/",
   "https://www.sitepoint.com/6-tools-for-building-email-automations-you-can-test-and-debug/",
   "https://www.sitepoint.com/6-email-tools-developers-can-use-to-build-test-and-monitor-better-email/",
@@ -14736,8 +14737,7 @@
   "https://www.sitepoint.com/test-readme-with-real-users/",
   "https://www.sitepoint.com/ai-agent-tool-calling-typescript-guardrails/",
   "https://www.sitepoint.com/self-host-nextjs-production-docker-standalone/",
-  "https://www.sitepoint.com/tailwind-css-v4-dynamic-themes/",
-  "https://www.sitepoint.com/tilde-in-path-security-fix/"
+  "https://www.sitepoint.com/tailwind-css-v4-dynamic-themes/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15588,6 +15588,7 @@
   "https://www.thecodedself.com/A-Caution-On-Superfluous-Code/"
  ],
  "The Daily WTF": [
+  "https://thedailywtf.com/articles/security-fourth",
   "https://thedailywtf.com/articles/securely-useless",
   "https://thedailywtf.com/articles/it-s-about-time",
   "https://thedailywtf.com/articles/readable-formats",
@@ -15601,8 +15602,7 @@
   "https://thedailywtf.com/articles/a-type-of-type-safety",
   "https://thedailywtf.com/articles/fast-quick",
   "https://thedailywtf.com/articles/racing-trains",
-  "https://thedailywtf.com/articles/a-tool-for-you",
-  "https://thedailywtf.com/articles/a-random-article"
+  "https://thedailywtf.com/articles/a-tool-for-you"
  ],
  "Thomas Young": [
   "https://upcoder.com/22/the-alignment-trap-ai-safety-as-path-to-power",
