@@ -1647,6 +1647,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/unify-your-productivity-and-ai-data-lakeflow-connect",
   "https://www.databricks.com/blog/how-teach-databricks-free-edition",
   "https://www.databricks.com/blog/building-live-intelligence-databricks-ai-search-supports-streaming-tables-materialized-views",
   "https://www.databricks.com/blog/media-industry-becoming-prediction-economy",
@@ -1655,8 +1656,7 @@
   "https://www.databricks.com/blog/ai-cost-management",
   "https://www.databricks.com/blog/fraud-analyst-ai-coworker-detecting-telecom-fraud-real-time-one-platform",
   "https://www.databricks.com/blog/ai-bill-coming",
-  "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models",
-  "https://www.databricks.com/blog/ai-runtime-generally-available"
+  "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -15613,8 +15613,7 @@
  ],
  "Thoughtbot": [
   "https://thoughtbot.com/blog/who-s-reading-the-code-your-ai-writes",
-  "https://thoughtbot.com/blog/design-systems-in-an-ai-era",
-  "https://thoughtbot.com/blog/a-pragmatic-guide-to-ai-assisted-development"
+  "https://thoughtbot.com/blog/design-systems-in-an-ai-era"
  ],
  "Thumbtack": [
   "https://medium.com/p/7a381b47c640",
