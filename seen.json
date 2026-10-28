@@ -560,6 +560,9 @@
   "https://www.andrewcbancroft.com/portfolio/"
  ],
  "Android": [
+  "tag:developer.android.com,2026-10-28:/blog/posts/build-it-your-way-a-next-era-of-android-development",
+  "tag:developer.android.com,2026-10-28:/blog/posts/android-dev-summit-26-developer-tools-performance",
+  "tag:developer.android.com,2026-10-28:/blog/posts/ai-agents-android-studio-integration",
   "tag:developer.android.com,2026-10-21:/blog/posts/reliable-way-to-add-and-edit-contacts-android",
   "tag:developer.android.com,2026-10-19:/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time",
   "tag:developer.android.com,2026-10-13:/blog/posts/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli",
@@ -576,10 +579,7 @@
   "tag:developer.android.com,2026-09-09:/blog/posts/introducing-fast-and-reliable-wireless-debugging-with-android-debug-bridge-adb-wi-fi-2-0",
   "tag:developer.android.com,2026-09-01:/blog/posts/leverage-android-skills-and-gemma-4-in-android-studio-quail-4",
   "tag:developer.android.com,2026-08-31:/blog/posts/emulator-control-for-adaptive-app-development",
-  "tag:developer.android.com,2026-08-27:/blog/posts/how-whats-app-upgraded-to-secure-seamless-sign-in-for-1-billion-users-with-passkeys",
-  "tag:developer.android.com,2026-08-26:/blog/posts/elevating-app-quality-reducing-memory-usage-and-improving-device-migration",
-  "tag:developer.android.com,2026-08-25:/blog/posts/ensuring-safety-in-the-generative-ai-ecosystem-protecting-users-from-non-consensual-intimate-content",
-  "tag:developer.android.com,2026-08-24:/blog/posts/aaos-sdv-secure-by-design"
+  "tag:developer.android.com,2026-08-27:/blog/posts/how-whats-app-upgraded-to-secure-seamless-sign-in-for-1-billion-users-with-passkeys"
  ],
  "Antirez": [
   "http://antirez.com/news/172",
@@ -1647,6 +1647,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
   "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
   "https://www.databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation",
   "https://www.databricks.com/blog/spot-fixes-measured-gains-improving-document-extraction-accuracy-aiextract-and-mlflow-prompt",
@@ -1655,7 +1656,6 @@
   "https://www.databricks.com/blog/how-teach-databricks-free-edition",
   "https://www.databricks.com/blog/building-live-intelligence-databricks-ai-search-supports-streaming-tables-materialized-views",
   "https://www.databricks.com/blog/media-industry-becoming-prediction-economy",
-  "https://www.databricks.com/blog/built-agents-case-spark-declarative-pipelines",
   "https://www.databricks.com/blog/real-time-energy-trading-and-analytics-databricks"
  ],
  "Dave Cheney": [
@@ -2201,6 +2201,7 @@
   "https://medium.com/p/a292fbdd22ce"
  ],
  "Facebook": [
+  "https://engineering.fb.com/?p=24890",
   "https://engineering.fb.com/?p=24851",
   "https://engineering.fb.com/?p=24841",
   "https://engineering.fb.com/?p=24816",
@@ -2208,10 +2209,10 @@
   "https://engineering.fb.com/?p=24724",
   "https://engineering.fb.com/?p=24763",
   "https://engineering.fb.com/?p=24709",
-  "https://engineering.fb.com/?p=24735",
-  "https://engineering.fb.com/?p=24721"
+  "https://engineering.fb.com/?p=24735"
  ],
  "Facebook AI Research": [
+  "https://engineering.fb.com/?p=24890",
   "https://engineering.fb.com/?p=24851",
   "https://engineering.fb.com/?p=24841",
   "https://engineering.fb.com/?p=24816",
@@ -2219,8 +2220,7 @@
   "https://engineering.fb.com/?p=24724",
   "https://engineering.fb.com/?p=24763",
   "https://engineering.fb.com/?p=24709",
-  "https://engineering.fb.com/?p=24735",
-  "https://engineering.fb.com/?p=24721"
+  "https://engineering.fb.com/?p=24735"
  ],
  "Federico Cargnelutti": [
   "http://blog.fedecarg.com/?p=2190",
@@ -2444,6 +2444,8 @@
   "https://github.blog/?p=97894"
  ],
  "GitHub Old": [
+  "https://github.blog/?p=99788",
+  "https://github.blog/?p=99742",
   "https://github.blog/?p=99645",
   "https://github.blog/?p=99628",
   "https://github.blog/?p=99538",
@@ -2451,9 +2453,7 @@
   "https://github.blog/?p=99541",
   "https://github.blog/?p=99529",
   "https://github.blog/?p=99506",
-  "https://github.blog/?p=99364",
-  "https://github.blog/?p=99413",
-  "https://github.blog/?p=99409"
+  "https://github.blog/?p=99364"
  ],
  "Gleb Bahmutov": [
   "https://glebbahmutov.com/blog/cypress-test-for-optional-data/",
@@ -10983,6 +10983,7 @@
   "https://novoda.com/?p=10009"
  ],
  "Nvidia": [
+  "https://blogs.nvidia.com/?p=99523",
   "https://blogs.nvidia.com/?p=99512",
   "https://blogs.nvidia.com/?p=99413",
   "https://blogs.nvidia.com/?p=99404",
@@ -10999,8 +11000,7 @@
   "https://blogs.nvidia.com/?p=99195",
   "https://blogs.nvidia.com/?p=99204",
   "https://blogs.nvidia.com/?p=99214",
-  "https://blogs.nvidia.com/?p=99221",
-  "https://blogs.nvidia.com/?p=99217"
+  "https://blogs.nvidia.com/?p=99221"
  ],
  "OCTO Technology": [
   "https://blog.octo.com/et-si-votre-super-idee-innovante-de-projet-agentique-avait-deja-ete-pensee-par-votre-editeur-de-data-plateforme--1",
@@ -14638,11 +14638,15 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/how-to-source-passive-candidates/",
+  "https://www.sitepoint.com/build-a-reliable-analytics-pipeline-before-migrating-to-a-data-warehouse/",
   "https://www.sitepoint.com/how-ai-agents-can-access-more-up-to-date-information/",
   "https://www.sitepoint.com/how-to-create-effective-cold-email-sequences-that-generate-replies-a-developer-s-guide/",
   "https://www.sitepoint.com/7-checks-that-make-form-bugs-easier-to-reproduce-across-teams/",
   "https://www.sitepoint.com/7-ways-to-keep-api-changes-safe-as-more-teams-join-a-project/",
   "https://www.sitepoint.com/a-practical-workflow-for-testing-javascript-forms-before-deployment/",
+  "https://www.sitepoint.com/how-to-build-location-aware-interfaces-that-handle-language-currency-and-region-correctly/",
+  "https://www.sitepoint.com/how-to-build-a-human-review-workflow-for-a-rag-documentation-assistant/",
   "https://www.sitepoint.com/building-location-aware-interfaces-without-mixing-up-language-currency-and-region/",
   "https://www.sitepoint.com/best-ai-recruiting-agents/",
   "https://www.sitepoint.com/6-tools-for-building-email-automations-you-can-test-and-debug/",
@@ -14733,11 +14737,7 @@
   "https://www.sitepoint.com/modern-css-layouts-building-responsive-websites-without-unnecessary-complexity/",
   "https://www.sitepoint.com/writing-maintainable-javascript-practical-patterns-for-scalable-web-applications/",
   "https://www.sitepoint.com/building-better-web-forms-practical-html-css-and-javascript-techniques-for-modern-websites/",
-  "https://www.sitepoint.com/ampere-system-profiler/",
-  "https://www.sitepoint.com/reverse-engineering-with-ai-rea-electron-tracing/",
-  "https://www.sitepoint.com/designing-a-safer-account-recovery-backend-for-consumer-apps/",
-  "https://www.sitepoint.com/beyond-the-password-reset-building-recovery-experiences-that-protect-online-shoppers/",
-  "https://www.sitepoint.com/designing-reliable-offline-experiences-for-modern-web-applications/"
+  "https://www.sitepoint.com/ampere-system-profiler/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15055,6 +15055,7 @@
   "2126"
  ],
  "Stack Overflow": [
+  "aff25b90-6c0a-41e4-b8f6-f6e24c534c7f",
   "3b45bd6a-a1d0-4a4d-99f1-cd6feb56e083",
   "e08e7a97-f678-4f32-8577-a5e15e31bcfb",
   "7e5742ce-e3b9-4fb8-a551-bc6ba0abbb1e",
@@ -15093,8 +15094,7 @@
   "54229ad2-0556-4c51-8f91-fdbae9d12a6e",
   "d1dcc7aa-a336-44c6-bc74-5579f00d71a1",
   "ff7ebfaf-2c77-42f0-b979-971af7d74278",
-  "db2f17fe-5638-42f9-b95e-da56989b4cba",
-  "c10c4caa-421a-4545-b31e-be57d5cc11f4"
+  "db2f17fe-5638-42f9-b95e-da56989b4cba"
  ],
  "Stanko Tadi\u0107": [
   "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
