@@ -12955,6 +12955,7 @@
   "http://nativeguru.wordpress.com/?p=32"
  ],
  "Ray Wenderlich": [
+  "https://www.kodeco.com/ios/paths/validating-ai-code/53684638-using-ai-for-testing-in-ios",
   "https://www.kodeco.com/ios/paths/ai-assisted-ios-dev/53684539-codebase-exploration-with-ai",
   "https://www.kodeco.com/ios/programs/ai-assisted-ios-development",
   "https://www.kodeco.com/ios/paths/planning-building-features-ai/53684606-ios-feature-implementation-using-ai",
@@ -12975,7 +12976,6 @@
   "https://www.kodeco.com/53560697-moving-from-xctest-to-swift-testing",
   "https://www.kodeco.com/52032926-kodebits-day-90-named-arguments",
   "https://www.kodeco.com/52032923-kodebits-day-89-enum-raw-values",
-  "https://www.kodeco.com/52032921-kodebits-day-88-inout-parameter",
   "https://www.kodeco.com/ai/programs/ai-apis",
   "https://www.kodeco.com/ai/paths/python",
   "https://www.kodeco.com/ai/paths/azure-ai-services",
@@ -15612,8 +15612,7 @@
   "https://upcoder.com/18/static-libs-do-not-modular-make"
  ],
  "Thoughtbot": [
-  "https://thoughtbot.com/blog/who-s-reading-the-code-your-ai-writes",
-  "https://thoughtbot.com/blog/design-systems-in-an-ai-era"
+  "https://thoughtbot.com/blog/who-s-reading-the-code-your-ai-writes"
  ],
  "Thumbtack": [
   "https://medium.com/p/7a381b47c640",
