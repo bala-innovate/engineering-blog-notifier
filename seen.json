@@ -762,8 +762,8 @@
  ],
  "Auth0": [
   "https://auth0.com/blog/auth0-powered-saas-providers-unlock-growth-okta-integration-network/",
-  "https://auth0.com/blog/scaling-ai-agent-identity-cimd-application-profiles/",
   "https://auth0.com/blog/terraform-auth0-modules/",
+  "https://auth0.com/blog/scaling-ai-agent-identity-cimd-application-profiles/",
   "https://auth0.com/blog/your-agent-can-better-drive-auth0-cli-with-agent-mode/",
   "https://auth0.com/blog/what-is-id-jag/",
   "https://auth0.com/blog/securing-ai-agents-with-auth0-cimd-token-exchange/",
@@ -1656,7 +1656,7 @@
   "https://www.databricks.com/blog/how-teach-databricks-free-edition",
   "https://www.databricks.com/blog/building-live-intelligence-databricks-ai-search-supports-streaming-tables-materialized-views",
   "https://www.databricks.com/blog/media-industry-becoming-prediction-economy",
-  "https://www.databricks.com/blog/real-time-energy-trading-and-analytics-databricks"
+  "https://www.databricks.com/blog/built-agents-case-spark-declarative-pipelines"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -1994,6 +1994,7 @@
   "https://dropbox.tech/machine-learning/introducing-nova-our-internal-platform-for-coding-agents"
  ],
  "Ebay": [
+  "https://www.ebayinc.com/stories/news/ebay-inc-reports-third-quarter-2026-results/",
   "https://www.ebayinc.com/stories/news/surprising-things-we-learned-from-ebays-2026-recommerce-report/",
   "https://www.ebayinc.com/stories/news/ebay-recommerce-report-secondhand-shopping-rises-worldwide-as-consumers-seek-value-and-stretch-budgets/",
   "https://www.ebayinc.com/stories/news/how-ebay-ceo-jamie-iannone-turns-feedback-into-ideas/",
@@ -2022,8 +2023,7 @@
   "https://www.ebayinc.com/stories/news/ebay-publishes-2025-impact-report/",
   "https://www.ebayinc.com/stories/news/ebay-for-charity-2025-in-review/",
   "https://www.ebayinc.com/stories/news/ebay-watchlist-trend-report-illustrates-how-spring-and-summer-trends-translate-into-resale-behavior/",
-  "https://www.ebayinc.com/stories/news/ebay-rejects-unsolicited-proposal-from-gamestop/",
-  "https://www.ebayinc.com/stories/news/ebay-foundation-appoints-new-board-member-to-drive-community-impact/"
+  "https://www.ebayinc.com/stories/news/ebay-rejects-unsolicited-proposal-from-gamestop/"
  ],
  "Eddie Smith": [
   "http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html",
@@ -13003,6 +13003,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112803",
   "https://devblogs.microsoft.com/oldnewthing/?p=112800",
   "https://devblogs.microsoft.com/oldnewthing/?p=112797",
   "https://devblogs.microsoft.com/oldnewthing/?p=112793",
@@ -13011,8 +13012,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112784",
   "https://devblogs.microsoft.com/oldnewthing/?p=112781",
   "https://devblogs.microsoft.com/oldnewthing/?p=112778",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112776",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112774"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112776"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
