@@ -1655,8 +1655,8 @@
   "https://www.databricks.com/blog/how-teach-databricks-free-edition",
   "https://www.databricks.com/blog/building-live-intelligence-databricks-ai-search-supports-streaming-tables-materialized-views",
   "https://www.databricks.com/blog/media-industry-becoming-prediction-economy",
-  "https://www.databricks.com/blog/real-time-energy-trading-and-analytics-databricks",
-  "https://www.databricks.com/blog/built-agents-case-spark-declarative-pipelines"
+  "https://www.databricks.com/blog/built-agents-case-spark-declarative-pipelines",
+  "https://www.databricks.com/blog/real-time-energy-trading-and-analytics-databricks"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -7695,6 +7695,7 @@
   "tag:blogger.com,1999:blog-12467669.post-4397718258999689893"
  ],
  "Jeff Atwood": [
+  "6ae12e07d0ae55000185b135",
   "6ab69ba5af2c9f00011a06a5",
   "6a94f78688e17b0001b1b374",
   "6a1190f293c8080001c4f565",
@@ -7708,8 +7709,7 @@
   "62225c0cca10de003db5e1f7",
   "61cfb0fa34500c00482dc601",
   "5e9cd090c3c8fd0038b12a3f",
-  "5d5c700979b255003874fb4d",
-  "5d5ba9f979b255003874fb4a"
+  "5d5c700979b255003874fb4d"
  ],
  "Jeff Preshing": [
   "https://preshing.com/?p=20210315",
@@ -9585,7 +9585,6 @@
   "https://www.maptiler.com/news/2014/01/visual-georeferencing-in-maptiler-0-5-2"
  ],
  "Marcelo Rinesi": [
-  "https://blog.rinesi.com/2026/01/affinity/index.html",
   "https://blog.rinesi.com/2026/01/final-summation/index.html",
   "https://blog.rinesi.com/2026/01/smart-city/index.html",
   "https://blog.rinesi.com/2026/01/seaside-whispers/index.html",
@@ -9634,7 +9633,8 @@
   "https://blog.rinesi.com/2026/10/nighttime-games/index.html",
   "https://blog.rinesi.com/2026/10/graduation-night/index.html",
   "https://blog.rinesi.com/2026/10/end-times-pill/index.html",
-  "https://blog.rinesi.com/2026/10/of-gardens-and-love/index.html"
+  "https://blog.rinesi.com/2026/10/of-gardens-and-love/index.html",
+  "https://blog.rinesi.com/2026/10/scenarios/index.html"
  ],
  "Marco Pivetta": [
   "https://ocramius.github.io/blog/php-logging-with-psr-3/",
@@ -13003,6 +13003,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112800",
   "https://devblogs.microsoft.com/oldnewthing/?p=112797",
   "https://devblogs.microsoft.com/oldnewthing/?p=112793",
   "https://devblogs.microsoft.com/oldnewthing/?p=112791",
@@ -13011,8 +13012,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112781",
   "https://devblogs.microsoft.com/oldnewthing/?p=112778",
   "https://devblogs.microsoft.com/oldnewthing/?p=112776",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112774",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112769"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112774"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
