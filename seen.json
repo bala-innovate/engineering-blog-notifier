@@ -6173,6 +6173,7 @@
   "https://medium.com/p/e08972ae873e"
  ],
  "Hostinger": [
+  "https://www.hostinger.com/blog/?p=10803",
   "https://www.hostinger.com/blog/?p=10767",
   "https://www.hostinger.com/blog/?p=10768",
   "https://www.hostinger.com/blog/?p=10753",
@@ -6180,8 +6181,7 @@
   "https://www.hostinger.com/blog/?p=10726",
   "https://www.hostinger.com/blog/?p=10697",
   "https://www.hostinger.com/blog/?p=10691",
-  "https://www.hostinger.com/blog/?p=10683",
-  "https://www.hostinger.com/blog/?p=10660"
+  "https://www.hostinger.com/blog/?p=10683"
  ],
  "Housing.com": [
   "https://medium.com/p/9ea96a1f9fbe",
@@ -9182,6 +9182,7 @@
   "https://lea.verou.me/blog/2026/icons/"
  ],
  "Lerner Consulting Blog": [
+  "https://lernerpython.com/2026/10/28/pandas-xs-using-the-level-argument-with-an-int-or-a-name/",
   "https://lernerpython.com/2026/10/24/pandas-multiindex-select-rows-by-the-outer-level-with-loc/",
   "https://lernerpython.com/2026/10/23/pandas-offset-aliases-for-resample-me-ms-and-other-codes/",
   "https://lernerpython.com/2026/10/20/pandas-datetimeindex-slicing-fix-keyerror-with-sort-index/",
@@ -9190,8 +9191,7 @@
   "https://lernerpython.com/2026/10/16/pandas-grouper-group-datetime-columns-by-custom-time-periods/",
   "https://lernerpython.com/2026/10/14/pandas-groupby-on-datetime-parts-with-the-dt-accessor/",
   "https://lernerpython.com/2026/10/12/pandas-groupby-aggregating-multiple-columns-with-multiple-functions/",
-  "https://lernerpython.com/2026/10/11/pandas-groupby-multiple-columns-and-multiple-aggregation-methods/",
-  "https://lernerpython.com/2026/10/09/pandas-groupby-get-a-data-frame-instead-of-a-series/"
+  "https://lernerpython.com/2026/10/11/pandas-groupby-multiple-columns-and-multiple-aggregation-methods/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -11003,6 +11003,7 @@
   "https://blogs.nvidia.com/?p=99221"
  ],
  "OCTO Technology": [
+  "https://blog.octo.com/harnais-agentiques-(epilogue)--travailler-au-quotidien-avec-un-agent-de-frontiere",
   "https://blog.octo.com/et-si-votre-super-idee-innovante-de-projet-agentique-avait-deja-ete-pensee-par-votre-editeur-de-data-plateforme--1",
   "https://blog.octo.com/octo-que-s'est-il-passe-avec-les-packages-npm-sur-ces-12-derniers-mois",
   "https://blog.octo.com/harnais-agentiques-(22)--huit-reflexes-a-desapprendre-pour-un-harnais-frugal-1",
@@ -11011,8 +11012,7 @@
   "https://blog.octo.com/llm-local-sur-ios-27--ce-qu'apple-ne-dit-pas-dans-la-doc",
   "https://blog.octo.com/les-salles-d'agents--le-seul-endroit-ou-l'on-est-content-d'etre-contredit",
   "https://blog.octo.com/vers-une-plateforme-de-modeles",
-  "https://blog.octo.com/trois-techniques-d'animation-utiles-pour-les-consultantes",
-  "https://blog.octo.com/jumeau-numerique-systemique--referentiel-et-data"
+  "https://blog.octo.com/trois-techniques-d'animation-utiles-pour-les-consultantes"
  ],
  "OLX": [
   "https://medium.com/p/ee1519586520",
@@ -14638,6 +14638,8 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/ai-testing-tools-benefits-limitations-and-best-practices/",
+  "https://www.sitepoint.com/how-applicant-tracking-systems-read-resumes-7-checks-developers-should-make/",
   "https://www.sitepoint.com/how-to-source-passive-candidates/",
   "https://www.sitepoint.com/how-to-create-effective-cold-email-sequences-that-generate-replies-a-developer-s-guide/",
   "https://www.sitepoint.com/7-checks-that-make-form-bugs-easier-to-reproduce-across-teams/",
@@ -14735,9 +14737,7 @@
   "https://www.sitepoint.com/building-better-web-forms-practical-html-css-and-javascript-techniques-for-modern-websites/",
   "https://www.sitepoint.com/ampere-system-profiler/",
   "https://www.sitepoint.com/reverse-engineering-with-ai-rea-electron-tracing/",
-  "https://www.sitepoint.com/designing-a-safer-account-recovery-backend-for-consumer-apps/",
-  "https://www.sitepoint.com/beyond-the-password-reset-building-recovery-experiences-that-protect-online-shoppers/",
-  "https://www.sitepoint.com/designing-reliable-offline-experiences-for-modern-web-applications/"
+  "https://www.sitepoint.com/designing-a-safer-account-recovery-backend-for-consumer-apps/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15916,11 +15916,6 @@
  ],
  "Twilio": [
   "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1",
-  "https://www.twilio.com/en-us/blog/events/Brillinat-builds-episode-2",
-  "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-3",
-  "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-legacy-linux-devices",
-  "https://www.twilio.com/en-us/blog/insights/proactive-ai-agent-outbound-calling",
   "https://www.twilio.com/en-us/blog/insights/cx-benchmarks-enterprise-deployments",
   "https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms",
   "https://www.twilio.com/en-us/blog/insights/best-practices/passkeys",
@@ -15944,7 +15939,12 @@
   "https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve",
   "https://www.twilio.com/en-us/blog/events/webinar-master-automated-journeys",
   "https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-sept-2026",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-php"
+  "https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-php",
+  "https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-go",
+  "https://www.twilio.com/en-us/blog/insights/peak-season-deliverability-quality-beats-quantity",
+  "https://www.twilio.com/en-us/blog/developers/best-practices/secure-voice-agent-demos",
+  "https://www.twilio.com/en-us/blog/insights/design-ai-agent-for-resolution",
+  "https://www.twilio.com/en-us/blog/products/launches/branded-calling-att-t-mobile-verizon-networks"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
