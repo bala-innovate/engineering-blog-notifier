@@ -725,6 +725,7 @@
   "tag:blog.arkency.com,2026-07-16:/3-example-process-managers-in-rails/"
  ],
  "Armin Ronacher": [
+  "https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/",
   "https://lucumr.pocoo.org/2026/10/6/codemode/",
   "https://lucumr.pocoo.org/2026/9/29/deser/",
   "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/",
@@ -733,8 +734,7 @@
   "https://lucumr.pocoo.org/2026/9/5/latent-powers/",
   "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
   "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-  "https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/",
-  "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/"
+  "https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/"
  ],
  "Artsy": [
   "https://artsy.github.io/blog/2026/10/26/going-all-in-on-ai-agents-for-five-weeks/",
@@ -1423,6 +1423,7 @@
   "01M4Y1477Z7DBJHXRZDP6MM2FN"
  ],
  "Confluent": [
+  "https://www.confluent.io/blog/introducing-apache-kafka-4-4-0/",
   "https://www.confluent.io/blog/new-forrester-study-why-modernizing-data-streaming-is-about-more-than-cost-savings/",
   "https://www.confluent.io/blog/confluent-strengthens-trust-for-singapores-markets-with-ospar-attestation/",
   "https://www.confluent.io/blog/third-party-risk-assessments-or-how-confluent-helps-you-move-faster-with-confidence/",
@@ -1431,8 +1432,7 @@
   "https://www.confluent.io/blog/building-an-agentic-soc-on-a-stream/",
   "https://www.confluent.io/blog/hemut-building-the-internet-of-freight-on-real-time-data/",
   "https://www.confluent.io/blog/2026-q3-confluent-cloud-launch/",
-  "https://www.confluent.io/blog/2026-q3-confluent-intelligence-ai-update/",
-  "https://www.confluent.io/blog/flink-mission-critical-operations-data-engg/"
+  "https://www.confluent.io/blog/2026-q3-confluent-intelligence-ai-update/"
  ],
  "Criteo": [
   "https://medium.com/p/d477d39a286f",
@@ -9332,6 +9332,7 @@
   "https://medium.com/p/00853df009df"
  ],
  "MapTiler": [
+  "https://www.maptiler.com/news/2026/10/natural-disaster-maps-visualizing-acts-of-god-and-extreme-weather",
   "https://www.maptiler.com/news/2026/09/maptiler-sdk-for-mobile-native-maps-for-ios-and-android",
   "https://www.maptiler.com/news/2026/09/how-to-read-contour-lines",
   "https://www.maptiler.com/news/2026/09/understanding-x-and-y-coordinates-in-gis-web-mapping",
@@ -10957,6 +10958,7 @@
   "https://nikola-breznjak.com/blog/?p=4823"
  ],
  "Nordic APIs": [
+  "https://nordicapis.com/?p=24396",
   "https://nordicapis.com/?p=24377",
   "https://nordicapis.com/?p=24363",
   "https://nordicapis.com/?p=24336",
@@ -10965,8 +10967,7 @@
   "https://nordicapis.com/?p=24257",
   "https://nordicapis.com/?p=24230",
   "https://nordicapis.com/?p=24189",
-  "https://nordicapis.com/?p=24179",
-  "https://nordicapis.com/?p=24202"
+  "https://nordicapis.com/?p=24179"
  ],
  "Novoda": [
   "https://novoda.com/?p=10414",
@@ -10983,6 +10984,7 @@
   "https://novoda.com/?p=10009"
  ],
  "Nvidia": [
+  "https://blogs.nvidia.com/?p=98677",
   "https://blogs.nvidia.com/?p=99565",
   "https://blogs.nvidia.com/?p=99523",
   "https://blogs.nvidia.com/?p=99512",
@@ -10999,8 +11001,7 @@
   "https://blogs.nvidia.com/?p=99227",
   "https://blogs.nvidia.com/?p=99232",
   "https://blogs.nvidia.com/?p=99195",
-  "https://blogs.nvidia.com/?p=99204",
-  "https://blogs.nvidia.com/?p=99214"
+  "https://blogs.nvidia.com/?p=99204"
  ],
  "OCTO Technology": [
   "https://blog.octo.com/harnais-agentiques-(epilogue)--travailler-au-quotidien-avec-un-agent-de-frontiere",
@@ -13771,6 +13772,7 @@
   "/2013/08/24/postgresql-sequences-and-array-column-types.html"
  ],
  "Serverless": [
+  "https://www.serverless.com/blog/web-apps-on-aws-lambda",
   "https://www.serverless.com/blog/dev-mode-v2",
   "https://www.serverless.com/blog/serverless-framework-built-for-ai-coding-agents",
   "https://www.serverless.com/blog/deploy-mcp-servers-on-aws-lambda-with-serverless-framework-v4",
@@ -14638,9 +14640,12 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/testing-json-ld-like-an-api-7-checks-before-your-next-release/",
   "https://www.sitepoint.com/ai-testing-tools-benefits-limitations-and-best-practices/",
   "https://www.sitepoint.com/how-applicant-tracking-systems-read-resumes-7-checks-developers-should-make/",
   "https://www.sitepoint.com/how-to-source-passive-candidates/",
+  "https://www.sitepoint.com/generators-and-iterators-in-javascript-lazy-data-and-async-flows/",
+  "https://www.sitepoint.com/what-is-the-best-ui-testing-tool-8-tools-compared-by-the-job-they-do-2026/",
   "https://www.sitepoint.com/how-to-create-effective-cold-email-sequences-that-generate-replies-a-developer-s-guide/",
   "https://www.sitepoint.com/7-checks-that-make-form-bugs-easier-to-reproduce-across-teams/",
   "https://www.sitepoint.com/7-ways-to-keep-api-changes-safe-as-more-teams-join-a-project/",
@@ -14734,10 +14739,7 @@
   "https://www.sitepoint.com/7-responsive-design-checks-every-service-website-needs-before-launch/",
   "https://www.sitepoint.com/modern-css-layouts-building-responsive-websites-without-unnecessary-complexity/",
   "https://www.sitepoint.com/writing-maintainable-javascript-practical-patterns-for-scalable-web-applications/",
-  "https://www.sitepoint.com/building-better-web-forms-practical-html-css-and-javascript-techniques-for-modern-websites/",
-  "https://www.sitepoint.com/ampere-system-profiler/",
-  "https://www.sitepoint.com/reverse-engineering-with-ai-rea-electron-tracing/",
-  "https://www.sitepoint.com/designing-a-safer-account-recovery-backend-for-consumer-apps/"
+  "https://www.sitepoint.com/building-better-web-forms-practical-html-css-and-javascript-techniques-for-modern-websites/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15055,6 +15057,7 @@
   "2126"
  ],
  "Stack Overflow": [
+  "af995b78-ffc3-49a7-b34a-5591a8d4cc6c",
   "ebcfb20b-77a8-4861-8d00-04bac4cbf04f",
   "aff25b90-6c0a-41e4-b8f6-f6e24c534c7f",
   "3b45bd6a-a1d0-4a4d-99f1-cd6feb56e083",
@@ -15093,8 +15096,7 @@
   "87db7fa7-a39a-4360-84e3-7f238967dc83",
   "c16e91de-8a75-41b6-9b56-e6317efdf272",
   "54229ad2-0556-4c51-8f91-fdbae9d12a6e",
-  "d1dcc7aa-a336-44c6-bc74-5579f00d71a1",
-  "ff7ebfaf-2c77-42f0-b979-971af7d74278"
+  "d1dcc7aa-a336-44c6-bc74-5579f00d71a1"
  ],
  "Stanko Tadi\u0107": [
   "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
@@ -15919,6 +15921,7 @@
   "https://www.twilio.com/en-us/blog/events/Brillinat-builds-episode-2",
   "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-3",
   "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4",
+  "https://www.twilio.com/en-us/blog/insights/multilingual-ai-agents",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-legacy-linux-devices",
   "https://www.twilio.com/en-us/blog/integrate-anthropic-twilio-voice-using-conversationrelay",
   "https://www.twilio.com/en-us/blog/anthropic-conversationrelay-token-streaming-interruptions-javascript",
@@ -15943,8 +15946,7 @@
   "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week",
   "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga",
   "https://www.twilio.com/en-us/blog/partners/integrations/voice-sms-whatsapp-salesforce",
-  "https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve",
-  "https://www.twilio.com/en-us/blog/events/webinar-master-automated-journeys"
+  "https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
