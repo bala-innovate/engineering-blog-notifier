@@ -1647,6 +1647,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0",
   "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
   "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
   "https://www.databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation",
@@ -1655,8 +1656,7 @@
   "https://www.databricks.com/blog/unify-your-productivity-and-ai-data-lakeflow-connect",
   "https://www.databricks.com/blog/how-teach-databricks-free-edition",
   "https://www.databricks.com/blog/building-live-intelligence-databricks-ai-search-supports-streaming-tables-materialized-views",
-  "https://www.databricks.com/blog/media-industry-becoming-prediction-economy",
-  "https://www.databricks.com/blog/built-agents-case-spark-declarative-pipelines"
+  "https://www.databricks.com/blog/media-industry-becoming-prediction-economy"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -9585,7 +9585,6 @@
   "https://www.maptiler.com/news/2014/01/visual-georeferencing-in-maptiler-0-5-2"
  ],
  "Marcelo Rinesi": [
-  "https://blog.rinesi.com/2026/01/final-summation/index.html",
   "https://blog.rinesi.com/2026/01/smart-city/index.html",
   "https://blog.rinesi.com/2026/01/seaside-whispers/index.html",
   "https://blog.rinesi.com/2026/01/against-developer-productivity/index.html",
@@ -9634,7 +9633,8 @@
   "https://blog.rinesi.com/2026/10/graduation-night/index.html",
   "https://blog.rinesi.com/2026/10/end-times-pill/index.html",
   "https://blog.rinesi.com/2026/10/of-gardens-and-love/index.html",
-  "https://blog.rinesi.com/2026/10/scenarios/index.html"
+  "https://blog.rinesi.com/2026/10/scenarios/index.html",
+  "https://blog.rinesi.com/2026/10/worlds-best-athlete/index.html"
  ],
  "Marco Pivetta": [
   "https://ocramius.github.io/blog/php-logging-with-psr-3/",
@@ -14639,14 +14639,10 @@
  ],
  "SitePoint": [
   "https://www.sitepoint.com/how-to-source-passive-candidates/",
-  "https://www.sitepoint.com/build-a-reliable-analytics-pipeline-before-migrating-to-a-data-warehouse/",
-  "https://www.sitepoint.com/how-ai-agents-can-access-more-up-to-date-information/",
   "https://www.sitepoint.com/how-to-create-effective-cold-email-sequences-that-generate-replies-a-developer-s-guide/",
   "https://www.sitepoint.com/7-checks-that-make-form-bugs-easier-to-reproduce-across-teams/",
   "https://www.sitepoint.com/7-ways-to-keep-api-changes-safe-as-more-teams-join-a-project/",
   "https://www.sitepoint.com/a-practical-workflow-for-testing-javascript-forms-before-deployment/",
-  "https://www.sitepoint.com/how-to-build-location-aware-interfaces-that-handle-language-currency-and-region-correctly/",
-  "https://www.sitepoint.com/how-to-build-a-human-review-workflow-for-a-rag-documentation-assistant/",
   "https://www.sitepoint.com/building-location-aware-interfaces-without-mixing-up-language-currency-and-region/",
   "https://www.sitepoint.com/best-ai-recruiting-agents/",
   "https://www.sitepoint.com/6-tools-for-building-email-automations-you-can-test-and-debug/",
@@ -14737,7 +14733,11 @@
   "https://www.sitepoint.com/modern-css-layouts-building-responsive-websites-without-unnecessary-complexity/",
   "https://www.sitepoint.com/writing-maintainable-javascript-practical-patterns-for-scalable-web-applications/",
   "https://www.sitepoint.com/building-better-web-forms-practical-html-css-and-javascript-techniques-for-modern-websites/",
-  "https://www.sitepoint.com/ampere-system-profiler/"
+  "https://www.sitepoint.com/ampere-system-profiler/",
+  "https://www.sitepoint.com/reverse-engineering-with-ai-rea-electron-tracing/",
+  "https://www.sitepoint.com/designing-a-safer-account-recovery-backend-for-consumer-apps/",
+  "https://www.sitepoint.com/beyond-the-password-reset-building-recovery-experiences-that-protect-online-shoppers/",
+  "https://www.sitepoint.com/designing-reliable-offline-experiences-for-modern-web-applications/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15916,6 +15916,11 @@
  ],
  "Twilio": [
   "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1",
+  "https://www.twilio.com/en-us/blog/events/Brillinat-builds-episode-2",
+  "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-3",
+  "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4",
+  "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-legacy-linux-devices",
+  "https://www.twilio.com/en-us/blog/insights/proactive-ai-agent-outbound-calling",
   "https://www.twilio.com/en-us/blog/insights/cx-benchmarks-enterprise-deployments",
   "https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms",
   "https://www.twilio.com/en-us/blog/insights/best-practices/passkeys",
@@ -15939,12 +15944,7 @@
   "https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve",
   "https://www.twilio.com/en-us/blog/events/webinar-master-automated-journeys",
   "https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-sept-2026",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-php",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-go",
-  "https://www.twilio.com/en-us/blog/insights/peak-season-deliverability-quality-beats-quantity",
-  "https://www.twilio.com/en-us/blog/developers/best-practices/secure-voice-agent-demos",
-  "https://www.twilio.com/en-us/blog/insights/design-ai-agent-for-resolution",
-  "https://www.twilio.com/en-us/blog/products/launches/branded-calling-att-t-mobile-verizon-networks"
+  "https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-php"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
