@@ -1613,6 +1613,7 @@
   "https://danluu.com/pl-troll/"
  ],
  "Daniel Doubrovkine (dB.)": [
+  "https://code.dblock.org/2026/10/30/the-matter-of-taste",
   "https://code.dblock.org/2026/10/29/one-tool-for-the-spell-checking-job",
   "https://code.dblock.org/2026/10/23/i-am-just-one-engineer-armed-with-ai",
   "https://code.dblock.org/2026/10/22/introducing-markdownlint-rule-spellcheck",
@@ -1631,8 +1632,7 @@
   "https://code.dblock.org/2026/09/19/serving-markdown-with-a-jekyll-plugin",
   "https://code.dblock.org/2026/09/17/in-meetings-raise-hands-before-reading",
   "https://code.dblock.org/2026/09/16/porting-strata-to-microsoft-teams-entirely-with-ai",
-  "https://code.dblock.org/2026/09/05/standardizing-exception-message-style-in-ruby",
-  "https://code.dblock.org/2026/08/28/adventures-in-daylight-saving-norfolk-island-and-time-zone-math-in-ruby"
+  "https://code.dblock.org/2026/09/05/standardizing-exception-message-style-in-ruby"
  ],
  "Daniel Schmidt": [
   "https://medium.com/p/825e6dedf46d",
@@ -1647,16 +1647,16 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
+  "https://www.databricks.com/blog/wealth-management-client-onboarding-needs-more-ai",
+  "https://www.databricks.com/blog/deliberate-decisions-and-enterprise-ai-value",
   "https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks",
   "https://www.databricks.com/blog/smarter-cost-controls-serverless",
   "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0",
   "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
   "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
-  "https://www.databricks.com/blog/spot-fixes-measured-gains-improving-document-extraction-accuracy-aiextract-and-mlflow-prompt",
   "https://www.databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation",
-  "https://www.databricks.com/blog/bigquery-databricks-strategic-framework",
-  "https://www.databricks.com/blog/unify-your-productivity-and-ai-data-lakeflow-connect",
-  "https://www.databricks.com/blog/how-teach-databricks-free-edition"
+  "https://www.databricks.com/blog/spot-fixes-measured-gains-improving-document-extraction-accuracy-aiextract-and-mlflow-prompt"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -12998,6 +12998,7 @@
   "http://nativeguru.wordpress.com/?p=32"
  ],
  "Ray Wenderlich": [
+  "https://www.kodeco.com/53754585-what-s-new-in-swift-6-4",
   "https://www.kodeco.com/ios/paths/validating-ai-code/53684638-using-ai-for-testing-in-ios",
   "https://www.kodeco.com/ios/paths/ai-assisted-ios-dev/53684539-codebase-exploration-with-ai",
   "https://www.kodeco.com/ios/programs/ai-assisted-ios-development",
@@ -13018,7 +13019,6 @@
   "https://www.kodeco.com/52032928-kodebits-day-91-property-observer",
   "https://www.kodeco.com/53560697-moving-from-xctest-to-swift-testing",
   "https://www.kodeco.com/52032926-kodebits-day-90-named-arguments",
-  "https://www.kodeco.com/52032923-kodebits-day-89-enum-raw-values",
   "https://www.kodeco.com/ai/programs/ai-apis",
   "https://www.kodeco.com/ai/paths/python",
   "https://www.kodeco.com/ai/paths/azure-ai-services",
@@ -15443,6 +15443,7 @@
   "https://medium.com/p/9e47a6c8743b"
  ],
  "Stripe": [
+  "https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts",
   "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
   "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services",
   "https://stripe.com/blog/saas-platform-trends-in-AI-era",
@@ -15451,8 +15452,7 @@
   "https://stripe.com/blog/economics-of-ai-monetization",
   "https://stripe.com/blog/where-pricing-is-headed",
   "https://stripe.com/blog/ousd-now-live-on-stripe",
-  "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link",
-  "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum"
+  "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link"
  ],
  "SurveyMonkey": [
   "https://www.surveymonkey.com/curiosity/ask-the-market-holiday-shopping-pricing/",
@@ -15960,13 +15960,12 @@
  ],
  "Twilio": [
   "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1",
+  "https://www.twilio.com/en-us/blog/events/Brillinat-builds-episode-2",
   "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-3",
   "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4",
-  "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2",
-  "https://www.twilio.com/en-us/blog/insights/multilingual-ai-agents",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-legacy-linux-devices",
-  "https://www.twilio.com/en-us/blog/anthropic-conversationrelay-token-streaming-interruptions-javascript",
   "https://www.twilio.com/en-us/blog/integrate-anthropic-twilio-voice-using-conversationrelay",
+  "https://www.twilio.com/en-us/blog/anthropic-conversationrelay-token-streaming-interruptions-javascript",
   "https://www.twilio.com/en-us/blog/insights/proactive-ai-agent-outbound-calling",
   "https://www.twilio.com/en-us/blog/insights/cx-benchmarks-enterprise-deployments",
   "https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms",
@@ -15988,7 +15987,8 @@
   "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week",
   "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga",
   "https://www.twilio.com/en-us/blog/partners/integrations/voice-sms-whatsapp-salesforce",
-  "https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve"
+  "https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve",
+  "https://www.twilio.com/en-us/blog/events/webinar-master-automated-journeys"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
