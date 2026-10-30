@@ -1652,8 +1652,8 @@
   "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0",
   "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
   "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
-  "https://www.databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation",
   "https://www.databricks.com/blog/spot-fixes-measured-gains-improving-document-extraction-accuracy-aiextract-and-mlflow-prompt",
+  "https://www.databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation",
   "https://www.databricks.com/blog/bigquery-databricks-strategic-framework",
   "https://www.databricks.com/blog/unify-your-productivity-and-ai-data-lakeflow-connect",
   "https://www.databricks.com/blog/how-teach-databricks-free-edition"
@@ -6173,6 +6173,7 @@
   "https://medium.com/p/e08972ae873e"
  ],
  "Hostinger": [
+  "https://www.hostinger.com/blog/?p=10820",
   "https://www.hostinger.com/blog/?p=10803",
   "https://www.hostinger.com/blog/?p=10767",
   "https://www.hostinger.com/blog/?p=10768",
@@ -6180,8 +6181,7 @@
   "https://www.hostinger.com/blog/?p=10740",
   "https://www.hostinger.com/blog/?p=10726",
   "https://www.hostinger.com/blog/?p=10697",
-  "https://www.hostinger.com/blog/?p=10691",
-  "https://www.hostinger.com/blog/?p=10683"
+  "https://www.hostinger.com/blog/?p=10691"
  ],
  "Housing.com": [
   "https://medium.com/p/9ea96a1f9fbe",
@@ -13004,6 +13004,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112808",
   "https://devblogs.microsoft.com/oldnewthing/?p=112803",
   "https://devblogs.microsoft.com/oldnewthing/?p=112800",
   "https://devblogs.microsoft.com/oldnewthing/?p=112797",
@@ -13012,8 +13013,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112786",
   "https://devblogs.microsoft.com/oldnewthing/?p=112784",
   "https://devblogs.microsoft.com/oldnewthing/?p=112781",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112778",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112776"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112778"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -15057,6 +15057,7 @@
   "2126"
  ],
  "Stack Overflow": [
+  "3e9f61bf-ac99-4dda-99be-643153e773f6",
   "af995b78-ffc3-49a7-b34a-5591a8d4cc6c",
   "ebcfb20b-77a8-4861-8d00-04bac4cbf04f",
   "aff25b90-6c0a-41e4-b8f6-f6e24c534c7f",
@@ -15095,8 +15096,7 @@
   "de7402bc-e47f-4b31-999d-f83f9860ff5d",
   "87db7fa7-a39a-4360-84e3-7f238967dc83",
   "c16e91de-8a75-41b6-9b56-e6317efdf272",
-  "54229ad2-0556-4c51-8f91-fdbae9d12a6e",
-  "d1dcc7aa-a336-44c6-bc74-5579f00d71a1"
+  "54229ad2-0556-4c51-8f91-fdbae9d12a6e"
  ],
  "Stanko Tadi\u0107": [
   "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
