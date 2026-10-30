@@ -1647,16 +1647,16 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks",
   "https://www.databricks.com/blog/smarter-cost-controls-serverless",
   "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0",
   "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
   "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
-  "https://www.databricks.com/blog/spot-fixes-measured-gains-improving-document-extraction-accuracy-aiextract-and-mlflow-prompt",
   "https://www.databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation",
+  "https://www.databricks.com/blog/spot-fixes-measured-gains-improving-document-extraction-accuracy-aiextract-and-mlflow-prompt",
   "https://www.databricks.com/blog/bigquery-databricks-strategic-framework",
   "https://www.databricks.com/blog/unify-your-productivity-and-ai-data-lakeflow-connect",
-  "https://www.databricks.com/blog/how-teach-databricks-free-edition",
-  "https://www.databricks.com/blog/building-live-intelligence-databricks-ai-search-supports-streaming-tables-materialized-views"
+  "https://www.databricks.com/blog/how-teach-databricks-free-edition"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -15921,7 +15921,6 @@
   "https://www.twilio.com/en-us/blog/events/Brillinat-builds-episode-2",
   "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-3",
   "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4",
-  "https://www.twilio.com/en-us/blog/insights/multilingual-ai-agents",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-legacy-linux-devices",
   "https://www.twilio.com/en-us/blog/integrate-anthropic-twilio-voice-using-conversationrelay",
   "https://www.twilio.com/en-us/blog/anthropic-conversationrelay-token-streaming-interruptions-javascript",
@@ -15946,7 +15945,8 @@
   "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week",
   "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga",
   "https://www.twilio.com/en-us/blog/partners/integrations/voice-sms-whatsapp-salesforce",
-  "https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve"
+  "https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve",
+  "https://www.twilio.com/en-us/blog/events/webinar-master-automated-journeys"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
