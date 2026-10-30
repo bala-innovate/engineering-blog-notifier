@@ -749,6 +749,7 @@
   "https://artsy.github.io/blog/2022/04/13/stepping-out-of-the-knowledge-zone/"
  ],
  "Atomic Object": [
+  "https://spin.atomicobject.com/?p=3676006",
   "https://spin.atomicobject.com/?p=3676010",
   "https://spin.atomicobject.com/?p=3675993",
   "https://spin.atomicobject.com/?p=3675853",
@@ -757,8 +758,7 @@
   "https://spin.atomicobject.com/?p=3675896",
   "https://spin.atomicobject.com/?p=3675937",
   "https://spin.atomicobject.com/?p=3675984",
-  "https://spin.atomicobject.com/?p=3675894",
-  "https://spin.atomicobject.com/?p=3675849"
+  "https://spin.atomicobject.com/?p=3675894"
  ],
  "Auth0": [
   "https://auth0.com/blog/auth0-powered-saas-providers-unlock-growth-okta-integration-network/",
@@ -897,6 +897,7 @@
   "https://medium.com/p/7f183657f0d9"
  ],
  "Blender": [
+  "https://code.blender.org/?p=13611",
   "https://code.blender.org/?p=13548",
   "https://code.blender.org/?p=13558",
   "https://code.blender.org/?p=13495",
@@ -905,8 +906,7 @@
   "https://code.blender.org/?p=13206",
   "https://code.blender.org/?p=13055",
   "https://code.blender.org/?p=13007",
-  "https://code.blender.org/?p=12979",
-  "https://code.blender.org/?p=12924"
+  "https://code.blender.org/?p=12979"
  ],
  "Blundell's Android Tutorials": [
   "https://blog.blundellapps.co.uk/?p=1859",
@@ -2371,6 +2371,7 @@
   "http://code.flickr.net/?p=3370"
  ],
  "Freek Van der Herten": [
+  "https://freek.dev/3210",
   "https://freek.dev/3209",
   "https://freek.dev/3208",
   "https://freek.dev/3207",
@@ -2389,8 +2390,7 @@
   "https://freek.dev/3201",
   "https://freek.dev/3199",
   "https://freek.dev/3198",
-  "https://freek.dev/3197",
-  "https://freek.dev/3196"
+  "https://freek.dev/3197"
  ],
  "Freeletics": [
   "/2021/11/16/droidcon-berlin-2021",
@@ -6173,15 +6173,15 @@
   "https://medium.com/p/e08972ae873e"
  ],
  "Hostinger": [
+  "https://www.hostinger.com/blog/?p=10858",
+  "https://www.hostinger.com/blog/?p=10849",
+  "https://www.hostinger.com/blog/?p=10833",
   "https://www.hostinger.com/blog/?p=10820",
   "https://www.hostinger.com/blog/?p=10803",
   "https://www.hostinger.com/blog/?p=10767",
   "https://www.hostinger.com/blog/?p=10768",
   "https://www.hostinger.com/blog/?p=10753",
-  "https://www.hostinger.com/blog/?p=10740",
-  "https://www.hostinger.com/blog/?p=10726",
-  "https://www.hostinger.com/blog/?p=10697",
-  "https://www.hostinger.com/blog/?p=10691"
+  "https://www.hostinger.com/blog/?p=10740"
  ],
  "Housing.com": [
   "https://medium.com/p/9ea96a1f9fbe",
@@ -9182,6 +9182,7 @@
   "https://lea.verou.me/blog/2026/icons/"
  ],
  "Lerner Consulting Blog": [
+  "https://lernerpython.com/2026/10/29/pandas-xs-keep-the-dropped-level-with-drop-level-false/",
   "https://lernerpython.com/2026/10/28/pandas-xs-using-the-level-argument-with-an-int-or-a-name/",
   "https://lernerpython.com/2026/10/24/pandas-multiindex-select-rows-by-the-outer-level-with-loc/",
   "https://lernerpython.com/2026/10/23/pandas-offset-aliases-for-resample-me-ms-and-other-codes/",
@@ -9190,8 +9191,7 @@
   "https://lernerpython.com/2026/10/17/pandas-grouper-nans-why-outlier-dates-create-empty-groups/",
   "https://lernerpython.com/2026/10/16/pandas-grouper-group-datetime-columns-by-custom-time-periods/",
   "https://lernerpython.com/2026/10/14/pandas-groupby-on-datetime-parts-with-the-dt-accessor/",
-  "https://lernerpython.com/2026/10/12/pandas-groupby-aggregating-multiple-columns-with-multiple-functions/",
-  "https://lernerpython.com/2026/10/11/pandas-groupby-multiple-columns-and-multiple-aggregation-methods/"
+  "https://lernerpython.com/2026/10/12/pandas-groupby-aggregating-multiple-columns-with-multiple-functions/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -13033,6 +13033,7 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
+  "https://realpython.com/podcasts/rpp/317/",
   "https://realpython.com/learn-with-mentor-ai-async-python/",
   "https://realpython.com/quizzes/learn-with-mentor-ai-async-python/",
   "https://realpython.com/quizzes/dicts-arrays-ideal-data-structure/",
@@ -13040,25 +13041,25 @@
   "https://realpython.com/quizzes/create-scalable-flask-web-app/",
   "https://realpython.com/python-circular-imports/",
   "https://realpython.com/mcp-vs-api/",
-  "https://realpython.com/how-to-get-out-of-tutorial-hell/",
   "https://realpython.com/pyrefly-python/",
+  "https://realpython.com/how-to-get-out-of-tutorial-hell/",
   "https://realpython.com/courses/exploring-ai-coding-agent-workflows/",
   "https://realpython.com/quizzes/python-circular-imports/",
   "https://realpython.com/quizzes/mcp-vs-api/",
   "https://realpython.com/quizzes/how-to-get-out-of-tutorial-hell/",
   "https://realpython.com/quizzes/pyrefly-python/",
   "https://realpython.com/quizzes/exploring-ai-coding-agent-workflows/",
+  "https://realpython.com/introduction-to-python-generators/",
+  "https://realpython.com/python-uv/",
   "https://realpython.com/intermediate-python-project-ideas/",
   "https://realpython.com/python-web-scraping-practical-introduction/",
-  "https://realpython.com/python-uv/",
-  "https://realpython.com/chromadb-vector-database/",
   "https://realpython.com/courses/ai-agents-101/",
   "https://realpython.com/quizzes/working-apis-reading-public-data/",
   "https://realpython.com/quizzes/python-web-scraping-practical-introduction/",
   "https://realpython.com/podcasts/rpp/316/",
   "https://realpython.com/courses/python-itertools-by-example/",
-  "https://realpython.com/courses/tell-your-tech-career-story/",
   "https://realpython.com/courses/building-ai-agent-langgraph-python/",
+  "https://realpython.com/courses/tell-your-tech-career-story/",
   "https://realpython.com/podcasts/rpp/315/",
   "https://realpython.com/courses/python-first-steps/",
   "https://realpython.com/podcasts/rpp/314/",
@@ -13072,7 +13073,6 @@
   "https://realpython.com/podcasts/rpp/310/",
   "https://realpython.com/podcasts/rpp/309/",
   "https://realpython.com/podcasts/rpp/308/",
-  "https://realpython.com/podcasts/rpp/307/",
   "https://realpython.com/learning-paths/fastapi/",
   "https://realpython.com/learning-paths/python-game-development/",
   "https://realpython.com/learning-paths/llm-application-development-python/",
@@ -14640,8 +14640,11 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/ai-devops-and-the-cost-of-hosting-from-idea-to-production-for-0/",
+  "https://www.sitepoint.com/how-to-create-an-app-in-chatgpt-in-2026/",
   "https://www.sitepoint.com/testing-json-ld-like-an-api-7-checks-before-your-next-release/",
   "https://www.sitepoint.com/ai-testing-tools-benefits-limitations-and-best-practices/",
+  "https://www.sitepoint.com/how-to-quickly-check-what-your-html-code-looks-like-in-a-browser/",
   "https://www.sitepoint.com/how-applicant-tracking-systems-read-resumes-7-checks-developers-should-make/",
   "https://www.sitepoint.com/how-to-source-passive-candidates/",
   "https://www.sitepoint.com/generators-and-iterators-in-javascript-lazy-data-and-async-flows/",
@@ -14736,10 +14739,7 @@
   "https://www.sitepoint.com/tanstack-query-vs-swr-nextjs-app-router/",
   "https://www.sitepoint.com/count-unique-visitors-without-cookies-tutorial/",
   "https://www.sitepoint.com/node-js-jwks-endpoint-crypto/",
-  "https://www.sitepoint.com/7-responsive-design-checks-every-service-website-needs-before-launch/",
-  "https://www.sitepoint.com/modern-css-layouts-building-responsive-websites-without-unnecessary-complexity/",
-  "https://www.sitepoint.com/writing-maintainable-javascript-practical-patterns-for-scalable-web-applications/",
-  "https://www.sitepoint.com/building-better-web-forms-practical-html-css-and-javascript-techniques-for-modern-websites/"
+  "https://www.sitepoint.com/7-responsive-design-checks-every-service-website-needs-before-launch/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15590,6 +15590,7 @@
   "https://www.thecodedself.com/A-Caution-On-Superfluous-Code/"
  ],
  "The Daily WTF": [
+  "https://thedailywtf.com/articles/named-and",
   "https://thedailywtf.com/articles/oh-k",
   "https://thedailywtf.com/articles/session-recording",
   "https://thedailywtf.com/articles/security-fourth",
@@ -15603,8 +15604,7 @@
   "https://thedailywtf.com/articles/the-frist-line-of-defense",
   "https://thedailywtf.com/articles/a-diamond-in-the-rough",
   "https://thedailywtf.com/articles/digital-mail",
-  "https://thedailywtf.com/articles/a-type-of-type-safety",
-  "https://thedailywtf.com/articles/fast-quick"
+  "https://thedailywtf.com/articles/a-type-of-type-safety"
  ],
  "Thomas Young": [
   "https://upcoder.com/22/the-alignment-trap-ai-safety-as-path-to-power",
