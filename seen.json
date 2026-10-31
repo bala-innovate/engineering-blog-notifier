@@ -2116,12 +2116,12 @@
   "https://www.erlang-solutions.com/?p=12178"
  ],
  "Evan Hahn": [
+  "https://evanhahn.com/notes-from-october-2026/",
   "https://evanhahn.com/list-of-vim-forks/",
   "https://evanhahn.com/notes-from-september-2026/",
   "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
   "https://evanhahn.com/notes-from-august-2026/",
-  "https://evanhahn.com/usergettingbored-vim/",
-  "https://evanhahn.com/notes-from-july-2026/"
+  "https://evanhahn.com/usergettingbored-vim/"
  ],
  "Evan Jones": [
   "https://www.evanjones.ca/setenv-is-not-thread-safe.html",
@@ -10442,6 +10442,9 @@
   "https://medium.com/p/a83d9d9f074a",
   "https://medium.com/p/cc0f37b6dda7",
   "https://medium.com/p/5d52b7110194",
+  "https://coopcoopbware.tumblr.com/post/638316649394651136",
+  "https://coopcoopbware.tumblr.com/post/636411382111272960",
+  "https://coopcoopbware.tumblr.com/post/628096276382269440",
   "https://medium.com/p/26788d0db81a",
   "https://medium.com/p/2f2c6d04b3d3",
   "https://medium.com/p/af0e1ae74e61",
@@ -10449,11 +10452,18 @@
   "https://medium.com/p/328693ceddb0",
   "https://medium.com/p/8f2cb913cc0a",
   "https://johanlorenzo.github.io/blog/2019/10/24/taskgraph-is-now-deployed-to-the-biggest-mozilla-mobile-projects",
+  "https://coopcoopbware.tumblr.com/post/173126143130",
+  "https://coopcoopbware.tumblr.com/post/170952242320",
+  "https://coopcoopbware.tumblr.com/post/170418932165",
+  "https://coopcoopbware.tumblr.com/post/167698994970",
+  "https://coopcoopbware.tumblr.com/post/167553827650",
+  "https://coopcoopbware.tumblr.com/post/166781825770",
   "https://johanlorenzo.github.io/blog/2017/06/13/part-4-how-mozilla-publishes-apks-onto-google-play-store-in-a-reasonably-secure-and-automated-way",
   "https://johanlorenzo.github.io/blog/2017/06/12/part-3-how-mozilla-publishes-apks-onto-google-play-store-in-a-reasonably-secure-and-automated-way",
   "https://johanlorenzo.github.io/blog/2017/06/07/part-2-how-mozilla-publishes-apks-onto-google-play-store-in-a-reasonably-secure-and-automated-way",
   "https://johanlorenzo.github.io/blog/2017/06/06/part-1-how-mozilla-publishes-apks-onto-google-play-store-in-a-reasonably-secure-and-automated-way",
   "tag:blogger.com,1999:blog-25023280.post-5577653258282588564",
+  "https://coopcoopbware.tumblr.com/post/158362146735",
   "tag:blogger.com,1999:blog-25023280.post-8034724533767911704",
   "tag:blogger.com,1999:blog-25023280.post-5925639117654623188",
   "tag:blogger.com,1999:blog-25023280.post-5155097520029709680",
@@ -13075,12 +13085,13 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
+  "https://realpython.com/ai-news-weekly-2026-10-30/",
   "https://realpython.com/quizzes/socket-programming-in-python/",
-  "https://realpython.com/python-requests/",
-  "https://realpython.com/ai-benchmark-gpt-6-1-terra/",
-  "https://realpython.com/python-pep8/",
   "https://realpython.com/inheritance-composition-python/",
+  "https://realpython.com/ai-benchmark-gpt-6-1-terra/",
   "https://realpython.com/python-range/",
+  "https://realpython.com/python-requests/",
+  "https://realpython.com/python-pep8/",
   "https://realpython.com/python-getter-setter/",
   "https://realpython.com/podcasts/rpp/317/",
   "https://realpython.com/quizzes/inheritance-composition-python/",
@@ -13090,8 +13101,7 @@
   "https://realpython.com/quizzes/dicts-arrays-ideal-data-structure/",
   "https://realpython.com/python-mcp-client/",
   "https://realpython.com/quizzes/create-scalable-flask-web-app/",
-  "https://realpython.com/mcp-vs-api/",
-  "https://realpython.com/how-to-get-out-of-tutorial-hell/",
+  "https://realpython.com/pyrefly-python/",
   "https://realpython.com/courses/exploring-ai-coding-agent-workflows/",
   "https://realpython.com/quizzes/how-to-get-out-of-tutorial-hell/",
   "https://realpython.com/quizzes/exploring-ai-coding-agent-workflows/",
@@ -14682,6 +14692,7 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/how-to-test-ai-generated-content-before-it-reaches-your-users/",
   "https://www.sitepoint.com/how-to-optimize-ai-generated-images-for-faster-websites/",
   "https://www.sitepoint.com/pin-vs-juicebox/",
   "https://www.sitepoint.com/how-to-add-ai-content-detection-to-your-node-js-app/",
@@ -14696,6 +14707,7 @@
   "https://www.sitepoint.com/generators-and-iterators-in-javascript-lazy-data-and-async-flows/",
   "https://www.sitepoint.com/generating-web-ready-images-with-ai-formats-sizes-and-srcset-done-right/",
   "https://www.sitepoint.com/what-is-the-best-ui-testing-tool-8-tools-compared-by-the-job-they-do-2026/",
+  "https://www.sitepoint.com/how-to-organize-css-with-cascade-layers-in-large-web-projects/",
   "https://www.sitepoint.com/how-to-create-effective-cold-email-sequences-that-generate-replies-a-developer-s-guide/",
   "https://www.sitepoint.com/7-checks-that-make-form-bugs-easier-to-reproduce-across-teams/",
   "https://www.sitepoint.com/7-ways-to-keep-api-changes-safe-as-more-teams-join-a-project/",
@@ -14779,9 +14791,7 @@
   "https://www.sitepoint.com/your-javascript-character-counter-is-probably-wrong-unicode-explained/",
   "https://www.sitepoint.com/building-a-reliable-after-hours-call-routing-workflow-with-typescript/",
   "https://www.sitepoint.com/how-to-move-a-site-off-cpanel-to-another-control-panel-without-downtime/",
-  "https://www.sitepoint.com/a-practical-guide-to-testing-javascript-functions-without-overcomplicating-your-workflow/",
-  "https://www.sitepoint.com/building-accessible-navigation-menus-with-modern-html-css-and-javascript/",
-  "https://www.sitepoint.com/beyond-faster-load-times-practical-web-performance-optimization-for-modern-applications/"
+  "https://www.sitepoint.com/a-practical-guide-to-testing-javascript-functions-without-overcomplicating-your-workflow/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15959,6 +15969,7 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node",
   "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1",
   "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-3",
   "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4",
@@ -15987,8 +15998,7 @@
   "https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms-pumping-risk-score-rust",
   "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week",
   "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga",
-  "https://www.twilio.com/en-us/blog/partners/integrations/voice-sms-whatsapp-salesforce",
-  "https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve"
+  "https://www.twilio.com/en-us/blog/partners/integrations/voice-sms-whatsapp-salesforce"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
