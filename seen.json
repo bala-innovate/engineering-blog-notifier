@@ -1379,14 +1379,14 @@
   "https://engineering.cerner.com/careers/"
  ],
  "Chris Wellons": [
+  "urn:uuid:6d69f504-f96a-8e26-8a48-b4aa367ee034",
   "urn:uuid:21156575-515c-862e-9b0f-8a86d5b229fc",
   "urn:uuid:bee8d4c0-5185-8d4b-b14a-4aba71276e87",
   "urn:uuid:843e3ff4-8bd3-4106-bca9-608a80e66545",
   "urn:uuid:0b80f9d8-07a1-4d9f-a26d-f119b08364da",
   "urn:uuid:d877f4c2-b213-4af7-8fb9-269558ee6b86",
   "urn:uuid:91357133-9d2d-4a6f-9b39-4bd1d35c814e",
-  "urn:uuid:9db72e48-92f3-4426-a18f-9a317354e2c8",
-  "urn:uuid:eb448519-0a55-4c1c-bc55-17a65634224f"
+  "urn:uuid:9db72e48-92f3-4426-a18f-9a317354e2c8"
  ],
  "Clever": [
   "https://engineering.clever.com/?p=301",
@@ -13046,6 +13046,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112815",
   "https://devblogs.microsoft.com/oldnewthing/?p=112808",
   "https://devblogs.microsoft.com/oldnewthing/?p=112803",
   "https://devblogs.microsoft.com/oldnewthing/?p=112800",
@@ -13054,8 +13055,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112791",
   "https://devblogs.microsoft.com/oldnewthing/?p=112786",
   "https://devblogs.microsoft.com/oldnewthing/?p=112784",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112781",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112778"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112781"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -15959,6 +15959,7 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node",
   "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1",
   "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-3",
   "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4",
@@ -15987,8 +15988,7 @@
   "https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms-pumping-risk-score-rust",
   "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week",
   "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga",
-  "https://www.twilio.com/en-us/blog/partners/integrations/voice-sms-whatsapp-salesforce",
-  "https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve"
+  "https://www.twilio.com/en-us/blog/partners/integrations/voice-sms-whatsapp-salesforce"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
