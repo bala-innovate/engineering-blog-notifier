@@ -15960,12 +15960,13 @@
  ],
  "Twilio": [
   "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1",
-  "https://www.twilio.com/en-us/blog/events/Brillinat-builds-episode-2",
   "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-3",
   "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4",
+  "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2",
+  "https://www.twilio.com/en-us/blog/insights/multilingual-ai-agents",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-legacy-linux-devices",
-  "https://www.twilio.com/en-us/blog/integrate-anthropic-twilio-voice-using-conversationrelay",
   "https://www.twilio.com/en-us/blog/anthropic-conversationrelay-token-streaming-interruptions-javascript",
+  "https://www.twilio.com/en-us/blog/integrate-anthropic-twilio-voice-using-conversationrelay",
   "https://www.twilio.com/en-us/blog/insights/proactive-ai-agent-outbound-calling",
   "https://www.twilio.com/en-us/blog/insights/cx-benchmarks-enterprise-deployments",
   "https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms",
@@ -15987,8 +15988,7 @@
   "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week",
   "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga",
   "https://www.twilio.com/en-us/blog/partners/integrations/voice-sms-whatsapp-salesforce",
-  "https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve",
-  "https://www.twilio.com/en-us/blog/events/webinar-master-automated-journeys"
+  "https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
