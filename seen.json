@@ -1647,6 +1647,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/lakebase-branching-cicd-lessons-100-pr-databases",
   "https://www.databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
   "https://www.databricks.com/blog/wealth-management-client-onboarding-needs-more-ai",
   "https://www.databricks.com/blog/deliberate-decisions-and-enterprise-ai-value",
@@ -1655,8 +1656,7 @@
   "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0",
   "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
   "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
-  "https://www.databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation",
-  "https://www.databricks.com/blog/spot-fixes-measured-gains-improving-document-extraction-accuracy-aiextract-and-mlflow-prompt"
+  "https://www.databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
