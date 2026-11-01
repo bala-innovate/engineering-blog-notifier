@@ -749,6 +749,7 @@
   "https://artsy.github.io/blog/2022/04/13/stepping-out-of-the-knowledge-zone/"
  ],
  "Atomic Object": [
+  "https://spin.atomicobject.com/?p=3676164",
   "https://spin.atomicobject.com/?p=3675955",
   "https://spin.atomicobject.com/?p=3676006",
   "https://spin.atomicobject.com/?p=3676010",
@@ -757,8 +758,7 @@
   "https://spin.atomicobject.com/?p=3675939",
   "https://spin.atomicobject.com/?p=3675922",
   "https://spin.atomicobject.com/?p=3675896",
-  "https://spin.atomicobject.com/?p=3675937",
-  "https://spin.atomicobject.com/?p=3675984"
+  "https://spin.atomicobject.com/?p=3675937"
  ],
  "Auth0": [
   "https://auth0.com/blog/auth0-powered-saas-providers-unlock-growth-okta-integration-network/",
@@ -2116,6 +2116,7 @@
   "https://www.erlang-solutions.com/?p=12178"
  ],
  "Evan Hahn": [
+  "https://evanhahn.com/mastodon-bot-with-ios-shortcuts/",
   "https://evanhahn.com/notes-from-october-2026/",
   "https://evanhahn.com/list-of-vim-forks/",
   "https://evanhahn.com/notes-from-september-2026/",
@@ -9182,6 +9183,7 @@
   "https://lea.verou.me/blog/2026/icons/"
  ],
  "Lerner Consulting Blog": [
+  "https://lernerpython.com/2026/10/31/pandas-droplevel-remove-a-level-from-a-multi-index/",
   "https://lernerpython.com/2026/10/30/pandas-multiindex-what-a-two-level-index-looks-like/",
   "https://lernerpython.com/2026/10/29/pandas-xs-keep-the-dropped-level-with-drop-level-false/",
   "https://lernerpython.com/2026/10/28/pandas-xs-using-the-level-argument-with-an-int-or-a-name/",
@@ -9190,8 +9192,7 @@
   "https://lernerpython.com/2026/10/20/pandas-datetimeindex-slicing-fix-keyerror-with-sort-index/",
   "https://lernerpython.com/2026/10/19/pandas-date-range-selection-slicing-a-datetime-index-with-loc/",
   "https://lernerpython.com/2026/10/17/pandas-grouper-nans-why-outlier-dates-create-empty-groups/",
-  "https://lernerpython.com/2026/10/16/pandas-grouper-group-datetime-columns-by-custom-time-periods/",
-  "https://lernerpython.com/2026/10/14/pandas-groupby-on-datetime-parts-with-the-dt-accessor/"
+  "https://lernerpython.com/2026/10/16/pandas-grouper-group-datetime-columns-by-custom-time-periods/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -13085,28 +13086,28 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
+  "https://realpython.com/quizzes/documenting-python-code/",
+  "https://realpython.com/python-sockets/",
+  "https://realpython.com/python-random/",
+  "https://realpython.com/python-gui-with-wxpython/",
+  "https://realpython.com/oop-in-python-vs-java/",
+  "https://realpython.com/python-zip-function/",
   "https://realpython.com/ai-news-weekly-2026-10-30/",
   "https://realpython.com/quizzes/socket-programming-in-python/",
-  "https://realpython.com/inheritance-composition-python/",
-  "https://realpython.com/ai-benchmark-gpt-6-1-terra/",
   "https://realpython.com/python-range/",
-  "https://realpython.com/python-requests/",
   "https://realpython.com/python-pep8/",
+  "https://realpython.com/ai-benchmark-gpt-6-1-terra/",
   "https://realpython.com/python-getter-setter/",
   "https://realpython.com/podcasts/rpp/317/",
-  "https://realpython.com/quizzes/inheritance-composition-python/",
   "https://realpython.com/quizzes/python-mutable-vs-immutable-types/",
-  "https://realpython.com/learn-with-mentor-ai-async-python/",
+  "https://realpython.com/quizzes/inheritance-composition-python/",
   "https://realpython.com/quizzes/learn-with-mentor-ai-async-python/",
   "https://realpython.com/quizzes/dicts-arrays-ideal-data-structure/",
-  "https://realpython.com/python-mcp-client/",
   "https://realpython.com/quizzes/create-scalable-flask-web-app/",
-  "https://realpython.com/pyrefly-python/",
   "https://realpython.com/courses/exploring-ai-coding-agent-workflows/",
-  "https://realpython.com/quizzes/how-to-get-out-of-tutorial-hell/",
-  "https://realpython.com/quizzes/exploring-ai-coding-agent-workflows/",
   "https://realpython.com/quizzes/mcp-vs-api/",
-  "https://realpython.com/quizzes/python-circular-imports/",
+  "https://realpython.com/quizzes/how-to-get-out-of-tutorial-hell/",
+  "https://realpython.com/quizzes/pyrefly-python/",
   "https://realpython.com/courses/ai-agents-101/",
   "https://realpython.com/podcasts/rpp/316/",
   "https://realpython.com/courses/python-itertools-by-example/",
@@ -14709,6 +14710,7 @@
   "https://www.sitepoint.com/what-is-the-best-ui-testing-tool-8-tools-compared-by-the-job-they-do-2026/",
   "https://www.sitepoint.com/how-to-organize-css-with-cascade-layers-in-large-web-projects/",
   "https://www.sitepoint.com/how-to-create-effective-cold-email-sequences-that-generate-replies-a-developer-s-guide/",
+  "https://www.sitepoint.com/building-crm-automations-that-don-t-break-apis-webhooks-and-ai-validation/",
   "https://www.sitepoint.com/7-checks-that-make-form-bugs-easier-to-reproduce-across-teams/",
   "https://www.sitepoint.com/7-ways-to-keep-api-changes-safe-as-more-teams-join-a-project/",
   "https://www.sitepoint.com/a-practical-workflow-for-testing-javascript-forms-before-deployment/",
@@ -14790,8 +14792,7 @@
   "https://www.sitepoint.com/test-real-mobile-behavior-actual-devices/",
   "https://www.sitepoint.com/your-javascript-character-counter-is-probably-wrong-unicode-explained/",
   "https://www.sitepoint.com/building-a-reliable-after-hours-call-routing-workflow-with-typescript/",
-  "https://www.sitepoint.com/how-to-move-a-site-off-cpanel-to-another-control-panel-without-downtime/",
-  "https://www.sitepoint.com/a-practical-guide-to-testing-javascript-functions-without-overcomplicating-your-workflow/"
+  "https://www.sitepoint.com/how-to-move-a-site-off-cpanel-to-another-control-panel-without-downtime/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
