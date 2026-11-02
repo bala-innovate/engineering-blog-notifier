@@ -100,6 +100,7 @@
   "https://8thlight.com/insights/celebrating-our-beacon-rani-zipelwar"
  ],
  "AWS": [
+  "a75ee10f33f51c28e1b3189dc509cb78f1c8eaa7",
   "da6ca251ec6556de7daf75747bcf2af4e10a86a5",
   "7ce6bf5eb7b5d26b8ad5cb6ced771ac43468759d",
   "b26c8ec6bfaf7141b02ddd51b0832cb797e2fa86",
@@ -118,8 +119,7 @@
   "219ec8af489642b8d1376bf298af0a210a58f33c",
   "4fedaed1301f65781a8d0cf0c10d6af080cb9c4c",
   "3f3cdf7764c9ed9c135b98890bec5b260beeb5ae",
-  "efef7c6cb4883104326929e4006dcf8d1349cb2d",
-  "e54808ff9073a2b426d2baf919a0236eb2f63e40"
+  "efef7c6cb4883104326929e4006dcf8d1349cb2d"
  ],
  "Aaron Patterson": [
   "https://tenderlovemaking.com/2026/10/18/static-analysis-for-the-uninitialized/",
@@ -335,6 +335,7 @@
   "https://infrequently.org/2024/01/the-web-is-the-app-store/"
  ],
  "Amit Merchant": [
+  "https://www.amitmerchant.com/ci-pipeline-lockfile",
   "https://www.amitmerchant.com/an-online-first-version-control-system",
   "https://www.amitmerchant.com/practical-way-to-check-your-ai-search-visibility",
   "https://www.amitmerchant.com/7-game-changing-web-ui-features-you-need-to-start-using-today",
@@ -343,8 +344,7 @@
   "https://www.amitmerchant.com/from-feature-branches-to-agent-branches-featuring-antigravity",
   "https://www.amitmerchant.com/one-css-property-that-makes-numbers-look-instantly-better",
   "https://www.amitmerchant.com/real-world-exmples-using-laravel-api-sdk",
-  "https://www.amitmerchant.com/add-ui-sounds-in-your-web-apps-in-hearbeat",
-  "https://www.amitmerchant.com/svg-filters-are-just-amazing"
+  "https://www.amitmerchant.com/add-ui-sounds-in-your-web-apps-in-hearbeat"
  ],
  "Andrew Bancroft": [
   "https://www.andrewcbancroft.com/blog/ai/how-i-learned-to-copy-and-paste/",
@@ -560,6 +560,7 @@
   "https://www.andrewcbancroft.com/portfolio/"
  ],
  "Android": [
+  "tag:developer.android.com,2026-11-02:/blog/posts/building-apps-developer-sessions",
   "tag:developer.android.com,2026-10-28:/blog/posts/build-it-your-way-a-next-era-of-android-development",
   "tag:developer.android.com,2026-10-28:/blog/posts/android-dev-summit-26-developer-tools-performance",
   "tag:developer.android.com,2026-10-28:/blog/posts/ai-agents-android-studio-integration",
@@ -578,8 +579,7 @@
   "tag:developer.android.com,2026-09-17:/blog/posts/introducing-the-android-x-security-state-libraries-a-unified-view-of-device-security",
   "tag:developer.android.com,2026-09-09:/blog/posts/introducing-fast-and-reliable-wireless-debugging-with-android-debug-bridge-adb-wi-fi-2-0",
   "tag:developer.android.com,2026-09-01:/blog/posts/leverage-android-skills-and-gemma-4-in-android-studio-quail-4",
-  "tag:developer.android.com,2026-08-31:/blog/posts/emulator-control-for-adaptive-app-development",
-  "tag:developer.android.com,2026-08-27:/blog/posts/how-whats-app-upgraded-to-secure-seamless-sign-in-for-1-billion-users-with-passkeys"
+  "tag:developer.android.com,2026-08-31:/blog/posts/emulator-control-for-adaptive-app-development"
  ],
  "Antirez": [
   "http://antirez.com/news/172",
@@ -749,6 +749,7 @@
   "https://artsy.github.io/blog/2022/04/13/stepping-out-of-the-knowledge-zone/"
  ],
  "Atomic Object": [
+  "https://spin.atomicobject.com/?p=3676020",
   "https://spin.atomicobject.com/?p=3676164",
   "https://spin.atomicobject.com/?p=3675955",
   "https://spin.atomicobject.com/?p=3676006",
@@ -757,20 +758,19 @@
   "https://spin.atomicobject.com/?p=3675853",
   "https://spin.atomicobject.com/?p=3675939",
   "https://spin.atomicobject.com/?p=3675922",
-  "https://spin.atomicobject.com/?p=3675896",
-  "https://spin.atomicobject.com/?p=3675937"
+  "https://spin.atomicobject.com/?p=3675896"
  ],
  "Auth0": [
+  "https://auth0.com/blog/okta-named-a-leader-in-gartner-magic-quadrant-2026/",
   "https://auth0.com/blog/auth0-powered-saas-providers-unlock-growth-okta-integration-network/",
   "https://auth0.com/blog/scaling-ai-agent-identity-cimd-application-profiles/",
   "https://auth0.com/blog/terraform-auth0-modules/",
   "https://auth0.com/blog/your-agent-can-better-drive-auth0-cli-with-agent-mode/",
-  "https://auth0.com/blog/what-is-id-jag/",
   "https://auth0.com/blog/securing-ai-agents-with-auth0-cimd-token-exchange/",
+  "https://auth0.com/blog/what-is-id-jag/",
   "https://auth0.com/blog/securing-the-front-door-of-agentic-commerce/",
   "https://auth0.com/blog/on-behalf-of-is-a-pattern-token-exchange-is-the-standard/",
-  "https://auth0.com/blog/agentic-development-time-to-shift-focus/",
-  "https://auth0.com/blog/introducing-the-auth0-sdk-for-kotlin-multiplatform/"
+  "https://auth0.com/blog/agentic-development-time-to-shift-focus/"
  ],
  "Avenue Code": [
   "https://blog.avenuecode.com/using-generative-ai-to-streamline-internal-it-support-a-comprehensive-demonstration",
@@ -1401,6 +1401,7 @@
   "https://engineering.clever.com/?p=154"
  ],
  "Cloudflare": [
+  "01M5J4YTFMTRT7PG1Y8HAPNPYG",
   "01M66XYRNK559YY01V2P37EBD7",
   "01M64V2TDYZYSS8RE60T3MWKSM",
   "01M6254V6WN4EZTWVH0BF1748Y",
@@ -1419,8 +1420,7 @@
   "01M5AKCKW0449M3Q6FW10XB4K3",
   "01M537RHECVHNJPV12N2E54ZR7",
   "01M510YDY2PS6BYR03DF8HHG2D",
-  "01M5072CXFWQ88M9NCXZBSPAF2",
-  "01M4EX2BRJ7RNGAPQTBRXWRYT1"
+  "01M5072CXFWQ88M9NCXZBSPAF2"
  ],
  "Confluent": [
   "https://www.confluent.io/blog/introducing-apache-kafka-4-4-0/",
@@ -1653,10 +1653,10 @@
   "https://www.databricks.com/blog/deliberate-decisions-and-enterprise-ai-value",
   "https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks",
   "https://www.databricks.com/blog/smarter-cost-controls-serverless",
-  "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0",
+  "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing",
   "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
   "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
-  "https://www.databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation"
+  "https://www.databricks.com/blog/spot-fixes-measured-gains-improving-document-extraction-accuracy-aiextract-and-mlflow-prompt"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -1892,6 +1892,8 @@
   "https://discord.com/blog/nameplates-land-in-the-shop"
  ],
  "Docker": [
+  "https://www.docker.com/?p=95691",
+  "https://www.docker.com/?p=95666",
   "https://www.docker.com/?p=95520",
   "https://www.docker.com/?p=95448",
   "https://www.docker.com/?p=95296",
@@ -1899,9 +1901,7 @@
   "https://www.docker.com/?p=95131",
   "https://www.docker.com/?p=95096",
   "https://www.docker.com/?p=95076",
-  "https://www.docker.com/?p=94981",
-  "https://www.docker.com/?p=94888",
-  "https://www.docker.com/?p=94820"
+  "https://www.docker.com/?p=94981"
  ],
  "Domenico Luciani": [
   "https://domenicoluciani.com/2025/11/29/getting-started-with-open-telemetry.html",
@@ -6174,6 +6174,7 @@
   "https://medium.com/p/e08972ae873e"
  ],
  "Hostinger": [
+  "https://www.hostinger.com/blog/?p=10876",
   "https://www.hostinger.com/blog/?p=10858",
   "https://www.hostinger.com/blog/?p=10849",
   "https://www.hostinger.com/blog/?p=10833",
@@ -6181,8 +6182,7 @@
   "https://www.hostinger.com/blog/?p=10803",
   "https://www.hostinger.com/blog/?p=10767",
   "https://www.hostinger.com/blog/?p=10768",
-  "https://www.hostinger.com/blog/?p=10753",
-  "https://www.hostinger.com/blog/?p=10740"
+  "https://www.hostinger.com/blog/?p=10753"
  ],
  "Housing.com": [
   "https://medium.com/p/9ea96a1f9fbe",
@@ -8886,11 +8886,11 @@
   "http://lambda-the-ultimate.org/ltu-blockchain-plt-thinktank"
  ],
  "Laravel": [
+  "https://laravel-news.com/maileroo-laravel-email-testing",
+  "https://laravel-news.com/decide-with-jev-tie-every-ai-check-to-the-exact-draft",
+  "https://laravel-news.com/pie-1-5",
   "https://laravel-news.com/laravel-delete-expired-sessions",
-  "https://laravel-news.com/pollora-wordpress-laravel",
-  "https://laravel-news.com/laravel-13-39-0",
-  "https://laravel-news.com/filament-5-8-0",
-  "https://laravel-news.com/sloppy"
+  "https://laravel-news.com/pollora-wordpress-laravel"
  ],
  "Larry Land": [
   "https://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html",
@@ -9184,6 +9184,7 @@
  ],
  "Lerner Consulting Blog": [
   "https://lernerpython.com/?p=18470",
+  "https://lernerpython.com/2026/11/01/pandas-multi-index-working-with-3d-data-using-loc-and-xs/",
   "https://lernerpython.com/2026/10/31/pandas-droplevel-remove-a-level-from-a-multi-index/",
   "https://lernerpython.com/2026/10/30/pandas-multiindex-what-a-two-level-index-looks-like/",
   "https://lernerpython.com/2026/10/29/pandas-xs-keep-the-dropped-level-with-drop-level-false/",
@@ -9191,8 +9192,7 @@
   "https://lernerpython.com/2026/10/24/pandas-multiindex-select-rows-by-the-outer-level-with-loc/",
   "https://lernerpython.com/2026/10/23/pandas-offset-aliases-for-resample-me-ms-and-other-codes/",
   "https://lernerpython.com/2026/10/20/pandas-datetimeindex-slicing-fix-keyerror-with-sort-index/",
-  "https://lernerpython.com/2026/10/19/pandas-date-range-selection-slicing-a-datetime-index-with-loc/",
-  "https://lernerpython.com/2026/10/17/pandas-grouper-nans-why-outlier-dates-create-empty-groups/"
+  "https://lernerpython.com/2026/10/19/pandas-date-range-selection-slicing-a-datetime-index-with-loc/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -11057,6 +11057,7 @@
   "https://blogs.nvidia.com/?p=99195"
  ],
  "OCTO Technology": [
+  "https://blog.octo.com/moderniser-un-systeme-legacy-avec-le-plugin-modernization-12",
   "https://blog.octo.com/un-agent-ou-un-comite-ce-que-l'usage-des-comites-m'a-appris-depuis-leur-mise-en-place",
   "https://blog.octo.com/harnais-agentiques-(epilogue)--travailler-au-quotidien-avec-un-agent-de-frontiere",
   "https://blog.octo.com/et-si-votre-super-idee-innovante-de-projet-agentique-avait-deja-ete-pensee-par-votre-editeur-de-data-plateforme--1",
@@ -11065,8 +11066,7 @@
   "https://blog.octo.com/harnais-agentiques-(12)--pourquoi-les-bonnes-pratiques-d'hier-coutent-cher-aujourd'hui",
   "https://blog.octo.com/mes-agents-lisaient-trop--ce-que-dix-semaines-de-chasse-aux-tokens-m'ont-appris",
   "https://blog.octo.com/llm-local-sur-ios-27--ce-qu'apple-ne-dit-pas-dans-la-doc",
-  "https://blog.octo.com/les-salles-d'agents--le-seul-endroit-ou-l'on-est-content-d'etre-contredit",
-  "https://blog.octo.com/vers-une-plateforme-de-modeles"
+  "https://blog.octo.com/les-salles-d'agents--le-seul-endroit-ou-l'on-est-content-d'etre-contredit"
  ],
  "OLX": [
   "https://medium.com/p/ee1519586520",
@@ -11618,6 +11618,7 @@
   "https://postmarkapp.com/blog/how-to-keep-your-postmark-account-secure-best-practices-guide"
  ],
  "PubNub": [
+  "https://www.pubnub.com/blog/datasync-vs-realtime-databases/",
   "https://www.pubnub.com/blog/why-mcp-alone-isnt-enough-for-ai-assisted-real-time-development/",
   "https://www.pubnub.com/blog/the-ultimate-guide-to-fandom-engagement-in-2026/",
   "https://www.pubnub.com/blog/ai-coding-one-year-later-product-manager/",
@@ -13057,6 +13058,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112818",
   "https://devblogs.microsoft.com/oldnewthing/?p=112815",
   "https://devblogs.microsoft.com/oldnewthing/?p=112808",
   "https://devblogs.microsoft.com/oldnewthing/?p=112803",
@@ -13065,8 +13067,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112793",
   "https://devblogs.microsoft.com/oldnewthing/?p=112791",
   "https://devblogs.microsoft.com/oldnewthing/?p=112786",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112784",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112781"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112784"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -13086,27 +13087,27 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
+  "https://realpython.com/python-news-november-2026/",
+  "https://realpython.com/quizzes/advanced-git-for-pythonistas/",
   "https://realpython.com/operator-function-overloading/",
-  "https://realpython.com/documenting-python-code/",
   "https://realpython.com/python-recursion/",
+  "https://realpython.com/documenting-python-code/",
   "https://realpython.com/quizzes/documenting-python-code/",
-  "https://realpython.com/python-zip-function/",
-  "https://realpython.com/oop-in-python-vs-java/",
-  "https://realpython.com/ai-news-weekly-2026-10-30/",
-  "https://realpython.com/python-random/",
   "https://realpython.com/python-sockets/",
+  "https://realpython.com/ai-news-weekly-2026-10-30/",
+  "https://realpython.com/oop-in-python-vs-java/",
+  "https://realpython.com/python-zip-function/",
+  "https://realpython.com/python-random/",
   "https://realpython.com/python-gui-with-wxpython/",
   "https://realpython.com/quizzes/socket-programming-in-python/",
-  "https://realpython.com/ai-benchmark-gpt-6-1-terra/",
   "https://realpython.com/podcasts/rpp/317/",
-  "https://realpython.com/quizzes/python-mutable-vs-immutable-types/",
   "https://realpython.com/quizzes/inheritance-composition-python/",
+  "https://realpython.com/quizzes/python-mutable-vs-immutable-types/",
   "https://realpython.com/quizzes/learn-with-mentor-ai-async-python/",
   "https://realpython.com/quizzes/dicts-arrays-ideal-data-structure/",
   "https://realpython.com/quizzes/create-scalable-flask-web-app/",
   "https://realpython.com/courses/exploring-ai-coding-agent-workflows/",
-  "https://realpython.com/quizzes/mcp-vs-api/",
-  "https://realpython.com/quizzes/how-to-get-out-of-tutorial-hell/",
+  "https://realpython.com/quizzes/python-circular-imports/",
   "https://realpython.com/quizzes/pyrefly-python/",
   "https://realpython.com/courses/ai-agents-101/",
   "https://realpython.com/podcasts/rpp/316/",
@@ -15095,9 +15096,9 @@
  "Stack Abuse": [
   "2148",
   "2149",
-  "2145",
   "2147",
   "2146",
+  "2145",
   "2144",
   "2143",
   "2141",
@@ -15643,6 +15644,7 @@
   "https://www.thecodedself.com/A-Caution-On-Superfluous-Code/"
  ],
  "The Daily WTF": [
+  "https://thedailywtf.com/articles/get-it-now",
   "https://thedailywtf.com/articles/named-and",
   "https://thedailywtf.com/articles/oh-k",
   "https://thedailywtf.com/articles/session-recording",
@@ -15656,8 +15658,7 @@
   "https://thedailywtf.com/articles/scrollpocalypse",
   "https://thedailywtf.com/articles/the-frist-line-of-defense",
   "https://thedailywtf.com/articles/a-diamond-in-the-rough",
-  "https://thedailywtf.com/articles/digital-mail",
-  "https://thedailywtf.com/articles/a-type-of-type-safety"
+  "https://thedailywtf.com/articles/digital-mail"
  ],
  "Thomas Young": [
   "https://upcoder.com/22/the-alignment-trap-ai-safety-as-path-to-power",
