@@ -761,6 +761,7 @@
   "https://spin.atomicobject.com/?p=3675896"
  ],
  "Auth0": [
+  "https://auth0.com/blog/build-an-ai-wellbeing-app-with-fireworks-fitbit-via-auth0-token-vault/",
   "https://auth0.com/blog/okta-named-a-leader-in-gartner-magic-quadrant-2026/",
   "https://auth0.com/blog/auth0-powered-saas-providers-unlock-growth-okta-integration-network/",
   "https://auth0.com/blog/scaling-ai-agent-identity-cimd-application-profiles/",
@@ -769,8 +770,7 @@
   "https://auth0.com/blog/securing-ai-agents-with-auth0-cimd-token-exchange/",
   "https://auth0.com/blog/what-is-id-jag/",
   "https://auth0.com/blog/securing-the-front-door-of-agentic-commerce/",
-  "https://auth0.com/blog/on-behalf-of-is-a-pattern-token-exchange-is-the-standard/",
-  "https://auth0.com/blog/agentic-development-time-to-shift-focus/"
+  "https://auth0.com/blog/on-behalf-of-is-a-pattern-token-exchange-is-the-standard/"
  ],
  "Avenue Code": [
   "https://blog.avenuecode.com/using-generative-ai-to-streamline-internal-it-support-a-comprehensive-demonstration",
@@ -1647,6 +1647,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud",
   "https://www.databricks.com/blog/lakebase-branching-cicd-lessons-100-pr-databases",
   "https://www.databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
   "https://www.databricks.com/blog/wealth-management-client-onboarding-needs-more-ai",
@@ -1655,8 +1656,7 @@
   "https://www.databricks.com/blog/smarter-cost-controls-serverless",
   "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing",
   "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
-  "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
-  "https://www.databricks.com/blog/spot-fixes-measured-gains-improving-document-extraction-accuracy-aiextract-and-mlflow-prompt"
+  "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -1790,6 +1790,7 @@
   "https://www.dereuromark.de/?p=3345"
  ],
  "Discord": [
+  "https://discord.com/blog/modernizing-the-video-playback-experience-at-discord",
   "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
   "https://discord.com/blog/discord-update-october-22-2026",
   "https://discord.com/blog/discord-patch-notes-october-6-2026",
@@ -1888,8 +1889,7 @@
   "https://discord.com/blog/discord-patch-notes-may-1-2025",
   "https://discord.com/blog/how-discord-indexes-trillions-of-messages",
   "https://discord.com/blog/discord-appoints-new-ceo-humam-sakhnini",
-  "https://discord.com/blog/passing-the-torch",
-  "https://discord.com/blog/nameplates-land-in-the-shop"
+  "https://discord.com/blog/passing-the-torch"
  ],
  "Docker": [
   "https://www.docker.com/?p=95691",
@@ -16212,6 +16212,7 @@
   "https://vladmihalcea.com/?p=48716"
  ],
  "Wealthfront": [
+  "https://eng.wealthfront.com/?p=4220",
   "https://eng.wealthfront.com/?p=4188",
   "https://eng.wealthfront.com/?p=4175",
   "https://eng.wealthfront.com/?p=4164",
@@ -16220,8 +16221,7 @@
   "https://eng.wealthfront.com/?p=4081",
   "https://eng.wealthfront.com/?p=4068",
   "https://eng.wealthfront.com/?p=4047",
-  "https://eng.wealthfront.com/?p=3861",
-  "https://eng.wealthfront.com/?p=3684"
+  "https://eng.wealthfront.com/?p=3861"
  ],
  "Wemake.services": [
   "https://medium.com/p/5e54eb4fcaf0",
