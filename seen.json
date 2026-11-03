@@ -1,5 +1,7 @@
 {
  ".NET": [
+  "https://devblogs.microsoft.com/dotnet/?p=61169",
+  "https://devblogs.microsoft.com/dotnet/?p=61166",
   "https://devblogs.microsoft.com/dotnet/?p=61123",
   "https://devblogs.microsoft.com/dotnet/?p=61112",
   "https://devblogs.microsoft.com/dotnet/?p=61101",
@@ -7,9 +9,7 @@
   "https://devblogs.microsoft.com/dotnet/?p=61061",
   "https://devblogs.microsoft.com/dotnet/?p=61046",
   "https://devblogs.microsoft.com/dotnet/?p=61028",
-  "https://devblogs.microsoft.com/dotnet/?p=61032",
-  "https://devblogs.microsoft.com/dotnet/?p=61017",
-  "https://devblogs.microsoft.com/dotnet/?p=60983"
+  "https://devblogs.microsoft.com/dotnet/?p=61032"
  ],
  "0xADADA": [
   "https://0xadada.pub/2024/06/23/the-disappearance-of-lived-time-film/",
@@ -267,6 +267,7 @@
   "https://addyosmani.com/blog/career-advice-age-of-agents/"
  ],
  "Advanced Web Machinery": [
+  "https://advancedweb.hu/shorts/how-to-get-1tb-free-egress-for-amazon-s3-via-cloudfront",
   "https://advancedweb.hu/backups-with-restic-2-year-retrospective",
   "https://advancedweb.hu/nixos-first-impressions-writing-system-level-tests",
   "https://advancedweb.hu/designing-safer-listitems-and-getitem-permissions",
@@ -275,8 +276,7 @@
   "https://advancedweb.hu/shorts/im-changing-my-mind-about-serverless",
   "https://advancedweb.hu/shorts/why-i-prefer-multi-tenant-systems",
   "https://advancedweb.hu/shorts/appsync-subscriptions-waiting-for-start_ack-can-still-result-in-missing-events",
-  "https://advancedweb.hu/shorts/closing-issues-because-they-are-unplanned-is-bad-ux",
-  "https://advancedweb.hu/shorts/hardening-with-firejail-landlock-and-bubblewrap"
+  "https://advancedweb.hu/shorts/closing-issues-because-they-are-unplanned-is-bad-ux"
  ],
  "Airbnb": [
   "https://medium.com/p/3818ef8b4828",
@@ -897,6 +897,7 @@
   "https://medium.com/p/7f183657f0d9"
  ],
  "Blender": [
+  "https://code.blender.org/?p=13713",
   "https://code.blender.org/?p=13611",
   "https://code.blender.org/?p=13548",
   "https://code.blender.org/?p=13558",
@@ -905,8 +906,7 @@
   "https://code.blender.org/?p=13361",
   "https://code.blender.org/?p=13206",
   "https://code.blender.org/?p=13055",
-  "https://code.blender.org/?p=13007",
-  "https://code.blender.org/?p=12979"
+  "https://code.blender.org/?p=13007"
  ],
  "Blundell's Android Tutorials": [
   "https://blog.blundellapps.co.uk/?p=1859",
@@ -955,6 +955,7 @@
   "https://blog.getbootstrap.com/2025/04/04/bootstrap-5-3-5/"
  ],
  "Brandwatch": [
+  "https://www.brandwatch.com/?p=192723",
   "https://www.brandwatch.com/?p=178005",
   "https://www.brandwatch.com/?p=164855",
   "https://www.brandwatch.com/?p=188545",
@@ -963,8 +964,7 @@
   "https://www.brandwatch.com/?p=192412",
   "https://www.brandwatch.com/?p=192364",
   "https://www.brandwatch.com/?p=192003",
-  "https://www.brandwatch.com/?p=191908",
-  "https://www.brandwatch.com/?p=176449"
+  "https://www.brandwatch.com/?p=191908"
  ],
  "Brendan Eich": [
   "https://brendaneich.com/?p=8834",
@@ -1647,6 +1647,8 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow",
+  "https://www.databricks.com/blog/declare-and-optimize-unique-constraints-databricks",
   "https://www.databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud",
   "https://www.databricks.com/blog/lakebase-branching-cicd-lessons-100-pr-databases",
   "https://www.databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
@@ -1654,9 +1656,7 @@
   "https://www.databricks.com/blog/deliberate-decisions-and-enterprise-ai-value",
   "https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks",
   "https://www.databricks.com/blog/smarter-cost-controls-serverless",
-  "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing",
-  "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
-  "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills"
+  "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -1790,6 +1790,7 @@
   "https://www.dereuromark.de/?p=3345"
  ],
  "Discord": [
+  "https://discord.com/blog/discord-gift-cards-the-easiest-holiday-gift-on-your-list",
   "https://discord.com/blog/modernizing-the-video-playback-experience-at-discord",
   "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
   "https://discord.com/blog/discord-update-october-22-2026",
@@ -1888,8 +1889,7 @@
   "https://discord.com/blog/star-wars-makes-its-way-to-discord",
   "https://discord.com/blog/discord-patch-notes-may-1-2025",
   "https://discord.com/blog/how-discord-indexes-trillions-of-messages",
-  "https://discord.com/blog/discord-appoints-new-ceo-humam-sakhnini",
-  "https://discord.com/blog/passing-the-torch"
+  "https://discord.com/blog/discord-appoints-new-ceo-humam-sakhnini"
  ],
  "Docker": [
   "https://www.docker.com/?p=95691",
@@ -2168,6 +2168,7 @@
   "evanmiller.org/news/go20150421"
  ],
  "Evil Martians": [
+  "https://evilmartians.com/chronicles/the-agents-on-rails-files-enter-lemans-a-ruby-harness-for-fair-agent-races",
   "https://evilmartians.com/chronicles/how-to-make-postmessage-type-safe-in-under-350-bytes",
   "https://evilmartians.com/chronicles/the-agents-on-rails-files-designing-black-box-evals-for-coding-agents",
   "https://evilmartians.com/chronicles/why-engineers-should-come-to-the-sf-ruby-conference-in-2026",
@@ -2186,8 +2187,7 @@
   "https://evilmartians.com/chronicles/fair-by-design-orchestrating-background-jobs-in-ruby",
   "https://evilmartians.com/chronicles/5-best-practices-for-preventing-chaos-in-tailwind-css",
   "https://evilmartians.com/chronicles/plus-14-percent-activated-users-for-appsignal-designing-a-new-homepage-in-code",
-  "https://evilmartians.com/chronicles/the-secure-way-to-release-an-npm-package",
-  "https://evilmartians.com/chronicles/which-ai-actually-reads-your-site-two-months-of-llm-traffic-measured"
+  "https://evilmartians.com/chronicles/the-secure-way-to-release-an-npm-package"
  ],
  "Expedia": [
   "https://medium.com/p/9ac26e3b2706",
@@ -2202,6 +2202,7 @@
   "https://medium.com/p/a292fbdd22ce"
  ],
  "Facebook": [
+  "https://engineering.fb.com/?p=24926",
   "https://engineering.fb.com/?p=24907",
   "https://engineering.fb.com/?p=24890",
   "https://engineering.fb.com/?p=24851",
@@ -2209,10 +2210,10 @@
   "https://engineering.fb.com/?p=24816",
   "https://engineering.fb.com/?p=24783",
   "https://engineering.fb.com/?p=24724",
-  "https://engineering.fb.com/?p=24763",
-  "https://engineering.fb.com/?p=24709"
+  "https://engineering.fb.com/?p=24763"
  ],
  "Facebook AI Research": [
+  "https://engineering.fb.com/?p=24926",
   "https://engineering.fb.com/?p=24907",
   "https://engineering.fb.com/?p=24890",
   "https://engineering.fb.com/?p=24851",
@@ -2220,8 +2221,7 @@
   "https://engineering.fb.com/?p=24816",
   "https://engineering.fb.com/?p=24783",
   "https://engineering.fb.com/?p=24724",
-  "https://engineering.fb.com/?p=24763",
-  "https://engineering.fb.com/?p=24709"
+  "https://engineering.fb.com/?p=24763"
  ],
  "Federico Cargnelutti": [
   "http://blog.fedecarg.com/?p=2190",
@@ -2445,6 +2445,7 @@
   "https://github.blog/?p=97894"
  ],
  "GitHub Old": [
+  "https://github.blog/?p=99955",
   "https://github.blog/?p=99918",
   "https://github.blog/?p=99788",
   "https://github.blog/?p=99742",
@@ -2453,8 +2454,7 @@
   "https://github.blog/?p=99538",
   "https://github.blog/?p=99556",
   "https://github.blog/?p=99541",
-  "https://github.blog/?p=99529",
-  "https://github.blog/?p=99506"
+  "https://github.blog/?p=99529"
  ],
  "Gleb Bahmutov": [
   "https://glebbahmutov.com/blog/cypress-test-for-optional-data/",
@@ -6075,6 +6075,8 @@
   "https://hashrocket.com/blog/posts/nativewind-speeding-up-styling-in-react-native"
  ],
  "Hayden James": [
+  "https://haydenjames.io/?p=10695",
+  "http://haydenjames.io/?p=2339",
   "https://linuxblog.io/?p=20926",
   "https://linuxblog.io/?p=19535",
   "https://linuxblog.io/?p=22653",
@@ -6092,9 +6094,7 @@
   "https://linuxblog.io/?p=22478",
   "https://linuxblog.io/?p=22469",
   "https://haydenjames.io/?p=15569",
-  "https://linuxblog.io/?p=20202",
-  "https://linuxblog.io/?p=21328",
-  "https://linuxblog.io/?p=20694"
+  "https://linuxblog.io/?p=20202"
  ],
  "Helpshift": [
   "https://medium.com/p/881d32a7ef93",
@@ -11037,6 +11037,7 @@
   "https://novoda.com/?p=10009"
  ],
  "Nvidia": [
+  "https://blogs.nvidia.com/?p=99605",
   "https://blogs.nvidia.com/?p=99615",
   "https://blogs.nvidia.com/?p=99597",
   "https://blogs.nvidia.com/?p=98677",
@@ -11053,8 +11054,7 @@
   "https://blogs.nvidia.com/?p=99164",
   "https://blogs.nvidia.com/?p=99121",
   "https://blogs.nvidia.com/?p=99244",
-  "https://blogs.nvidia.com/?p=99227",
-  "https://blogs.nvidia.com/?p=99232"
+  "https://blogs.nvidia.com/?p=99227"
  ],
  "OCTO Technology": [
   "https://blog.octo.com/moderniser-un-systeme-legacy-avec-le-plugin-modernization-12",
@@ -13058,6 +13058,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112825",
   "https://devblogs.microsoft.com/oldnewthing/?p=112818",
   "https://devblogs.microsoft.com/oldnewthing/?p=112815",
   "https://devblogs.microsoft.com/oldnewthing/?p=112808",
@@ -13066,8 +13067,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112797",
   "https://devblogs.microsoft.com/oldnewthing/?p=112793",
   "https://devblogs.microsoft.com/oldnewthing/?p=112791",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112786",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112784"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112786"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -14694,6 +14694,8 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/how-developers-can-improve-their-learning-and-productivity-with-ai/",
+  "https://www.sitepoint.com/top-4-mcp-servers-for-marketers-features-use-cases-and-limitations/",
   "https://www.sitepoint.com/how-to-learn-java-with-ai-a-practical-guide-for-beginners/",
   "https://www.sitepoint.com/retrying-a-send-is-harder-than-sending/",
   "https://www.sitepoint.com/ai-powered-pentesting-for-devsecops-7-checks-developers-should-make-first/",
@@ -14791,9 +14793,7 @@
   "https://www.sitepoint.com/javascript-performance-optimization-practical-techniques-for-faster-web-applications/",
   "https://www.sitepoint.com/ai-generated-documentation-human-readable/",
   "https://www.sitepoint.com/vibe-coded-app-security-audit-playbook/",
-  "https://www.sitepoint.com/dark-mode-css-variables-light-dark/",
-  "https://www.sitepoint.com/nextjs-caching-revalidate-not-working/",
-  "https://www.sitepoint.com/typescript-discriminated-unions-exhaustive-checking/"
+  "https://www.sitepoint.com/dark-mode-css-variables-light-dark/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -16409,6 +16409,7 @@
   "https://yifan.lu/2017/04/02/modem-cloning-for-fun-but-not-for-profit"
  ],
  "Zach Holman": [
+  "http://zachholman.com/posts/angel-investor-death",
   "http://zachholman.com/posts/you-should-have-an-llc",
   "http://zachholman.com/posts/llm-writing",
   "http://zachholman.com/posts/investor-introductions",
@@ -16417,8 +16418,7 @@
   "http://zachholman.com/posts/signed-a-portfolio-for-investors",
   "http://zachholman.com/posts/the-tools-of-angel-investing",
   "http://zachholman.com/posts/money-off-the-table",
-  "http://zachholman.com/posts/calendearing",
-  "http://zachholman.com/posts/losing-money-is-the-point"
+  "http://zachholman.com/posts/calendearing"
  ],
  "Zendesk": [
   "https://medium.com/p/cc3239c4561b",
