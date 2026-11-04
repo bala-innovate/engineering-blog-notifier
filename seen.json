@@ -761,16 +761,16 @@
   "https://spin.atomicobject.com/?p=3675922"
  ],
  "Auth0": [
+  "https://auth0.com/blog/compliant-infrastructure-frustrating-cx/",
+  "https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/",
+  "https://auth0.com/blog/consumers-are-ready-for-ai-are-companies/",
+  "https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/",
+  "https://auth0.com/blog/moving-quickly-without-breaking-things/",
+  "https://auth0.com/blog/ai-ambitions-are-blocked-by-identity-debt/",
+  "https://auth0.com/blog/who-will-consumers-trust-to-act-shop-pay-on-their-behalf/",
   "https://auth0.com/blog/build-an-ai-wellbeing-app-with-fireworks-fitbit-via-auth0-token-vault/",
   "https://auth0.com/blog/okta-named-a-leader-in-gartner-magic-quadrant-2026/",
-  "https://auth0.com/blog/auth0-powered-saas-providers-unlock-growth-okta-integration-network/",
-  "https://auth0.com/blog/scaling-ai-agent-identity-cimd-application-profiles/",
-  "https://auth0.com/blog/terraform-auth0-modules/",
-  "https://auth0.com/blog/your-agent-can-better-drive-auth0-cli-with-agent-mode/",
-  "https://auth0.com/blog/securing-ai-agents-with-auth0-cimd-token-exchange/",
-  "https://auth0.com/blog/what-is-id-jag/",
-  "https://auth0.com/blog/securing-the-front-door-of-agentic-commerce/",
-  "https://auth0.com/blog/on-behalf-of-is-a-pattern-token-exchange-is-the-standard/"
+  "https://auth0.com/blog/auth0-powered-saas-providers-unlock-growth-okta-integration-network/"
  ],
  "Avenue Code": [
   "https://blog.avenuecode.com/using-generative-ai-to-streamline-internal-it-support-a-comprehensive-demonstration",
@@ -15971,6 +15971,7 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/insights/agent-assist",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node",
   "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1",
   "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-3",
@@ -15999,8 +16000,7 @@
   "https://www.twilio.com/en-us/blog/insights/agentic-identity",
   "https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms-pumping-risk-score-rust",
   "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week",
-  "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga",
-  "https://www.twilio.com/en-us/blog/partners/integrations/voice-sms-whatsapp-salesforce"
+  "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
