@@ -560,6 +560,7 @@
   "https://www.andrewcbancroft.com/portfolio/"
  ],
  "Android": [
+  "tag:developer.android.com,2026-11-04:/blog/posts/build-for-every-screen-jetpack-compose-updates",
   "tag:developer.android.com,2026-11-02:/blog/posts/building-apps-developer-sessions",
   "tag:developer.android.com,2026-10-28:/blog/posts/build-it-your-way-a-next-era-of-android-development",
   "tag:developer.android.com,2026-10-28:/blog/posts/android-dev-summit-26-developer-tools-performance",
@@ -578,8 +579,7 @@
   "tag:developer.android.com,2026-09-17:/blog/posts/android-bench-2-0-pushing-the-frontier-with-challenging-long-horizon-tasks",
   "tag:developer.android.com,2026-09-17:/blog/posts/introducing-the-android-x-security-state-libraries-a-unified-view-of-device-security",
   "tag:developer.android.com,2026-09-09:/blog/posts/introducing-fast-and-reliable-wireless-debugging-with-android-debug-bridge-adb-wi-fi-2-0",
-  "tag:developer.android.com,2026-09-01:/blog/posts/leverage-android-skills-and-gemma-4-in-android-studio-quail-4",
-  "tag:developer.android.com,2026-08-31:/blog/posts/emulator-control-for-adaptive-app-development"
+  "tag:developer.android.com,2026-09-01:/blog/posts/leverage-android-skills-and-gemma-4-in-android-studio-quail-4"
  ],
  "Antirez": [
   "http://antirez.com/news/172",
@@ -762,11 +762,11 @@
  ],
  "Auth0": [
   "https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/",
+  "https://auth0.com/blog/who-will-consumers-trust-to-act-shop-pay-on-their-behalf/",
   "https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/",
   "https://auth0.com/blog/moving-quickly-without-breaking-things/",
-  "https://auth0.com/blog/consumers-are-ready-for-ai-are-companies/",
   "https://auth0.com/blog/compliant-infrastructure-frustrating-cx/",
-  "https://auth0.com/blog/who-will-consumers-trust-to-act-shop-pay-on-their-behalf/",
+  "https://auth0.com/blog/consumers-are-ready-for-ai-are-companies/",
   "https://auth0.com/blog/ai-ambitions-are-blocked-by-identity-debt/",
   "https://auth0.com/blog/build-an-ai-wellbeing-app-with-fireworks-fitbit-via-auth0-token-vault/",
   "https://auth0.com/blog/okta-named-a-leader-in-gartner-magic-quadrant-2026/",
@@ -1423,16 +1423,16 @@
   "01M537RHECVHNJPV12N2E54ZR7"
  ],
  "Confluent": [
+  "https://www.confluent.io/blog/2026-q4-confluent-bundle-launch/",
+  "https://www.confluent.io/blog/a-tale-of-two-houses-streamhouse-lakehouse/",
+  "https://www.confluent.io/blog/streamhouse-your-business-always-current/",
   "https://www.confluent.io/blog/graphiant-named-confluent-2027-data-streaming-startup-of-the-year-for-the-americas/",
   "https://www.confluent.io/blog/introducing-apache-kafka-4-4-0/",
   "https://www.confluent.io/blog/new-forrester-study-why-modernizing-data-streaming-is-about-more-than-cost-savings/",
   "https://www.confluent.io/blog/confluent-strengthens-trust-for-singapores-markets-with-ospar-attestation/",
   "https://www.confluent.io/blog/third-party-risk-assessments-or-how-confluent-helps-you-move-faster-with-confidence/",
   "https://www.confluent.io/blog/aiven-confluent-redpanda-streamnative-and-ververica-form-streamhouse-working-group/",
-  "https://www.confluent.io/blog/automate-kafka-migration-with-kcp/",
-  "https://www.confluent.io/blog/building-an-agentic-soc-on-a-stream/",
-  "https://www.confluent.io/blog/hemut-building-the-internet-of-freight-on-real-time-data/",
-  "https://www.confluent.io/blog/2026-q3-confluent-cloud-launch/"
+  "https://www.confluent.io/blog/automate-kafka-migration-with-kcp/"
  ],
  "Criteo": [
   "https://medium.com/p/d477d39a286f",
@@ -1647,6 +1647,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/enterprise-case-open-weight-models-databricks",
   "https://www.databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow",
   "https://www.databricks.com/blog/declare-and-optimize-unique-constraints-databricks",
   "https://www.databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud",
@@ -1655,8 +1656,7 @@
   "https://www.databricks.com/blog/wealth-management-client-onboarding-needs-more-ai",
   "https://www.databricks.com/blog/deliberate-decisions-and-enterprise-ai-value",
   "https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks",
-  "https://www.databricks.com/blog/smarter-cost-controls-serverless",
-  "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing"
+  "https://www.databricks.com/blog/postgres-managed-service"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -1994,6 +1994,7 @@
   "https://dropbox.tech/machine-learning/introducing-nova-our-internal-platform-for-coding-agents"
  ],
  "Ebay": [
+  "https://www.ebayinc.com/stories/news/the-secondhand-boom-is-just-getting-started/",
   "https://www.ebayinc.com/stories/news/meet-the-2026-ebay-live-up-and-running-grant-recipients-sellers/",
   "https://www.ebayinc.com/stories/news/ebay-unveils-collection-of-cars-inspired-by-gamings-most-iconic-rides/",
   "https://www.ebayinc.com/stories/news/ebay-inc-reports-third-quarter-2026-results/",
@@ -2022,8 +2023,7 @@
   "https://www.ebayinc.com/stories/news/ebay-live-turns-soccers-enduring-7-v-10-rivalry-into-a-fan-showdown-with-landon-donovan-and-jack-wilshere/",
   "https://www.ebayinc.com/stories/news/ebay-names-trosort-as-global-winner-of-the-circular-fashion-fund-2026/",
   "https://www.ebayinc.com/stories/news/ebay-invests-in-the-future-of-live-commerce-with-2026-up-and-running-grants/",
-  "https://www.ebayinc.com/stories/news/ebay-publishes-2025-impact-report/",
-  "https://www.ebayinc.com/stories/news/ebay-for-charity-2025-in-review/"
+  "https://www.ebayinc.com/stories/news/ebay-publishes-2025-impact-report/"
  ],
  "Eddie Smith": [
   "http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html",
@@ -2168,6 +2168,7 @@
   "evanmiller.org/news/go20150421"
  ],
  "Evil Martians": [
+  "https://evilmartians.com/chronicles/how-to-make-your-website-visible-to-llms",
   "https://evilmartians.com/chronicles/the-agents-on-rails-files-enter-lemans-a-ruby-harness-for-fair-agent-races",
   "https://evilmartians.com/chronicles/how-to-make-postmessage-type-safe-in-under-350-bytes",
   "https://evilmartians.com/chronicles/the-agents-on-rails-files-designing-black-box-evals-for-coding-agents",
@@ -2186,8 +2187,7 @@
   "https://evilmartians.com/chronicles/publishing-agent-skills-discovery-index",
   "https://evilmartians.com/chronicles/fair-by-design-orchestrating-background-jobs-in-ruby",
   "https://evilmartians.com/chronicles/5-best-practices-for-preventing-chaos-in-tailwind-css",
-  "https://evilmartians.com/chronicles/plus-14-percent-activated-users-for-appsignal-designing-a-new-homepage-in-code",
-  "https://evilmartians.com/chronicles/the-secure-way-to-release-an-npm-package"
+  "https://evilmartians.com/chronicles/plus-14-percent-activated-users-for-appsignal-designing-a-new-homepage-in-code"
  ],
  "Expedia": [
   "https://medium.com/p/9ac26e3b2706",
@@ -6174,15 +6174,15 @@
   "https://medium.com/p/e08972ae873e"
  ],
  "Hostinger": [
+  "https://www.hostinger.com/blog/?p=10908",
+  "https://www.hostinger.com/blog/?p=10886",
   "https://www.hostinger.com/blog/?p=10876",
   "https://www.hostinger.com/blog/?p=10858",
   "https://www.hostinger.com/blog/?p=10849",
   "https://www.hostinger.com/blog/?p=10833",
   "https://www.hostinger.com/blog/?p=10820",
   "https://www.hostinger.com/blog/?p=10803",
-  "https://www.hostinger.com/blog/?p=10767",
-  "https://www.hostinger.com/blog/?p=10768",
-  "https://www.hostinger.com/blog/?p=10753"
+  "https://www.hostinger.com/blog/?p=10767"
  ],
  "Housing.com": [
   "https://medium.com/p/b5dbd492fe88",
@@ -11057,6 +11057,7 @@
   "https://blogs.nvidia.com/?p=99227"
  ],
  "OCTO Technology": [
+  "https://blog.octo.com/j'ai-demande-un-powerpoint-a-des-agents--le-premier-on-voulait-l'oublier-le-dernier-tout-le-monde-l'a-accepte",
   "https://blog.octo.com/moderniser-un-systeme-legacy-avec-le-plugin-modernization-12",
   "https://blog.octo.com/un-agent-ou-un-comite-ce-que-l'usage-des-comites-m'a-appris-depuis-leur-mise-en-place",
   "https://blog.octo.com/harnais-agentiques-(epilogue)--travailler-au-quotidien-avec-un-agent-de-frontiere",
@@ -11065,8 +11066,7 @@
   "https://blog.octo.com/harnais-agentiques-(22)--huit-reflexes-a-desapprendre-pour-un-harnais-frugal-1",
   "https://blog.octo.com/harnais-agentiques-(12)--pourquoi-les-bonnes-pratiques-d'hier-coutent-cher-aujourd'hui",
   "https://blog.octo.com/mes-agents-lisaient-trop--ce-que-dix-semaines-de-chasse-aux-tokens-m'ont-appris",
-  "https://blog.octo.com/llm-local-sur-ios-27--ce-qu'apple-ne-dit-pas-dans-la-doc",
-  "https://blog.octo.com/les-salles-d'agents--le-seul-endroit-ou-l'on-est-content-d'etre-contredit"
+  "https://blog.octo.com/llm-local-sur-ios-27--ce-qu'apple-ne-dit-pas-dans-la-doc"
  ],
  "OLX": [
   "https://medium.com/p/ee1519586520",
@@ -14694,6 +14694,8 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/top-6-ai-image-generators-in-2026-features-strengths-and-limits/",
+  "https://www.sitepoint.com/how-to-use-css-attribute-selectors-to-build-more-flexible-user-interfaces/",
   "https://www.sitepoint.com/why-your-ai-agent-can-t-read-the-web-and-how-to-build-a-fetch-layer-that-can/",
   "https://www.sitepoint.com/how-motion-design-improves-saas-onboarding-and-feature-adoption/",
   "https://www.sitepoint.com/how-developers-can-improve-their-learning-and-productivity-with-ai/",
@@ -14791,9 +14793,7 @@
   "https://www.sitepoint.com/handling-flac-and-mp3-in-web-projects-transcoding-delivery-and-performance/",
   "https://www.sitepoint.com/why-ai-agents-break-how-to-test-them/",
   "https://www.sitepoint.com/why-ai-is-making-revenue-growth-harder-not-easier-for-average-it-companies/",
-  "https://www.sitepoint.com/how-to-evaluate-an-outsourced-development-team-before-you-hire/",
-  "https://www.sitepoint.com/responsive-typography-with-modern-css-create-readable-interfaces-without-excessive-media-queries/",
-  "https://www.sitepoint.com/javascript-performance-optimization-practical-techniques-for-faster-web-applications/"
+  "https://www.sitepoint.com/how-to-evaluate-an-outsourced-development-team-before-you-hire/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15111,6 +15111,7 @@
   "2126"
  ],
  "Stack Overflow": [
+  "36d88082-2c6e-437a-abae-0a265d2acd72",
   "744b8ec3-a144-4d46-b8f1-d7a80a534898",
   "3e9f61bf-ac99-4dda-99be-643153e773f6",
   "af995b78-ffc3-49a7-b34a-5591a8d4cc6c",
@@ -15149,8 +15150,7 @@
   "78281763-feb0-4d4b-982a-fec90093703d",
   "7a2d88e5-ee53-4f7c-a46e-47bed1cebadf",
   "ffd0f62d-2597-4506-a15a-f073dbaae590",
-  "de7402bc-e47f-4b31-999d-f83f9860ff5d",
-  "87db7fa7-a39a-4360-84e3-7f238967dc83"
+  "de7402bc-e47f-4b31-999d-f83f9860ff5d"
  ],
  "Stanko Tadi\u0107": [
   "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
