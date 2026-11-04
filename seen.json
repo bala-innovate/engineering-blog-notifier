@@ -1423,6 +1423,7 @@
   "01M510YDY2PS6BYR03DF8HHG2D"
  ],
  "Confluent": [
+  "https://www.confluent.io/blog/graphiant-named-confluent-2027-data-streaming-startup-of-the-year-for-the-americas/",
   "https://www.confluent.io/blog/introducing-apache-kafka-4-4-0/",
   "https://www.confluent.io/blog/new-forrester-study-why-modernizing-data-streaming-is-about-more-than-cost-savings/",
   "https://www.confluent.io/blog/confluent-strengthens-trust-for-singapores-markets-with-ospar-attestation/",
@@ -1431,8 +1432,7 @@
   "https://www.confluent.io/blog/automate-kafka-migration-with-kcp/",
   "https://www.confluent.io/blog/building-an-agentic-soc-on-a-stream/",
   "https://www.confluent.io/blog/hemut-building-the-internet-of-freight-on-real-time-data/",
-  "https://www.confluent.io/blog/2026-q3-confluent-cloud-launch/",
-  "https://www.confluent.io/blog/2026-q3-confluent-intelligence-ai-update/"
+  "https://www.confluent.io/blog/2026-q3-confluent-cloud-launch/"
  ],
  "Criteo": [
   "https://medium.com/p/d477d39a286f",
@@ -15695,7 +15695,7 @@
   "http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs"
  ],
  "Timescale": [
-  "https://www.tigerdata.com/blog/adaptive-integer-compression-aic-in-timescaledb"
+  "https://www.tigerdata.com/blog/timescaledb-enterprise-is-in-public-beta"
  ],
  "Tinder": [
   "https://medium.com/p/48dcf01a6066",
