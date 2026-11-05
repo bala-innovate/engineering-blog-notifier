@@ -2169,6 +2169,7 @@
  ],
  "Evil Martians": [
   "https://evilmartians.com/chronicles/how-to-make-your-website-visible-to-llms",
+  "https://evilmartians.com/chronicles/why-buildkite-hired-evil-martians-for-an-agentic-first-design-system",
   "https://evilmartians.com/chronicles/the-agents-on-rails-files-enter-lemans-a-ruby-harness-for-fair-agent-races",
   "https://evilmartians.com/chronicles/how-to-make-postmessage-type-safe-in-under-350-bytes",
   "https://evilmartians.com/chronicles/the-agents-on-rails-files-designing-black-box-evals-for-coding-agents",
@@ -2186,8 +2187,7 @@
   "https://evilmartians.com/chronicles/get-in-human-cut-rails-boot-time-with-require-profiler-and-this-guide",
   "https://evilmartians.com/chronicles/publishing-agent-skills-discovery-index",
   "https://evilmartians.com/chronicles/fair-by-design-orchestrating-background-jobs-in-ruby",
-  "https://evilmartians.com/chronicles/5-best-practices-for-preventing-chaos-in-tailwind-css",
-  "https://evilmartians.com/chronicles/plus-14-percent-activated-users-for-appsignal-designing-a-new-homepage-in-code"
+  "https://evilmartians.com/chronicles/5-best-practices-for-preventing-chaos-in-tailwind-css"
  ],
  "Expedia": [
   "https://medium.com/p/9ac26e3b2706",
@@ -11011,6 +11011,7 @@
   "https://nikola-breznjak.com/blog/?p=4823"
  ],
  "Nordic APIs": [
+  "https://nordicapis.com/?p=24412",
   "https://nordicapis.com/?p=24400",
   "https://nordicapis.com/?p=24396",
   "https://nordicapis.com/?p=24377",
@@ -11019,8 +11020,7 @@
   "https://nordicapis.com/?p=24242",
   "https://nordicapis.com/?p=24268",
   "https://nordicapis.com/?p=24257",
-  "https://nordicapis.com/?p=24230",
-  "https://nordicapis.com/?p=24189"
+  "https://nordicapis.com/?p=24230"
  ],
  "Novoda": [
   "https://novoda.com/?p=10414",
@@ -14694,13 +14694,16 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/which-mcm-has-the-best-revshare-a-developer-s-guide-to-evaluating-ad-partners/",
   "https://www.sitepoint.com/top-6-ai-image-generators-in-2026-features-strengths-and-limits/",
+  "https://www.sitepoint.com/how-to-get-a-youtube-api-key-and-use-the-data-api-2026/",
   "https://www.sitepoint.com/how-to-use-css-attribute-selectors-to-build-more-flexible-user-interfaces/",
   "https://www.sitepoint.com/why-your-ai-agent-can-t-read-the-web-and-how-to-build-a-fetch-layer-that-can/",
   "https://www.sitepoint.com/how-motion-design-improves-saas-onboarding-and-feature-adoption/",
   "https://www.sitepoint.com/how-developers-can-improve-their-learning-and-productivity-with-ai/",
   "https://www.sitepoint.com/top-4-mcp-servers-for-marketers-features-use-cases-and-limitations/",
   "https://www.sitepoint.com/how-to-learn-java-with-ai-a-practical-guide-for-beginners/",
+  "https://www.sitepoint.com/how-to-build-an-ai-assisted-workflow-that-does-not-leak/",
   "https://www.sitepoint.com/retrying-a-send-is-harder-than-sending/",
   "https://www.sitepoint.com/ai-powered-pentesting-for-devsecops-7-checks-developers-should-make-first/",
   "https://www.sitepoint.com/how-product-teams-can-use-ai-user-research-to-test-assumptions-before-sprint-planning/",
@@ -14790,10 +14793,7 @@
   "https://www.sitepoint.com/react-form-validation-hook-form-zod/",
   "https://www.sitepoint.com/esm-vs-commonjs-node-migration-guide/",
   "https://www.sitepoint.com/how-to-build-a-design-token-preview-tool-with-node-js/",
-  "https://www.sitepoint.com/handling-flac-and-mp3-in-web-projects-transcoding-delivery-and-performance/",
-  "https://www.sitepoint.com/why-ai-agents-break-how-to-test-them/",
-  "https://www.sitepoint.com/why-ai-is-making-revenue-growth-harder-not-easier-for-average-it-companies/",
-  "https://www.sitepoint.com/how-to-evaluate-an-outsourced-development-team-before-you-hire/"
+  "https://www.sitepoint.com/handling-flac-and-mp3-in-web-projects-transcoding-delivery-and-performance/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15971,7 +15971,6 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
-  "https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-failover",
   "https://www.twilio.com/en-us/blog/insights/build-vs-buy-orchestration-layer",
   "https://www.twilio.com/en-us/blog/insights/contact-center-analytics",
   "https://www.twilio.com/en-us/blog/insights/agent-assist",
@@ -16000,7 +15999,8 @@
   "https://www.twilio.com/en-us/blog/insights/modernize-cx-without-rip-and-replace",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live-voice-ai-agent-typescript",
   "https://www.twilio.com/en-us/blog/products/launches/video-media-sdk-public-beta-launch",
-  "https://www.twilio.com/en-us/blog/insights/agentic-identity"
+  "https://www.twilio.com/en-us/blog/insights/agentic-identity",
+  "https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms-pumping-risk-score-rust"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
