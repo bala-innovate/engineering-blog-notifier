@@ -1,5 +1,7 @@
 {
  ".NET": [
+  "https://devblogs.microsoft.com/dotnet/?p=61189",
+  "https://devblogs.microsoft.com/dotnet/?p=61184",
   "https://devblogs.microsoft.com/dotnet/?p=61169",
   "https://devblogs.microsoft.com/dotnet/?p=61166",
   "https://devblogs.microsoft.com/dotnet/?p=61123",
@@ -7,9 +9,7 @@
   "https://devblogs.microsoft.com/dotnet/?p=61101",
   "https://devblogs.microsoft.com/dotnet/?p=61063",
   "https://devblogs.microsoft.com/dotnet/?p=61061",
-  "https://devblogs.microsoft.com/dotnet/?p=61046",
-  "https://devblogs.microsoft.com/dotnet/?p=61028",
-  "https://devblogs.microsoft.com/dotnet/?p=61032"
+  "https://devblogs.microsoft.com/dotnet/?p=61046"
  ],
  "0xADADA": [
   "https://0xadada.pub/2024/06/23/the-disappearance-of-lived-time-film/",
@@ -560,6 +560,7 @@
   "https://www.andrewcbancroft.com/portfolio/"
  ],
  "Android": [
+  "tag:developer.android.com,2026-11-05:/blog/posts/android-intelligence-system-in-app-agents-ads",
   "tag:developer.android.com,2026-11-04:/blog/posts/build-for-every-screen-jetpack-compose-updates",
   "tag:developer.android.com,2026-11-02:/blog/posts/building-apps-developer-sessions",
   "tag:developer.android.com,2026-10-28:/blog/posts/build-it-your-way-a-next-era-of-android-development",
@@ -578,8 +579,7 @@
   "tag:developer.android.com,2026-09-21:/blog/posts/bring-your-android-game-to-the-car-screen-today",
   "tag:developer.android.com,2026-09-17:/blog/posts/android-bench-2-0-pushing-the-frontier-with-challenging-long-horizon-tasks",
   "tag:developer.android.com,2026-09-17:/blog/posts/introducing-the-android-x-security-state-libraries-a-unified-view-of-device-security",
-  "tag:developer.android.com,2026-09-09:/blog/posts/introducing-fast-and-reliable-wireless-debugging-with-android-debug-bridge-adb-wi-fi-2-0",
-  "tag:developer.android.com,2026-09-01:/blog/posts/leverage-android-skills-and-gemma-4-in-android-studio-quail-4"
+  "tag:developer.android.com,2026-09-09:/blog/posts/introducing-fast-and-reliable-wireless-debugging-with-android-debug-bridge-adb-wi-fi-2-0"
  ],
  "Antirez": [
   "http://antirez.com/news/172",
@@ -1401,6 +1401,7 @@
   "https://engineering.clever.com/?p=154"
  ],
  "Cloudflare": [
+  "01M6HXVSQY6XGPSH12AFMB81B9",
   "01M6HZ245M2MBZAF7ZQXKC85X6",
   "01M6GJ3RNQ17SDPWXJVW49JAFW",
   "01M5J4YTFMTRT7PG1Y8HAPNPYG",
@@ -1419,8 +1420,7 @@
   "01M5DK5J81T0VC8YTBR2FKD8A3",
   "01M5C833HV3W30PBZZYVMCVRR6",
   "01M58NMKW6A1DQJNZXH37VZ9JH",
-  "01M5AKCKW0449M3Q6FW10XB4K3",
-  "01M537RHECVHNJPV12N2E54ZR7"
+  "01M5AKCKW0449M3Q6FW10XB4K3"
  ],
  "Confluent": [
   "https://www.confluent.io/blog/2026-q4-confluent-bundle-launch/",
@@ -1483,7 +1483,6 @@
   "https://medium.com/p/cb2ccf37515c"
  ],
  "Dan Luu": [
-  "https://danluu.com/astra-testing/",
   "https://danluu.com/ambitious/",
   "https://danluu.com/brain-off/",
   "https://danluu.com/agentic-testing/",
@@ -1610,7 +1609,8 @@
   "https://danluu.com/linear-hammer/",
   "https://danluu.com/hardware-unforgiving/",
   "https://danluu.com/discourage-oss/",
-  "https://danluu.com/randomize-hn/"
+  "https://danluu.com/randomize-hn/",
+  "https://danluu.com/pl-troll/"
  ],
  "Daniel Doubrovkine (dB.)": [
   "https://code.dblock.org/2026/11/04/distributing-a-rust-app-everywhere",
@@ -1647,16 +1647,16 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/builders-guide-scaling-databricks-apps",
+  "https://www.databricks.com/blog/which-data-collaboration-tool-opensharing-clean-rooms-marketplace",
+  "https://www.databricks.com/blog/delta-sharing-opensharing-what-changed-whats-next",
   "https://www.databricks.com/blog/push-based-cdc-unity-catalog-zerobus-ingest-and-debezium",
   "https://www.databricks.com/blog/introducing-apache-spark-43-now-available-databricks-runtime-19",
   "https://www.databricks.com/blog/enterprise-case-open-weight-models-databricks",
   "https://www.databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow",
   "https://www.databricks.com/blog/declare-and-optimize-unique-constraints-databricks",
   "https://www.databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud",
-  "https://www.databricks.com/blog/lakebase-branching-cicd-lessons-100-pr-databases",
-  "https://www.databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
-  "https://www.databricks.com/blog/wealth-management-client-onboarding-needs-more-ai",
-  "https://www.databricks.com/blog/deliberate-decisions-and-enterprise-ai-value"
+  "https://www.databricks.com/blog/lakebase-branching-cicd-lessons-100-pr-databases"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -1790,6 +1790,7 @@
   "https://www.dereuromark.de/?p=3345"
  ],
  "Discord": [
+  "https://discord.com/blog/nitros-biggest-year-yet-a-look-back-at-2026",
   "https://discord.com/blog/discord-gift-cards-the-easiest-holiday-gift-on-your-list",
   "https://discord.com/blog/modernizing-the-video-playback-experience-at-discord",
   "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
@@ -1888,8 +1889,7 @@
   "https://discord.com/blog/staff-picks-may-2025-the-games-that-brought-us-to-discord",
   "https://discord.com/blog/star-wars-makes-its-way-to-discord",
   "https://discord.com/blog/discord-patch-notes-may-1-2025",
-  "https://discord.com/blog/how-discord-indexes-trillions-of-messages",
-  "https://discord.com/blog/discord-appoints-new-ceo-humam-sakhnini"
+  "https://discord.com/blog/how-discord-indexes-trillions-of-messages"
  ],
  "Docker": [
   "https://www.docker.com/?p=95875",
@@ -2433,6 +2433,7 @@
   "https://tech.gc.com/demystifying-ios-layout"
  ],
  "GitHub": [
+  "https://github.blog/?p=100002",
   "https://github.blog/?p=99628",
   "https://github.blog/?p=99529",
   "https://github.blog/?p=99364",
@@ -2441,10 +2442,10 @@
   "https://github.blog/?p=99002",
   "https://github.blog/?p=98586",
   "https://github.blog/?p=98354",
-  "https://github.blog/?p=97992",
-  "https://github.blog/?p=97894"
+  "https://github.blog/?p=97992"
  ],
  "GitHub Old": [
+  "https://github.blog/?p=100002",
   "https://github.blog/?p=99949",
   "https://github.blog/?p=99955",
   "https://github.blog/?p=99918",
@@ -2453,8 +2454,7 @@
   "https://github.blog/?p=99645",
   "https://github.blog/?p=99628",
   "https://github.blog/?p=99538",
-  "https://github.blog/?p=99556",
-  "https://github.blog/?p=99541"
+  "https://github.blog/?p=99556"
  ],
  "Gleb Bahmutov": [
   "https://glebbahmutov.com/blog/cypress-test-for-optional-data/",
@@ -9819,13 +9819,18 @@
   "https://maryrosecook.com/blog/post/explore-expand-exploit"
  ],
  "Matt Aimonetti": [
+  "https://matt.aimonetti.net/posts/2026-10-new-frame-of-reference-for-development/",
+  "https://matt.aimonetti.net/posts/2026-02-cost-of-building-near-zero/",
+  "https://matt.aimonetti.net/posts/2025-03-reflecting-on-serum-2/",
+  "https://matt.aimonetti.net/posts/2025-01-coming-full-circle/",
+  "https://matt.aimonetti.net/posts/2024-04-elevated-programming/",
   "https://matt.aimonetti.net/posts/2024-01-thoughts-on-generative-ai-and-anime/",
   "https://matt.aimonetti.net/posts/2020-09-solving-real-time-collaboration-using-eventual-consistency/",
   "https://matt.aimonetti.net/posts/2020-08-automating-a-linux-in-windows-dev-setup/",
   "https://matt.aimonetti.net/posts/2020-07-new-challenge/",
   "https://matt.aimonetti.net/posts/2020-01-our-first-braintrust-la-event/",
   "https://matt.aimonetti.net/posts/2020-01-security-privacy-trust-major-2020-themes/",
-  "https://matt.aimonetti.net/posts/2020-01-most-startups-should-not-invest-in-ml/ai-yet/",
+  "https://matt.aimonetti.net/posts/2020-01-most-startups-should-not-invest-in-ml-ai-yet/",
   "https://matt.aimonetti.net/posts/2020-01-slow-down-in-startup-innovation/",
   "https://matt.aimonetti.net/posts/2019-08-moving-on-with-gratitude/",
   "https://matt.aimonetti.net/posts/2019-07-drawing-waveforms-in-flutter/",
@@ -11037,13 +11042,14 @@
   "https://novoda.com/?p=10009"
  ],
  "Nvidia": [
+  "https://blogs.nvidia.com/?p=99689",
+  "https://blogs.nvidia.com/?p=98677",
   "https://blogs.nvidia.com/?p=99663",
   "https://blogs.nvidia.com/?p=99648",
   "https://blogs.nvidia.com/?p=99635",
   "https://blogs.nvidia.com/?p=99605",
   "https://blogs.nvidia.com/?p=99615",
   "https://blogs.nvidia.com/?p=99597",
-  "https://blogs.nvidia.com/?p=98677",
   "https://blogs.nvidia.com/?p=99565",
   "https://blogs.nvidia.com/?p=99523",
   "https://blogs.nvidia.com/?p=99512",
@@ -11053,8 +11059,7 @@
   "https://blogs.nvidia.com/?p=99173",
   "https://blogs.nvidia.com/?p=99128",
   "https://blogs.nvidia.com/?p=99155",
-  "https://blogs.nvidia.com/?p=99181",
-  "https://blogs.nvidia.com/?p=99164"
+  "https://blogs.nvidia.com/?p=99181"
  ],
  "OCTO Technology": [
   "https://blog.octo.com/j'ai-demande-un-powerpoint-a-des-agents--le-premier-on-voulait-l'oublier-le-dernier-tout-le-monde-l'a-accepte",
@@ -15456,6 +15461,7 @@
   "https://medium.com/p/9e47a6c8743b"
  ],
  "Stripe": [
+  "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent",
   "https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts",
   "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
   "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services",
@@ -15464,13 +15470,12 @@
   "https://stripe.com/blog/real-time-stripe-data-postgres",
   "https://stripe.com/blog/economics-of-ai-monetization",
   "https://stripe.com/blog/where-pricing-is-headed",
-  "https://stripe.com/blog/ousd-now-live-on-stripe",
-  "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link"
+  "https://stripe.com/blog/ousd-now-live-on-stripe"
  ],
  "SurveyMonkey": [
+  "https://www.surveymonkey.com/curiosity/trends-forecast-5-business-shifts/",
   "https://www.surveymonkey.com/curiosity/ask-the-market-holiday-shopping-pricing/",
   "https://www.surveymonkey.com/curiosity/hris-integrations-workday-bamboohr/",
-  "https://www.surveymonkey.com/curiosity/surveymonkey-trends-2027-report-interest/",
   "https://www.surveymonkey.com/curiosity/surveymonkey-research-ai-sentiment-study/",
   "https://www.surveymonkey.com/curiosity/surveymonkey-research-customer-feedback-ca/",
   "https://www.surveymonkey.com/curiosity/diy-research-how-to-get-expert-level-human-insights/",
@@ -15696,7 +15701,7 @@
   "http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs"
  ],
  "Timescale": [
-  "https://www.tigerdata.com/blog/timescaledb-enterprise-is-in-public-beta"
+  "https://www.tigerdata.com/blog/need-separate-time-series-database"
  ],
  "Tinder": [
   "https://medium.com/p/48dcf01a6066",
@@ -15972,6 +15977,9 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-failover",
+  "https://www.twilio.com/en-us/blog/insights/build-vs-buy-orchestration-layer",
+  "https://www.twilio.com/en-us/blog/insights/contact-center-analytics",
   "https://www.twilio.com/en-us/blog/insights/agent-assist",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node",
   "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1",
@@ -15998,10 +16006,7 @@
   "https://www.twilio.com/en-us/blog/insights/modernize-cx-without-rip-and-replace",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live-voice-ai-agent-typescript",
   "https://www.twilio.com/en-us/blog/products/launches/video-media-sdk-public-beta-launch",
-  "https://www.twilio.com/en-us/blog/insights/agentic-identity",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms-pumping-risk-score-rust",
-  "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week",
-  "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga"
+  "https://www.twilio.com/en-us/blog/insights/agentic-identity"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
