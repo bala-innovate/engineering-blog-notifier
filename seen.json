@@ -100,6 +100,7 @@
   "https://8thlight.com/insights/celebrating-our-beacon-rani-zipelwar"
  ],
  "AWS": [
+  "7d30dbf9b73fcfe8e471c3e83d1f2ee69b4b3343",
   "a75ee10f33f51c28e1b3189dc509cb78f1c8eaa7",
   "da6ca251ec6556de7daf75747bcf2af4e10a86a5",
   "7ce6bf5eb7b5d26b8ad5cb6ced771ac43468759d",
@@ -118,8 +119,7 @@
   "bd4f16a7bf860913e1106ba3aa40014256a857e5",
   "219ec8af489642b8d1376bf298af0a210a58f33c",
   "4fedaed1301f65781a8d0cf0c10d6af080cb9c4c",
-  "3f3cdf7764c9ed9c135b98890bec5b260beeb5ae",
-  "efef7c6cb4883104326929e4006dcf8d1349cb2d"
+  "3f3cdf7764c9ed9c135b98890bec5b260beeb5ae"
  ],
  "Aaron Patterson": [
   "https://tenderlovemaking.com/2026/10/18/static-analysis-for-the-uninitialized/",
@@ -1379,14 +1379,14 @@
   "https://engineering.cerner.com/careers/"
  ],
  "Chris Wellons": [
+  "urn:uuid:b62a4635-27cc-8d16-8e4a-6e39942cdcc4",
   "urn:uuid:6d69f504-f96a-8e26-8a48-b4aa367ee034",
   "urn:uuid:21156575-515c-862e-9b0f-8a86d5b229fc",
   "urn:uuid:bee8d4c0-5185-8d4b-b14a-4aba71276e87",
   "urn:uuid:843e3ff4-8bd3-4106-bca9-608a80e66545",
   "urn:uuid:0b80f9d8-07a1-4d9f-a26d-f119b08364da",
   "urn:uuid:d877f4c2-b213-4af7-8fb9-269558ee6b86",
-  "urn:uuid:91357133-9d2d-4a6f-9b39-4bd1d35c814e",
-  "urn:uuid:9db72e48-92f3-4426-a18f-9a317354e2c8"
+  "urn:uuid:91357133-9d2d-4a6f-9b39-4bd1d35c814e"
  ],
  "Clever": [
   "https://engineering.clever.com/?p=301",
@@ -1647,6 +1647,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/introducing-apache-spark-43-now-available-databricks-runtime-19",
   "https://www.databricks.com/blog/enterprise-case-open-weight-models-databricks",
   "https://www.databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow",
   "https://www.databricks.com/blog/declare-and-optimize-unique-constraints-databricks",
@@ -1655,8 +1656,7 @@
   "https://www.databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
   "https://www.databricks.com/blog/wealth-management-client-onboarding-needs-more-ai",
   "https://www.databricks.com/blog/deliberate-decisions-and-enterprise-ai-value",
-  "https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks",
-  "https://www.databricks.com/blog/postgres-managed-service"
+  "https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -11558,6 +11558,7 @@
   "https://os.phil-opp.com/multiboot-kernel/"
  ],
  "Pinterest": [
+  "https://medium.com/p/4a96cd12cc11",
   "https://medium.com/p/b7e9be9d29f8",
   "https://medium.com/p/8fcb387d899c",
   "https://medium.com/p/9652b9417626",
@@ -11566,8 +11567,7 @@
   "https://medium.com/p/0b96167d2c14",
   "https://medium.com/p/aede4e831e01",
   "https://medium.com/p/0dce6e93d0f3",
-  "https://medium.com/p/866d6b567803",
-  "https://medium.com/p/ecfba7e5a426"
+  "https://medium.com/p/866d6b567803"
  ],
  "Piotr Pasich": [
   "http://piotrpasich.com/?p=2884",
@@ -13058,6 +13058,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112830",
   "https://devblogs.microsoft.com/oldnewthing/?p=112825",
   "https://devblogs.microsoft.com/oldnewthing/?p=112818",
   "https://devblogs.microsoft.com/oldnewthing/?p=112815",
@@ -13066,8 +13067,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112800",
   "https://devblogs.microsoft.com/oldnewthing/?p=112797",
   "https://devblogs.microsoft.com/oldnewthing/?p=112793",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112791",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112786"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112791"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -15971,6 +15971,9 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-failover",
+  "https://www.twilio.com/en-us/blog/insights/build-vs-buy-orchestration-layer",
+  "https://www.twilio.com/en-us/blog/insights/contact-center-analytics",
   "https://www.twilio.com/en-us/blog/insights/agent-assist",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node",
   "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1",
@@ -15997,10 +16000,7 @@
   "https://www.twilio.com/en-us/blog/insights/modernize-cx-without-rip-and-replace",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live-voice-ai-agent-typescript",
   "https://www.twilio.com/en-us/blog/products/launches/video-media-sdk-public-beta-launch",
-  "https://www.twilio.com/en-us/blog/insights/agentic-identity",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms-pumping-risk-score-rust",
-  "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week",
-  "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga"
+  "https://www.twilio.com/en-us/blog/insights/agentic-identity"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
