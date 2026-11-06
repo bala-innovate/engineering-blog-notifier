@@ -8841,6 +8841,7 @@
   "5664c2f3e4b0957c43aa14f4:5666531469a91a17ec801e9c:651cf4540ffe8f1059b23b86"
  ],
  "Kotlin": [
+  "https://blog.jetbrains.com/?post_type=kotlin&p=753700",
   "https://blog.jetbrains.com/?post_type=kotlin&p=750101",
   "https://blog.jetbrains.com/?post_type=kotlin&p=746576",
   "https://blog.jetbrains.com/?post_type=kotlin&p=745924",
@@ -8851,8 +8852,7 @@
   "https://blog.jetbrains.com/?post_type=kotlin&p=743045",
   "https://blog.jetbrains.com/?post_type=kotlin&p=742576",
   "https://blog.jetbrains.com/?post_type=kotlin&p=737362",
-  "https://blog.jetbrains.com/?post_type=kotlin&p=736282",
-  "https://blog.jetbrains.com/?post_type=kotlin&p=734018"
+  "https://blog.jetbrains.com/?post_type=kotlin&p=736282"
  ],
  "Kyle Kingsbury": [
   "https://aphyr.com/posts/425-more-fake-mastodon-signups",
@@ -9819,6 +9819,7 @@
   "https://maryrosecook.com/blog/post/explore-expand-exploit"
  ],
  "Matt Aimonetti": [
+  "https://matt.aimonetti.net/posts/2026-11-the-problem-isnt-ai-its-lazy-creators/",
   "https://matt.aimonetti.net/posts/2026-10-new-frame-of-reference-for-development/",
   "https://matt.aimonetti.net/posts/2026-02-cost-of-building-near-zero/",
   "https://matt.aimonetti.net/posts/2025-03-reflecting-on-serum-2/",
@@ -15977,9 +15978,6 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
-  "https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-failover",
-  "https://www.twilio.com/en-us/blog/insights/build-vs-buy-orchestration-layer",
-  "https://www.twilio.com/en-us/blog/insights/contact-center-analytics",
   "https://www.twilio.com/en-us/blog/insights/agent-assist",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node",
   "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1",
@@ -16006,7 +16004,10 @@
   "https://www.twilio.com/en-us/blog/insights/modernize-cx-without-rip-and-replace",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live-voice-ai-agent-typescript",
   "https://www.twilio.com/en-us/blog/products/launches/video-media-sdk-public-beta-launch",
-  "https://www.twilio.com/en-us/blog/insights/agentic-identity"
+  "https://www.twilio.com/en-us/blog/insights/agentic-identity",
+  "https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms-pumping-risk-score-rust",
+  "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week",
+  "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
