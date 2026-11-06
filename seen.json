@@ -560,6 +560,7 @@
   "https://www.andrewcbancroft.com/portfolio/"
  ],
  "Android": [
+  "tag:developer.android.com,2026-11-06:/blog/posts/build-android-xr-devices-tools",
   "tag:developer.android.com,2026-11-05:/blog/posts/android-intelligence-system-in-app-agents-ads",
   "tag:developer.android.com,2026-11-04:/blog/posts/build-for-every-screen-jetpack-compose-updates",
   "tag:developer.android.com,2026-11-02:/blog/posts/building-apps-developer-sessions",
@@ -578,8 +579,7 @@
   "tag:developer.android.com,2026-09-22:/blog/posts/land-your-apps-on-googlebook-with-adaptive-development",
   "tag:developer.android.com,2026-09-21:/blog/posts/bring-your-android-game-to-the-car-screen-today",
   "tag:developer.android.com,2026-09-17:/blog/posts/android-bench-2-0-pushing-the-frontier-with-challenging-long-horizon-tasks",
-  "tag:developer.android.com,2026-09-17:/blog/posts/introducing-the-android-x-security-state-libraries-a-unified-view-of-device-security",
-  "tag:developer.android.com,2026-09-09:/blog/posts/introducing-fast-and-reliable-wireless-debugging-with-android-debug-bridge-adb-wi-fi-2-0"
+  "tag:developer.android.com,2026-09-17:/blog/posts/introducing-the-android-x-security-state-libraries-a-unified-view-of-device-security"
  ],
  "Antirez": [
   "http://antirez.com/news/172",
@@ -885,6 +885,7 @@
   "https://blog.developer.bazaarvoice.com/?p=1907"
  ],
  "Benchling": [
+  "https://medium.com/p/105645ea7b58",
   "https://medium.com/p/9b97302bddcf",
   "https://medium.com/p/593545039822",
   "https://medium.com/p/20d5fba48562",
@@ -893,8 +894,7 @@
   "https://medium.com/p/2a91cf971040",
   "https://medium.com/p/fa6ec1bab1e5",
   "https://medium.com/p/ee592e2b587b",
-  "https://medium.com/p/3aae52d2f6",
-  "https://medium.com/p/7f183657f0d9"
+  "https://medium.com/p/3aae52d2f6"
  ],
  "Blender": [
   "https://code.blender.org/?p=13713",
@@ -1483,6 +1483,7 @@
   "https://medium.com/p/cb2ccf37515c"
  ],
  "Dan Luu": [
+  "https://danluu.com/astra-testing/",
   "https://danluu.com/ambitious/",
   "https://danluu.com/brain-off/",
   "https://danluu.com/agentic-testing/",
@@ -1609,8 +1610,7 @@
   "https://danluu.com/linear-hammer/",
   "https://danluu.com/hardware-unforgiving/",
   "https://danluu.com/discourage-oss/",
-  "https://danluu.com/randomize-hn/",
-  "https://danluu.com/pl-troll/"
+  "https://danluu.com/randomize-hn/"
  ],
  "Daniel Doubrovkine (dB.)": [
   "https://code.dblock.org/2026/11/04/distributing-a-rust-app-everywhere",
@@ -1648,6 +1648,7 @@
  ],
  "Databricks": [
   "https://www.databricks.com/blog/how-public-sector-organizations-can-govern-ai-scale",
+  "https://www.databricks.com/blog/real-time-fraud-detection-feature-views",
   "https://www.databricks.com/blog/builders-guide-scaling-databricks-apps",
   "https://www.databricks.com/blog/which-data-collaboration-tool-opensharing-clean-rooms-marketplace",
   "https://www.databricks.com/blog/delta-sharing-opensharing-what-changed-whats-next",
@@ -1655,8 +1656,7 @@
   "https://www.databricks.com/blog/introducing-apache-spark-43-now-available-databricks-runtime-19",
   "https://www.databricks.com/blog/enterprise-case-open-weight-models-databricks",
   "https://www.databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow",
-  "https://www.databricks.com/blog/declare-and-optimize-unique-constraints-databricks",
-  "https://www.databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud"
+  "https://www.databricks.com/blog/declare-and-optimize-unique-constraints-databricks"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -2116,6 +2116,7 @@
   "https://www.erlang-solutions.com/?p=12178"
  ],
  "Evan Hahn": [
+  "https://evanhahn.com/static-site-generators-are-weird/",
   "https://evanhahn.com/mastodon-bot-with-ios-shortcuts/",
   "https://evanhahn.com/notes-from-october-2026/",
   "https://evanhahn.com/list-of-vim-forks/",
@@ -2457,6 +2458,7 @@
   "https://github.blog/?p=99556"
  ],
  "Gleb Bahmutov": [
+  "https://glebbahmutov.com/blog/branded-phone-type/",
   "https://glebbahmutov.com/blog/cypress-test-for-optional-data/",
   "https://glebbahmutov.com/blog/cypress-cloud-test-triage-using-ai/",
   "https://glebbahmutov.com/blog/implicit-assertions-are-more-readable/",
@@ -2485,8 +2487,7 @@
   "https://glebbahmutov.com/blog/copilot-instructions-example/",
   "https://glebbahmutov.com/blog/source-of-truth/",
   "https://glebbahmutov.com/blog/cy-vs-pw-browser/",
-  "https://glebbahmutov.com/blog/check-data-in-page-objects/",
-  "https://glebbahmutov.com/blog/diff-feature-flags-before-testing/"
+  "https://glebbahmutov.com/blog/check-data-in-page-objects/"
  ],
  "GoCardless": [
   "https://gocardless.com/guides/posts/recurring-pay-by-bank-what-next",
@@ -7567,6 +7568,7 @@
   "https://idiosyncratic-ruby.com/1-test-highlights.html"
  ],
  "Jane Street": [
+  "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
   "https://blog.janestreet.com/flex-model-an-event-driven-feature-engineering-system/",
   "https://blog.janestreet.com/config-management-orchestrator-for-windows/",
   "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
@@ -7665,8 +7667,7 @@
   "https://blog.janestreet.com/ironing-out-your-development-style/",
   "https://blog.janestreet.com/hiring-an-fpga-engineer/",
   "https://blog.janestreet.com/what-the-interns-have-wrought-2017/",
-  "https://blog.janestreet.com/when-bash-scripts-bite/",
-  "https://blog.janestreet.com/looking-for-a-technical-writer/"
+  "https://blog.janestreet.com/when-bash-scripts-bite/"
  ],
  "Jay Fields": [
   "tag:blogger.com,1999:blog-12467669.post-8327653683391142627",
@@ -8886,11 +8887,11 @@
   "http://lambda-the-ultimate.org/ltu-blockchain-plt-thinktank"
  ],
  "Laravel": [
+  "https://laravel-news.com/phpstorm-2026-3",
   "https://laravel-news.com/laravel-middleware-insert-before-after",
   "https://laravel-news.com/laravel-herd-2",
   "https://laravel-news.com/laravel-strict-request-input",
-  "https://laravel-news.com/laravel-storage-dedupler",
-  "https://laravel-news.com/laravel-13-40-0"
+  "https://laravel-news.com/laravel-storage-dedupler"
  ],
  "Larry Land": [
   "https://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html",
@@ -9589,7 +9590,6 @@
   "https://www.maptiler.com/news/2014/01/visual-georeferencing-in-maptiler-0-5-2"
  ],
  "Marcelo Rinesi": [
-  "https://blog.rinesi.com/2026/01/seaside-whispers/index.html",
   "https://blog.rinesi.com/2026/01/against-developer-productivity/index.html",
   "https://blog.rinesi.com/2026/01/hacking-the-hackathon/index.html",
   "https://blog.rinesi.com/2026/01/acts-of-war/index.html",
@@ -9638,7 +9638,8 @@
   "https://blog.rinesi.com/2026/10/of-gardens-and-love/index.html",
   "https://blog.rinesi.com/2026/10/scenarios/index.html",
   "https://blog.rinesi.com/2026/10/worlds-best-athlete/index.html",
-  "https://blog.rinesi.com/2026/11/this-could-have-been/index.html"
+  "https://blog.rinesi.com/2026/11/this-could-have-been/index.html",
+  "https://blog.rinesi.com/2026/11/the-sfi-index/index.html"
  ],
  "Marco Pivetta": [
   "https://ocramius.github.io/blog/php-logging-with-psr-3/",
@@ -13095,11 +13096,14 @@
  ],
  "Real Python": [
   "https://realpython.com/ai-news-weekly-2026-11-06/",
+  "https://realpython.com/python-sql-libraries/",
+  "https://realpython.com/regex-python/",
+  "https://realpython.com/regex-python-part-2/",
   "https://realpython.com/podcasts/rpp/318/",
   "https://realpython.com/quizzes/python-lbyl-vs-eafp/",
-  "https://realpython.com/polars-vs-pandas/",
-  "https://realpython.com/learn-with-mentor-ai-video-courses/",
   "https://realpython.com/beautiful-soup-web-scraper-python/",
+  "https://realpython.com/learn-with-mentor-ai-video-courses/",
+  "https://realpython.com/polars-vs-pandas/",
   "https://realpython.com/quizzes/python-matplotlib-guide/",
   "https://realpython.com/quizzes/learn-with-mentor-ai-video-courses/",
   "https://realpython.com/quizzes/beautiful-soup-web-scraper-python/",
@@ -13110,10 +13114,7 @@
   "https://realpython.com/quizzes/converting-documents-markdown-markitdown/",
   "https://realpython.com/quizzes/claude-code-skills/",
   "https://realpython.com/python-news-november-2026/",
-  "https://realpython.com/simpy-simulating-with-python/",
   "https://realpython.com/quizzes/advanced-git-for-pythonistas/",
-  "https://realpython.com/documenting-python-code/",
-  "https://realpython.com/operator-function-overloading/",
   "https://realpython.com/quizzes/documenting-python-code/",
   "https://realpython.com/quizzes/socket-programming-in-python/",
   "https://realpython.com/podcasts/rpp/317/",
