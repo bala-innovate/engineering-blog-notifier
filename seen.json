@@ -761,12 +761,12 @@
   "https://spin.atomicobject.com/?p=3675853"
  ],
  "Auth0": [
-  "https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/",
-  "https://auth0.com/blog/who-will-consumers-trust-to-act-shop-pay-on-their-behalf/",
-  "https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/",
   "https://auth0.com/blog/moving-quickly-without-breaking-things/",
+  "https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/",
   "https://auth0.com/blog/compliant-infrastructure-frustrating-cx/",
   "https://auth0.com/blog/consumers-are-ready-for-ai-are-companies/",
+  "https://auth0.com/blog/who-will-consumers-trust-to-act-shop-pay-on-their-behalf/",
+  "https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/",
   "https://auth0.com/blog/ai-ambitions-are-blocked-by-identity-debt/",
   "https://auth0.com/blog/build-an-ai-wellbeing-app-with-fireworks-fitbit-via-auth0-token-vault/",
   "https://auth0.com/blog/okta-named-a-leader-in-gartner-magic-quadrant-2026/",
@@ -1892,6 +1892,7 @@
   "https://discord.com/blog/how-discord-indexes-trillions-of-messages"
  ],
  "Docker": [
+  "https://www.docker.com/?p=96008",
   "https://www.docker.com/?p=95875",
   "https://www.docker.com/?p=95692",
   "https://www.docker.com/?p=95691",
@@ -1900,8 +1901,7 @@
   "https://www.docker.com/?p=95448",
   "https://www.docker.com/?p=95296",
   "https://www.docker.com/?p=95191",
-  "https://www.docker.com/?p=95131",
-  "https://www.docker.com/?p=95096"
+  "https://www.docker.com/?p=95131"
  ],
  "Domenico Luciani": [
   "https://domenicoluciani.com/2025/11/29/getting-started-with-open-telemetry.html",
@@ -9183,6 +9183,7 @@
   "https://lea.verou.me/blog/2026/icons/"
  ],
  "Lerner Consulting Blog": [
+  "https://lernerpython.com/2026/11/05/python-3-15-comprehension-unpacking-why-you-cant-transform-items/",
   "https://lernerpython.com/2026/11/04/python-set-comprehension-unique-items-from-nested-iterables/",
   "https://lernerpython.com/2026/11/02/python-3-15-list-unpacking-flattening-a-nested-list/",
   "https://lernerpython.com/?p=18470",
@@ -9191,8 +9192,7 @@
   "https://lernerpython.com/2026/10/30/pandas-multiindex-what-a-two-level-index-looks-like/",
   "https://lernerpython.com/2026/10/29/pandas-xs-keep-the-dropped-level-with-drop-level-false/",
   "https://lernerpython.com/2026/10/28/pandas-xs-using-the-level-argument-with-an-int-or-a-name/",
-  "https://lernerpython.com/2026/10/24/pandas-multiindex-select-rows-by-the-outer-level-with-loc/",
-  "https://lernerpython.com/2026/10/23/pandas-offset-aliases-for-resample-me-ms-and-other-codes/"
+  "https://lernerpython.com/2026/10/24/pandas-multiindex-select-rows-by-the-outer-level-with-loc/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -9333,6 +9333,7 @@
   "https://medium.com/p/00853df009df"
  ],
  "MapTiler": [
+  "https://www.maptiler.com/news/2026/11/maptiler-server-4-9-smaller-installer-leaner-sbom",
   "https://www.maptiler.com/news/2026/10/offline-maps-for-ios-and-android-introducing-the-offline-pack-api",
   "https://www.maptiler.com/news/2026/10/natural-disaster-maps-visualizing-acts-of-god-and-extreme-weather",
   "https://www.maptiler.com/news/2026/09/maptiler-sdk-for-mobile-native-maps-for-ios-and-android",
@@ -13064,6 +13065,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112835",
   "https://devblogs.microsoft.com/oldnewthing/?p=112830",
   "https://devblogs.microsoft.com/oldnewthing/?p=112825",
   "https://devblogs.microsoft.com/oldnewthing/?p=112818",
@@ -13072,8 +13074,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112803",
   "https://devblogs.microsoft.com/oldnewthing/?p=112800",
   "https://devblogs.microsoft.com/oldnewthing/?p=112797",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112793",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112791"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112793"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -14701,6 +14702,7 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/best-static-website-hosting-providers-in-2027-free-and-paid-options-compared/",
   "https://www.sitepoint.com/top-6-ai-youtube-transcript-generators-features-accuracy-and-limits/",
   "https://www.sitepoint.com/7-e-commerce-ux-tips-for-selling-car-accessories-and-home-kitchen-products-online/",
   "https://www.sitepoint.com/top-6-ai-video-generators-in-2026-features-strengths-and-limits/",
@@ -14799,8 +14801,7 @@
   "https://www.sitepoint.com/how-ai-search-is-changing-property-and-local-discovery-what-developers-should-build/",
   "https://www.sitepoint.com/modern-css-grid-build-responsive-layouts-with-less-complexity/",
   "https://www.sitepoint.com/building-accessible-web-interfaces-with-modern-html-and-css/",
-  "https://www.sitepoint.com/modern-javascript-modules-a-practical-guide-to-writing-maintainable-code/",
-  "https://www.sitepoint.com/react-form-validation-hook-form-zod/"
+  "https://www.sitepoint.com/modern-javascript-modules-a-practical-guide-to-writing-maintainable-code/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15118,6 +15119,7 @@
   "2126"
  ],
  "Stack Overflow": [
+  "71ac000b-6ddd-42a0-8c20-0f525b414eb0",
   "ab816818-65bf-497b-a765-d7c6250deb92",
   "36d88082-2c6e-437a-abae-0a265d2acd72",
   "744b8ec3-a144-4d46-b8f1-d7a80a534898",
@@ -15156,8 +15158,7 @@
   "f7b6d808-33ec-4a2d-bf20-66847f8d6bc7",
   "5b49fdc8-0b0b-41d8-bbf6-6f6d8460e709",
   "78281763-feb0-4d4b-982a-fec90093703d",
-  "7a2d88e5-ee53-4f7c-a46e-47bed1cebadf",
-  "ffd0f62d-2597-4506-a15a-f073dbaae590"
+  "7a2d88e5-ee53-4f7c-a46e-47bed1cebadf"
  ],
  "Stanko Tadi\u0107": [
   "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
@@ -15978,6 +15979,9 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-failover",
+  "https://www.twilio.com/en-us/blog/insights/build-vs-buy-orchestration-layer",
+  "https://www.twilio.com/en-us/blog/insights/contact-center-analytics",
   "https://www.twilio.com/en-us/blog/insights/agent-assist",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node",
   "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1",
@@ -16004,10 +16008,7 @@
   "https://www.twilio.com/en-us/blog/insights/modernize-cx-without-rip-and-replace",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live-voice-ai-agent-typescript",
   "https://www.twilio.com/en-us/blog/products/launches/video-media-sdk-public-beta-launch",
-  "https://www.twilio.com/en-us/blog/insights/agentic-identity",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms-pumping-risk-score-rust",
-  "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week",
-  "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga"
+  "https://www.twilio.com/en-us/blog/insights/agentic-identity"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
