@@ -14704,6 +14704,7 @@
  ],
  "SitePoint": [
   "https://www.sitepoint.com/google-workspace-vs-microsoft-365-vs-proton-workspace/",
+  "https://www.sitepoint.com/self-hosted-langsmith-alternatives-4-tools-tested-on-one-typescript-agent/",
   "https://www.sitepoint.com/a-practical-introduction-to-the-twitch-helix-api/",
   "https://www.sitepoint.com/best-static-website-hosting-providers-in-2027-free-and-paid-options-compared/",
   "https://www.sitepoint.com/top-6-ai-youtube-transcript-generators-features-accuracy-and-limits/",
@@ -14801,8 +14802,7 @@
   "https://www.sitepoint.com/claude-code-hooks-enforce-project-conventions/",
   "https://www.sitepoint.com/top-accessibility-errors-in-production/",
   "https://www.sitepoint.com/how-to-prepare-for-a-meta-engineer-interview/",
-  "https://www.sitepoint.com/how-ai-search-is-changing-property-and-local-discovery-what-developers-should-build/",
-  "https://www.sitepoint.com/modern-css-grid-build-responsive-layouts-with-less-complexity/"
+  "https://www.sitepoint.com/how-ai-search-is-changing-property-and-local-discovery-what-developers-should-build/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15488,6 +15488,7 @@
   "https://www.surveymonkey.com/curiosity/hubspot-unbound-market-research-engine/"
  ],
  "Swizec Teller": [
+  "https://swizec.com/blog/how-do-we-auto-approve-and-merge-60p-of-prs",
   "https://swizec.com/blog/no-more-tech-debt",
   "https://swizec.com/blog/when-code-is-cheap-judgement-becomes-the-job",
   "https://swizec.com/blog/why-im-excited-about-jev-like-classifiers",
@@ -15536,8 +15537,7 @@
   "https://swizec.com/blog/small-projects-clear-scope",
   "https://swizec.com/blog/a-better-way-to-end-to-end-test-your-webapp",
   "https://swizec.com/blog/2025-year-in-review",
-  "https://swizec.com/blog/are-you-playing-games-you-want-to-win",
-  "https://swizec.com/blog/how-good-engineering-unlocks-fast-scaling"
+  "https://swizec.com/blog/are-you-playing-games-you-want-to-win"
  ],
  "T.J. Maher": [
   "tag:blogger.com,1999:blog-3868566217808655382.post-315234326844963803",
@@ -15980,6 +15980,7 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/insights/ai-agent-remember-returning-customers",
   "https://www.twilio.com/en-us/blog/products/launches/how-brands-start-trusted-conversations-on-apple-messages-for-bus",
   "https://www.twilio.com/en-us/blog/company/inside-twilio/intern-program-expansion-2026",
   "https://www.twilio.com/en-us/blog/insights/ai-agent-audit-trail",
@@ -16008,8 +16009,7 @@
   "https://www.twilio.com/en-us/blog/insights/token-limits-ai-support-conversations",
   "https://www.twilio.com/en-us/blog/developers/tutorials/detect-sim-swaps-rust-twilio-lookup-api",
   "https://www.twilio.com/en-us/blog/insights/what-is-an-email-blast",
-  "https://www.twilio.com/en-us/blog/insights/best-email-fonts",
-  "https://www.twilio.com/en-us/blog/insights/modernize-cx-without-rip-and-replace"
+  "https://www.twilio.com/en-us/blog/insights/best-email-fonts"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
