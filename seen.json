@@ -1647,6 +1647,8 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/read-dont-copy-replacing-file-feeds-opensharing-part-2-how-implement",
+  "https://www.databricks.com/blog/read-dont-copy-replacing-file-and-api-feeds-opensharing-part-1-why",
   "https://www.databricks.com/blog/how-public-sector-organizations-can-govern-ai-scale",
   "https://www.databricks.com/blog/real-time-fraud-detection-feature-views",
   "https://www.databricks.com/blog/builders-guide-scaling-databricks-apps",
@@ -1654,9 +1656,7 @@
   "https://www.databricks.com/blog/delta-sharing-opensharing-what-changed-whats-next",
   "https://www.databricks.com/blog/push-based-cdc-unity-catalog-zerobus-ingest-and-debezium",
   "https://www.databricks.com/blog/introducing-apache-spark-43-now-available-databricks-runtime-19",
-  "https://www.databricks.com/blog/enterprise-case-open-weight-models-databricks",
-  "https://www.databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow",
-  "https://www.databricks.com/blog/declare-and-optimize-unique-constraints-databricks"
+  "https://www.databricks.com/blog/enterprise-case-open-weight-models-databricks"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -2446,6 +2446,7 @@
   "https://github.blog/?p=97992"
  ],
  "GitHub Old": [
+  "https://github.blog/?p=100047",
   "https://github.blog/?p=100002",
   "https://github.blog/?p=99949",
   "https://github.blog/?p=99955",
@@ -2454,8 +2455,7 @@
   "https://github.blog/?p=99742",
   "https://github.blog/?p=99645",
   "https://github.blog/?p=99628",
-  "https://github.blog/?p=99538",
-  "https://github.blog/?p=99556"
+  "https://github.blog/?p=99538"
  ],
  "Gleb Bahmutov": [
   "https://glebbahmutov.com/blog/branded-phone-type/",
@@ -13066,6 +13066,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112838",
   "https://devblogs.microsoft.com/oldnewthing/?p=112835",
   "https://devblogs.microsoft.com/oldnewthing/?p=112830",
   "https://devblogs.microsoft.com/oldnewthing/?p=112825",
@@ -13074,8 +13075,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112808",
   "https://devblogs.microsoft.com/oldnewthing/?p=112803",
   "https://devblogs.microsoft.com/oldnewthing/?p=112800",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112797",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112793"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112797"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
