@@ -9184,6 +9184,7 @@
   "https://lea.verou.me/blog/2026/icons/"
  ],
  "Lerner Consulting Blog": [
+  "https://lernerpython.com/?p=18793",
   "https://lernerpython.com/2026/11/06/pandas-3-1-select-method-retrieving-specific-columns/",
   "https://lernerpython.com/2026/11/05/python-3-15-comprehension-unpacking-why-you-cant-transform-items/",
   "https://lernerpython.com/2026/11/04/python-set-comprehension-unique-items-from-nested-iterables/",
@@ -9192,8 +9193,7 @@
   "https://lernerpython.com/2026/11/01/pandas-multi-index-working-with-3d-data-using-loc-and-xs/",
   "https://lernerpython.com/2026/10/31/pandas-droplevel-remove-a-level-from-a-multi-index/",
   "https://lernerpython.com/2026/10/30/pandas-multiindex-what-a-two-level-index-looks-like/",
-  "https://lernerpython.com/2026/10/29/pandas-xs-keep-the-dropped-level-with-drop-level-false/",
-  "https://lernerpython.com/2026/10/28/pandas-xs-using-the-level-argument-with-an-int-or-a-name/"
+  "https://lernerpython.com/2026/10/29/pandas-xs-keep-the-dropped-level-with-drop-level-false/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -14703,6 +14703,8 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/best-ai-humanizer-tools-tested-and-compared-7-options-for-web-content/",
+  "https://www.sitepoint.com/technical-aspects-of-ai-generated-video-assets-for-web-design/",
   "https://www.sitepoint.com/prompt-management-in-typescript-langsmith-vs-git-vs-3-open-source-registries/",
   "https://www.sitepoint.com/google-workspace-vs-microsoft-365-vs-proton-workspace/",
   "https://www.sitepoint.com/build-a-hardware-diagnostic-log-with-vanilla-javascript/",
@@ -14800,9 +14802,7 @@
   "https://www.sitepoint.com/llm-structured-output-json-schema/",
   "https://www.sitepoint.com/review-ai-generated-ui-changes/",
   "https://www.sitepoint.com/llm-proxy-setup-litellm-observability/",
-  "https://www.sitepoint.com/astro-vs-nextjs-choose-framework/",
-  "https://www.sitepoint.com/claude-code-hooks-enforce-project-conventions/",
-  "https://www.sitepoint.com/top-accessibility-errors-in-production/"
+  "https://www.sitepoint.com/astro-vs-nextjs-choose-framework/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
