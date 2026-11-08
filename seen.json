@@ -1613,6 +1613,7 @@
   "https://danluu.com/randomize-hn/"
  ],
  "Daniel Doubrovkine (dB.)": [
+  "https://code.dblock.org/2026/11/07/releasing-ruby-gems-with-oidc-and-github-actions",
   "https://code.dblock.org/2026/11/06/linting-both-prose-and-embedded-code-with-rubocop",
   "https://code.dblock.org/2026/11/04/distributing-a-rust-app-everywhere",
   "https://code.dblock.org/2026/10/31/introducing-svet-a-git-repository-linter",
@@ -1631,8 +1632,7 @@
   "https://code.dblock.org/2026/09/29/file-and-folder-98-a-1998-word-document-manager",
   "https://code.dblock.org/2026/09/27/the-second-life-of-autoconf-for-ms-dos",
   "https://code.dblock.org/2026/09/24/porting-my-1996-pascal-calculator-to-rust",
-  "https://code.dblock.org/2026/09/23/using-ai-effectively-in-technical-writing",
-  "https://code.dblock.org/2026/09/19/serving-markdown-with-a-jekyll-plugin"
+  "https://code.dblock.org/2026/09/23/using-ai-effectively-in-technical-writing"
  ],
  "Daniel Schmidt": [
   "https://medium.com/p/825e6dedf46d",
