@@ -335,6 +335,7 @@
   "https://infrequently.org/2024/01/the-web-is-the-app-store/"
  ],
  "Amit Merchant": [
+  "https://www.amitmerchant.com/safari-just-made-browsercontrolled-dark-mode-real",
   "https://www.amitmerchant.com/whats-new-in-php-86",
   "https://www.amitmerchant.com/ai-agent-dependencies-management",
   "https://www.amitmerchant.com/ci-pipeline-lockfile",
@@ -343,8 +344,7 @@
   "https://www.amitmerchant.com/7-game-changing-web-ui-features-you-need-to-start-using-today",
   "https://www.amitmerchant.com/building-web-searching-ai-agent-javascript",
   "https://www.amitmerchant.com/webmcp-in-chrome-101",
-  "https://www.amitmerchant.com/from-feature-branches-to-agent-branches-featuring-antigravity",
-  "https://www.amitmerchant.com/one-css-property-that-makes-numbers-look-instantly-better"
+  "https://www.amitmerchant.com/from-feature-branches-to-agent-branches-featuring-antigravity"
  ],
  "Andrew Bancroft": [
   "https://www.andrewcbancroft.com/blog/ai/how-i-learned-to-copy-and-paste/",
@@ -2373,6 +2373,7 @@
   "http://code.flickr.net/?p=3370"
  ],
  "Freek Van der Herten": [
+  "https://freek.dev/3215",
   "https://freek.dev/3214",
   "https://freek.dev/3213",
   "https://freek.dev/3212",
@@ -2391,8 +2392,7 @@
   "https://freek.dev/3090",
   "https://freek.dev/3091",
   "https://freek.dev/3092",
-  "https://freek.dev/3117",
-  "https://freek.dev/3200"
+  "https://freek.dev/3117"
  ],
  "Freeletics": [
   "/2021/11/16/droidcon-berlin-2021",
@@ -13095,19 +13095,19 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
-  "https://realpython.com/python-application-layouts/",
-  "https://realpython.com/intro-to-pyenv/",
-  "https://realpython.com/python-thonny/",
+  "https://realpython.com/python-memory-management/",
+  "https://realpython.com/what-is-pip/",
   "https://realpython.com/absolute-vs-relative-python-imports/",
+  "https://realpython.com/intro-to-pyenv/",
+  "https://realpython.com/python-application-layouts/",
+  "https://realpython.com/python-thonny/",
   "https://realpython.com/quizzes/intro-to-pyenv/",
-  "https://realpython.com/regex-python/",
-  "https://realpython.com/python-sql-libraries/",
   "https://realpython.com/regex-python-part-2/",
+  "https://realpython.com/python-sql-libraries/",
   "https://realpython.com/ai-news-weekly-2026-11-06/",
+  "https://realpython.com/regex-python/",
   "https://realpython.com/podcasts/rpp/318/",
   "https://realpython.com/quizzes/python-lbyl-vs-eafp/",
-  "https://realpython.com/learn-with-mentor-ai-video-courses/",
-  "https://realpython.com/polars-vs-pandas/",
   "https://realpython.com/quizzes/beautiful-soup-web-scraper-python/",
   "https://realpython.com/quizzes/python-matplotlib-guide/",
   "https://realpython.com/quizzes/learn-with-mentor-ai-video-courses/",
@@ -14703,7 +14703,9 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/prompt-management-in-typescript-langsmith-vs-git-vs-3-open-source-registries/",
   "https://www.sitepoint.com/google-workspace-vs-microsoft-365-vs-proton-workspace/",
+  "https://www.sitepoint.com/build-a-hardware-diagnostic-log-with-vanilla-javascript/",
   "https://www.sitepoint.com/self-hosted-langsmith-alternatives-4-tools-tested-on-one-typescript-agent/",
   "https://www.sitepoint.com/a-practical-introduction-to-the-twitch-helix-api/",
   "https://www.sitepoint.com/best-static-website-hosting-providers-in-2027-free-and-paid-options-compared/",
@@ -14800,9 +14802,7 @@
   "https://www.sitepoint.com/llm-proxy-setup-litellm-observability/",
   "https://www.sitepoint.com/astro-vs-nextjs-choose-framework/",
   "https://www.sitepoint.com/claude-code-hooks-enforce-project-conventions/",
-  "https://www.sitepoint.com/top-accessibility-errors-in-production/",
-  "https://www.sitepoint.com/how-to-prepare-for-a-meta-engineer-interview/",
-  "https://www.sitepoint.com/how-ai-search-is-changing-property-and-local-discovery-what-developers-should-build/"
+  "https://www.sitepoint.com/top-accessibility-errors-in-production/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
