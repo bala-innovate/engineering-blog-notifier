@@ -1681,6 +1681,7 @@
   "https://dave.cheney.net/?p=3848"
  ],
  "David Walsh": [
+  "https://davidwalsh.name/?p=27898",
   "https://davidwalsh.name/?p=27895",
   "https://davidwalsh.name/?p=27892",
   "https://davidwalsh.name/?p=27885",
@@ -1699,8 +1700,7 @@
   "https://davidwalsh.name/?p=27803",
   "https://davidwalsh.name/?p=27802",
   "https://davidwalsh.name/?p=27800",
-  "https://davidwalsh.name/?p=27796",
-  "https://davidwalsh.name/?p=27788"
+  "https://davidwalsh.name/?p=27796"
  ],
  "Dean Hume": [
   "https://deanhume.com/deliberate-practice-and-continuous-improvement-in-software-teams/",
@@ -9185,6 +9185,7 @@
  ],
  "Lerner Consulting Blog": [
   "https://lernerpython.com/?p=18793",
+  "https://lernerpython.com/2026/11/08/pandas-3-1-filter-selecting-rows-with-a-pd-col-condition/",
   "https://lernerpython.com/2026/11/06/pandas-3-1-select-method-retrieving-specific-columns/",
   "https://lernerpython.com/2026/11/05/python-3-15-comprehension-unpacking-why-you-cant-transform-items/",
   "https://lernerpython.com/2026/11/04/python-set-comprehension-unique-items-from-nested-iterables/",
@@ -9192,8 +9193,7 @@
   "https://lernerpython.com/?p=18470",
   "https://lernerpython.com/2026/11/01/pandas-multi-index-working-with-3d-data-using-loc-and-xs/",
   "https://lernerpython.com/2026/10/31/pandas-droplevel-remove-a-level-from-a-multi-index/",
-  "https://lernerpython.com/2026/10/30/pandas-multiindex-what-a-two-level-index-looks-like/",
-  "https://lernerpython.com/2026/10/29/pandas-xs-keep-the-dropped-level-with-drop-level-false/"
+  "https://lernerpython.com/2026/10/30/pandas-multiindex-what-a-two-level-index-looks-like/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -11045,6 +11045,11 @@
   "https://novoda.com/?p=10009"
  ],
  "Nvidia": [
+  "https://blogs.nvidia.com/?p=99744",
+  "https://blogs.nvidia.com/?p=99712",
+  "https://blogs.nvidia.com/?p=99736",
+  "https://blogs.nvidia.com/?p=99721",
+  "https://blogs.nvidia.com/?p=99731",
   "https://blogs.nvidia.com/?p=99702",
   "https://blogs.nvidia.com/?p=99689",
   "https://blogs.nvidia.com/?p=98677",
@@ -11057,12 +11062,7 @@
   "https://blogs.nvidia.com/?p=99565",
   "https://blogs.nvidia.com/?p=99523",
   "https://blogs.nvidia.com/?p=99512",
-  "https://blogs.nvidia.com/?p=99413",
-  "https://blogs.nvidia.com/?p=99404",
-  "https://blogs.nvidia.com/?p=99414",
-  "https://blogs.nvidia.com/?p=99173",
-  "https://blogs.nvidia.com/?p=99128",
-  "https://blogs.nvidia.com/?p=99155"
+  "https://blogs.nvidia.com/?p=99413"
  ],
  "OCTO Technology": [
   "https://blog.octo.com/j'ai-demande-un-powerpoint-a-des-agents--le-premier-on-voulait-l'oublier-le-dernier-tout-le-monde-l'a-accepte",
@@ -14703,6 +14703,10 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/how-text-to-image-ai-generators-work-and-5-tools-that-deliver-good-results/",
+  "https://www.sitepoint.com/how-to-reduce-hallucinations-in-llms/",
+  "https://www.sitepoint.com/what-ai-gets-wrong-about-the-front-end-and-why-you-still-need-to-know/",
+  "https://www.sitepoint.com/friendly-fraud-prevention-for-developers-what-to-log-block-and-automate/",
   "https://www.sitepoint.com/best-ai-humanizer-tools-tested-and-compared-7-options-for-web-content/",
   "https://www.sitepoint.com/technical-aspects-of-ai-generated-video-assets-for-web-design/",
   "https://www.sitepoint.com/prompt-management-in-typescript-langsmith-vs-git-vs-3-open-source-registries/",
@@ -14798,11 +14802,7 @@
   "https://www.sitepoint.com/web-performance-optimization-practical-techniques-for-building-faster-websites/",
   "https://www.sitepoint.com/can-ai-write-accessible-code/",
   "https://www.sitepoint.com/ampere-pmu-profiler-microarchitecture-guide/",
-  "https://www.sitepoint.com/react-useeffect-cleanup-patterns/",
-  "https://www.sitepoint.com/llm-structured-output-json-schema/",
-  "https://www.sitepoint.com/review-ai-generated-ui-changes/",
-  "https://www.sitepoint.com/llm-proxy-setup-litellm-observability/",
-  "https://www.sitepoint.com/astro-vs-nextjs-choose-framework/"
+  "https://www.sitepoint.com/react-useeffect-cleanup-patterns/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
