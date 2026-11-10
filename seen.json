@@ -762,13 +762,13 @@
  ],
  "Auth0": [
   "https://auth0.com/blog/authentication-and-authorization-what-s-new-in-net-11/",
-  "https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/",
-  "https://auth0.com/blog/ai-ambitions-are-blocked-by-identity-debt/",
+  "https://auth0.com/blog/moving-quickly-without-breaking-things/",
   "https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/",
   "https://auth0.com/blog/compliant-infrastructure-frustrating-cx/",
-  "https://auth0.com/blog/moving-quickly-without-breaking-things/",
-  "https://auth0.com/blog/consumers-are-ready-for-ai-are-companies/",
+  "https://auth0.com/blog/ai-ambitions-are-blocked-by-identity-debt/",
   "https://auth0.com/blog/who-will-consumers-trust-to-act-shop-pay-on-their-behalf/",
+  "https://auth0.com/blog/consumers-are-ready-for-ai-are-companies/",
+  "https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/",
   "https://auth0.com/blog/build-an-ai-wellbeing-app-with-fireworks-fitbit-via-auth0-token-vault/",
   "https://auth0.com/blog/okta-named-a-leader-in-gartner-magic-quadrant-2026/"
  ],
@@ -9184,6 +9184,7 @@
   "https://lea.verou.me/blog/2026/icons/"
  ],
  "Lerner Consulting Blog": [
+  "https://lernerpython.com/2026/11/09/pandas-3-1-csv-loading-multi-threaded-but-pyarrow-is-still-faster/",
   "https://lernerpython.com/?p=18793",
   "https://lernerpython.com/2026/11/08/pandas-3-1-filter-selecting-rows-with-a-pd-col-condition/",
   "https://lernerpython.com/2026/11/06/pandas-3-1-select-method-retrieving-specific-columns/",
@@ -9192,8 +9193,7 @@
   "https://lernerpython.com/2026/11/02/python-3-15-list-unpacking-flattening-a-nested-list/",
   "https://lernerpython.com/?p=18470",
   "https://lernerpython.com/2026/11/01/pandas-multi-index-working-with-3d-data-using-loc-and-xs/",
-  "https://lernerpython.com/2026/10/31/pandas-droplevel-remove-a-level-from-a-multi-index/",
-  "https://lernerpython.com/2026/10/30/pandas-multiindex-what-a-two-level-index-looks-like/"
+  "https://lernerpython.com/2026/10/31/pandas-droplevel-remove-a-level-from-a-multi-index/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -11019,6 +11019,7 @@
   "https://nikola-breznjak.com/blog/?p=4823"
  ],
  "Nordic APIs": [
+  "https://nordicapis.com/?p=24420",
   "https://nordicapis.com/?p=24412",
   "https://nordicapis.com/?p=24400",
   "https://nordicapis.com/?p=24396",
@@ -11027,8 +11028,7 @@
   "https://nordicapis.com/?p=24336",
   "https://nordicapis.com/?p=24242",
   "https://nordicapis.com/?p=24268",
-  "https://nordicapis.com/?p=24257",
-  "https://nordicapis.com/?p=24230"
+  "https://nordicapis.com/?p=24257"
  ],
  "Novoda": [
   "https://novoda.com/?p=10414",
@@ -14703,6 +14703,8 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/how-to-build-an-accessible-gold-value-calculator-in-vanilla-javascript/",
+  "https://www.sitepoint.com/what-actually-happens-when-a-kafka-region-fails/",
   "https://www.sitepoint.com/why-transactional-emails-fail-after-deployment-a-practical-debugging-guide-for-developers/",
   "https://www.sitepoint.com/building-reliable-product-emails-into-your-application/",
   "https://www.sitepoint.com/how-text-to-image-ai-generators-work-and-5-tools-that-deliver-good-results/",
@@ -14715,6 +14717,7 @@
   "https://www.sitepoint.com/prompt-management-in-typescript-langsmith-vs-git-vs-3-open-source-registries/",
   "https://www.sitepoint.com/google-workspace-vs-microsoft-365-vs-proton-workspace/",
   "https://www.sitepoint.com/build-a-hardware-diagnostic-log-with-vanilla-javascript/",
+  "https://www.sitepoint.com/how-to-build-an-accessible-customer-reviews-section-with-html-and-css/",
   "https://www.sitepoint.com/self-hosted-langsmith-alternatives-4-tools-tested-on-one-typescript-agent/",
   "https://www.sitepoint.com/a-practical-introduction-to-the-twitch-helix-api/",
   "https://www.sitepoint.com/best-static-website-hosting-providers-in-2027-free-and-paid-options-compared/",
@@ -14799,10 +14802,7 @@
   "https://www.sitepoint.com/nextjs-hydration-error-localstorage/",
   "https://www.sitepoint.com/codebase-design-for-ai-agents/",
   "https://www.sitepoint.com/nextjs-isr-transient-error-notfound/",
-  "https://www.sitepoint.com/9-browser-based-checks-that-make-design-to-development-handoffs-more-reliable/",
-  "https://www.sitepoint.com/modern-html-forms-building-accessible-secure-and-user-friendly-experiences/",
-  "https://www.sitepoint.com/designing-maintainable-css-architecture-a-practical-guide-to-scalable-stylesheets/",
-  "https://www.sitepoint.com/web-performance-optimization-practical-techniques-for-building-faster-websites/"
+  "https://www.sitepoint.com/9-browser-based-checks-that-make-design-to-development-handoffs-more-reliable/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15120,6 +15120,7 @@
   "2126"
  ],
  "Stack Overflow": [
+  "4bffa630-54f8-412c-8fb9-5a1e2fedfd94",
   "fbc0f8b8-fad5-49c5-b515-a7ab8cf42768",
   "71ac000b-6ddd-42a0-8c20-0f525b414eb0",
   "ab816818-65bf-497b-a765-d7c6250deb92",
@@ -15158,8 +15159,7 @@
   "8e6c3a8a-3d27-44c8-be90-0b74d1090a4a",
   "b1af6214-1a59-4309-8484-920746d31d04",
   "f7b6d808-33ec-4a2d-bf20-66847f8d6bc7",
-  "5b49fdc8-0b0b-41d8-bbf6-6f6d8460e709",
-  "78281763-feb0-4d4b-982a-fec90093703d"
+  "5b49fdc8-0b0b-41d8-bbf6-6f6d8460e709"
  ],
  "Stanko Tadi\u0107": [
   "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
@@ -15980,12 +15980,17 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/insights/5-email-types-explained-with-examples",
+  "https://www.twilio.com/en-us/blog/what-is-broadcast-messaging",
+  "https://www.twilio.com/en-us/blog/insights/cloud-comms/call-center-services-pricing",
   "https://www.twilio.com/en-us/blog/insights/ai-agent-remember-returning-customers",
   "https://www.twilio.com/en-us/blog/products/launches/how-brands-start-trusted-conversations-on-apple-messages-for-bus",
   "https://www.twilio.com/en-us/blog/company/inside-twilio/intern-program-expansion-2026",
   "https://www.twilio.com/en-us/blog/insights/ai-agent-audit-trail",
+  "https://www.twilio.com/en-us/blog/insights/smtp-relay-service-basics",
   "https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-failover",
   "https://www.twilio.com/en-us/blog/insights/build-vs-buy-orchestration-layer",
+  "https://www.twilio.com/en-us/blog/insights/what-is-starttls",
   "https://www.twilio.com/en-us/blog/insights/contact-center-analytics",
   "https://www.twilio.com/en-us/blog/insights/agent-assist",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node",
@@ -16004,12 +16009,7 @@
   "https://www.twilio.com/en-us/blog/insights/best-practices/authentication-methods",
   "https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam",
   "https://www.twilio.com/en-us/blog/insights/ai-agent-order-status-refunds",
-  "https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform",
-  "https://www.twilio.com/en-us/blog/insights/automate-call-summaries-sentiment-crm",
-  "https://www.twilio.com/en-us/blog/insights/token-limits-ai-support-conversations",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/detect-sim-swaps-rust-twilio-lookup-api",
-  "https://www.twilio.com/en-us/blog/insights/what-is-an-email-blast",
-  "https://www.twilio.com/en-us/blog/insights/best-email-fonts"
+  "https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
