@@ -1647,6 +1647,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/unity-catalog-metric-views-now-power-bi-one-unified-governed-semantic-layer-all-your-reporting",
   "https://www.databricks.com/blog/databricks-commitment-european-sovereignty",
   "https://www.databricks.com/blog/accelerate-gpu-training-unity-catalog-tables-ucdataset",
   "https://www.databricks.com/blog/turn-buying-signals-pipeline-sendoso-gifts-genie-one",
@@ -1655,8 +1656,7 @@
   "https://www.databricks.com/blog/how-public-sector-organizations-can-govern-ai-scale",
   "https://www.databricks.com/blog/real-time-fraud-detection-feature-views",
   "https://www.databricks.com/blog/builders-guide-scaling-databricks-apps",
-  "https://www.databricks.com/blog/which-data-collaboration-tool-opensharing-clean-rooms-marketplace",
-  "https://www.databricks.com/blog/delta-sharing-opensharing-what-changed-whats-next"
+  "https://www.databricks.com/blog/which-data-collaboration-tool-opensharing-clean-rooms-marketplace"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -2373,6 +2373,7 @@
   "http://code.flickr.net/?p=3370"
  ],
  "Freek Van der Herten": [
+  "https://freek.dev/3222",
   "https://freek.dev/3217",
   "https://freek.dev/3216",
   "https://freek.dev/3215",
@@ -2391,8 +2392,7 @@
   "https://freek.dev/3202",
   "https://freek.dev/3088",
   "https://freek.dev/3089",
-  "https://freek.dev/3090",
-  "https://freek.dev/3091"
+  "https://freek.dev/3090"
  ],
  "Freeletics": [
   "/2021/11/16/droidcon-berlin-2021",
@@ -6198,6 +6198,8 @@
   "https://medium.com/p/0bd5b9c303e2"
  ],
  "HubSpot": [
+  "https://product.hubspot.com/blog/incident-report-august-11-2026",
+  "https://product.hubspot.com/blog/from-data-silos-to-feature-serving-how-we-unified-fragmented-data-for-training-inference-and-reuse",
   "https://product.hubspot.com/blog/hedging-erasure-coded-reads-in-hdfs",
   "https://product.hubspot.com/blog/incident-report-july-22-2026",
   "https://product.hubspot.com/blog/building-observable-access-control-at-scale-a-rule-engine-approach-to-jita",
@@ -6205,9 +6207,7 @@
   "https://product.hubspot.com/blog/hubspot-incident-report-february-25-2026",
   "https://product.hubspot.com/blog/automated-code-review-the-6-month-evolution",
   "https://product.hubspot.com/blog/cloud-coding-agents-at-hubspot",
-  "https://product.hubspot.com/blog/migrated-from-enzyme-to-react-testing-library",
-  "https://product.hubspot.com/blog/incident-report-for-october-20-2025",
-  "https://product.hubspot.com/blog/its-never-a-hardware-bug-until-it-is"
+  "https://product.hubspot.com/blog/migrated-from-enzyme-to-react-testing-library"
  ],
  "Huon Wilson": [
   "https://huonw.github.io/blog/2026/04/gell-mann-aimnesia",
@@ -9322,6 +9322,7 @@
   "https://loige.co/writing-middlewares-for-rust-lambda-functions/"
  ],
  "Lyft": [
+  "https://medium.com/p/c69dddadb115",
   "https://medium.com/p/1edc53e0fd5f",
   "https://medium.com/p/5be3efbc82ea",
   "https://medium.com/p/36f20246d250",
@@ -9330,8 +9331,7 @@
   "https://medium.com/p/2ab50856d0c8",
   "https://medium.com/p/47416e9df029",
   "https://medium.com/p/07227ff92789",
-  "https://medium.com/p/9cb06d628f2d",
-  "https://medium.com/p/b04dca99e6ee"
+  "https://medium.com/p/9cb06d628f2d"
  ],
  "MapTiler": [
   "https://www.maptiler.com/news/2026/11/maptiler-server-4-9-smaller-installer-leaner-sbom",
@@ -15705,7 +15705,7 @@
   "http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs"
  ],
  "Timescale": [
-  "https://www.tigerdata.com/blog/split-architecture-second-database"
+  "https://www.tigerdata.com/blog/timescaledb-enterprise-is-in-public-beta"
  ],
  "Tinder": [
   "https://medium.com/p/48dcf01a6066",
@@ -15772,6 +15772,7 @@
   "top-shopify-tools"
  ],
  "Transferwise": [
+  "https://medium.com/p/876942d6031f",
   "https://medium.com/p/80f5e505d710",
   "https://medium.com/p/4eff3f015553",
   "https://medium.com/p/d0e63fe718c7",
@@ -15780,8 +15781,7 @@
   "https://medium.com/p/b1439ddc6270",
   "https://medium.com/p/d369bb04689e",
   "https://medium.com/p/2765e9373b61",
-  "https://medium.com/p/757e0e6d32e4",
-  "https://medium.com/p/39a6faf41f96"
+  "https://medium.com/p/757e0e6d32e4"
  ],
  "Trivago": [
   "https://tech.trivago.com/post/2026-10-20-spin-up-test-tear-down-how-trivago-runs-600-preview-environments-on-kubernetes/",
@@ -16431,6 +16431,7 @@
   "http://zachholman.com/posts/calendearing"
  ],
  "Zendesk": [
+  "https://medium.com/p/f86144253242",
   "https://medium.com/p/cc3239c4561b",
   "https://medium.com/p/2834d29387f4",
   "https://medium.com/p/75cd476b7b04",
@@ -16439,8 +16440,7 @@
   "https://medium.com/p/0c1853699dfb",
   "https://medium.com/p/a03cf8f809db",
   "https://medium.com/p/d00eff680de4",
-  "https://medium.com/p/f297cc383d01",
-  "https://medium.com/p/a403d9ecd99c"
+  "https://medium.com/p/f297cc383d01"
  ],
  "Zolmeister": [
   "https://zolmeister.com/2016/09/jwt-auth",
