@@ -6175,6 +6175,7 @@
   "https://medium.com/p/e08972ae873e"
  ],
  "Hostinger": [
+  "https://www.hostinger.com/blog/?p=11030",
   "https://www.hostinger.com/blog/?p=11000",
   "https://www.hostinger.com/blog/?p=10993",
   "https://www.hostinger.com/blog/?p=10953",
@@ -6182,8 +6183,7 @@
   "https://www.hostinger.com/blog/?p=10908",
   "https://www.hostinger.com/blog/?p=10886",
   "https://www.hostinger.com/blog/?p=10876",
-  "https://www.hostinger.com/blog/?p=10858",
-  "https://www.hostinger.com/blog/?p=10849"
+  "https://www.hostinger.com/blog/?p=10858"
  ],
  "Housing.com": [
   "https://medium.com/p/b5dbd492fe88",
@@ -6198,6 +6198,7 @@
   "https://medium.com/p/0bd5b9c303e2"
  ],
  "HubSpot": [
+  "https://product.hubspot.com/blog/hedging-erasure-coded-reads-in-hdfs",
   "https://product.hubspot.com/blog/incident-report-july-22-2026",
   "https://product.hubspot.com/blog/building-observable-access-control-at-scale-a-rule-engine-approach-to-jita",
   "https://product.hubspot.com/blog/building-the-ai-retrieval-infrastructure-behind-20-billion-vectors-at-hubspot",
@@ -6206,8 +6207,7 @@
   "https://product.hubspot.com/blog/cloud-coding-agents-at-hubspot",
   "https://product.hubspot.com/blog/migrated-from-enzyme-to-react-testing-library",
   "https://product.hubspot.com/blog/incident-report-for-october-20-2025",
-  "https://product.hubspot.com/blog/its-never-a-hardware-bug-until-it-is",
-  "https://product.hubspot.com/blog/context-is-key-how-hubspot-scaled-ai-adoption"
+  "https://product.hubspot.com/blog/its-never-a-hardware-bug-until-it-is"
  ],
  "Huon Wilson": [
   "https://huonw.github.io/blog/2026/04/gell-mann-aimnesia",
@@ -8820,6 +8820,7 @@
   "https://medium.com/p/19085dc15b67"
  ],
  "Kogan.com": [
+  "5664c2f3e4b0957c43aa14f4:5666531469a91a17ec801e9c:6af242c4937aff7b074f0190",
   "5664c2f3e4b0957c43aa14f4:5666531469a91a17ec801e9c:6aa0b57b7783e2634e371923",
   "5664c2f3e4b0957c43aa14f4:5666531469a91a17ec801e9c:6a73e26e42b1975ccd6d49b7",
   "5664c2f3e4b0957c43aa14f4:5666531469a91a17ec801e9c:69eae8f7a63327313ec62aa1",
@@ -8838,8 +8839,7 @@
   "5664c2f3e4b0957c43aa14f4:5666531469a91a17ec801e9c:664152951371a036af9d6bdd",
   "5664c2f3e4b0957c43aa14f4:5666531469a91a17ec801e9c:65f2ab6a666f52178fb7a077",
   "5664c2f3e4b0957c43aa14f4:5666531469a91a17ec801e9c:65dd6d88e6dab419429591a2",
-  "5664c2f3e4b0957c43aa14f4:5666531469a91a17ec801e9c:65b1f007149f361907318203",
-  "5664c2f3e4b0957c43aa14f4:5666531469a91a17ec801e9c:651cf4540ffe8f1059b23b86"
+  "5664c2f3e4b0957c43aa14f4:5666531469a91a17ec801e9c:65b1f007149f361907318203"
  ],
  "Kotlin": [
   "https://blog.jetbrains.com/?post_type=kotlin&p=753700",
@@ -13066,6 +13066,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112841",
   "https://devblogs.microsoft.com/oldnewthing/?p=112838",
   "https://devblogs.microsoft.com/oldnewthing/?p=112835",
   "https://devblogs.microsoft.com/oldnewthing/?p=112830",
@@ -13074,8 +13075,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112815",
   "https://devblogs.microsoft.com/oldnewthing/?p=112808",
   "https://devblogs.microsoft.com/oldnewthing/?p=112803",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112800",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112797"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112800"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -15120,6 +15120,7 @@
   "2126"
  ],
  "Stack Overflow": [
+  "fbc0f8b8-fad5-49c5-b515-a7ab8cf42768",
   "71ac000b-6ddd-42a0-8c20-0f525b414eb0",
   "ab816818-65bf-497b-a765-d7c6250deb92",
   "36d88082-2c6e-437a-abae-0a265d2acd72",
@@ -15158,8 +15159,7 @@
   "b1af6214-1a59-4309-8484-920746d31d04",
   "f7b6d808-33ec-4a2d-bf20-66847f8d6bc7",
   "5b49fdc8-0b0b-41d8-bbf6-6f6d8460e709",
-  "78281763-feb0-4d4b-982a-fec90093703d",
-  "7a2d88e5-ee53-4f7c-a46e-47bed1cebadf"
+  "78281763-feb0-4d4b-982a-fec90093703d"
  ],
  "Stanko Tadi\u0107": [
   "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
