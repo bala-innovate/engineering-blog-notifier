@@ -2061,11 +2061,11 @@
   "5a846a12f911ac0018cfb96a"
  ],
  "Eli Bendersky": [
+  "tag:eli.thegreenplace.net,2026-11-10:/2026/monads-in-lean/",
   "tag:eli.thegreenplace.net,2026-10-17:/2026/notes-on-the-complex-roots-of-unity/",
   "tag:eli.thegreenplace.net,2026-10-07:/2026/monte-carlo-simulations/",
   "tag:eli.thegreenplace.net,2026-09-30:/2026/summary-of-reading-july-september-2026/",
-  "tag:eli.thegreenplace.net,2026-09-26:/2026/rusty-thoughts-on-parse-dont-validate/",
-  "tag:eli.thegreenplace.net,2026-09-19:/2026/notes-on-discrete-time-fourier-series-and-transform/"
+  "tag:eli.thegreenplace.net,2026-09-26:/2026/rusty-thoughts-on-parse-dont-validate/"
  ],
  "Eric Elliot": [
   "https://medium.com/p/30ac7a3bf49c",
@@ -6175,6 +6175,7 @@
   "https://medium.com/p/e08972ae873e"
  ],
  "Hostinger": [
+  "https://www.hostinger.com/blog/?p=11059",
   "https://www.hostinger.com/blog/?p=11043",
   "https://www.hostinger.com/blog/?p=11030",
   "https://www.hostinger.com/blog/?p=11000",
@@ -6182,8 +6183,7 @@
   "https://www.hostinger.com/blog/?p=10953",
   "https://www.hostinger.com/blog/?p=10940",
   "https://www.hostinger.com/blog/?p=10908",
-  "https://www.hostinger.com/blog/?p=10886",
-  "https://www.hostinger.com/blog/?p=10876"
+  "https://www.hostinger.com/blog/?p=10886"
  ],
  "Housing.com": [
   "https://medium.com/p/b5dbd492fe88",
@@ -9181,9 +9181,11 @@
   "https://lea.verou.me/blog/2026/polyfills/",
   "https://lea.verou.me/blog/2026/dark-mode-toggles/",
   "https://lea.verou.me/blog/2026/dark-mode-toggles-2/",
-  "https://lea.verou.me/blog/2026/icons/"
+  "https://lea.verou.me/blog/2026/icons/",
+  "https://lea.verou.me/blog/2026/tag/"
  ],
  "Lerner Consulting Blog": [
+  "https://lernerpython.com/2026/11/10/pandas-options-setting-display-precision-with-pd-set-option/",
   "https://lernerpython.com/2026/11/09/pandas-3-1-csv-loading-multi-threaded-but-pyarrow-is-still-faster/",
   "https://lernerpython.com/?p=18793",
   "https://lernerpython.com/2026/11/08/pandas-3-1-filter-selecting-rows-with-a-pd-col-condition/",
@@ -9192,8 +9194,7 @@
   "https://lernerpython.com/2026/11/04/python-set-comprehension-unique-items-from-nested-iterables/",
   "https://lernerpython.com/2026/11/02/python-3-15-list-unpacking-flattening-a-nested-list/",
   "https://lernerpython.com/?p=18470",
-  "https://lernerpython.com/2026/11/01/pandas-multi-index-working-with-3d-data-using-loc-and-xs/",
-  "https://lernerpython.com/2026/10/31/pandas-droplevel-remove-a-level-from-a-multi-index/"
+  "https://lernerpython.com/2026/11/01/pandas-multi-index-working-with-3d-data-using-loc-and-xs/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -11045,6 +11046,7 @@
   "https://novoda.com/?p=10009"
  ],
  "Nvidia": [
+  "https://blogs.nvidia.com/?p=99833",
   "https://blogs.nvidia.com/?p=99797",
   "https://blogs.nvidia.com/?p=99751",
   "https://blogs.nvidia.com/?p=99744",
@@ -11061,8 +11063,7 @@
   "https://blogs.nvidia.com/?p=99605",
   "https://blogs.nvidia.com/?p=99615",
   "https://blogs.nvidia.com/?p=99597",
-  "https://blogs.nvidia.com/?p=99565",
-  "https://blogs.nvidia.com/?p=99523"
+  "https://blogs.nvidia.com/?p=99565"
  ],
  "OCTO Technology": [
   "https://blog.octo.com/j'ai-demande-un-powerpoint-a-des-agents--le-premier-on-voulait-l'oublier-le-dernier-tout-le-monde-l'a-accepte",
@@ -13096,27 +13097,27 @@
  ],
  "Real Python": [
   "https://realpython.com/ai-benchmark-claude-fable-5-2/",
+  "https://realpython.com/gemini-4-carbon/",
+  "https://realpython.com/ai-benchmark-gemini-4-carbon/",
   "https://realpython.com/courses/coding-interview-practice-prefix-sums-binary-search/",
   "https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows/",
+  "https://realpython.com/quizzes/coding-interview-practice-prefix-sums-binary-search/",
   "https://realpython.com/quizzes/getting-started-with-git/",
   "https://realpython.com/quizzes/coding-interview-practice-hashing-two-pointers-sliding-windows/",
-  "https://realpython.com/quizzes/coding-interview-practice-prefix-sums-binary-search/",
   "https://realpython.com/tdd-ai-agents/",
   "https://realpython.com/quizzes/tdd-ai-agents/",
   "https://realpython.com/python-memory-management/",
   "https://realpython.com/what-is-pip/",
-  "https://realpython.com/python-application-layouts/",
-  "https://realpython.com/python-thonny/",
   "https://realpython.com/intro-to-pyenv/",
+  "https://realpython.com/python-thonny/",
   "https://realpython.com/absolute-vs-relative-python-imports/",
+  "https://realpython.com/python-application-layouts/",
   "https://realpython.com/quizzes/intro-to-pyenv/",
-  "https://realpython.com/regex-python-part-2/",
-  "https://realpython.com/ai-news-weekly-2026-11-06/",
   "https://realpython.com/podcasts/rpp/318/",
   "https://realpython.com/quizzes/python-lbyl-vs-eafp/",
+  "https://realpython.com/quizzes/learn-with-mentor-ai-video-courses/",
   "https://realpython.com/quizzes/python-matplotlib-guide/",
   "https://realpython.com/quizzes/beautiful-soup-web-scraper-python/",
-  "https://realpython.com/quizzes/learn-with-mentor-ai-video-courses/",
   "https://realpython.com/quizzes/positron-ide/",
   "https://realpython.com/courses/converting-documents-markdown-markitdown/",
   "https://realpython.com/podcasts/rpp/317/",
@@ -14704,6 +14705,8 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/design-workflow-ai-era-vitalii-khomenko/",
+  "https://www.sitepoint.com/how-to-improve-email-deliverability-rates/",
   "https://www.sitepoint.com/how-to-use-developer-time-tracking-data-to-improve-sprint-planning-and-estimates/",
   "https://www.sitepoint.com/what-breaks-when-a-self-hosted-llm-gateway-hits-1-000-concurrent-streams/",
   "https://www.sitepoint.com/how-to-build-an-accessible-gold-value-calculator-in-vanilla-javascript/",
@@ -14801,9 +14804,7 @@
   "https://www.sitepoint.com/vibe-coding-to-production-a-developer-s-checklist-for-building-reliable-web-apps/",
   "https://www.sitepoint.com/debugging-css-layout-issues-a-practical-guide-to-browser-devtools/",
   "https://www.sitepoint.com/progressive-enhancement-in-web-forms-building-reliable-experiences-with-html-css-and-javascript/",
-  "https://www.sitepoint.com/build-a-startup-runway-calculator-in-javascript-and-stress-test-your-plan/",
-  "https://www.sitepoint.com/nextjs-hydration-error-localstorage/",
-  "https://www.sitepoint.com/codebase-design-for-ai-agents/"
+  "https://www.sitepoint.com/build-a-startup-runway-calculator-in-javascript-and-stress-test-your-plan/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
