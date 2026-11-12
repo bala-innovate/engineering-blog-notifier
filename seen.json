@@ -100,6 +100,7 @@
   "https://8thlight.com/insights/celebrating-our-beacon-rani-zipelwar"
  ],
  "AWS": [
+  "c0bd049236369d601a6a4b54035a912339948df0",
   "92fb165d30993e71e0cdd70801398f45f9518c7d",
   "7d30dbf9b73fcfe8e471c3e83d1f2ee69b4b3343",
   "a75ee10f33f51c28e1b3189dc509cb78f1c8eaa7",
@@ -118,8 +119,7 @@
   "ea1cc456e7a2e65a27ab5c8db65b3016bf527355",
   "fc299694003096540401c2714b7038f1f5b7f685",
   "bd4f16a7bf860913e1106ba3aa40014256a857e5",
-  "219ec8af489642b8d1376bf298af0a210a58f33c",
-  "4fedaed1301f65781a8d0cf0c10d6af080cb9c4c"
+  "219ec8af489642b8d1376bf298af0a210a58f33c"
  ],
  "Aaron Patterson": [
   "https://tenderlovemaking.com/2026/10/18/static-analysis-for-the-uninitialized/",
@@ -1648,15 +1648,15 @@
  ],
  "Databricks": [
   "https://www.databricks.com/blog/air-gapped-not-data-dark-how-bright-machines-gives-customers-live-factory-dashboards-without",
+  "https://www.databricks.com/blog/detecting-credential-driven-attacks-databricks",
+  "https://www.databricks.com/blog/brickster-voices-meet-alasdair-anderson",
+  "https://www.databricks.com/blog/databricks-doubles-down-ai-products-opens-new-235000-square-foot-san-francisco-headquarters",
   "https://www.databricks.com/blog/new-genie-autonomous-ai-complex-enterprise-work",
   "https://www.databricks.com/blog/genie-genie-ontology-delivers-16-accuracy-less-half-tokens",
   "https://www.databricks.com/blog/genie-one-ai-cowork-home-everyone",
   "https://www.databricks.com/blog/announcing-ga-genie-ontology",
   "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work",
-  "https://www.databricks.com/blog/bring-your-business-context-chatgpt-claude-microsoft-copilot-cowork-and-grok-bot",
-  "https://www.databricks.com/blog/unity-catalog-metric-views-now-power-bi-one-unified-governed-semantic-layer-all-your-reporting",
-  "https://www.databricks.com/blog/databricks-commitment-european-sovereignty",
-  "https://www.databricks.com/blog/accelerate-gpu-training-unity-catalog-tables-ucdataset"
+  "https://www.databricks.com/blog/bring-your-business-context-chatgpt-claude-microsoft-copilot-cowork-and-grok-bot"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -2169,6 +2169,7 @@
   "evanmiller.org/news/go20150421"
  ],
  "Evil Martians": [
+  "https://evilmartians.com/chronicles/building-uscreens-remote-multi-tenant-mcp-server-inside-a-rails-app",
   "https://evilmartians.com/chronicles/sf-ruby-conference-regular-ticket-deadline",
   "https://evilmartians.com/chronicles/how-to-make-your-website-visible-to-llms",
   "https://evilmartians.com/chronicles/why-buildkite-hired-evil-martians-for-an-agentic-first-design-system",
@@ -2187,8 +2188,7 @@
   "https://evilmartians.com/chronicles/access-control-for-ai-on-rails-gating-sql-with-action-policy",
   "https://evilmartians.com/chronicles/get-in-human-cut-rails-boot-time-with-require-profiler-and-this-guide",
   "https://evilmartians.com/chronicles/publishing-agent-skills-discovery-index",
-  "https://evilmartians.com/chronicles/fair-by-design-orchestrating-background-jobs-in-ruby",
-  "https://evilmartians.com/chronicles/5-best-practices-for-preventing-chaos-in-tailwind-css"
+  "https://evilmartians.com/chronicles/fair-by-design-orchestrating-background-jobs-in-ruby"
  ],
  "Expedia": [
   "https://medium.com/p/9c04f1cfa750",
@@ -6076,6 +6076,8 @@
   "https://hashrocket.com/blog/posts/nativewind-speeding-up-styling-in-react-native"
  ],
  "Hayden James": [
+  "https://linuxblog.io/?p=19437",
+  "http://haydenjames.io/?p=1678",
   "https://haydenjames.io/?p=13210",
   "http://haydenjames.io/?p=1765",
   "https://haydenjames.io/?p=10695",
@@ -6093,9 +6095,7 @@
   "https://linuxblog.io/?p=22298",
   "https://linuxblog.io/?p=22493",
   "https://linuxblog.io/?p=22486",
-  "https://linuxblog.io/?p=20337",
-  "https://linuxblog.io/?p=22478",
-  "https://linuxblog.io/?p=22469"
+  "https://linuxblog.io/?p=20337"
  ],
  "Helpshift": [
   "https://medium.com/p/881d32a7ef93",
@@ -7742,6 +7742,7 @@
  ],
  "Jeremy Kun": [
   "https://www.jeremykun.com/2011/06/20/featured-posts/",
+  "https://www.jeremykun.com/2026/11/11/ckks-rescaling/",
   "https://www.jeremykun.com/2026/10/21/ckks-key-switching-and-relinearization/",
   "https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/",
   "https://www.jeremykun.com/shortform/2026-10-08-1120/",
@@ -10452,9 +10453,6 @@
   "https://medium.com/p/a83d9d9f074a",
   "https://medium.com/p/cc0f37b6dda7",
   "https://medium.com/p/5d52b7110194",
-  "https://coopcoopbware.tumblr.com/post/638316649394651136",
-  "https://coopcoopbware.tumblr.com/post/636411382111272960",
-  "https://coopcoopbware.tumblr.com/post/628096276382269440",
   "https://medium.com/p/26788d0db81a",
   "https://medium.com/p/2f2c6d04b3d3",
   "https://medium.com/p/af0e1ae74e61",
@@ -10462,18 +10460,11 @@
   "https://medium.com/p/328693ceddb0",
   "https://medium.com/p/8f2cb913cc0a",
   "https://johanlorenzo.github.io/blog/2019/10/24/taskgraph-is-now-deployed-to-the-biggest-mozilla-mobile-projects",
-  "https://coopcoopbware.tumblr.com/post/173126143130",
-  "https://coopcoopbware.tumblr.com/post/170952242320",
-  "https://coopcoopbware.tumblr.com/post/170418932165",
-  "https://coopcoopbware.tumblr.com/post/167698994970",
-  "https://coopcoopbware.tumblr.com/post/167553827650",
-  "https://coopcoopbware.tumblr.com/post/166781825770",
   "https://johanlorenzo.github.io/blog/2017/06/13/part-4-how-mozilla-publishes-apks-onto-google-play-store-in-a-reasonably-secure-and-automated-way",
   "https://johanlorenzo.github.io/blog/2017/06/12/part-3-how-mozilla-publishes-apks-onto-google-play-store-in-a-reasonably-secure-and-automated-way",
   "https://johanlorenzo.github.io/blog/2017/06/07/part-2-how-mozilla-publishes-apks-onto-google-play-store-in-a-reasonably-secure-and-automated-way",
   "https://johanlorenzo.github.io/blog/2017/06/06/part-1-how-mozilla-publishes-apks-onto-google-play-store-in-a-reasonably-secure-and-automated-way",
   "tag:blogger.com,1999:blog-25023280.post-5577653258282588564",
-  "https://coopcoopbware.tumblr.com/post/158362146735",
   "tag:blogger.com,1999:blog-25023280.post-8034724533767911704",
   "tag:blogger.com,1999:blog-25023280.post-5925639117654623188",
   "tag:blogger.com,1999:blog-25023280.post-5155097520029709680",
@@ -13019,6 +13010,7 @@
   "http://nativeguru.wordpress.com/?p=32"
  ],
  "Ray Wenderlich": [
+  "https://www.kodeco.com/ios/paths/shipping-with-ai/53703840-using-ai-for-ci-automation-in-ios-projects",
   "https://www.kodeco.com/ios/paths/validating-ai-code/53703811-reviewing-ai-generated-code-for-ios",
   "https://www.kodeco.com/53754585-what-s-new-in-swift-6-4",
   "https://www.kodeco.com/ios/paths/validating-ai-code/53684638-using-ai-for-testing-in-ios",
@@ -13039,7 +13031,6 @@
   "https://www.kodeco.com/52032936-kodebits-day-93-default-parameter",
   "https://www.kodeco.com/52032933-kodebits-day-92-collection-for-loop",
   "https://www.kodeco.com/52032928-kodebits-day-91-property-observer",
-  "https://www.kodeco.com/53560697-moving-from-xctest-to-swift-testing",
   "https://www.kodeco.com/ai/programs/ai-apis",
   "https://www.kodeco.com/ai/paths/python",
   "https://www.kodeco.com/ai/paths/azure-ai-services",
@@ -14265,6 +14256,7 @@
   "https://www.serverless.com/blog/typography"
  ],
  "Shopify": [
+  "https://shopify.engineering/generative-discovery",
   "https://shopify.engineering/shopify-app-rebuild",
   "https://shopify.engineering/reflex",
   "https://shopify.engineering/remote-dev",
@@ -15679,6 +15671,7 @@
   "https://upcoder.com/18/static-libs-do-not-modular-make"
  ],
  "Thoughtbot": [
+  "https://thoughtbot.com/blog/modernizing-legacy-systems-in-uk-banking-and-financial-services",
   "https://thoughtbot.com/blog/nwrug-s-manchester-uk-november-2026-meeting-un-learning-programming"
  ],
  "Thumbtack": [
@@ -15984,6 +15977,7 @@
  "Twilio": [
   "https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what-do-you-need-to-do",
   "https://www.twilio.com/en-us/blog/partners/integrations/transition-communications-tyntec-twilio",
+  "https://www.twilio.com/en-us/blog/insights/customer-engagement-platform-lock-in-questions",
   "https://www.twilio.com/en-us/blog/insights/5-email-types-explained-with-examples",
   "https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure",
   "https://www.twilio.com/en-us/blog/insights/ai-race-is-context-race",
@@ -16010,8 +16004,7 @@
   "https://www.twilio.com/en-us/blog/integrate-anthropic-twilio-voice-using-conversationrelay",
   "https://www.twilio.com/en-us/blog/insights/proactive-ai-agent-outbound-calling",
   "https://www.twilio.com/en-us/blog/insights/cx-benchmarks-enterprise-deployments",
-  "https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms",
-  "https://www.twilio.com/en-us/blog/insights/best-practices/passkeys"
+  "https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
