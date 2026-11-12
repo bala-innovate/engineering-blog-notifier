@@ -1652,11 +1652,11 @@
   "https://www.databricks.com/blog/brickster-voices-meet-alasdair-anderson",
   "https://www.databricks.com/blog/databricks-doubles-down-ai-products-opens-new-235000-square-foot-san-francisco-headquarters",
   "https://www.databricks.com/blog/new-genie-autonomous-ai-complex-enterprise-work",
-  "https://www.databricks.com/blog/genie-genie-ontology-delivers-16-accuracy-less-half-tokens",
-  "https://www.databricks.com/blog/genie-one-ai-cowork-home-everyone",
   "https://www.databricks.com/blog/announcing-ga-genie-ontology",
   "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work",
-  "https://www.databricks.com/blog/bring-your-business-context-chatgpt-claude-microsoft-copilot-cowork-and-grok-bot"
+  "https://www.databricks.com/blog/bring-your-business-context-chatgpt-claude-microsoft-copilot-cowork-and-grok-bot",
+  "https://www.databricks.com/blog/genie-genie-ontology-delivers-16-accuracy-less-half-tokens",
+  "https://www.databricks.com/blog/genie-one-ai-cowork-home-everyone"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -13058,6 +13058,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112848",
   "https://devblogs.microsoft.com/oldnewthing/?p=112843",
   "https://devblogs.microsoft.com/oldnewthing/?p=112841",
   "https://devblogs.microsoft.com/oldnewthing/?p=112838",
@@ -13066,8 +13067,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112825",
   "https://devblogs.microsoft.com/oldnewthing/?p=112818",
   "https://devblogs.microsoft.com/oldnewthing/?p=112815",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112808",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112803"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112808"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -15977,7 +15977,6 @@
  "Twilio": [
   "https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what-do-you-need-to-do",
   "https://www.twilio.com/en-us/blog/partners/integrations/transition-communications-tyntec-twilio",
-  "https://www.twilio.com/en-us/blog/insights/customer-engagement-platform-lock-in-questions",
   "https://www.twilio.com/en-us/blog/insights/5-email-types-explained-with-examples",
   "https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure",
   "https://www.twilio.com/en-us/blog/insights/ai-race-is-context-race",
@@ -16004,7 +16003,8 @@
   "https://www.twilio.com/en-us/blog/integrate-anthropic-twilio-voice-using-conversationrelay",
   "https://www.twilio.com/en-us/blog/insights/proactive-ai-agent-outbound-calling",
   "https://www.twilio.com/en-us/blog/insights/cx-benchmarks-enterprise-deployments",
-  "https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms"
+  "https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms",
+  "https://www.twilio.com/en-us/blog/insights/best-practices/passkeys"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
