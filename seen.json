@@ -1613,6 +1613,7 @@
   "https://danluu.com/randomize-hn/"
  ],
  "Daniel Doubrovkine (dB.)": [
+  "https://code.dblock.org/2026/11/12/use-agent-test-run-claims-to-skip-ci",
   "https://code.dblock.org/2026/11/12/releases-as-code",
   "https://code.dblock.org/2026/11/10/how-i-learned-to-use-copilot-sessions-400-million-tokens-later",
   "https://code.dblock.org/2026/11/07/releasing-ruby-gems-with-oidc-and-github-actions",
@@ -1631,8 +1632,7 @@
   "https://code.dblock.org/2026/10/03/ucslink-fusion-configuring-university-workstations-in-1997",
   "https://code.dblock.org/2026/09/29/zballs-a-1998-java-applet",
   "https://code.dblock.org/2026/09/29/good-morning-dave-the-1998-inet-conference-kiosk-launcher",
-  "https://code.dblock.org/2026/09/29/file-and-folder-98-a-1998-word-document-manager",
-  "https://code.dblock.org/2026/09/27/the-second-life-of-autoconf-for-ms-dos"
+  "https://code.dblock.org/2026/09/29/file-and-folder-98-a-1998-word-document-manager"
  ],
  "Daniel Schmidt": [
   "https://medium.com/p/825e6dedf46d",
@@ -1647,6 +1647,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/dispelling-ltap-myths",
   "https://www.databricks.com/blog/how-constellation-building-governed-data-foundation-databricks",
   "https://www.databricks.com/blog/eclipse-aerospace-simplifies-flight-data-ingestion-databricks",
   "https://www.databricks.com/genie-migrate-for-lakehouse-generally-available",
@@ -1655,8 +1656,7 @@
   "https://www.databricks.com/blog/genie-slack-now-generally-available-governed-ai-cowork-right-where-work-happens",
   "https://www.databricks.com/blog/how-block-powers-collaborative-ai-agents-buzz-and-unity-gateway",
   "https://www.databricks.com/blog/air-gapped-not-data-dark-how-bright-machines-gives-customers-live-factory-dashboards-without",
-  "https://www.databricks.com/blog/detecting-credential-driven-attacks-databricks",
-  "https://www.databricks.com/blog/brickster-voices-meet-alasdair-anderson"
+  "https://www.databricks.com/blog/detecting-credential-driven-attacks-databricks"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -2446,6 +2446,8 @@
   "https://github.blog/?p=97992"
  ],
  "GitHub Old": [
+  "https://github.blog/?p=100130",
+  "https://github.blog/?p=100122",
   "https://github.blog/?p=100077",
   "https://github.blog/?p=100047",
   "https://github.blog/?p=100002",
@@ -2453,9 +2455,7 @@
   "https://github.blog/?p=99955",
   "https://github.blog/?p=99918",
   "https://github.blog/?p=99788",
-  "https://github.blog/?p=99742",
-  "https://github.blog/?p=99645",
-  "https://github.blog/?p=99628"
+  "https://github.blog/?p=99742"
  ],
  "Gleb Bahmutov": [
   "https://glebbahmutov.com/blog/branded-phone-type/",
