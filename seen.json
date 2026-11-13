@@ -1401,6 +1401,8 @@
   "https://engineering.clever.com/?p=154"
  ],
  "Cloudflare": [
+  "01M7B8MAKWAA44XACM7ZT7P4NN",
+  "01M7B3YSRJB0B2GD4ZN00Q227F",
   "01M7950HA1NFDM7V5HW3AMZ0SB",
   "01M742VWRK37TPYYPMXERSCWKN",
   "01M6SMASVYY5EVPJPHFF7WNPFG",
@@ -1418,9 +1420,7 @@
   "01M5MZPETYH27RS72QV5V85YZ8",
   "01M5MYFG0SHDEYME96N0A4Z6PH",
   "01M5FTVN0D8MSEXMF36ZM9WWD4",
-  "01M5E1HXVZGTKAKEYZ0KMZQ65Q",
-  "01M5FBPW0VHJGHYHGS7CWWKGSP",
-  "01M5AYSGXBWG00KS9KC299XDR8"
+  "01M5E1HXVZGTKAKEYZ0KMZQ65Q"
  ],
  "Confluent": [
   "https://www.confluent.io/blog/2026-q4-confluent-bundle-launch/",
@@ -1447,6 +1447,7 @@
   "https://medium.com/p/d7fc19896acc"
  ],
  "Crystal": [
+  "https://crystal-lang.org/2026/11/13/1.22.3-released",
   "https://crystal-lang.org/2026/10/29/1.22.2-released",
   "https://crystal-lang.org/2026/10/22/1.22.1-released",
   "https://crystal-lang.org/2026/10/12/1.22.0-released",
@@ -1455,8 +1456,7 @@
   "https://crystal-lang.org/2026/07/12/releasing-execution-contexts",
   "https://crystal-lang.org/2026/07/02/1.20.3-released",
   "https://crystal-lang.org/2026/05/26/http-request-smuggling-vulnerability-in-http-server",
-  "https://crystal-lang.org/2026/05/15/1.20.2-released",
-  "https://crystal-lang.org/2026/04/29/1.20.1-released"
+  "https://crystal-lang.org/2026/05/15/1.20.2-released"
  ],
  "Curalate": [
   "http://engineering.curalate.com/2019/05/30/gas-mask.html",
@@ -1647,6 +1647,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/spark-vs-flink",
   "https://www.databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data",
   "https://www.databricks.com/blog/dispelling-ltap-myths",
   "https://www.databricks.com/blog/how-constellation-building-governed-data-foundation-databricks",
@@ -1655,8 +1656,7 @@
   "https://www.databricks.com/blog/lakehousert-scale-real-time-analytics-not-your-bill",
   "https://www.databricks.com/blog/genie-slack-now-generally-available-governed-ai-cowork-right-where-work-happens",
   "https://www.databricks.com/blog/how-block-powers-collaborative-ai-agents-buzz-and-unity-gateway",
-  "https://www.databricks.com/blog/air-gapped-not-data-dark-how-bright-machines-gives-customers-live-factory-dashboards-without",
-  "https://www.databricks.com/blog/detecting-credential-driven-attacks-databricks"
+  "https://www.databricks.com/blog/air-gapped-not-data-dark-how-bright-machines-gives-customers-live-factory-dashboards-without"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -13439,6 +13439,7 @@
   "https://eviltrout.com/blog/2012-12-30-programming-since-i-was-seven/"
  ],
  "Robin Wilson": [
+  "https://blog.rtwilson.com/?p=1058",
   "https://blog.rtwilson.com/?p=1051",
   "https://blog.rtwilson.com/?p=1048",
   "https://blog.rtwilson.com/?p=1043",
@@ -13447,8 +13448,7 @@
   "https://blog.rtwilson.com/?p=1009",
   "https://blog.rtwilson.com/?p=1008",
   "https://blog.rtwilson.com/?p=1006",
-  "https://blog.rtwilson.com/?p=1001",
-  "https://blog.rtwilson.com/?p=997"
+  "https://blog.rtwilson.com/?p=1001"
  ],
  "RocksDB": [
   "http://rocksdb.org/blog/2026/08/24/native-coroutine-reads.html",
