@@ -749,6 +749,7 @@
   "https://artsy.github.io/blog/2022/04/13/stepping-out-of-the-knowledge-zone/"
  ],
  "Atomic Object": [
+  "https://spin.atomicobject.com/?p=3676191",
   "https://spin.atomicobject.com/?p=3675831",
   "https://spin.atomicobject.com/?p=3676289",
   "https://spin.atomicobject.com/?p=3676141",
@@ -757,8 +758,7 @@
   "https://spin.atomicobject.com/?p=3676042",
   "https://spin.atomicobject.com/?p=3672357",
   "https://spin.atomicobject.com/?p=3676092",
-  "https://spin.atomicobject.com/?p=3676039",
-  "https://spin.atomicobject.com/?p=3676071"
+  "https://spin.atomicobject.com/?p=3676039"
  ],
  "Auth0": [
   "https://auth0.com/blog/authentication-and-authorization-what-s-new-in-net-11/",
@@ -2373,6 +2373,7 @@
   "http://code.flickr.net/?p=3370"
  ],
  "Freek Van der Herten": [
+  "https://freek.dev/3221",
   "https://freek.dev/3220",
   "https://freek.dev/3219",
   "https://freek.dev/3218",
@@ -2391,8 +2392,7 @@
   "https://freek.dev/3206",
   "https://freek.dev/3205",
   "https://freek.dev/3204",
-  "https://freek.dev/3203",
-  "https://freek.dev/3202"
+  "https://freek.dev/3203"
  ],
  "Freeletics": [
   "/2021/11/16/droidcon-berlin-2021",
@@ -13112,8 +13112,9 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
-  "https://realpython.com/ai-news-weekly-2026-11-13/",
+  "https://realpython.com/binary-search-python/",
   "https://realpython.com/meta-muse-python/",
+  "https://realpython.com/ai-news-weekly-2026-11-13/",
   "https://realpython.com/podcasts/rpp/319/",
   "https://realpython.com/quizzes/working-json-data-python/",
   "https://realpython.com/mentor-ai-coding-exercise/",
@@ -13131,7 +13132,6 @@
   "https://realpython.com/tdd-ai-agents/",
   "https://realpython.com/quizzes/tdd-ai-agents/",
   "https://realpython.com/what-is-pip/",
-  "https://realpython.com/python-memory-management/",
   "https://realpython.com/quizzes/intro-to-pyenv/",
   "https://realpython.com/podcasts/rpp/318/",
   "https://realpython.com/quizzes/python-lbyl-vs-eafp/",
@@ -16002,6 +16002,10 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-sna",
+  "https://www.twilio.com/en-us/blog/events/Builders-in-the-Spotlight--How-EMEA-Champions-Brought-SIGNAL-Paris-to-Life",
+  "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Rethinking-Enterprise-AI-Across-the-Customer-Journey",
+  "https://www.twilio.com/en-us/blog/insights/omnichannel-customer-context",
   "https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what-do-you-need-to-do",
   "https://www.twilio.com/en-us/blog/partners/integrations/transition-communications-tyntec-twilio",
   "https://www.twilio.com/en-us/blog/insights/customer-engagement-platform-lock-in-questions",
@@ -16027,11 +16031,7 @@
   "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2",
   "https://www.twilio.com/en-us/blog/insights/multilingual-ai-agents",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-legacy-linux-devices",
-  "https://www.twilio.com/en-us/blog/anthropic-conversationrelay-token-streaming-interruptions-javascript",
-  "https://www.twilio.com/en-us/blog/integrate-anthropic-twilio-voice-using-conversationrelay",
-  "https://www.twilio.com/en-us/blog/insights/proactive-ai-agent-outbound-calling",
-  "https://www.twilio.com/en-us/blog/insights/cx-benchmarks-enterprise-deployments",
-  "https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms"
+  "https://www.twilio.com/en-us/blog/anthropic-conversationrelay-token-streaming-interruptions-javascript"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
