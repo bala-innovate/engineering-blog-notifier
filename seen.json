@@ -14723,6 +14723,7 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/securing-fastapi-applications-jwt-authentication-and-rate-limiting-with-redis/",
   "https://www.sitepoint.com/logging-ai-prompts-and-responses-in-java-without-leaking-sensitive-data/",
   "https://www.sitepoint.com/ssl-certificate-lifespan-200-days-renewal/",
   "https://www.sitepoint.com/best-ecommerce-platforms-for-developers-six-options-and-the-layers-each-leaves-you/",
@@ -14821,8 +14822,7 @@
   "https://www.sitepoint.com/8-checks-developers-should-add-before-importing-pdf-tables-into-an-application/",
   "https://www.sitepoint.com/best-claude-tracking-tools/",
   "https://www.sitepoint.com/web-ready-ai-images-formats-sizes-and-srcset-done-right/",
-  "https://www.sitepoint.com/ai-agents-need-idempotency-the-distributed-systems-problem-hiding-inside-agentic-ai/",
-  "https://www.sitepoint.com/linkedin-recruiter-alternatives/"
+  "https://www.sitepoint.com/ai-agents-need-idempotency-the-distributed-systems-problem-hiding-inside-agentic-ai/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15508,6 +15508,7 @@
   "https://www.surveymonkey.com/curiosity/hubspot-unbound-market-research-engine/"
  ],
  "Swizec Teller": [
+  "https://swizec.com/blog/software-has-no-value",
   "https://swizec.com/blog/how-do-we-auto-approve-and-merge-60p-of-prs",
   "https://swizec.com/blog/no-more-tech-debt",
   "https://swizec.com/blog/when-code-is-cheap-judgement-becomes-the-job",
@@ -15556,8 +15557,7 @@
   "https://swizec.com/blog/place-good-startup-bets",
   "https://swizec.com/blog/small-projects-clear-scope",
   "https://swizec.com/blog/a-better-way-to-end-to-end-test-your-webapp",
-  "https://swizec.com/blog/2025-year-in-review",
-  "https://swizec.com/blog/are-you-playing-games-you-want-to-win"
+  "https://swizec.com/blog/2025-year-in-review"
  ],
  "T.J. Maher": [
   "tag:blogger.com,1999:blog-3868566217808655382.post-315234326844963803",
