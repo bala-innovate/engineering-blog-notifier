@@ -1647,6 +1647,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one",
   "https://www.databricks.com/blog/spark-vs-flink",
   "https://www.databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data",
   "https://www.databricks.com/blog/dispelling-ltap-myths",
@@ -1655,8 +1656,7 @@
   "https://www.databricks.com/blog/how-h6ai-builds-ai-powered-financial-automation-lakebase-postgres",
   "https://www.databricks.com/blog/lakehousert-scale-real-time-analytics-not-your-bill",
   "https://www.databricks.com/blog/genie-slack-now-generally-available-governed-ai-cowork-right-where-work-happens",
-  "https://www.databricks.com/blog/how-block-powers-collaborative-ai-agents-buzz-and-unity-gateway",
-  "https://www.databricks.com/blog/air-gapped-not-data-dark-how-bright-machines-gives-customers-live-factory-dashboards-without"
+  "https://www.databricks.com/blog/how-block-powers-collaborative-ai-agents-buzz-and-unity-gateway"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
