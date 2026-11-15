@@ -1613,6 +1613,7 @@
   "https://danluu.com/randomize-hn/"
  ],
  "Daniel Doubrovkine (dB.)": [
+  "https://code.dblock.org/2026/11/15/the-sunk-cost-fallacy-of-a-vibe-coded-custom-saas",
   "https://code.dblock.org/2026/11/12/use-agent-test-run-claims-to-skip-ci",
   "https://code.dblock.org/2026/11/12/releases-as-code",
   "https://code.dblock.org/2026/11/10/how-i-learned-to-use-copilot-sessions-400-million-tokens-later",
@@ -1631,8 +1632,7 @@
   "https://code.dblock.org/2026/10/09/a-1998-pdf-to-text-converter",
   "https://code.dblock.org/2026/10/03/ucslink-fusion-configuring-university-workstations-in-1997",
   "https://code.dblock.org/2026/09/29/zballs-a-1998-java-applet",
-  "https://code.dblock.org/2026/09/29/good-morning-dave-the-1998-inet-conference-kiosk-launcher",
-  "https://code.dblock.org/2026/09/29/file-and-folder-98-a-1998-word-document-manager"
+  "https://code.dblock.org/2026/09/29/good-morning-dave-the-1998-inet-conference-kiosk-launcher"
  ],
  "Daniel Schmidt": [
   "https://medium.com/p/825e6dedf46d",
@@ -8649,6 +8649,7 @@
   "https://blog.reverberate.org/2018/08/07/bloaty-1.0.html"
  ],
  "Josh Sherman": [
+  "https://joshtronic.com/2026/11/15/i-cut-my-test-suite-time-in-half/",
   "https://joshtronic.com/2026/11/08/introducing-cuppa/",
   "https://joshtronic.com/2026/11/01/open-to-work/",
   "https://joshtronic.com/2026/10/26/learning-new-tech-stack-with-llm/",
@@ -8659,8 +8660,7 @@
   "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
   "https://joshtronic.com/2026/09/13/new-pic-who-dis/",
   "https://joshtronic.com/2026/09/06/i-ran-my-agents-from-my-phone-for-two-weeks/",
-  "https://joshtronic.com/2026/08/30/security-caveat-locked-out-server-travel/",
-  "https://joshtronic.com/2026/08/23/last-saturday/"
+  "https://joshtronic.com/2026/08/30/security-caveat-locked-out-server-travel/"
  ],
  "Juan Treminio": [
   "https://jtreminio.com/blog/openapi-tutorial-part-iii-paths-and-basic-request-data/",
@@ -8859,6 +8859,7 @@
   "https://blog.jetbrains.com/?post_type=kotlin&p=736282"
  ],
  "Kyle Kingsbury": [
+  "https://aphyr.com/posts/428-announcing-hegel-clj",
   "https://aphyr.com/posts/427-rip-harvest",
   "https://aphyr.com/posts/425-more-fake-mastodon-signups",
   "https://aphyr.com/posts/424-getting-paid-by-flat-rate-movers",
@@ -8869,8 +8870,7 @@
   "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs",
   "https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work",
   "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
-  "https://aphyr.com/posts/416-the-future-of-everything-is-lies-i-guess-psychological-hazards",
-  "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances"
+  "https://aphyr.com/posts/416-the-future-of-everything-is-lies-i-guess-psychological-hazards"
  ],
  "Lambda the Ultimate": [
   "http://lambda-the-ultimate.org/node/5666",
@@ -9595,7 +9595,6 @@
   "https://www.maptiler.com/news/2014/01/visual-georeferencing-in-maptiler-0-5-2"
  ],
  "Marcelo Rinesi": [
-  "https://blog.rinesi.com/2026/01/acts-of-war/index.html",
   "https://blog.rinesi.com/2026/02/citadel/index.html",
   "https://blog.rinesi.com/2026/02/bottleneck/index.html",
   "https://blog.rinesi.com/2026/02/runaway-geodesics/index.html",
@@ -9644,7 +9643,8 @@
   "https://blog.rinesi.com/2026/11/this-could-have-been/index.html",
   "https://blog.rinesi.com/2026/11/the-next-to-last-trick/index.html",
   "https://blog.rinesi.com/2026/11/the-sfi-index/index.html",
-  "https://blog.rinesi.com/2026/11/the-shape-of-the-game/index.html"
+  "https://blog.rinesi.com/2026/11/the-shape-of-the-game/index.html",
+  "https://blog.rinesi.com/2026/11/the-stanislavski-plot/index.html"
  ],
  "Marco Pivetta": [
   "https://ocramius.github.io/blog/php-logging-with-psr-3/",
@@ -14723,7 +14723,9 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/how-ai-image-to-image-and-image-to-video-tools-work-and-how-to-build-a-reliable-workflow/",
   "https://www.sitepoint.com/securing-fastapi-applications-jwt-authentication-and-rate-limiting-with-redis/",
+  "https://www.sitepoint.com/how-to-build-a-unified-lead-tracking-pipeline-for-web-forms-and-phone-calls/",
   "https://www.sitepoint.com/logging-ai-prompts-and-responses-in-java-without-leaking-sensitive-data/",
   "https://www.sitepoint.com/ssl-certificate-lifespan-200-days-renewal/",
   "https://www.sitepoint.com/best-ecommerce-platforms-for-developers-six-options-and-the-layers-each-leaves-you/",
@@ -14739,6 +14741,7 @@
   "https://www.sitepoint.com/best-accounts-receivable-ar-software-platforms/",
   "https://www.sitepoint.com/design-workflow-ai-era-vitalii-khomenko/",
   "https://www.sitepoint.com/running-wireguard-for-a-development-team-the-hidden-cost-of-vpn-maintenance/",
+  "https://www.sitepoint.com/data-driven-pages-that-never-go-stale-a-practical-guide/",
   "https://www.sitepoint.com/top-6-ai-text-to-speech-tools-in-2026-features-strengths-and-limits/",
   "https://www.sitepoint.com/5-best-ai-anime-video-generators-in-2026-and-are-ai-anime-videos-worth-making/",
   "https://www.sitepoint.com/how-to-use-ip-geolocation-to-stop-bots-and-fraud-without-hurting-ux/",
@@ -14819,10 +14822,7 @@
   "https://www.sitepoint.com/7-engineering-patterns-for-measuring-traffic-from-ai-search-and-chat-tools/",
   "https://www.sitepoint.com/ai-recruiting-tools-for-agencies/",
   "https://www.sitepoint.com/stop-overpaying-for-app-builders-how-to-build-premium-websites-and-web-apps-with-ai/",
-  "https://www.sitepoint.com/7-checks-developers-should-make-so-ai-search-can-read-their-site/",
-  "https://www.sitepoint.com/how-to-test-location-aware-apis-with-fastapi-and-postgis/",
-  "https://www.sitepoint.com/top-5-3d-animation-software-in-2026/",
-  "https://www.sitepoint.com/beyond-the-password-reset-building-recovery-experiences-that-protect-online-shopping/"
+  "https://www.sitepoint.com/7-checks-developers-should-make-so-ai-search-can-read-their-site/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
