@@ -335,6 +335,7 @@
   "https://infrequently.org/2024/01/performance-inequality-gap-2024/"
  ],
  "Amit Merchant": [
+  "https://www.amitmerchant.com/what-if-ui-components-were-built-like-modular-phones",
   "https://www.amitmerchant.com/giving-ai-agents-a-better-way-to-debug-css",
   "https://www.amitmerchant.com/safari-just-made-browsercontrolled-dark-mode-real",
   "https://www.amitmerchant.com/whats-new-in-php-86",
@@ -343,8 +344,7 @@
   "https://www.amitmerchant.com/an-online-first-version-control-system",
   "https://www.amitmerchant.com/practical-way-to-check-your-ai-search-visibility",
   "https://www.amitmerchant.com/7-game-changing-web-ui-features-you-need-to-start-using-today",
-  "https://www.amitmerchant.com/building-web-searching-ai-agent-javascript",
-  "https://www.amitmerchant.com/webmcp-in-chrome-101"
+  "https://www.amitmerchant.com/building-web-searching-ai-agent-javascript"
  ],
  "Andrew Bancroft": [
   "https://www.andrewcbancroft.com/blog/ai/how-i-learned-to-copy-and-paste/",
@@ -2373,6 +2373,7 @@
   "http://code.flickr.net/?p=3370"
  ],
  "Freek Van der Herten": [
+  "https://freek.dev/3223",
   "https://freek.dev/3221",
   "https://freek.dev/3220",
   "https://freek.dev/3219",
@@ -2391,8 +2392,7 @@
   "https://freek.dev/3207",
   "https://freek.dev/3206",
   "https://freek.dev/3205",
-  "https://freek.dev/3204",
-  "https://freek.dev/3203"
+  "https://freek.dev/3204"
  ],
  "Freeletics": [
   "/2021/11/16/droidcon-berlin-2021",
@@ -13112,9 +13112,10 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
+  "https://realpython.com/python-scipy-cluster-optimize/",
   "https://realpython.com/binary-search-python/",
-  "https://realpython.com/meta-muse-python/",
   "https://realpython.com/ai-news-weekly-2026-11-13/",
+  "https://realpython.com/meta-muse-python/",
   "https://realpython.com/podcasts/rpp/319/",
   "https://realpython.com/quizzes/working-json-data-python/",
   "https://realpython.com/mentor-ai-coding-exercise/",
@@ -13124,18 +13125,17 @@
   "https://realpython.com/ai-benchmark-gemini-4-carbon/",
   "https://realpython.com/ai-benchmark-claude-fable-5-2/",
   "https://realpython.com/gemini-4-carbon/",
-  "https://realpython.com/courses/coding-interview-practice-prefix-sums-binary-search/",
   "https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows/",
-  "https://realpython.com/quizzes/getting-started-with-git/",
+  "https://realpython.com/courses/coding-interview-practice-prefix-sums-binary-search/",
   "https://realpython.com/quizzes/coding-interview-practice-hashing-two-pointers-sliding-windows/",
   "https://realpython.com/quizzes/coding-interview-practice-prefix-sums-binary-search/",
+  "https://realpython.com/quizzes/getting-started-with-git/",
   "https://realpython.com/tdd-ai-agents/",
   "https://realpython.com/quizzes/tdd-ai-agents/",
-  "https://realpython.com/what-is-pip/",
   "https://realpython.com/quizzes/intro-to-pyenv/",
   "https://realpython.com/podcasts/rpp/318/",
   "https://realpython.com/quizzes/python-lbyl-vs-eafp/",
-  "https://realpython.com/quizzes/learn-with-mentor-ai-video-courses/",
+  "https://realpython.com/quizzes/python-matplotlib-guide/",
   "https://realpython.com/courses/converting-documents-markdown-markitdown/",
   "https://realpython.com/podcasts/rpp/317/",
   "https://realpython.com/courses/exploring-ai-coding-agent-workflows/",
@@ -14728,7 +14728,11 @@
   "https://www.sitepoint.com/ssl-certificate-lifespan-200-days-renewal/",
   "https://www.sitepoint.com/best-ecommerce-platforms-for-developers-six-options-and-the-layers-each-leaves-you/",
   "https://www.sitepoint.com/running-an-ai-agent-on-a-local-llm-what-i-measured-on-one-gpu/",
+  "https://www.sitepoint.com/find-orphan-pages-and-buried-content-build-an-internal-link-graph-for-your-site/",
+  "https://www.sitepoint.com/how-much-latency-does-a-self-hosted-llm-gateway-add-langfuse-vs-litellm-vs-acruxcore/",
+  "https://www.sitepoint.com/top-6-ai-detector-tools-in-2026-features-accuracy-claims-and-when-to-trust-them/",
   "https://www.sitepoint.com/best-ai-app-builders/",
+  "https://www.sitepoint.com/preventing-api-contract-drift-in-typescript-applications/",
   "https://www.sitepoint.com/automating-contract-signing-in-node-js-webhooks-verification-and-storing-signed-pdfs/",
   "https://www.sitepoint.com/how-to-migrate-an-elementor-site-to-the-wordpress-block-editor/",
   "https://www.sitepoint.com/what-is-model-routing-in-ai/",
@@ -14818,11 +14822,7 @@
   "https://www.sitepoint.com/7-checks-developers-should-make-so-ai-search-can-read-their-site/",
   "https://www.sitepoint.com/how-to-test-location-aware-apis-with-fastapi-and-postgis/",
   "https://www.sitepoint.com/top-5-3d-animation-software-in-2026/",
-  "https://www.sitepoint.com/beyond-the-password-reset-building-recovery-experiences-that-protect-online-shopping/",
-  "https://www.sitepoint.com/8-checks-developers-should-add-before-importing-pdf-tables-into-an-application/",
-  "https://www.sitepoint.com/best-claude-tracking-tools/",
-  "https://www.sitepoint.com/web-ready-ai-images-formats-sizes-and-srcset-done-right/",
-  "https://www.sitepoint.com/ai-agents-need-idempotency-the-distributed-systems-problem-hiding-inside-agentic-ai/"
+  "https://www.sitepoint.com/beyond-the-password-reset-building-recovery-experiences-that-protect-online-shopping/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
