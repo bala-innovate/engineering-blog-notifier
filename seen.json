@@ -1647,6 +1647,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/clean-data-was-never-enough-how-ifs-copperleaf-taught-ai-its-business-databricks-genie-one-0",
   "https://www.databricks.com/blog/talk-your-clinical-data-unlocking-aws-healthlake-opensharing-and-genie-one",
   "https://www.databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views",
   "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
@@ -1655,8 +1656,7 @@
   "https://www.databricks.com/blog/databricks-leader-and-positioned-highest-execution-2026-gartnerr-magic-quadranttm-data",
   "https://www.databricks.com/blog/spark-vs-flink",
   "https://www.databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data",
-  "https://www.databricks.com/blog/what-is-real-time-mode",
-  "https://www.databricks.com/blog/dispelling-ltap-myths"
+  "https://www.databricks.com/blog/what-is-real-time-mode"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -11050,6 +11050,7 @@
   "https://novoda.com/?p=10009"
  ],
  "Nvidia": [
+  "https://blogs.nvidia.com/?p=100038",
   "https://blogs.nvidia.com/?p=100011",
   "https://blogs.nvidia.com/?p=99949",
   "https://blogs.nvidia.com/?p=99969",
@@ -11066,8 +11067,7 @@
   "https://blogs.nvidia.com/?p=99744",
   "https://blogs.nvidia.com/?p=99712",
   "https://blogs.nvidia.com/?p=99736",
-  "https://blogs.nvidia.com/?p=99721",
-  "https://blogs.nvidia.com/?p=99731"
+  "https://blogs.nvidia.com/?p=99721"
  ],
  "OCTO Technology": [
   "https://blog.octo.com/lean-ai-et-delivery-tech-j'ai-observe-le-futur-du-developpement",
@@ -11583,6 +11583,7 @@
   "https://os.phil-opp.com/multiboot-kernel/"
  ],
  "Pinterest": [
+  "https://medium.com/p/56e45ee8f471",
   "https://medium.com/p/d3c52d0abaa2",
   "https://medium.com/p/103bec2abc83",
   "https://medium.com/p/4a96cd12cc11",
@@ -11591,8 +11592,7 @@
   "https://medium.com/p/9652b9417626",
   "https://medium.com/p/2c8fefe68756",
   "https://medium.com/p/4c7da6e4cc8f",
-  "https://medium.com/p/0b96167d2c14",
-  "https://medium.com/p/aede4e831e01"
+  "https://medium.com/p/0b96167d2c14"
  ],
  "Piotr Pasich": [
   "http://piotrpasich.com/?p=2884",
@@ -14809,7 +14809,6 @@
   "https://www.sitepoint.com/how-to-source-passive-candidates/",
   "https://www.sitepoint.com/generators-and-iterators-in-javascript-lazy-data-and-async-flows/",
   "https://www.sitepoint.com/generating-web-ready-images-with-ai-formats-sizes-and-srcset-done-right/",
-  "https://www.sitepoint.com/what-is-the-best-ui-testing-tool-8-tools-compared-by-the-job-they-do-2026/",
   "https://www.sitepoint.com/how-to-organize-css-with-cascade-layers-in-large-web-projects/",
   "https://www.sitepoint.com/how-to-create-effective-cold-email-sequences-that-generate-replies-a-developer-s-guide/",
   "https://www.sitepoint.com/building-crm-automations-that-don-t-break-apis-webhooks-and-ai-validation/",
@@ -14822,7 +14821,8 @@
   "https://www.sitepoint.com/6-email-tools-developers-can-use-to-build-test-and-monitor-better-email/",
   "https://www.sitepoint.com/browser-fingerprinting-explained-how-websites-identify-you-and-how-developers-can-reduce-it/",
   "https://www.sitepoint.com/the-privacy-risks-of-browser-extensions-what-developers-should-know/",
-  "https://www.sitepoint.com/passwordless-authentication-and-identity-theft-can-passkeys-make-the-web-safer/"
+  "https://www.sitepoint.com/passwordless-authentication-and-identity-theft-can-passkeys-make-the-web-safer/",
+  "https://www.sitepoint.com/9-checks-before-shipping-a-product-email-a-workflow-for-developers-and-designers/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15697,8 +15697,7 @@
   "https://upcoder.com/18/static-libs-do-not-modular-make"
  ],
  "Thoughtbot": [
-  "https://thoughtbot.com/blog/modernizing-legacy-systems-in-uk-banking-and-financial-services",
-  "https://thoughtbot.com/blog/nwrug-s-manchester-uk-november-2026-meeting-un-learning-programming"
+  "https://thoughtbot.com/blog/modernizing-legacy-systems-in-uk-banking-and-financial-services"
  ],
  "Thumbtack": [
   "https://medium.com/p/7a381b47c640",
