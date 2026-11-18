@@ -1,5 +1,6 @@
 {
  ".NET": [
+  "https://devblogs.microsoft.com/dotnet/?p=61260",
   "https://devblogs.microsoft.com/dotnet/?p=61205",
   "https://devblogs.microsoft.com/dotnet/?p=61211",
   "https://devblogs.microsoft.com/dotnet/?p=61189",
@@ -8,8 +9,7 @@
   "https://devblogs.microsoft.com/dotnet/?p=61166",
   "https://devblogs.microsoft.com/dotnet/?p=61123",
   "https://devblogs.microsoft.com/dotnet/?p=61112",
-  "https://devblogs.microsoft.com/dotnet/?p=61101",
-  "https://devblogs.microsoft.com/dotnet/?p=61063"
+  "https://devblogs.microsoft.com/dotnet/?p=61101"
  ],
  "0xADADA": [
   "https://0xadada.pub/2024/06/23/the-disappearance-of-lived-time-film/",
@@ -1647,6 +1647,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/how-we-raised-databricks-cluster-rate-limits-75",
   "https://www.databricks.com/blog/azure-databricks-sessions-microsoft-ignite-2026",
   "https://www.databricks.com/blog/branch-sync-serve-what-our-lakebase-hackathon-taught-us-about-building-lakebase",
   "https://www.databricks.com/blog/new-azure-databricks-azure-government-now-beta",
@@ -1655,8 +1656,7 @@
   "https://www.databricks.com/blog/built-object-storage-served-cache",
   "https://www.databricks.com/blog/talk-your-clinical-data-unlocking-aws-healthlake-opensharing-and-genie-one",
   "https://www.databricks.com/blog/clean-data-was-never-enough-how-ifs-copperleaf-taught-ai-its-business-databricks-genie-one-0",
-  "https://www.databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views",
-  "https://www.databricks.com/blog/tabular-foundation-models-databricks-ai-runtime"
+  "https://www.databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
