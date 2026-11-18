@@ -9188,6 +9188,7 @@
   "https://lea.verou.me/blog/2026/tag/"
  ],
  "Lerner Consulting Blog": [
+  "https://lernerpython.com/2026/11/17/python-rich-console-separate-style-from-text-with-console-print/",
   "https://lernerpython.com/?p=18843",
   "https://lernerpython.com/2026/11/11/pandas-option-context-temporarily-change-display-settings/",
   "https://lernerpython.com/2026/11/10/pandas-options-setting-display-precision-with-pd-set-option/",
@@ -9196,8 +9197,7 @@
   "https://lernerpython.com/2026/11/08/pandas-3-1-filter-selecting-rows-with-a-pd-col-condition/",
   "https://lernerpython.com/2026/11/06/pandas-3-1-select-method-retrieving-specific-columns/",
   "https://lernerpython.com/2026/11/05/python-3-15-comprehension-unpacking-why-you-cant-transform-items/",
-  "https://lernerpython.com/2026/11/04/python-set-comprehension-unique-items-from-nested-iterables/",
-  "https://lernerpython.com/2026/11/02/python-3-15-list-unpacking-flattening-a-nested-list/"
+  "https://lernerpython.com/2026/11/04/python-set-comprehension-unique-items-from-nested-iterables/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -13083,6 +13083,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112866",
   "https://devblogs.microsoft.com/oldnewthing/?p=112863",
   "https://devblogs.microsoft.com/oldnewthing/?p=112856",
   "https://devblogs.microsoft.com/oldnewthing/?p=112851",
@@ -13091,8 +13092,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112841",
   "https://devblogs.microsoft.com/oldnewthing/?p=112838",
   "https://devblogs.microsoft.com/oldnewthing/?p=112835",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112830",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112825"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112830"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -14745,6 +14745,7 @@
   "https://www.sitepoint.com/automating-contract-signing-in-node-js-webhooks-verification-and-storing-signed-pdfs/",
   "https://www.sitepoint.com/how-to-migrate-an-elementor-site-to-the-wordpress-block-editor/",
   "https://www.sitepoint.com/what-is-model-routing-in-ai/",
+  "https://www.sitepoint.com/find-orphan-pages-by-comparing-your-sitemap-with-an-internal-crawl/",
   "https://www.sitepoint.com/best-ecommerce-platforms-for-developers-six-options-and-the-layers-each-leaves-to-you/",
   "https://www.sitepoint.com/best-accounts-receivable-ar-software-platforms/",
   "https://www.sitepoint.com/when-should-you-remove-nat-from-an-on-prem-kubernetes-network/",
@@ -14821,8 +14822,7 @@
   "https://www.sitepoint.com/a-practical-workflow-for-testing-javascript-forms-before-deployment/",
   "https://www.sitepoint.com/building-location-aware-interfaces-without-mixing-up-language-currency-and-region/",
   "https://www.sitepoint.com/best-ai-recruiting-agents/",
-  "https://www.sitepoint.com/6-tools-for-building-email-automations-you-can-test-and-debug/",
-  "https://www.sitepoint.com/6-email-tools-developers-can-use-to-build-test-and-monitor-better-email/"
+  "https://www.sitepoint.com/6-tools-for-building-email-automations-you-can-test-and-debug/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -16004,6 +16004,10 @@
   "https://www.twilio.com/en-us/blog/events/Builders-in-the-Spotlight--How-EMEA-Champions-Brought-SIGNAL-Paris-to-Life",
   "https://www.twilio.com/en-us/blog/products/new-capabilities-conversation-relay-intelligence-twilio-agent-connect",
   "https://www.twilio.com/en-us/blog/products/launches/conversation-intelligence-operators-ai-agent-supervision",
+  "https://www.twilio.com/en-us/blog/developers/halloween-escape-room-hotline-2026-twilio",
+  "https://www.twilio.com/en-us/blog/insights/why-you-should-not-use-noreplydomain-com-in-your-emails",
+  "https://www.twilio.com/en-us/blog/insights/click-to-open-rate-how-relevant-is-my-email",
+  "https://www.twilio.com/en-us/blog/insights/whats-the-difference-between-ports-465-and-587",
   "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-sna",
   "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Rethinking-Enterprise-AI-Across-the-Customer-Journey",
   "https://www.twilio.com/en-us/blog/insights/omnichannel-customer-context",
@@ -16026,11 +16030,7 @@
   "https://www.twilio.com/en-us/blog/insights/what-is-starttls",
   "https://www.twilio.com/en-us/blog/insights/contact-center-analytics",
   "https://www.twilio.com/en-us/blog/insights/agent-assist",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node",
-  "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1",
-  "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-3",
-  "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4",
-  "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2"
+  "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
