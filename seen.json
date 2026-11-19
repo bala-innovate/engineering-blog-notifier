@@ -762,15 +762,15 @@
  ],
  "Auth0": [
   "https://auth0.com/blog/legacy-factors-fail-in-ciam-passkeys-are-the-answer/",
+  "https://auth0.com/blog/auth-for-personal-agents-beta-release/",
   "https://auth0.com/blog/building-secure-mcp-server-with-auth0/",
   "https://auth0.com/blog/authentication-and-authorization-what-s-new-in-net-11/",
-  "https://auth0.com/blog/moving-quickly-without-breaking-things/",
   "https://auth0.com/blog/ai-ambitions-are-blocked-by-identity-debt/",
-  "https://auth0.com/blog/who-will-consumers-trust-to-act-shop-pay-on-their-behalf/",
+  "https://auth0.com/blog/moving-quickly-without-breaking-things/",
   "https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/",
   "https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/",
-  "https://auth0.com/blog/compliant-infrastructure-frustrating-cx/",
-  "https://auth0.com/blog/consumers-are-ready-for-ai-are-companies/"
+  "https://auth0.com/blog/who-will-consumers-trust-to-act-shop-pay-on-their-behalf/",
+  "https://auth0.com/blog/compliant-infrastructure-frustrating-cx/"
  ],
  "Avenue Code": [
   "https://blog.avenuecode.com/using-generative-ai-to-streamline-internal-it-support-a-comprehensive-demonstration",
@@ -1647,6 +1647,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/databricks-wins-team-award-ai-capital-markets-0",
   "https://www.databricks.com/blog/introducing-unity-gateway-insights",
   "https://www.databricks.com/blog/whats-new-genie-microsoft-copilot-cowork-and-chat-microsoft-teams-and-excel",
   "https://www.databricks.com/blog/how-aumovio-centralized-ai-access-databricks-unity-gateway",
@@ -1655,8 +1656,7 @@
   "https://www.databricks.com/blog/branch-sync-serve-what-our-lakebase-hackathon-taught-us-about-building-lakebase",
   "https://www.databricks.com/blog/new-azure-databricks-azure-government-now-beta",
   "https://www.databricks.com/blog/advancing-catalog-interoperability-unity-catalog-and-google-clouds-borderless-lakehouse",
-  "https://www.databricks.com/blog/liveramp-rampid-identity-resolution-packaged-clean-rooms",
-  "https://www.databricks.com/blog/built-object-storage-served-cache"
+  "https://www.databricks.com/blog/liveramp-rampid-identity-resolution-packaged-clean-rooms"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -11025,6 +11025,7 @@
   "https://nikola-breznjak.com/blog/?p=4823"
  ],
  "Nordic APIs": [
+  "https://nordicapis.com/?p=24450",
   "https://nordicapis.com/?p=24444",
   "https://nordicapis.com/?p=24431",
   "https://nordicapis.com/?p=24420",
@@ -11033,8 +11034,7 @@
   "https://nordicapis.com/?p=24396",
   "https://nordicapis.com/?p=24377",
   "https://nordicapis.com/?p=24363",
-  "https://nordicapis.com/?p=24336",
-  "https://nordicapis.com/?p=24242"
+  "https://nordicapis.com/?p=24336"
  ],
  "Novoda": [
   "https://novoda.com/?p=10414",
@@ -11071,6 +11071,7 @@
   "https://blogs.nvidia.com/?p=99712"
  ],
  "OCTO Technology": [
+  "https://blog.octo.com/modele-et-effort-de-raisonnement--trouver-le-bon-equilibre-pour-vos-agents",
   "https://blog.octo.com/lean-ai-et-delivery-tech-j'ai-observe-le-futur-du-developpement",
   "https://blog.octo.com/j'ai-demande-un-powerpoint-a-des-agents--le-premier-on-voulait-l'oublier-le-dernier-tout-le-monde-l'a-accepte",
   "https://blog.octo.com/moderniser-un-systeme-legacy-avec-le-plugin-modernization-12",
@@ -11079,8 +11080,7 @@
   "https://blog.octo.com/et-si-votre-super-idee-innovante-de-projet-agentique-avait-deja-ete-pensee-par-votre-editeur-de-data-plateforme--1",
   "https://blog.octo.com/octo-que-s'est-il-passe-avec-les-packages-npm-sur-ces-12-derniers-mois",
   "https://blog.octo.com/harnais-agentiques-(22)--huit-reflexes-a-desapprendre-pour-un-harnais-frugal-1",
-  "https://blog.octo.com/harnais-agentiques-(12)--pourquoi-les-bonnes-pratiques-d'hier-coutent-cher-aujourd'hui",
-  "https://blog.octo.com/mes-agents-lisaient-trop--ce-que-dix-semaines-de-chasse-aux-tokens-m'ont-appris"
+  "https://blog.octo.com/harnais-agentiques-(12)--pourquoi-les-bonnes-pratiques-d'hier-coutent-cher-aujourd'hui"
  ],
  "OLX": [
   "https://medium.com/p/ee1519586520",
@@ -13084,6 +13084,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112870",
   "https://devblogs.microsoft.com/oldnewthing/?p=112866",
   "https://devblogs.microsoft.com/oldnewthing/?p=112863",
   "https://devblogs.microsoft.com/oldnewthing/?p=112856",
@@ -13092,8 +13093,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112843",
   "https://devblogs.microsoft.com/oldnewthing/?p=112841",
   "https://devblogs.microsoft.com/oldnewthing/?p=112838",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112835",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112830"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112835"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -14725,6 +14725,8 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/your-ai-pipeline-works-but-can-you-trust-it/",
+  "https://www.sitepoint.com/from-script-to-screen-a-developer-s-workflow-for-long-form-ai-video/",
   "https://www.sitepoint.com/sizing-gpu-memory-for-a-rag-service-kv-cache-context-and-concurrency/",
   "https://www.sitepoint.com/5-ai-tools-for-creating-audio-led-music-videos-a-practical-workflow/",
   "https://www.sitepoint.com/retail-merchandising-principles-for-web-designers-and-developers-display-design-ranking-rules-and-measurement/",
@@ -14822,9 +14824,7 @@
   "https://www.sitepoint.com/how-to-organize-css-with-cascade-layers-in-large-web-projects/",
   "https://www.sitepoint.com/how-to-create-effective-cold-email-sequences-that-generate-replies-a-developer-s-guide/",
   "https://www.sitepoint.com/building-crm-automations-that-don-t-break-apis-webhooks-and-ai-validation/",
-  "https://www.sitepoint.com/7-checks-that-make-form-bugs-easier-to-reproduce-across-teams/",
-  "https://www.sitepoint.com/7-ways-to-keep-api-changes-safe-as-more-teams-join-a-project/",
-  "https://www.sitepoint.com/a-practical-workflow-for-testing-javascript-forms-before-deployment/"
+  "https://www.sitepoint.com/7-checks-that-make-form-bugs-easier-to-reproduce-across-teams/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -16004,9 +16004,15 @@
   "https://engineering.tumblr.com/post/722102563011493888"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/insights/where-to-deploy-conversational-ai-first",
+  "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/memory-architecture-ai-agents-conversations-amazon-bedrock",
   "https://www.twilio.com/en-us/blog/events/Builders-in-the-Spotlight--How-EMEA-Champions-Brought-SIGNAL-Paris-to-Life",
   "https://www.twilio.com/en-us/blog/products/new-capabilities-conversation-relay-intelligence-twilio-agent-connect",
   "https://www.twilio.com/en-us/blog/products/launches/conversation-intelligence-operators-ai-agent-supervision",
+  "https://www.twilio.com/en-us/blog/insights/why-you-should-not-use-noreplydomain-com-in-your-emails",
+  "https://www.twilio.com/en-us/blog/developers/halloween-escape-room-hotline-2026-twilio",
+  "https://www.twilio.com/en-us/blog/insights/click-to-open-rate-how-relevant-is-my-email",
+  "https://www.twilio.com/en-us/blog/insights/whats-the-difference-between-ports-465-and-587",
   "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-sna",
   "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Rethinking-Enterprise-AI-Across-the-Customer-Journey",
   "https://www.twilio.com/en-us/blog/insights/omnichannel-customer-context",
@@ -16027,13 +16033,7 @@
   "https://www.twilio.com/en-us/blog/developers/best-practices/conversation-relay-failover",
   "https://www.twilio.com/en-us/blog/insights/build-vs-buy-orchestration-layer",
   "https://www.twilio.com/en-us/blog/insights/what-is-starttls",
-  "https://www.twilio.com/en-us/blog/insights/contact-center-analytics",
-  "https://www.twilio.com/en-us/blog/insights/agent-assist",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node",
-  "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1",
-  "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-3",
-  "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-4",
-  "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2"
+  "https://www.twilio.com/en-us/blog/insights/contact-center-analytics"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
