@@ -560,6 +560,7 @@
   "https://www.andrewcbancroft.com/portfolio/"
  ],
  "Android": [
+  "tag:developer.android.com,2026-11-19:/blog/posts/android-developer-verification-2027",
   "tag:developer.android.com,2026-11-18:/blog/posts/elevating-game-quality-foldables-large-screens-google-play",
   "tag:developer.android.com,2026-11-18:/blog/posts/jetpack-compose-november-2026-release",
   "tag:developer.android.com,2026-11-18:/blog/posts/google-play-adaptive-quality-standards",
@@ -578,8 +579,7 @@
   "tag:developer.android.com,2026-10-19:/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time",
   "tag:developer.android.com,2026-10-13:/blog/posts/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli",
   "tag:developer.android.com,2026-10-13:/blog/posts/google-play-discovery-engagement-growth",
-  "tag:developer.android.com,2026-10-12:/blog/posts/googlebook-linux-terminal-preview-vm",
-  "tag:developer.android.com,2026-10-02:/blog/posts/android-cli-device-streaming-and-skills"
+  "tag:developer.android.com,2026-10-12:/blog/posts/googlebook-linux-terminal-preview-vm"
  ],
  "Antirez": [
   "http://antirez.com/news/172",
@@ -1647,16 +1647,16 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
-  "https://www.databricks.com/blog/bulk-migrate-your-dashboards-aibi-genie-code",
+  "https://www.databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer",
+  "https://www.databricks.com/blog/genie-one-accuracy-why-curated-agents-need-governed-context",
+  "https://www.databricks.com/blog/ai-architecture-patterns-regulated-industries",
+  "https://www.databricks.com/blog/how-partners-use-genies-free-tier-azure-databricks",
+  "https://www.databricks.com/blog/java4shell-vulnerability-cve-2026-114938-assessment",
   "https://www.databricks.com/blog/introducing-genie-migrate-serverless",
+  "https://www.databricks.com/blog/bulk-migrate-your-dashboards-aibi-genie-code",
   "https://www.databricks.com/blog/customerlake-conversions",
   "https://www.databricks.com/blog/databricks-wins-team-award-ai-capital-markets-0",
-  "https://www.databricks.com/blog/introducing-unity-gateway-insights",
-  "https://www.databricks.com/blog/whats-new-genie-microsoft-copilot-cowork-and-chat-microsoft-teams-and-excel",
-  "https://www.databricks.com/blog/how-aumovio-centralized-ai-access-databricks-unity-gateway",
-  "https://www.databricks.com/blog/how-we-raised-databricks-cluster-rate-limits-75",
-  "https://www.databricks.com/blog/azure-databricks-sessions-microsoft-ignite-2026",
-  "https://www.databricks.com/blog/branch-sync-serve-what-our-lakebase-hackathon-taught-us-about-building-lakebase"
+  "https://www.databricks.com/blog/introducing-unity-gateway-insights"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -1790,6 +1790,7 @@
   "https://www.dereuromark.de/?p=3345"
  ],
  "Discord": [
+  "https://discord.com/blog/discord-update-november-19-2026",
   "https://discord.com/blog/vice-city-theme-available-in-discord",
   "https://discord.com/blog/discord-linux-a-year-of-upgrades",
   "https://discord.com/blog/discord-patch-notes-november-9-2026",
@@ -1888,8 +1889,7 @@
   "https://discord.com/blog/how-to-use-the-discord-soundboard-add-more-sounds",
   "https://discord.com/blog/checkpoint-3-leveling-up-discord-quests-with-orbs-and-advanced-measurement",
   "https://discord.com/blog/go-beyond-plus-ultra-with-the-my-hero-academia-collection",
-  "https://discord.com/blog/discord-for-business-newsletter-vol-1",
-  "https://discord.com/blog/thank-you-for-ten-years"
+  "https://discord.com/blog/discord-for-business-newsletter-vol-1"
  ],
  "Docker": [
   "https://www.docker.com/?p=96314",
@@ -9635,8 +9635,8 @@
   "https://blog.rinesi.com/2026/09/the-untime-machine/index.html",
   "https://blog.rinesi.com/2026/09/the-unquiet/index.html",
   "https://blog.rinesi.com/2026/09/last-tea/index.html",
-  "https://blog.rinesi.com/2026/09/harry-and-the-three-witches/index.html",
   "https://blog.rinesi.com/2026/09/relative-superintelligence/index.html",
+  "https://blog.rinesi.com/2026/09/harry-and-the-three-witches/index.html",
   "https://blog.rinesi.com/2026/10/nighttime-games/index.html",
   "https://blog.rinesi.com/2026/10/graduation-night/index.html",
   "https://blog.rinesi.com/2026/10/end-times-pill/index.html",
@@ -9644,8 +9644,8 @@
   "https://blog.rinesi.com/2026/10/scenarios/index.html",
   "https://blog.rinesi.com/2026/10/worlds-best-athlete/index.html",
   "https://blog.rinesi.com/2026/11/this-could-have-been/index.html",
-  "https://blog.rinesi.com/2026/11/the-next-to-last-trick/index.html",
   "https://blog.rinesi.com/2026/11/the-sfi-index/index.html",
+  "https://blog.rinesi.com/2026/11/the-next-to-last-trick/index.html",
   "https://blog.rinesi.com/2026/11/the-shape-of-the-game/index.html",
   "https://blog.rinesi.com/2026/11/the-stanislavski-plot/index.html"
  ],
@@ -11053,6 +11053,8 @@
   "https://novoda.com/?p=10009"
  ],
  "Nvidia": [
+  "https://blogs.nvidia.com/?p=100047",
+  "https://blogs.nvidia.com/?p=98677",
   "https://blogs.nvidia.com/?p=100100",
   "https://blogs.nvidia.com/?p=100079",
   "https://blogs.nvidia.com/?p=100058",
@@ -11068,9 +11070,7 @@
   "https://blogs.nvidia.com/?p=99829",
   "https://blogs.nvidia.com/?p=99861",
   "https://blogs.nvidia.com/?p=99833",
-  "https://blogs.nvidia.com/?p=99797",
-  "https://blogs.nvidia.com/?p=99751",
-  "https://blogs.nvidia.com/?p=99744"
+  "https://blogs.nvidia.com/?p=99797"
  ],
  "OCTO Technology": [
   "https://blog.octo.com/modele-et-effort-de-raisonnement--trouver-le-bon-equilibre-pour-vos-agents",
@@ -15488,6 +15488,7 @@
   "https://medium.com/p/9e47a6c8743b"
  ],
  "Stripe": [
+  "https://stripe.com/blog/give-your-agents-controlled-access-to-analyze-your-data-and-move-funds",
   "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent",
   "https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts",
   "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
@@ -15496,8 +15497,7 @@
   "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
   "https://stripe.com/blog/real-time-stripe-data-postgres",
   "https://stripe.com/blog/economics-of-ai-monetization",
-  "https://stripe.com/blog/where-pricing-is-headed",
-  "https://stripe.com/blog/ousd-now-live-on-stripe"
+  "https://stripe.com/blog/where-pricing-is-headed"
  ],
  "SurveyMonkey": [
   "https://www.surveymonkey.com/curiosity/ask-the-market-gamers-and-ai/",
@@ -15701,6 +15701,7 @@
   "https://upcoder.com/18/static-libs-do-not-modular-make"
  ],
  "Thoughtbot": [
+  "https://thoughtbot.com/blog/ruby-security-update-critical-fixes-in-versions-4-0-10-3-4-13-and-3-3-14",
   "https://thoughtbot.com/blog/friction-worth-protecting-when-shaping-products",
   "https://thoughtbot.com/blog/modernizing-legacy-systems-in-uk-banking-and-financial-services"
  ],
@@ -15984,6 +15985,7 @@
   "https://medium.com/p/12288bd44788"
  ],
  "Tumblr": [
+  "https://engineering.tumblr.com/post/833747462928875520",
   "https://engineering.tumblr.com/post/826737485940916224",
   "https://engineering.tumblr.com/post/825845466763837440",
   "https://engineering.tumblr.com/post/825551763713196032",
@@ -16002,8 +16004,7 @@
   "https://engineering.tumblr.com/post/763892885430157312",
   "https://engineering.tumblr.com/post/741781189843615744",
   "https://engineering.tumblr.com/post/733445594295762944",
-  "https://engineering.tumblr.com/post/730272830210621441",
-  "https://engineering.tumblr.com/post/722102563011493888"
+  "https://engineering.tumblr.com/post/730272830210621441"
  ],
  "Twilio": [
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/memory-architecture-ai-agents-conversations-amazon-bedrock",
