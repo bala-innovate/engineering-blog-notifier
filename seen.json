@@ -100,6 +100,7 @@
   "https://8thlight.com/insights/unlocking-safer-faster-experimentation-for-a-global-tech-leader"
  ],
  "AWS": [
+  "30ec3c38ceea489c2a4f7184696062c55b87e28d",
   "8792b36d1af1b35d715874ec8395260652442a9e",
   "c84e831e813aae9c114a1c7179100aac35ea0ad7",
   "c0bd049236369d601a6a4b54035a912339948df0",
@@ -118,8 +119,7 @@
   "6936a126ff37e6868dadff2a0b59022a185e8d3c",
   "817caa03e06c6ac753e2104bcdd58418a88fea6e",
   "e76e8a63de9311bd1dde4b12497cc264c4918389",
-  "ea1cc456e7a2e65a27ab5c8db65b3016bf527355",
-  "fc299694003096540401c2714b7038f1f5b7f685"
+  "ea1cc456e7a2e65a27ab5c8db65b3016bf527355"
  ],
  "Aaron Patterson": [
   "https://tenderlovemaking.com/2026/10/18/static-analysis-for-the-uninitialized/",
@@ -1401,6 +1401,7 @@
   "https://engineering.clever.com/?p=154"
  ],
  "Cloudflare": [
+  "01M7R89D5X67THE8N5T2YSWARZ",
   "01M7QERD06VJ8ESJENBCYJESX5",
   "01M7NJA4ESQ31MDVBT2RBP1ZHX",
   "01M7B8MAKWAA44XACM7ZT7P4NN",
@@ -1419,8 +1420,7 @@
   "01M5YGNW60G1XYREPZQ9W8PSTD",
   "01M5G72REK3978980FNZCPDBRR",
   "01M5X2P6CQYMNAESRJ922DG5J3",
-  "01M5MZPETYH27RS72QV5V85YZ8",
-  "01M5MYFG0SHDEYME96N0A4Z6PH"
+  "01M5MZPETYH27RS72QV5V85YZ8"
  ],
  "Confluent": [
   "https://www.confluent.io/blog/managed-model-inference/",
@@ -1653,9 +1653,9 @@
   "https://www.databricks.com/blog/how-we-raised-databricks-cluster-rate-limits-75",
   "https://www.databricks.com/blog/azure-databricks-sessions-microsoft-ignite-2026",
   "https://www.databricks.com/blog/branch-sync-serve-what-our-lakebase-hackathon-taught-us-about-building-lakebase",
+  "https://www.databricks.com/blog/new-azure-databricks-azure-government-now-beta",
   "https://www.databricks.com/blog/advancing-catalog-interoperability-unity-catalog-and-google-clouds-borderless-lakehouse",
   "https://www.databricks.com/blog/liveramp-rampid-identity-resolution-packaged-clean-rooms",
-  "https://www.databricks.com/blog/new-azure-databricks-azure-government-now-beta",
   "https://www.databricks.com/blog/built-object-storage-served-cache"
  ],
  "Dave Cheney": [
@@ -6077,6 +6077,7 @@
   "https://hashrocket.com/blog/posts/nativewind-speeding-up-styling-in-react-native"
  ],
  "Hayden James": [
+  "https://haydenjames.io/?p=17221",
   "https://linuxblog.io/?p=19437",
   "http://haydenjames.io/?p=1678",
   "https://haydenjames.io/?p=13210",
@@ -6095,8 +6096,7 @@
   "https://linuxblog.io/?p=22354",
   "https://linuxblog.io/?p=22298",
   "https://linuxblog.io/?p=22493",
-  "https://linuxblog.io/?p=22486",
-  "https://linuxblog.io/?p=20337"
+  "https://linuxblog.io/?p=22486"
  ],
  "Helpshift": [
   "https://medium.com/p/881d32a7ef93",
@@ -6199,6 +6199,7 @@
   "https://medium.com/p/0bd5b9c303e2"
  ],
  "HubSpot": [
+  "https://product.hubspot.com/blog/hubspot-incident-report-september-8-2026",
   "https://product.hubspot.com/blog/incident-report-august-11-2026",
   "https://product.hubspot.com/blog/from-data-silos-to-feature-serving-how-we-unified-fragmented-data-for-training-inference-and-reuse",
   "https://product.hubspot.com/blog/hedging-erasure-coded-reads-in-hdfs",
@@ -6207,8 +6208,7 @@
   "https://product.hubspot.com/blog/building-the-ai-retrieval-infrastructure-behind-20-billion-vectors-at-hubspot",
   "https://product.hubspot.com/blog/hubspot-incident-report-february-25-2026",
   "https://product.hubspot.com/blog/automated-code-review-the-6-month-evolution",
-  "https://product.hubspot.com/blog/cloud-coding-agents-at-hubspot",
-  "https://product.hubspot.com/blog/migrated-from-enzyme-to-react-testing-library"
+  "https://product.hubspot.com/blog/cloud-coding-agents-at-hubspot"
  ],
  "Huon Wilson": [
   "https://huonw.github.io/blog/2026/04/gell-mann-aimnesia",
@@ -9185,7 +9185,8 @@
   "https://lea.verou.me/blog/2026/dark-mode-toggles/",
   "https://lea.verou.me/blog/2026/dark-mode-toggles-2/",
   "https://lea.verou.me/blog/2026/icons/",
-  "https://lea.verou.me/blog/2026/tag/"
+  "https://lea.verou.me/blog/2026/tag/",
+  "https://lea.verou.me/blog/2026/nudeps/"
  ],
  "Lerner Consulting Blog": [
   "https://lernerpython.com/2026/11/17/python-rich-console-separate-style-from-text-with-console-print/",
@@ -14281,6 +14282,7 @@
   "https://www.serverless.com/blog/typography"
  ],
  "Shopify": [
+  "https://shopify.engineering/secure-agentic-apps",
   "https://shopify.engineering/cyber-chaos-monkey",
   "https://shopify.engineering/generative-discovery",
   "https://shopify.engineering/shopify-app-rebuild",
@@ -15697,6 +15699,7 @@
   "https://upcoder.com/18/static-libs-do-not-modular-make"
  ],
  "Thoughtbot": [
+  "https://thoughtbot.com/blog/friction-worth-protecting-when-shaping-products",
   "https://thoughtbot.com/blog/modernizing-legacy-systems-in-uk-banking-and-financial-services"
  ],
  "Thumbtack": [
