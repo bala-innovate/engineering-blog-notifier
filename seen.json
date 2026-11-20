@@ -1,5 +1,6 @@
 {
  ".NET": [
+  "https://devblogs.microsoft.com/dotnet/?p=61288",
   "https://devblogs.microsoft.com/dotnet/?p=61260",
   "https://devblogs.microsoft.com/dotnet/?p=61205",
   "https://devblogs.microsoft.com/dotnet/?p=61211",
@@ -8,8 +9,7 @@
   "https://devblogs.microsoft.com/dotnet/?p=61169",
   "https://devblogs.microsoft.com/dotnet/?p=61166",
   "https://devblogs.microsoft.com/dotnet/?p=61123",
-  "https://devblogs.microsoft.com/dotnet/?p=61112",
-  "https://devblogs.microsoft.com/dotnet/?p=61101"
+  "https://devblogs.microsoft.com/dotnet/?p=61112"
  ],
  "0xADADA": [
   "https://0xadada.pub/2024/06/23/the-disappearance-of-lived-time-film/",
@@ -73,6 +73,7 @@
   "https://0xadada.pub/2003/01/01/hikikomori-otaku-japans-latest-outcasts/"
  ],
  "8th Light": [
+  "https://8thlight.com/insights/how-i-shipped-39-prs-to-prod-as-a-non-dev-2",
   "https://8thlight.com/insights/choosing-ai-development-partner-edtech",
   "https://8thlight.com/insights/5-lessons-for-getting-agentic-ai-into-production",
   "https://8thlight.com/insights/harness-engineering-in-practice",
@@ -96,8 +97,7 @@
   "https://8thlight.com/insights/ai-assisted-coding-is-not-doing-my-dishes-and-laundry",
   "https://8thlight.com/insights/embracing-ai-software-development",
   "https://8thlight.com/insights/how-to-make-your-customers-happy-and-your-engineers-even-happier",
-  "https://8thlight.com/insights/human-centered-design-clarity",
-  "https://8thlight.com/insights/unlocking-safer-faster-experimentation-for-a-global-tech-leader"
+  "https://8thlight.com/insights/human-centered-design-clarity"
  ],
  "AWS": [
   "30ec3c38ceea489c2a4f7184696062c55b87e28d",
@@ -766,10 +766,10 @@
   "https://auth0.com/blog/legacy-factors-fail-in-ciam-passkeys-are-the-answer/",
   "https://auth0.com/blog/building-secure-mcp-server-with-auth0/",
   "https://auth0.com/blog/authentication-and-authorization-what-s-new-in-net-11/",
-  "https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/",
   "https://auth0.com/blog/who-will-consumers-trust-to-act-shop-pay-on-their-behalf/",
   "https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/",
   "https://auth0.com/blog/ai-ambitions-are-blocked-by-identity-debt/",
+  "https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/",
   "https://auth0.com/blog/moving-quickly-without-breaking-things/"
  ],
  "Avenue Code": [
@@ -1401,6 +1401,8 @@
   "https://engineering.clever.com/?p=154"
  ],
  "Cloudflare": [
+  "01M7X91JJQ5CWGQ65DZBAHW4Q9",
+  "01M7X76K1JK00SF9K4YN83WANQ",
   "01M7V6MST3Z48AB8DBH1WGS8EX",
   "01M7R5N9JG35DGY66ZG3E9RXSW",
   "01M7R89D5X67THE8N5T2YSWARZ",
@@ -1418,9 +1420,7 @@
   "01M5J4YTFMTRT7PG1Y8HAPNPYG",
   "01M66XYRNK559YY01V2P37EBD7",
   "01M64V2TDYZYSS8RE60T3MWKSM",
-  "01M6254V6WN4EZTWVH0BF1748Y",
-  "01M5YGNW60G1XYREPZQ9W8PSTD",
-  "01M5G72REK3978980FNZCPDBRR"
+  "01M6254V6WN4EZTWVH0BF1748Y"
  ],
  "Confluent": [
   "https://www.confluent.io/blog/managed-model-inference/",
@@ -1647,6 +1647,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries",
   "https://www.databricks.com/blog/why-postgresql-19-shipped-late",
   "https://www.databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer",
   "https://www.databricks.com/blog/genie-one-accuracy-why-curated-agents-need-governed-context",
@@ -1655,8 +1656,7 @@
   "https://www.databricks.com/blog/java4shell-vulnerability-cve-2026-114938-assessment",
   "https://www.databricks.com/blog/introducing-genie-migrate-serverless",
   "https://www.databricks.com/blog/bulk-migrate-your-dashboards-aibi-genie-code",
-  "https://www.databricks.com/blog/postgresql-19-available-lakebase",
-  "https://www.databricks.com/blog/customerlake-conversions"
+  "https://www.databricks.com/blog/postgresql-19-available-lakebase"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -6177,15 +6177,15 @@
   "https://medium.com/p/e08972ae873e"
  ],
  "Hostinger": [
+  "https://www.hostinger.com/blog/?p=11223",
+  "https://www.hostinger.com/blog/?p=11209",
+  "https://www.hostinger.com/blog/?p=11194",
   "https://www.hostinger.com/blog/?p=11177",
   "https://www.hostinger.com/blog/?p=11167",
   "https://www.hostinger.com/blog/?p=11141",
   "https://www.hostinger.com/blog/?p=11155",
   "https://www.hostinger.com/blog/?p=11132",
-  "https://www.hostinger.com/blog/?p=11125",
-  "https://www.hostinger.com/blog/?p=11111",
-  "https://www.hostinger.com/blog/?p=10849",
-  "https://www.hostinger.com/blog/?p=10251"
+  "https://www.hostinger.com/blog/?p=11125"
  ],
  "Housing.com": [
   "https://medium.com/p/b5dbd492fe88",
@@ -8891,11 +8891,11 @@
   "http://lambda-the-ultimate.org/ltu-blockchain-plt-thinktank"
  ],
  "Laravel": [
+  "https://laravel-news.com/pgjumbo-postgresql-client",
+  "https://laravel-news.com/laranon-pii-anonymization",
   "https://laravel-news.com/php-8-6-release-day",
   "https://laravel-news.com/laravel-warrant",
-  "https://laravel-news.com/laravel-13-43-0",
-  "https://laravel-news.com/durable-workflow-laravel",
-  "https://laravel-news.com/laravel-session-replay"
+  "https://laravel-news.com/laravel-13-43-0"
  ],
  "Larry Land": [
   "https://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html",
@@ -9786,6 +9786,7 @@
   "tag:blogger.com,1999:blog-3888382143307542639.post-649405965458119143"
  ],
  "Martin Fowler": [
+  "https://martinfowler.com/fragments/2026-11-20.html",
   "tag:martinfowler.com,2026-11-18:Data-Contracts",
   "tag:martinfowler.com,2026-11-17:Deterministic-Simulation-Testing",
   "https://martinfowler.com/bliki/GeneratedGlossary.html",
@@ -9814,8 +9815,7 @@
   "https://martinfowler.com/fragments/2026-09-08.html",
   "tag:martinfowler.com,2026-09-08:Do-you-even-need-a-presentation-",
   "https://martinfowler.com/bliki/ParacelsusMaxim.html",
-  "tag:martinfowler.com,2026-09-02:An-Accidental-Blackboard",
-  "https://martinfowler.com/rachels-ramblings/code-review.html"
+  "tag:martinfowler.com,2026-09-02:An-Accidental-Blackboard"
  ],
  "Mary Rose Cook": [
   "https://maryrosecook.com/blog/post/using-encapsulated-development-to-code-on-my-phone",
@@ -11074,6 +11074,7 @@
   "https://blogs.nvidia.com/?p=99797"
  ],
  "OCTO Technology": [
+  "https://blog.octo.com/qualite-interne-et-rythme-de-livraison--pourquoi-le-code-se-degrade-et-comment-l'eviter",
   "https://blog.octo.com/modele-et-effort-de-raisonnement--trouver-le-bon-equilibre-pour-vos-agents",
   "https://blog.octo.com/lean-ai-et-delivery-tech-j'ai-observe-le-futur-du-developpement",
   "https://blog.octo.com/j'ai-demande-un-powerpoint-a-des-agents--le-premier-on-voulait-l'oublier-le-dernier-tout-le-monde-l'a-accepte",
@@ -11082,8 +11083,7 @@
   "https://blog.octo.com/harnais-agentiques-(epilogue)--travailler-au-quotidien-avec-un-agent-de-frontiere",
   "https://blog.octo.com/et-si-votre-super-idee-innovante-de-projet-agentique-avait-deja-ete-pensee-par-votre-editeur-de-data-plateforme--1",
   "https://blog.octo.com/octo-que-s'est-il-passe-avec-les-packages-npm-sur-ces-12-derniers-mois",
-  "https://blog.octo.com/harnais-agentiques-(22)--huit-reflexes-a-desapprendre-pour-un-harnais-frugal-1",
-  "https://blog.octo.com/harnais-agentiques-(12)--pourquoi-les-bonnes-pratiques-d'hier-coutent-cher-aujourd'hui"
+  "https://blog.octo.com/harnais-agentiques-(22)--huit-reflexes-a-desapprendre-pour-un-harnais-frugal-1"
  ],
  "OLX": [
   "https://medium.com/p/ee1519586520",
@@ -13039,6 +13039,7 @@
   "http://nativeguru.wordpress.com/?p=32"
  ],
  "Ray Wenderlich": [
+  "https://www.kodeco.com/55064518-kodeco-podcast-s4-e1-ai-can-write-the-code-but-can-you-trust-it",
   "https://www.kodeco.com/ios/paths/shipping-with-ai/53703960-ai-assisted-ios-app-deployment",
   "https://www.kodeco.com/ios/paths/shipping-with-ai/53703840-using-ai-for-ci-automation-in-ios-projects",
   "https://www.kodeco.com/ios/paths/validating-ai-code/53703811-reviewing-ai-generated-code-for-ios",
@@ -13059,7 +13060,6 @@
   "https://www.kodeco.com/52032939-kodebits-day-94-operator-overloading",
   "https://www.kodeco.com/54224360-seeing-double-with-the-iphone-duo",
   "https://www.kodeco.com/52032936-kodebits-day-93-default-parameter",
-  "https://www.kodeco.com/52032933-kodebits-day-92-collection-for-loop",
   "https://www.kodeco.com/ai/programs/ai-apis",
   "https://www.kodeco.com/ai/paths/python",
   "https://www.kodeco.com/ai/paths/azure-ai-services",
@@ -13072,10 +13072,10 @@
   "https://www.kodeco.com/android/paths/multiscreen-app",
   "https://www.kodeco.com/android/programs/beginning-android",
   "https://www.kodeco.com/android/paths/user-interface-development",
+  "https://www.kodeco.com/ios/paths/networking-concurrency-swiftui",
   "https://www.kodeco.com/ios/paths/sharing-state-management-swiftui",
   "https://www.kodeco.com/ios/programs/beginning-ios",
   "https://www.kodeco.com/ios/paths/getting-started-swiftui",
-  "https://www.kodeco.com/ios/paths/networking-concurrency-swiftui",
   "https://www.kodeco.com/android/paths/concurrency-networking",
   "https://www.kodeco.com/android/paths/object-oriented-programming",
   "https://www.kodeco.com/android/paths/learn-kotlin-language",
@@ -13087,6 +13087,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112879",
   "https://devblogs.microsoft.com/oldnewthing/?p=112870",
   "https://devblogs.microsoft.com/oldnewthing/?p=112866",
   "https://devblogs.microsoft.com/oldnewthing/?p=112863",
@@ -13095,8 +13096,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112848",
   "https://devblogs.microsoft.com/oldnewthing/?p=112843",
   "https://devblogs.microsoft.com/oldnewthing/?p=112841",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112838",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112835"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112838"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -13116,22 +13116,22 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
+  "https://realpython.com/ai-news-weekly-2026-11-20/",
+  "https://realpython.com/ai-refactor-python/",
   "https://realpython.com/quizzes/python-interview-problem-parsing-csv-files/",
   "https://realpython.com/agentic-loop/",
   "https://realpython.com/python-sqlite-sqlalchemy/",
   "https://realpython.com/ai-benchmark-hy4-flash/",
   "https://realpython.com/quizzes/exploring-python-math-module/",
+  "https://realpython.com/pandas-merge-join-and-concat/",
   "https://realpython.com/ai-benchmark-gpt-6-2-sol/",
   "https://realpython.com/ai-benchmark-gpt-6-2-astra/",
   "https://realpython.com/nuitka/",
-  "https://realpython.com/pandas-merge-join-and-concat/",
   "https://realpython.com/quizzes/nuitka/",
   "https://realpython.com/python-bindings-overview/",
   "https://realpython.com/courses/getting-started-with-git/",
   "https://realpython.com/quizzes/understanding-python-namespace-packages/",
-  "https://realpython.com/python-project-for-agentic-coding/",
   "https://realpython.com/quizzes/python-project-for-agentic-coding/",
-  "https://realpython.com/python-scipy-cluster-optimize/",
   "https://realpython.com/podcasts/rpp/319/",
   "https://realpython.com/quizzes/working-json-data-python/",
   "https://realpython.com/quizzes/mentor-ai-coding-exercise/",
@@ -14729,6 +14729,7 @@
  ],
  "SitePoint": [
   "https://www.sitepoint.com/webhooks-best-practices-before-you-ship/",
+  "https://www.sitepoint.com/what-is-bio-tagging-and-how-to-use-it-for-document-ai-training-data/",
   "https://www.sitepoint.com/what-to-check-before-adding-a-tripo-model-to-a-website/",
   "https://www.sitepoint.com/your-ai-pipeline-works-but-can-you-trust-it/",
   "https://www.sitepoint.com/from-script-to-screen-a-developer-s-workflow-for-long-form-ai-video/",
@@ -14740,6 +14741,7 @@
   "https://www.sitepoint.com/is-kling-4-0-the-right-ai-video-generator-for-your-project/",
   "https://www.sitepoint.com/hostinger-vps-ai-managed-vps-review/",
   "https://www.sitepoint.com/how-to-test-wcag-2-2-in-ci-what-axe-core-misses/",
+  "https://www.sitepoint.com/building-email-integrations-apis-webhooks-automation-and-deliverability/",
   "https://www.sitepoint.com/build-live-video-chat-with-webrtc-from-first-call-to-production-debugging/",
   "https://www.sitepoint.com/what-is-the-best-ui-design-tool-8-tools-compared-by-the-job-they-do-2026/",
   "https://www.sitepoint.com/markdown-to-pdf-in-2026-no-install-methods-and-the-rendering-problems-nobody-warns-you-about/",
@@ -14825,9 +14827,7 @@
   "https://www.sitepoint.com/ai-testing-tools-benefits-limitations-and-best-practices/",
   "https://www.sitepoint.com/how-to-quickly-check-what-your-html-code-looks-like-in-a-browser/",
   "https://www.sitepoint.com/how-applicant-tracking-systems-read-resumes-7-checks-developers-should-make/",
-  "https://www.sitepoint.com/how-to-source-passive-candidates/",
-  "https://www.sitepoint.com/generators-and-iterators-in-javascript-lazy-data-and-async-flows/",
-  "https://www.sitepoint.com/generating-web-ready-images-with-ai-formats-sizes-and-srcset-done-right/"
+  "https://www.sitepoint.com/how-to-source-passive-candidates/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15145,6 +15145,7 @@
   "2126"
  ],
  "Stack Overflow": [
+  "a6ff6a3e-5185-475e-b87f-d6095b49844e",
   "37059ad0-64e8-4c05-bdc5-4641eec2720a",
   "e1333c10-b8f9-4ba6-a9fe-508d9f2575d7",
   "56e2110d-84ee-48e6-9e76-5385efc32e51",
@@ -15183,8 +15184,7 @@
   "4ae1a4e4-cb6e-4110-b6f3-50b8afa09f49",
   "ce1fd642-fe2b-4d83-95ad-67b7645d7959",
   "f17b27e9-17f5-4203-8066-68c8df26ef42",
-  "39f2fc9f-742a-4273-a4d1-abdecd14fcf8",
-  "7fdf107e-3649-4a6b-98c4-89788838cfbf"
+  "39f2fc9f-742a-4273-a4d1-abdecd14fcf8"
  ],
  "Stanko Tadi\u0107": [
   "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
