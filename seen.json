@@ -1401,6 +1401,7 @@
   "https://engineering.clever.com/?p=154"
  ],
  "Cloudflare": [
+  "01M7V6MST3Z48AB8DBH1WGS8EX",
   "01M7R5N9JG35DGY66ZG3E9RXSW",
   "01M7R89D5X67THE8N5T2YSWARZ",
   "01M7QERD06VJ8ESJENBCYJESX5",
@@ -1419,8 +1420,7 @@
   "01M64V2TDYZYSS8RE60T3MWKSM",
   "01M6254V6WN4EZTWVH0BF1748Y",
   "01M5YGNW60G1XYREPZQ9W8PSTD",
-  "01M5G72REK3978980FNZCPDBRR",
-  "01M5X2P6CQYMNAESRJ922DG5J3"
+  "01M5G72REK3978980FNZCPDBRR"
  ],
  "Confluent": [
   "https://www.confluent.io/blog/managed-model-inference/",
@@ -1647,16 +1647,16 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/why-postgresql-19-shipped-late",
   "https://www.databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer",
   "https://www.databricks.com/blog/genie-one-accuracy-why-curated-agents-need-governed-context",
   "https://www.databricks.com/blog/ai-architecture-patterns-regulated-industries",
   "https://www.databricks.com/blog/how-partners-use-genies-free-tier-azure-databricks",
   "https://www.databricks.com/blog/java4shell-vulnerability-cve-2026-114938-assessment",
-  "https://www.databricks.com/blog/introducing-genie-migrate-serverless",
   "https://www.databricks.com/blog/bulk-migrate-your-dashboards-aibi-genie-code",
-  "https://www.databricks.com/blog/customerlake-conversions",
-  "https://www.databricks.com/blog/databricks-wins-team-award-ai-capital-markets-0",
-  "https://www.databricks.com/blog/introducing-unity-gateway-insights"
+  "https://www.databricks.com/blog/introducing-genie-migrate-serverless",
+  "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+  "https://www.databricks.com/blog/customerlake-conversions"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -9598,7 +9598,6 @@
   "https://www.maptiler.com/news/2014/01/visual-georeferencing-in-maptiler-0-5-2"
  ],
  "Marcelo Rinesi": [
-  "https://blog.rinesi.com/2026/02/citadel/index.html",
   "https://blog.rinesi.com/2026/02/bottleneck/index.html",
   "https://blog.rinesi.com/2026/02/runaway-geodesics/index.html",
   "https://blog.rinesi.com/2026/02/mathematics-of-change/index.html",
@@ -9647,7 +9646,8 @@
   "https://blog.rinesi.com/2026/11/the-sfi-index/index.html",
   "https://blog.rinesi.com/2026/11/the-next-to-last-trick/index.html",
   "https://blog.rinesi.com/2026/11/the-shape-of-the-game/index.html",
-  "https://blog.rinesi.com/2026/11/the-stanislavski-plot/index.html"
+  "https://blog.rinesi.com/2026/11/the-stanislavski-plot/index.html",
+  "https://blog.rinesi.com/2026/11/a-clockwork-heart/index.html"
  ],
  "Marco Pivetta": [
   "https://ocramius.github.io/blog/php-logging-with-psr-3/",
@@ -15702,8 +15702,7 @@
  ],
  "Thoughtbot": [
   "https://thoughtbot.com/blog/ruby-security-update-critical-fixes-in-versions-4-0-10-3-4-13-and-3-3-14",
-  "https://thoughtbot.com/blog/friction-worth-protecting-when-shaping-products",
-  "https://thoughtbot.com/blog/modernizing-legacy-systems-in-uk-banking-and-financial-services"
+  "https://thoughtbot.com/blog/friction-worth-protecting-when-shaping-products"
  ],
  "Thumbtack": [
   "https://medium.com/p/7a381b47c640",
