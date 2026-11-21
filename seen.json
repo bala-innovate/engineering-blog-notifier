@@ -13087,6 +13087,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112883",
   "https://devblogs.microsoft.com/oldnewthing/?p=112879",
   "https://devblogs.microsoft.com/oldnewthing/?p=112870",
   "https://devblogs.microsoft.com/oldnewthing/?p=112866",
@@ -13095,8 +13096,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112851",
   "https://devblogs.microsoft.com/oldnewthing/?p=112848",
   "https://devblogs.microsoft.com/oldnewthing/?p=112843",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112841",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112838"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112841"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -16014,7 +16014,6 @@
   "https://www.twilio.com/en-us/blog/insights/where-to-deploy-conversational-ai-first",
   "https://www.twilio.com/en-us/blog/products/enhancements-to-twilio-segment-journeys",
   "https://www.twilio.com/en-us/blog/insights/the-best-time-to-send-your-email-campaign",
-  "https://www.twilio.com/en-us/blog/insights/6-tips-for-responding-to-your-email-recipients",
   "https://www.twilio.com/en-us/blog/insights/evaluate-ai-agents-production",
   "https://www.twilio.com/en-us/blog/events/Builders-in-the-Spotlight--How-EMEA-Champions-Brought-SIGNAL-Paris-to-Life",
   "https://www.twilio.com/en-us/blog/products/new-capabilities-conversation-relay-intelligence-twilio-agent-connect",
@@ -16036,7 +16035,8 @@
   "https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure",
   "https://www.twilio.com/en-us/blog/insights/ai-race-is-context-race",
   "https://www.twilio.com/en-us/blog/what-is-broadcast-messaging",
-  "https://www.twilio.com/en-us/blog/insights/cloud-comms/call-center-services-pricing"
+  "https://www.twilio.com/en-us/blog/insights/cloud-comms/call-center-services-pricing",
+  "https://www.twilio.com/en-us/blog/insights/ai-agent-remember-returning-customers"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
