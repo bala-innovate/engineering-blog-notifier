@@ -335,6 +335,7 @@
   "https://infrequently.org/2024/01/performance-inequality-gap-2024/"
  ],
  "Amit Merchant": [
+  "https://www.amitmerchant.com/gemini-decisions-api",
   "https://www.amitmerchant.com/github-event-streams-for-agents",
   "https://www.amitmerchant.com/what-if-ui-components-were-built-like-modular-phones",
   "https://www.amitmerchant.com/giving-ai-agents-a-better-way-to-debug-css",
@@ -343,8 +344,7 @@
   "https://www.amitmerchant.com/ai-agent-dependencies-management",
   "https://www.amitmerchant.com/ci-pipeline-lockfile",
   "https://www.amitmerchant.com/an-online-first-version-control-system",
-  "https://www.amitmerchant.com/practical-way-to-check-your-ai-search-visibility",
-  "https://www.amitmerchant.com/7-game-changing-web-ui-features-you-need-to-start-using-today"
+  "https://www.amitmerchant.com/practical-way-to-check-your-ai-search-visibility"
  ],
  "Andrew Bancroft": [
   "https://www.andrewcbancroft.com/blog/ai/how-i-learned-to-copy-and-paste/",
@@ -1654,8 +1654,8 @@
   "https://www.databricks.com/blog/ai-architecture-patterns-regulated-industries",
   "https://www.databricks.com/blog/how-partners-use-genies-free-tier-azure-databricks",
   "https://www.databricks.com/blog/java4shell-vulnerability-cve-2026-114938-assessment",
-  "https://www.databricks.com/blog/introducing-genie-migrate-serverless",
   "https://www.databricks.com/blog/bulk-migrate-your-dashboards-aibi-genie-code",
+  "https://www.databricks.com/blog/introducing-genie-migrate-serverless",
   "https://www.databricks.com/blog/postgresql-19-available-lakebase"
  ],
  "Dave Cheney": [
@@ -14760,6 +14760,7 @@
   "https://www.sitepoint.com/automating-contract-signing-in-node-js-webhooks-verification-and-storing-signed-pdfs/",
   "https://www.sitepoint.com/how-to-migrate-an-elementor-site-to-the-wordpress-block-editor/",
   "https://www.sitepoint.com/what-is-model-routing-in-ai/",
+  "https://www.sitepoint.com/show-don-t-certify-how-to-prepare-for-your-first-data-analyst-job/",
   "https://www.sitepoint.com/power-bi-mcp-server-how-to-brief-an-ai-agent-to-build-accurate-measures/",
   "https://www.sitepoint.com/find-orphan-pages-by-comparing-your-sitemap-with-an-internal-crawl/",
   "https://www.sitepoint.com/best-ecommerce-platforms-for-developers-six-options-and-the-layers-each-leaves-to-you/",
@@ -14826,8 +14827,7 @@
   "https://www.sitepoint.com/testing-json-ld-like-an-api-7-checks-before-your-next-release/",
   "https://www.sitepoint.com/ai-testing-tools-benefits-limitations-and-best-practices/",
   "https://www.sitepoint.com/how-to-quickly-check-what-your-html-code-looks-like-in-a-browser/",
-  "https://www.sitepoint.com/how-applicant-tracking-systems-read-resumes-7-checks-developers-should-make/",
-  "https://www.sitepoint.com/how-to-source-passive-candidates/"
+  "https://www.sitepoint.com/how-applicant-tracking-systems-read-resumes-7-checks-developers-should-make/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -16007,12 +16007,15 @@
   "https://engineering.tumblr.com/post/730272830210621441"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-import-data-from-your-crm-external-source-into-conversation-memory",
+  "https://www.twilio.com/en-us/blog/insights/what-is-an-smtp-server",
   "https://www.twilio.com/en-us/blog/products/cx-automation-suite-european-residency",
   "https://www.twilio.com/en-us/blog/insights/write-email-newsletter",
   "https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp-push",
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/memory-architecture-ai-agents-conversations-amazon-bedrock",
   "https://www.twilio.com/en-us/blog/insights/where-to-deploy-conversational-ai-first",
   "https://www.twilio.com/en-us/blog/products/enhancements-to-twilio-segment-journeys",
+  "https://www.twilio.com/en-us/blog/insights/6-tips-for-responding-to-your-email-recipients",
   "https://www.twilio.com/en-us/blog/insights/the-best-time-to-send-your-email-campaign",
   "https://www.twilio.com/en-us/blog/insights/evaluate-ai-agents-production",
   "https://www.twilio.com/en-us/blog/events/Builders-in-the-Spotlight--How-EMEA-Champions-Brought-SIGNAL-Paris-to-Life",
@@ -16033,10 +16036,7 @@
   "https://www.twilio.com/en-us/blog/insights/voice-ai-for-banks-and-credit-unions-powered-by-twilio",
   "https://www.twilio.com/en-us/blog/insights/5-email-types-explained-with-examples",
   "https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure",
-  "https://www.twilio.com/en-us/blog/insights/ai-race-is-context-race",
-  "https://www.twilio.com/en-us/blog/what-is-broadcast-messaging",
-  "https://www.twilio.com/en-us/blog/insights/cloud-comms/call-center-services-pricing",
-  "https://www.twilio.com/en-us/blog/insights/ai-agent-remember-returning-customers"
+  "https://www.twilio.com/en-us/blog/insights/ai-race-is-context-race"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
