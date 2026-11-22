@@ -1613,6 +1613,7 @@
   "https://danluu.com/randomize-hn/"
  ],
  "Daniel Doubrovkine (dB.)": [
+  "https://code.dblock.org/2026/11/22/teaching-my-copilot-and-claude-children-to-share",
   "https://code.dblock.org/2026/11/19/automatic-rspec-sharding-on-github-actions",
   "https://code.dblock.org/2026/11/15/the-sunk-cost-fallacy-of-a-vibe-coded-custom-saas",
   "https://code.dblock.org/2026/11/12/use-agent-test-run-claims-to-skip-ci",
@@ -1631,8 +1632,7 @@
   "https://code.dblock.org/2026/10/15/ai-wants-to-eat-your-project-backlog",
   "https://code.dblock.org/2026/10/11/elpds-a-1995-dos-disk-inspection-tool",
   "https://code.dblock.org/2026/10/09/a-1998-pdf-to-text-converter",
-  "https://code.dblock.org/2026/10/03/ucslink-fusion-configuring-university-workstations-in-1997",
-  "https://code.dblock.org/2026/09/29/zballs-a-1998-java-applet"
+  "https://code.dblock.org/2026/10/03/ucslink-fusion-configuring-university-workstations-in-1997"
  ],
  "Daniel Schmidt": [
   "https://medium.com/p/825e6dedf46d",
@@ -2373,6 +2373,7 @@
   "http://code.flickr.net/?p=3370"
  ],
  "Freek Van der Herten": [
+  "https://freek.dev/3231",
   "https://freek.dev/3229",
   "https://freek.dev/3228",
   "https://freek.dev/3230",
@@ -2391,8 +2392,7 @@
   "https://freek.dev/3215",
   "https://freek.dev/3214",
   "https://freek.dev/3213",
-  "https://freek.dev/3212",
-  "https://freek.dev/3211"
+  "https://freek.dev/3212"
  ],
  "Freeletics": [
   "/2021/11/16/droidcon-berlin-2021",
@@ -8861,6 +8861,7 @@
   "https://blog.jetbrains.com/?post_type=kotlin&p=737362"
  ],
  "Kyle Kingsbury": [
+  "https://aphyr.com/posts/429-and-you-would-be-supporting-a-local-paper",
   "https://aphyr.com/posts/428-announcing-hegel-clj",
   "https://aphyr.com/posts/427-rip-harvest",
   "https://aphyr.com/posts/425-more-fake-mastodon-signups",
@@ -8871,8 +8872,7 @@
   "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
   "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs",
   "https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work",
-  "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
-  "https://aphyr.com/posts/416-the-future-of-everything-is-lies-i-guess-psychological-hazards"
+  "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety"
  ],
  "Lambda the Ultimate": [
   "http://lambda-the-ultimate.org/node/5666",
@@ -9191,6 +9191,7 @@
   "https://lea.verou.me/blog/2026/nudeps/"
  ],
  "Lerner Consulting Blog": [
+  "https://lernerpython.com/2026/11/21/rich-tables-in-python-using-table-add-column-and-add-row/",
   "https://lernerpython.com/2026/11/19/rich-console-set-default-styles-with-keyword-arguments/",
   "https://lernerpython.com/2026/11/18/python-rich-console-setting-text-width-and-justification/",
   "https://lernerpython.com/2026/11/17/python-rich-console-separate-style-from-text-with-console-print/",
@@ -9199,8 +9200,7 @@
   "https://lernerpython.com/2026/11/10/pandas-options-setting-display-precision-with-pd-set-option/",
   "https://lernerpython.com/2026/11/09/pandas-3-1-csv-loading-multi-threaded-but-pyarrow-is-still-faster/",
   "https://lernerpython.com/?p=18793",
-  "https://lernerpython.com/2026/11/08/pandas-3-1-filter-selecting-rows-with-a-pd-col-condition/",
-  "https://lernerpython.com/2026/11/06/pandas-3-1-select-method-retrieving-specific-columns/"
+  "https://lernerpython.com/2026/11/08/pandas-3-1-filter-selecting-rows-with-a-pd-col-condition/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -13117,18 +13117,18 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
+  "https://realpython.com/ai-benchmark-daisyrose-27b/",
   "https://realpython.com/ai-benchmark-gemini-4-neon/",
   "https://realpython.com/ai-benchmark-inkling-2-mini/",
+  "https://realpython.com/any-python/",
   "https://realpython.com/ai-news-weekly-2026-11-20/",
   "https://realpython.com/ai-refactor-python/",
-  "https://realpython.com/any-python/",
   "https://realpython.com/quizzes/python-interview-problem-parsing-csv-files/",
-  "https://realpython.com/agentic-loop/",
   "https://realpython.com/ai-benchmark-hy4-flash/",
+  "https://realpython.com/agentic-loop/",
   "https://realpython.com/python-sqlite-sqlalchemy/",
   "https://realpython.com/quizzes/exploring-python-math-module/",
   "https://realpython.com/ai-benchmark-gpt-6-2-sol/",
-  "https://realpython.com/ai-benchmark-gpt-6-2-astra/",
   "https://realpython.com/quizzes/nuitka/",
   "https://realpython.com/courses/getting-started-with-git/",
   "https://realpython.com/quizzes/understanding-python-namespace-packages/",
@@ -13468,14 +13468,14 @@
   "http://rocksdb.org/blog/2025/09/25/io-tagging.html"
  ],
  "RoseHosting": [
-  "https://www.rosehosting.com/blog/?p=52206",
-  "https://www.rosehosting.com/blog/?p=52189",
-  "https://www.rosehosting.com/blog/?p=52271",
-  "https://www.rosehosting.com/blog/?p=52182",
-  "https://www.rosehosting.com/blog/?p=52259",
-  "https://www.rosehosting.com/blog/?p=52250",
-  "https://www.rosehosting.com/blog/?p=52241",
-  "https://www.rosehosting.com/blog/?p=52244"
+  "https://www.rosehosting.com/blog/?p=52488",
+  "https://www.rosehosting.com/blog/?p=52502",
+  "https://www.rosehosting.com/blog/?p=52482",
+  "https://www.rosehosting.com/blog/?p=52477",
+  "https://www.rosehosting.com/blog/?p=52475",
+  "https://www.rosehosting.com/blog/?p=52468",
+  "https://www.rosehosting.com/blog/?p=52275",
+  "https://www.rosehosting.com/blog/?p=52252"
  ],
  "Ruslan Spivak": [
   "tag:ruslanspivak.com,2025-08-19:/bb07/",
@@ -16422,6 +16422,7 @@
   "https://medium.com/p/de7d7852a58f"
  ],
  "Yegor Bugayenko": [
+  "https://www.yegor256.com/2026/11/22/immortal-ai",
   "https://www.yegor256.com/2026/11/10/back-to-socrates",
   "https://www.yegor256.com/2026/09/21/cogito-ergo-sum",
   "https://www.yegor256.com/2026/07/12/rats-skills",
@@ -16430,8 +16431,7 @@
   "https://www.yegor256.com/2026/05/24/monotonic-indentation",
   "https://www.yegor256.com/2026/05/03/no-mercy",
   "https://www.yegor256.com/2026/03/05/fast-software",
-  "https://www.yegor256.com/2026/01/25/spa-vs-performance",
-  "https://www.yegor256.com/2026/01/11/no-documentation-comments"
+  "https://www.yegor256.com/2026/01/25/spa-vs-performance"
  ],
  "Yifan Lu": [
   "https://yifan.lu/2022/06/17/unbricking-shield-tv-2015-with-a-bootrom-exploit",
