@@ -335,6 +335,7 @@
   "https://infrequently.org/2024/01/performance-inequality-gap-2024/"
  ],
  "Amit Merchant": [
+  "https://www.amitmerchant.com/javascript-gets-a-new-set-of-html-insertion-apis",
   "https://www.amitmerchant.com/gemini-decisions-api",
   "https://www.amitmerchant.com/github-event-streams-for-agents",
   "https://www.amitmerchant.com/what-if-ui-components-were-built-like-modular-phones",
@@ -343,8 +344,7 @@
   "https://www.amitmerchant.com/whats-new-in-php-86",
   "https://www.amitmerchant.com/ai-agent-dependencies-management",
   "https://www.amitmerchant.com/ci-pipeline-lockfile",
-  "https://www.amitmerchant.com/an-online-first-version-control-system",
-  "https://www.amitmerchant.com/practical-way-to-check-your-ai-search-visibility"
+  "https://www.amitmerchant.com/an-online-first-version-control-system"
  ],
  "Andrew Bancroft": [
   "https://www.andrewcbancroft.com/blog/ai/how-i-learned-to-copy-and-paste/",
@@ -2373,6 +2373,7 @@
   "http://code.flickr.net/?p=3370"
  ],
  "Freek Van der Herten": [
+  "https://freek.dev/3232",
   "https://freek.dev/3231",
   "https://freek.dev/3229",
   "https://freek.dev/3228",
@@ -2391,8 +2392,7 @@
   "https://freek.dev/3216",
   "https://freek.dev/3215",
   "https://freek.dev/3214",
-  "https://freek.dev/3213",
-  "https://freek.dev/3212"
+  "https://freek.dev/3213"
  ],
  "Freeletics": [
   "/2021/11/16/droidcon-berlin-2021",
@@ -5652,16 +5652,16 @@
   "https://www.gosquared.com/blog/?p=10129"
  ],
  "Grab": [
+  "https://engineering.grab.com/part-1-ads-simulation-blogpost",
+  "https://engineering.grab.com/replaying-merged-changes-knowledge-base-coding-agents-better",
+  "https://engineering.grab.com/how-grab-built-scarlet-blog",
   "https://engineering.grab.com/app-stability-at-scale-with-a-layered-defense",
   "https://engineering.grab.com/grabmart-data-for-faster-disease-outbreak-detection",
   "https://engineering.grab.com/price-sensitivity-profiling-using-llm",
   "https://engineering.grab.com/powering-ai-led-research-through-simulation",
   "https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
   "https://engineering.grab.com/data-mesh-at-grab-part-three",
-  "https://engineering.grab.com/jarvis-pro-route-firsr-answer-later",
-  "https://engineering.grab.com/grab-bench-evaluating-ai",
-  "https://engineering.grab.com/how-ai-is-transforming-analytics",
-  "https://engineering.grab.com/crowdsourced-taxonomy-verification"
+  "https://engineering.grab.com/jarvis-pro-route-firsr-answer-later"
  ],
  "Graham King": [
   "https://darkcoding.net/software/personal-ai-evals-aug-2025/",
@@ -9191,6 +9191,7 @@
   "https://lea.verou.me/blog/2026/nudeps/"
  ],
  "Lerner Consulting Blog": [
+  "https://lernerpython.com/2026/11/22/python-loading-spinners-with-rich-using-console-status/",
   "https://lernerpython.com/2026/11/21/rich-tables-in-python-using-table-add-column-and-add-row/",
   "https://lernerpython.com/2026/11/19/rich-console-set-default-styles-with-keyword-arguments/",
   "https://lernerpython.com/2026/11/18/python-rich-console-setting-text-width-and-justification/",
@@ -9199,8 +9200,7 @@
   "https://lernerpython.com/2026/11/11/pandas-option-context-temporarily-change-display-settings/",
   "https://lernerpython.com/2026/11/10/pandas-options-setting-display-precision-with-pd-set-option/",
   "https://lernerpython.com/2026/11/09/pandas-3-1-csv-loading-multi-threaded-but-pyarrow-is-still-faster/",
-  "https://lernerpython.com/?p=18793",
-  "https://lernerpython.com/2026/11/08/pandas-3-1-filter-selecting-rows-with-a-pd-col-condition/"
+  "https://lernerpython.com/?p=18793"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -11111,6 +11111,7 @@
   "http://fullstack.info/?p=807"
  ],
  "Okta": [
+  "https://developer.okta.com/blog/2026/11/23/secure-go-mcp-app-cross-app-access/",
   "https://developer.okta.com/blog/2026/10/09/typescript-mcp-sdk-cross-app-access/",
   "https://developer.okta.com/blog/2026/09/18/okta-classic-engine-deprecation/",
   "https://developer.okta.com/blog/2026/08/25/angular-auth-signals/",
@@ -11129,8 +11130,7 @@
   "https://developer.okta.com/blog/2026/06/09/okta-developer-connect-sf-recap/",
   "https://developer.okta.com/blog/2026/06/05/zahwah-intro-blog/",
   "https://developer.okta.com/blog/2026/05/12/low-code-api-integration/",
-  "https://developer.okta.com/blog/2026/02/10/xaa-client/",
-  "https://developer.okta.com/blog/2026/01/21/user-entitlements-workshop/"
+  "https://developer.okta.com/blog/2026/02/10/xaa-client/"
  ],
  "Ole Begemann": [
   "https://oleb.net/2025/git-mv-case-change/",
@@ -13117,18 +13117,19 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
+  "https://realpython.com/quizzes/langchain-tutorial/",
+  "https://realpython.com/top-python-game-engines/",
   "https://realpython.com/ai-benchmark-daisyrose-27b/",
   "https://realpython.com/ai-benchmark-gemini-4-neon/",
   "https://realpython.com/ai-benchmark-inkling-2-mini/",
-  "https://realpython.com/any-python/",
   "https://realpython.com/ai-news-weekly-2026-11-20/",
   "https://realpython.com/ai-refactor-python/",
+  "https://realpython.com/any-python/",
   "https://realpython.com/quizzes/python-interview-problem-parsing-csv-files/",
   "https://realpython.com/ai-benchmark-hy4-flash/",
-  "https://realpython.com/agentic-loop/",
   "https://realpython.com/python-sqlite-sqlalchemy/",
+  "https://realpython.com/agentic-loop/",
   "https://realpython.com/quizzes/exploring-python-math-module/",
-  "https://realpython.com/ai-benchmark-gpt-6-2-sol/",
   "https://realpython.com/quizzes/nuitka/",
   "https://realpython.com/courses/getting-started-with-git/",
   "https://realpython.com/quizzes/understanding-python-namespace-packages/",
@@ -13137,9 +13138,8 @@
   "https://realpython.com/quizzes/working-json-data-python/",
   "https://realpython.com/quizzes/mentor-ai-coding-exercise/",
   "https://realpython.com/quizzes/python-httpx/",
-  "https://realpython.com/courses/coding-interview-practice-prefix-sums-binary-search/",
   "https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows/",
-  "https://realpython.com/quizzes/coding-interview-practice-prefix-sums-binary-search/",
+  "https://realpython.com/courses/coding-interview-practice-prefix-sums-binary-search/",
   "https://realpython.com/quizzes/coding-interview-practice-hashing-two-pointers-sliding-windows/",
   "https://realpython.com/podcasts/rpp/318/",
   "https://realpython.com/courses/converting-documents-markdown-markitdown/",
@@ -14729,10 +14729,13 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/how-to-build-conference-talk-slides-with-ai-without-looking-generic/",
+  "https://www.sitepoint.com/your-pose-model-gives-you-coordinates-not-meaning/",
   "https://www.sitepoint.com/how-to-add-ai-facial-expression-editing-to-your-video-pipeline-2026/",
   "https://www.sitepoint.com/webhooks-best-practices-before-you-ship/",
   "https://www.sitepoint.com/what-is-bio-tagging-and-how-to-use-it-for-document-ai-training-data/",
   "https://www.sitepoint.com/what-to-check-before-adding-a-tripo-model-to-a-website/",
+  "https://www.sitepoint.com/how-developers-can-detect-fake-payment-gateways-and-build-secure-checkout-integrations/",
   "https://www.sitepoint.com/your-ai-pipeline-works-but-can-you-trust-it/",
   "https://www.sitepoint.com/from-script-to-screen-a-developer-s-workflow-for-long-form-ai-video/",
   "https://www.sitepoint.com/sizing-gpu-memory-for-a-rag-service-kv-cache-context-and-concurrency/",
@@ -14825,10 +14828,7 @@
   "https://www.sitepoint.com/how-to-add-ai-content-detection-to-your-node-js-app/",
   "https://www.sitepoint.com/building-a-human-review-pipeline-for-ai-search-a-practical-developer-s-guide/",
   "https://www.sitepoint.com/ai-devops-and-the-cost-of-hosting-from-idea-to-production-for-0/",
-  "https://www.sitepoint.com/6-best-coding-apps-for-beginners-to-learn-programming/",
-  "https://www.sitepoint.com/how-to-create-an-app-in-chatgpt-in-2026/",
-  "https://www.sitepoint.com/testing-json-ld-like-an-api-7-checks-before-your-next-release/",
-  "https://www.sitepoint.com/ai-testing-tools-benefits-limitations-and-best-practices/"
+  "https://www.sitepoint.com/6-best-coding-apps-for-beginners-to-learn-programming/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
