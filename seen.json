@@ -8651,6 +8651,7 @@
   "https://blog.reverberate.org/2018/08/07/bloaty-1.0.html"
  ],
  "Josh Sherman": [
+  "https://joshtronic.com/2026/11/22/eleventy-rebuilt-rust/",
   "https://joshtronic.com/2026/11/15/i-cut-my-test-suite-time-in-half/",
   "https://joshtronic.com/2026/11/08/introducing-cuppa/",
   "https://joshtronic.com/2026/11/01/open-to-work/",
@@ -8661,8 +8662,7 @@
   "https://joshtronic.com/2026/09/27/rediscovering-long-form-email/",
   "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
   "https://joshtronic.com/2026/09/13/new-pic-who-dis/",
-  "https://joshtronic.com/2026/09/06/i-ran-my-agents-from-my-phone-for-two-weeks/",
-  "https://joshtronic.com/2026/08/30/security-caveat-locked-out-server-travel/"
+  "https://joshtronic.com/2026/09/06/i-ran-my-agents-from-my-phone-for-two-weeks/"
  ],
  "Juan Treminio": [
   "https://jtreminio.com/blog/openapi-tutorial-part-iii-paths-and-basic-request-data/",
@@ -9600,7 +9600,6 @@
   "https://www.maptiler.com/news/2014/01/visual-georeferencing-in-maptiler-0-5-2"
  ],
  "Marcelo Rinesi": [
-  "https://blog.rinesi.com/2026/02/bottleneck/index.html",
   "https://blog.rinesi.com/2026/02/runaway-geodesics/index.html",
   "https://blog.rinesi.com/2026/02/mathematics-of-change/index.html",
   "https://blog.rinesi.com/2026/03/interference-pattern/index.html",
@@ -9649,7 +9648,8 @@
   "https://blog.rinesi.com/2026/11/the-next-to-last-trick/index.html",
   "https://blog.rinesi.com/2026/11/the-shape-of-the-game/index.html",
   "https://blog.rinesi.com/2026/11/the-stanislavski-plot/index.html",
-  "https://blog.rinesi.com/2026/11/a-clockwork-heart/index.html"
+  "https://blog.rinesi.com/2026/11/a-clockwork-heart/index.html",
+  "https://blog.rinesi.com/2026/11/the-soul-market/index.html"
  ],
  "Marco Pivetta": [
   "https://ocramius.github.io/blog/php-logging-with-psr-3/",
