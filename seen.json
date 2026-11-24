@@ -335,6 +335,7 @@
   "https://infrequently.org/2024/01/performance-inequality-gap-2024/"
  ],
  "Amit Merchant": [
+  "https://www.amitmerchant.com/the-case-for-browser-engine-diversity",
   "https://www.amitmerchant.com/javascript-gets-a-new-set-of-html-insertion-apis",
   "https://www.amitmerchant.com/gemini-decisions-api",
   "https://www.amitmerchant.com/github-event-streams-for-agents",
@@ -343,8 +344,7 @@
   "https://www.amitmerchant.com/safari-just-made-browsercontrolled-dark-mode-real",
   "https://www.amitmerchant.com/whats-new-in-php-86",
   "https://www.amitmerchant.com/ai-agent-dependencies-management",
-  "https://www.amitmerchant.com/ci-pipeline-lockfile",
-  "https://www.amitmerchant.com/an-online-first-version-control-system"
+  "https://www.amitmerchant.com/ci-pipeline-lockfile"
  ],
  "Andrew Bancroft": [
   "https://www.andrewcbancroft.com/blog/ai/how-i-learned-to-copy-and-paste/",
@@ -1647,6 +1647,8 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/sharing-catalog-metadata-across-data-platforms-engines-and-agents",
+  "https://www.databricks.com/blog/what-5400-malicious-npm-packages-reveal-about-software-supply-chain-risk-2026",
   "https://www.databricks.com/blog/announcing-general-availability-native-lakebase-postgres-sink-spark-structured-streaming",
   "https://www.databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries",
   "https://www.databricks.com/blog/why-postgresql-19-shipped-late",
@@ -1654,9 +1656,7 @@
   "https://www.databricks.com/blog/genie-one-accuracy-why-curated-agents-need-governed-context",
   "https://www.databricks.com/blog/ai-architecture-patterns-regulated-industries",
   "https://www.databricks.com/blog/how-partners-use-genies-free-tier-azure-databricks",
-  "https://www.databricks.com/blog/java4shell-vulnerability-cve-2026-114938-assessment",
-  "https://www.databricks.com/blog/introducing-genie-migrate-serverless",
-  "https://www.databricks.com/blog/bulk-migrate-your-dashboards-aibi-genie-code"
+  "https://www.databricks.com/blog/java4shell-vulnerability-cve-2026-114938-assessment"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -2489,6 +2489,7 @@
   "https://glebbahmutov.com/blog/check-data-in-page-objects/"
  ],
  "GoCardless": [
+  "https://gocardless.com/blog/gocardless-completes-fca-ai-live-testing",
   "https://gocardless.com/blog/clubright-wish-gym-owners-knew",
   "https://gocardless.com/blog/uk-lending-two-speed-market",
   "https://gocardless.com/guides/posts/recurring-pay-by-bank-what-next",
@@ -5654,13 +5655,13 @@
   "https://engineering.grab.com/part-1-ads-simulation-blogpost",
   "https://engineering.grab.com/replaying-merged-changes-knowledge-base-coding-agents-better",
   "https://engineering.grab.com/how-grab-built-scarlet-blog",
+  "https://engineering.grab.com/shared-merchant-data-service",
   "https://engineering.grab.com/app-stability-at-scale-with-a-layered-defense",
   "https://engineering.grab.com/grabmart-data-for-faster-disease-outbreak-detection",
   "https://engineering.grab.com/price-sensitivity-profiling-using-llm",
   "https://engineering.grab.com/powering-ai-led-research-through-simulation",
   "https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
-  "https://engineering.grab.com/data-mesh-at-grab-part-three",
-  "https://engineering.grab.com/jarvis-pro-route-firsr-answer-later"
+  "https://engineering.grab.com/data-mesh-at-grab-part-three"
  ],
  "Graham King": [
   "https://darkcoding.net/software/personal-ai-evals-aug-2025/",
@@ -7744,6 +7745,7 @@
  ],
  "Jeremy Kun": [
   "https://www.jeremykun.com/2011/06/20/featured-posts/",
+  "https://www.jeremykun.com/shortform/2026-11-23-2007/",
   "https://www.jeremykun.com/shortform/2026-11-21-1938/",
   "https://www.jeremykun.com/2026/11/11/ckks-rescaling/",
   "https://www.jeremykun.com/2026/10/21/ckks-key-switching-and-relinearization/",
@@ -11028,6 +11030,7 @@
   "https://nikola-breznjak.com/blog/?p=4823"
  ],
  "Nordic APIs": [
+  "https://nordicapis.com/?p=24455",
   "https://nordicapis.com/?p=24450",
   "https://nordicapis.com/?p=24444",
   "https://nordicapis.com/?p=24431",
@@ -11036,8 +11039,7 @@
   "https://nordicapis.com/?p=24400",
   "https://nordicapis.com/?p=24396",
   "https://nordicapis.com/?p=24377",
-  "https://nordicapis.com/?p=24363",
-  "https://nordicapis.com/?p=24336"
+  "https://nordicapis.com/?p=24363"
  ],
  "Novoda": [
   "https://novoda.com/?p=10414",
@@ -13118,13 +13120,13 @@
  "Real Python": [
   "https://realpython.com/langchain-tutorial/",
   "https://realpython.com/quizzes/langchain-tutorial/",
-  "https://realpython.com/ai-benchmark-daisyrose-27b/",
   "https://realpython.com/top-python-game-engines/",
-  "https://realpython.com/ai-benchmark-gemini-4-neon/",
+  "https://realpython.com/ai-benchmark-daisyrose-27b/",
   "https://realpython.com/ai-benchmark-inkling-2-mini/",
+  "https://realpython.com/ai-benchmark-gemini-4-neon/",
+  "https://realpython.com/ai-refactor-python/",
   "https://realpython.com/ai-news-weekly-2026-11-20/",
   "https://realpython.com/any-python/",
-  "https://realpython.com/ai-refactor-python/",
   "https://realpython.com/quizzes/python-interview-problem-parsing-csv-files/",
   "https://realpython.com/ai-benchmark-hy4-flash/",
   "https://realpython.com/agentic-loop/",
@@ -13137,9 +13139,9 @@
   "https://realpython.com/quizzes/working-json-data-python/",
   "https://realpython.com/quizzes/mentor-ai-coding-exercise/",
   "https://realpython.com/quizzes/python-httpx/",
-  "https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows/",
   "https://realpython.com/courses/coding-interview-practice-prefix-sums-binary-search/",
-  "https://realpython.com/quizzes/coding-interview-practice-hashing-two-pointers-sliding-windows/",
+  "https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows/",
+  "https://realpython.com/quizzes/getting-started-with-git/",
   "https://realpython.com/podcasts/rpp/318/",
   "https://realpython.com/courses/converting-documents-markdown-markitdown/",
   "https://realpython.com/podcasts/rpp/317/",
@@ -13147,8 +13149,8 @@
   "https://realpython.com/courses/ai-agents-101/",
   "https://realpython.com/podcasts/rpp/316/",
   "https://realpython.com/courses/python-itertools-by-example/",
-  "https://realpython.com/courses/tell-your-tech-career-story/",
   "https://realpython.com/courses/building-ai-agent-langgraph-python/",
+  "https://realpython.com/courses/tell-your-tech-career-story/",
   "https://realpython.com/podcasts/rpp/315/",
   "https://realpython.com/courses/python-first-steps/",
   "https://realpython.com/podcasts/rpp/314/",
@@ -15145,6 +15147,7 @@
   "2126"
  ],
  "Stack Overflow": [
+  "ae4b9eaf-3d04-4d92-9cda-63119ee69cb7",
   "a6ff6a3e-5185-475e-b87f-d6095b49844e",
   "37059ad0-64e8-4c05-bdc5-4641eec2720a",
   "e1333c10-b8f9-4ba6-a9fe-508d9f2575d7",
@@ -15183,8 +15186,7 @@
   "358fa8ac-2467-4ef4-893c-dad3490046df",
   "4ae1a4e4-cb6e-4110-b6f3-50b8afa09f49",
   "ce1fd642-fe2b-4d83-95ad-67b7645d7959",
-  "f17b27e9-17f5-4203-8066-68c8df26ef42",
-  "39f2fc9f-742a-4273-a4d1-abdecd14fcf8"
+  "f17b27e9-17f5-4203-8066-68c8df26ef42"
  ],
  "Stanko Tadi\u0107": [
   "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
@@ -16008,6 +16010,8 @@
  ],
  "Twilio": [
   "https://www.twilio.com/en-us/blog/developers/new-shape-twilio-docs",
+  "https://www.twilio.com/en-us/blog/how-to-schedule-a-text-message",
+  "https://www.twilio.com/en-us/blog/what-is-sms-verification",
   "https://www.twilio.com/en-us/blog/products/launches/make-your-brand-instantly-recognizable-across-channels",
   "https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-import-data-from-your-crm-external-source-into-conversation-memory",
   "https://www.twilio.com/en-us/blog/insights/what-is-an-smtp-server",
@@ -16034,9 +16038,7 @@
   "https://www.twilio.com/en-us/blog/insights/omnichannel-customer-context",
   "https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what-do-you-need-to-do",
   "https://www.twilio.com/en-us/blog/partners/integrations/transition-communications-tyntec-twilio",
-  "https://www.twilio.com/en-us/blog/insights/customer-engagement-platform-lock-in-questions",
-  "https://www.twilio.com/en-us/blog/insights/voice-ai-for-banks-and-credit-unions-powered-by-twilio",
-  "https://www.twilio.com/en-us/blog/insights/5-email-types-explained-with-examples"
+  "https://www.twilio.com/en-us/blog/insights/customer-engagement-platform-lock-in-questions"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
