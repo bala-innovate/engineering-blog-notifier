@@ -1,5 +1,6 @@
 {
  ".NET": [
+  "https://devblogs.microsoft.com/dotnet/?p=61302",
   "https://devblogs.microsoft.com/dotnet/?p=61276",
   "https://devblogs.microsoft.com/dotnet/?p=61288",
   "https://devblogs.microsoft.com/dotnet/?p=61260",
@@ -8,8 +9,7 @@
   "https://devblogs.microsoft.com/dotnet/?p=61189",
   "https://devblogs.microsoft.com/dotnet/?p=61184",
   "https://devblogs.microsoft.com/dotnet/?p=61169",
-  "https://devblogs.microsoft.com/dotnet/?p=61166",
-  "https://devblogs.microsoft.com/dotnet/?p=61123"
+  "https://devblogs.microsoft.com/dotnet/?p=61166"
  ],
  "0xADADA": [
   "https://0xadada.pub/2024/06/23/the-disappearance-of-lived-time-film/",
@@ -100,6 +100,7 @@
   "https://8thlight.com/insights/human-centered-design-clarity"
  ],
  "AWS": [
+  "c2ba2dc45c5f6d0f3d50ffb444e6dae226deff4f",
   "30ec3c38ceea489c2a4f7184696062c55b87e28d",
   "8792b36d1af1b35d715874ec8395260652442a9e",
   "c84e831e813aae9c114a1c7179100aac35ea0ad7",
@@ -118,8 +119,7 @@
   "b763b52a942275354399615fd56b8f7232f71f2c",
   "6936a126ff37e6868dadff2a0b59022a185e8d3c",
   "817caa03e06c6ac753e2104bcdd58418a88fea6e",
-  "e76e8a63de9311bd1dde4b12497cc264c4918389",
-  "ea1cc456e7a2e65a27ab5c8db65b3016bf527355"
+  "e76e8a63de9311bd1dde4b12497cc264c4918389"
  ],
  "Aaron Patterson": [
   "https://tenderlovemaking.com/2026/10/18/static-analysis-for-the-uninitialized/",
@@ -749,6 +749,7 @@
   "https://artsy.github.io/blog/2022/04/13/stepping-out-of-the-knowledge-zone/"
  ],
  "Atomic Object": [
+  "https://spin.atomicobject.com/?p=3676250",
   "https://spin.atomicobject.com/?p=3676258",
   "https://spin.atomicobject.com/?p=3676222",
   "https://spin.atomicobject.com/?p=3676268",
@@ -757,20 +758,19 @@
   "https://spin.atomicobject.com/?p=3676381",
   "https://spin.atomicobject.com/?p=3676146&preview=true&preview_id=3676146",
   "https://spin.atomicobject.com/?p=3676191",
-  "https://spin.atomicobject.com/?p=3675831",
-  "https://spin.atomicobject.com/?p=3676289"
+  "https://spin.atomicobject.com/?p=3675831"
  ],
  "Auth0": [
+  "https://auth0.com/blog/new-add-ons-self-service-enterprise/",
   "https://auth0.com/blog/registering-mcp-clients-with-cimd-in-auth0/",
   "https://auth0.com/blog/auth0-security-agent-early-access/",
-  "https://auth0.com/blog/auth-for-personal-agents-beta-release/",
   "https://auth0.com/blog/legacy-factors-fail-in-ciam-passkeys-are-the-answer/",
+  "https://auth0.com/blog/auth-for-personal-agents-beta-release/",
   "https://auth0.com/blog/building-secure-mcp-server-with-auth0/",
   "https://auth0.com/blog/authentication-and-authorization-what-s-new-in-net-11/",
-  "https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/",
   "https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/",
-  "https://auth0.com/blog/who-will-consumers-trust-to-act-shop-pay-on-their-behalf/",
-  "https://auth0.com/blog/ai-ambitions-are-blocked-by-identity-debt/"
+  "https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/",
+  "https://auth0.com/blog/who-will-consumers-trust-to-act-shop-pay-on-their-behalf/"
  ],
  "Avenue Code": [
   "https://blog.avenuecode.com/using-generative-ai-to-streamline-internal-it-support-a-comprehensive-demonstration",
@@ -955,16 +955,16 @@
   "https://blog.getbootstrap.com/2025/05/09/bootstrap-icons-1-12-1-13/"
  ],
  "Brandwatch": [
+  "https://www.brandwatch.com/?p=178590",
+  "https://www.brandwatch.com/?p=164855",
   "https://www.brandwatch.com/?p=192885",
   "https://www.brandwatch.com/?p=192806",
   "https://www.brandwatch.com/?p=192723",
   "https://www.brandwatch.com/?p=178005",
-  "https://www.brandwatch.com/?p=164855",
   "https://www.brandwatch.com/?p=188545",
   "https://www.brandwatch.com/?p=192610",
   "https://www.brandwatch.com/?p=192593",
-  "https://www.brandwatch.com/?p=192412",
-  "https://www.brandwatch.com/?p=192364"
+  "https://www.brandwatch.com/?p=192412"
  ],
  "Brendan Eich": [
   "https://brendaneich.com/?p=8834",
@@ -1422,6 +1422,18 @@
   "01M66XYRNK559YY01V2P37EBD7",
   "01M64V2TDYZYSS8RE60T3MWKSM"
  ],
+ "Codrops": [
+  "https://tympanus.net/codrops/?p=126376",
+  "https://tympanus.net/codrops/?p=126274",
+  "https://tympanus.net/codrops/?p=126761",
+  "https://tympanus.net/codrops/?p=126435",
+  "https://tympanus.net/codrops/?p=126285",
+  "https://tympanus.net/codrops/?p=122686",
+  "https://tympanus.net/codrops/?p=125689",
+  "https://tympanus.net/codrops/?p=125819",
+  "https://tympanus.net/codrops/?p=125101",
+  "https://tympanus.net/codrops/?p=125579"
+ ],
  "Confluent": [
   "https://www.confluent.io/blog/managed-model-inference/",
   "https://www.confluent.io/blog/is-your-observability-pipeline-becoming-the-bottleneck/",
@@ -1647,6 +1659,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/agentic-cdp-data-modeling-data-foundation",
   "https://www.databricks.com/blog/sharing-catalog-metadata-across-data-platforms-engines-and-agents",
   "https://www.databricks.com/blog/what-5400-malicious-npm-packages-reveal-about-software-supply-chain-risk-2026",
   "https://www.databricks.com/blog/announcing-general-availability-native-lakebase-postgres-sink-spark-structured-streaming",
@@ -1655,8 +1668,7 @@
   "https://www.databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer",
   "https://www.databricks.com/blog/genie-one-accuracy-why-curated-agents-need-governed-context",
   "https://www.databricks.com/blog/ai-architecture-patterns-regulated-industries",
-  "https://www.databricks.com/blog/how-partners-use-genies-free-tier-azure-databricks",
-  "https://www.databricks.com/blog/java4shell-vulnerability-cve-2026-114938-assessment"
+  "https://www.databricks.com/blog/how-partners-use-genies-free-tier-azure-databricks"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -1790,6 +1802,7 @@
   "https://www.dereuromark.de/?p=3345"
  ],
  "Discord": [
+  "https://discord.com/blog/black-friday-2026",
   "https://discord.com/blog/introducing-auto-clips",
   "https://discord.com/blog/discord-update-november-19-2026",
   "https://discord.com/blog/vice-city-theme-available-in-discord",
@@ -1888,8 +1901,7 @@
   "https://discord.com/blog/discord-social-sdk-updates-integrations",
   "https://discord.com/blog/discord-patch-notes-june-3-2025",
   "https://discord.com/blog/how-to-use-the-discord-soundboard-add-more-sounds",
-  "https://discord.com/blog/checkpoint-3-leveling-up-discord-quests-with-orbs-and-advanced-measurement",
-  "https://discord.com/blog/go-beyond-plus-ultra-with-the-my-hero-academia-collection"
+  "https://discord.com/blog/checkpoint-3-leveling-up-discord-quests-with-orbs-and-advanced-measurement"
  ],
  "Docker": [
   "https://www.docker.com/?p=96314",
@@ -2168,6 +2180,7 @@
   "evanmiller.org/news/go20150421"
  ],
  "Evil Martians": [
+  "https://evilmartians.com/chronicles/type-errors-cost-our-coding-agents-under-one-percent-of-their-time",
   "https://evilmartians.com/chronicles/we-stopped-a-railway-migration-3-weeks-out-how-to-know-to-stop-or-go",
   "https://evilmartians.com/chronicles/building-uscreens-remote-multi-tenant-mcp-server-inside-a-rails-app",
   "https://evilmartians.com/chronicles/sf-ruby-conference-regular-ticket-deadline",
@@ -2186,10 +2199,10 @@
   "https://evilmartians.com/chronicles/why-gusto-hired-evil-martians-for-sidekiq-infrastructure",
   "https://evilmartians.com/chronicles/ten-anti-ai-slop-moves-for-frontend-projects-going-faster-than-humans-can-review",
   "https://evilmartians.com/chronicles/access-control-for-ai-on-rails-gating-sql-with-action-policy",
-  "https://evilmartians.com/chronicles/get-in-human-cut-rails-boot-time-with-require-profiler-and-this-guide",
-  "https://evilmartians.com/chronicles/publishing-agent-skills-discovery-index"
+  "https://evilmartians.com/chronicles/get-in-human-cut-rails-boot-time-with-require-profiler-and-this-guide"
  ],
  "Expedia": [
+  "https://medium.com/p/30496035dac0",
   "https://medium.com/p/9c04f1cfa750",
   "https://medium.com/p/9ac26e3b2706",
   "https://medium.com/p/43d71bd539c7",
@@ -2198,8 +2211,7 @@
   "https://medium.com/p/7fec96f052fd",
   "https://medium.com/p/ea069670af02",
   "https://medium.com/p/434677770fe9",
-  "https://medium.com/p/35eace7eeec4",
-  "https://medium.com/p/d6cfaaca881d"
+  "https://medium.com/p/35eace7eeec4"
  ],
  "Facebook": [
   "https://engineering.fb.com/?p=25068",
@@ -2372,6 +2384,7 @@
   "http://code.flickr.net/?p=3370"
  ],
  "Freek Van der Herten": [
+  "https://freek.dev/3233",
   "https://freek.dev/3232",
   "https://freek.dev/3231",
   "https://freek.dev/3229",
@@ -2390,8 +2403,7 @@
   "https://freek.dev/3217",
   "https://freek.dev/3216",
   "https://freek.dev/3215",
-  "https://freek.dev/3214",
-  "https://freek.dev/3213"
+  "https://freek.dev/3214"
  ],
  "Freeletics": [
   "/2021/11/16/droidcon-berlin-2021",
@@ -2445,6 +2457,7 @@
   "https://github.blog/?p=98354"
  ],
  "GitHub Old": [
+  "https://github.blog/?p=100438",
   "https://github.blog/?p=100161",
   "https://github.blog/?p=100215",
   "https://github.blog/?p=100309",
@@ -2453,8 +2466,7 @@
   "https://github.blog/?p=100077",
   "https://github.blog/?p=100047",
   "https://github.blog/?p=100002",
-  "https://github.blog/?p=99949",
-  "https://github.blog/?p=99955"
+  "https://github.blog/?p=99949"
  ],
  "Gleb Bahmutov": [
   "https://glebbahmutov.com/blog/branded-phone-type/",
@@ -6153,6 +6165,7 @@
   "65bceaca3953980001659b4b"
  ],
  "HomeAway": [
+  "https://medium.com/p/30496035dac0",
   "https://medium.com/p/9c04f1cfa750",
   "https://medium.com/p/9ac26e3b2706",
   "https://medium.com/p/43d71bd539c7",
@@ -6161,8 +6174,7 @@
   "https://medium.com/p/7fec96f052fd",
   "https://medium.com/p/ea069670af02",
   "https://medium.com/p/434677770fe9",
-  "https://medium.com/p/35eace7eeec4",
-  "https://medium.com/p/d6cfaaca881d"
+  "https://medium.com/p/35eace7eeec4"
  ],
  "Hootsuite": [
   "https://medium.com/p/399d9955c7ac",
@@ -8893,11 +8905,11 @@
   "http://lambda-the-ultimate.org/ltu-blockchain-plt-thinktank"
  ],
  "Laravel": [
+  "https://laravel-news.com/laravel-json-schema-validation-rules",
+  "https://laravel-news.com/laravel-suspicious-login",
   "https://laravel-news.com/decide-with-jev-make-failed-ai-requests-safe-in-laravel",
   "https://laravel-news.com/unlearn-dev-black-friday",
-  "https://laravel-news.com/laravel-black-friday-deals-2026",
-  "https://laravel-news.com/pgjumbo-postgresql-client",
-  "https://laravel-news.com/laranon-pii-anonymization"
+  "https://laravel-news.com/laravel-black-friday-deals-2026"
  ],
  "Larry Land": [
   "https://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html",
@@ -9192,6 +9204,7 @@
   "https://lea.verou.me/blog/2026/nudeps/"
  ],
  "Lerner Consulting Blog": [
+  "https://lernerpython.com/?p=18633",
   "https://lernerpython.com/2026/11/22/python-loading-spinners-with-rich-using-console-status/",
   "https://lernerpython.com/2026/11/21/rich-tables-in-python-using-table-add-column-and-add-row/",
   "https://lernerpython.com/2026/11/19/rich-console-set-default-styles-with-keyword-arguments/",
@@ -9200,8 +9213,7 @@
   "https://lernerpython.com/?p=18843",
   "https://lernerpython.com/2026/11/11/pandas-option-context-temporarily-change-display-settings/",
   "https://lernerpython.com/2026/11/10/pandas-options-setting-display-precision-with-pd-set-option/",
-  "https://lernerpython.com/2026/11/09/pandas-3-1-csv-loading-multi-threaded-but-pyarrow-is-still-faster/",
-  "https://lernerpython.com/?p=18793"
+  "https://lernerpython.com/2026/11/09/pandas-3-1-csv-loading-multi-threaded-but-pyarrow-is-still-faster/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -11195,6 +11207,7 @@
   "https://umbrella-staging.marketops.umbrella.com/?p=67625"
  ],
  "Palantir": [
+  "https://medium.com/p/afa49bcfb8ab",
   "https://medium.com/p/c7388f1fdab7",
   "https://medium.com/p/0b1d7ddd2bf0",
   "https://medium.com/p/774a1b35bf98",
@@ -11203,8 +11216,7 @@
   "https://medium.com/p/41405fa4c226",
   "https://medium.com/p/277dee8ddb40",
   "https://medium.com/p/58217e196bed",
-  "https://medium.com/p/6cebb5948a1a",
-  "https://medium.com/p/c0c47f310715"
+  "https://medium.com/p/6cebb5948a1a"
  ],
  "Pamela Fox": [
   "tag:blogger.com,1999:blog-8501278254137514883.post-8287452544536218909",
@@ -13089,6 +13101,8 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112889",
+  "https://devblogs.microsoft.com/oldnewthing/?p=112887",
   "https://devblogs.microsoft.com/oldnewthing/?p=112883",
   "https://devblogs.microsoft.com/oldnewthing/?p=112879",
   "https://devblogs.microsoft.com/oldnewthing/?p=112870",
@@ -13096,9 +13110,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112863",
   "https://devblogs.microsoft.com/oldnewthing/?p=112856",
   "https://devblogs.microsoft.com/oldnewthing/?p=112851",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112848",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112843",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112841"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112848"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -13118,6 +13130,11 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
+  "https://realpython.com/python-conditional-statements/",
+  "https://realpython.com/k-means-clustering-python/",
+  "https://realpython.com/courses/build-ai-agent-scratch-python/",
+  "https://realpython.com/quizzes/python-conditional-statements/",
+  "https://realpython.com/quizzes/plotting-declarative-charts-with-altair/",
   "https://realpython.com/langchain-tutorial/",
   "https://realpython.com/quizzes/langchain-tutorial/",
   "https://realpython.com/top-python-game-engines/",
@@ -13128,8 +13145,6 @@
   "https://realpython.com/ai-news-weekly-2026-11-20/",
   "https://realpython.com/any-python/",
   "https://realpython.com/quizzes/python-interview-problem-parsing-csv-files/",
-  "https://realpython.com/ai-benchmark-hy4-flash/",
-  "https://realpython.com/agentic-loop/",
   "https://realpython.com/quizzes/exploring-python-math-module/",
   "https://realpython.com/quizzes/nuitka/",
   "https://realpython.com/courses/getting-started-with-git/",
@@ -13138,10 +13153,8 @@
   "https://realpython.com/podcasts/rpp/319/",
   "https://realpython.com/quizzes/working-json-data-python/",
   "https://realpython.com/quizzes/mentor-ai-coding-exercise/",
-  "https://realpython.com/quizzes/python-httpx/",
   "https://realpython.com/courses/coding-interview-practice-prefix-sums-binary-search/",
   "https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows/",
-  "https://realpython.com/quizzes/getting-started-with-git/",
   "https://realpython.com/podcasts/rpp/318/",
   "https://realpython.com/courses/converting-documents-markdown-markitdown/",
   "https://realpython.com/podcasts/rpp/317/",
@@ -13149,10 +13162,9 @@
   "https://realpython.com/courses/ai-agents-101/",
   "https://realpython.com/podcasts/rpp/316/",
   "https://realpython.com/courses/python-itertools-by-example/",
-  "https://realpython.com/courses/building-ai-agent-langgraph-python/",
   "https://realpython.com/courses/tell-your-tech-career-story/",
+  "https://realpython.com/courses/building-ai-agent-langgraph-python/",
   "https://realpython.com/podcasts/rpp/315/",
-  "https://realpython.com/courses/python-first-steps/",
   "https://realpython.com/podcasts/rpp/314/",
   "https://realpython.com/podcasts/rpp/313/",
   "https://realpython.com/podcasts/rpp/312/",
@@ -14730,6 +14742,7 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/a-practical-guide-to-browser-developer-tools-for-debugging-and-improving-websites/",
   "https://www.sitepoint.com/top-10-black-friday-deals-designers-agencies/",
   "https://www.sitepoint.com/why-the-agent-isn-t-the-hard-part-where-developers-go-wrong-with-agentic-workflows/",
   "https://www.sitepoint.com/how-to-build-conference-talk-slides-with-ai-without-looking-generic/",
@@ -14828,8 +14841,7 @@
   "https://www.sitepoint.com/how-to-test-ai-generated-content-before-it-reaches-your-users/",
   "https://www.sitepoint.com/how-to-optimize-ai-generated-images-for-faster-websites/",
   "https://www.sitepoint.com/pin-vs-juicebox/",
-  "https://www.sitepoint.com/how-to-add-ai-content-detection-to-your-node-js-app/",
-  "https://www.sitepoint.com/building-a-human-review-pipeline-for-ai-search-a-practical-developer-s-guide/"
+  "https://www.sitepoint.com/how-to-add-ai-content-detection-to-your-node-js-app/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15147,6 +15159,8 @@
   "2126"
  ],
  "Stack Overflow": [
+  "98567dcf-95b4-4062-bd40-1affc0660c32",
+  "ee58a65d-ea11-42d8-b360-b51d9839ca29",
   "ae4b9eaf-3d04-4d92-9cda-63119ee69cb7",
   "a6ff6a3e-5185-475e-b87f-d6095b49844e",
   "37059ad0-64e8-4c05-bdc5-4641eec2720a",
@@ -15184,9 +15198,7 @@
   "65868662-3b7d-4a63-9fa9-e699c48529fc",
   "004e0789-dc2d-496b-a8af-b6e6aefde5f7",
   "358fa8ac-2467-4ef4-893c-dad3490046df",
-  "4ae1a4e4-cb6e-4110-b6f3-50b8afa09f49",
-  "ce1fd642-fe2b-4d83-95ad-67b7645d7959",
-  "f17b27e9-17f5-4203-8066-68c8df26ef42"
+  "4ae1a4e4-cb6e-4110-b6f3-50b8afa09f49"
  ],
  "Stanko Tadi\u0107": [
   "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
@@ -15508,7 +15520,7 @@
   "https://www.surveymonkey.com/curiosity/surveymonkey-gemini-integration/",
   "https://www.surveymonkey.com/curiosity/trends-forecast-5-business-shifts/",
   "https://www.surveymonkey.com/curiosity/ask-the-market-holiday-shopping-pricing/",
-  "https://www.surveymonkey.com/curiosity/hris-integrations-workday-bamboohr/",
+  "https://www.surveymonkey.com/curiosity/hris-integrations/",
   "https://www.surveymonkey.com/curiosity/surveymonkey-research-ai-sentiment-study/",
   "https://www.surveymonkey.com/curiosity/surveymonkey-research-customer-feedback-ca/",
   "https://www.surveymonkey.com/curiosity/diy-research-how-to-get-expert-level-human-insights/",
@@ -15680,6 +15692,7 @@
   "https://www.thecodedself.com/A-Caution-On-Superfluous-Code/"
  ],
  "The Daily WTF": [
+  "https://thedailywtf.com/articles/how-not-to-get-honey-trapped",
   "https://thedailywtf.com/articles/the-perils-of-web-development",
   "https://thedailywtf.com/articles/there-s-a-chill-in-the-air",
   "https://thedailywtf.com/articles/a-living-fossil",
@@ -15693,8 +15706,7 @@
   "https://thedailywtf.com/articles/eventually",
   "https://thedailywtf.com/articles/remember-remember",
   "https://thedailywtf.com/articles/only-create-me-if-i-exist",
-  "https://thedailywtf.com/articles/what-it-doesn-t-do",
-  "https://thedailywtf.com/articles/death-of-the-auth-er"
+  "https://thedailywtf.com/articles/what-it-doesn-t-do"
  ],
  "Thomas Young": [
   "https://upcoder.com/22/the-alignment-trap-ai-safety-as-path-to-power",
