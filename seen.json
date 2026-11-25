@@ -749,6 +749,7 @@
   "https://artsy.github.io/blog/2022/04/13/stepping-out-of-the-knowledge-zone/"
  ],
  "Atomic Object": [
+  "https://spin.atomicobject.com/?p=3676339",
   "https://spin.atomicobject.com/?p=3676250",
   "https://spin.atomicobject.com/?p=3676258",
   "https://spin.atomicobject.com/?p=3676222",
@@ -757,8 +758,7 @@
   "https://spin.atomicobject.com/?p=3676308",
   "https://spin.atomicobject.com/?p=3676381",
   "https://spin.atomicobject.com/?p=3676146&preview=true&preview_id=3676146",
-  "https://spin.atomicobject.com/?p=3676191",
-  "https://spin.atomicobject.com/?p=3675831"
+  "https://spin.atomicobject.com/?p=3676191"
  ],
  "Auth0": [
   "https://auth0.com/blog/new-add-ons-self-service-enterprise/",
@@ -2384,6 +2384,7 @@
   "http://code.flickr.net/?p=3370"
  ],
  "Freek Van der Herten": [
+  "https://freek.dev/3234",
   "https://freek.dev/3233",
   "https://freek.dev/3232",
   "https://freek.dev/3231",
@@ -2402,8 +2403,7 @@
   "https://freek.dev/3222",
   "https://freek.dev/3217",
   "https://freek.dev/3216",
-  "https://freek.dev/3215",
-  "https://freek.dev/3214"
+  "https://freek.dev/3215"
  ],
  "Freeletics": [
   "/2021/11/16/droidcon-berlin-2021",
@@ -2501,6 +2501,7 @@
   "https://glebbahmutov.com/blog/check-data-in-page-objects/"
  ],
  "GoCardless": [
+  "https://gocardless.com/blog/ailt-learnings",
   "https://gocardless.com/blog/gocardless-completes-fca-ai-live-testing",
   "https://gocardless.com/blog/clubright-wish-gym-owners-knew",
   "https://gocardless.com/blog/uk-lending-two-speed-market",
@@ -6189,12 +6190,12 @@
   "https://medium.com/p/e08972ae873e"
  ],
  "Hostinger": [
+  "https://www.hostinger.com/blog/?p=11194",
   "https://www.hostinger.com/blog/?p=9103",
   "https://www.hostinger.com/blog/?p=11280",
   "https://www.hostinger.com/blog/?p=11240",
   "https://www.hostinger.com/blog/?p=11223",
   "https://www.hostinger.com/blog/?p=11209",
-  "https://www.hostinger.com/blog/?p=11194",
   "https://www.hostinger.com/blog/?p=11177",
   "https://www.hostinger.com/blog/?p=11167",
   "https://www.hostinger.com/blog/?p=11141"
@@ -9206,14 +9207,14 @@
  "Lerner Consulting Blog": [
   "https://lernerpython.com/?p=19401",
   "https://lernerpython.com/?p=18633",
+  "https://lernerpython.com/2026/11/24/python-tracebacks-with-rich-colorized-output-and-local-variables/",
   "https://lernerpython.com/2026/11/22/python-loading-spinners-with-rich-using-console-status/",
   "https://lernerpython.com/2026/11/21/rich-tables-in-python-using-table-add-column-and-add-row/",
   "https://lernerpython.com/2026/11/19/rich-console-set-default-styles-with-keyword-arguments/",
   "https://lernerpython.com/2026/11/18/python-rich-console-setting-text-width-and-justification/",
   "https://lernerpython.com/2026/11/17/python-rich-console-separate-style-from-text-with-console-print/",
   "https://lernerpython.com/?p=18843",
-  "https://lernerpython.com/2026/11/11/pandas-option-context-temporarily-change-display-settings/",
-  "https://lernerpython.com/2026/11/10/pandas-options-setting-display-precision-with-pd-set-option/"
+  "https://lernerpython.com/2026/11/11/pandas-option-context-temporarily-change-display-settings/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -9354,6 +9355,7 @@
   "https://medium.com/p/07227ff92789"
  ],
  "MapTiler": [
+  "https://www.maptiler.com/news/2026/11/maptiler-engine-14-2-native-apple-silicon-support-and-faster-jp2-processing",
   "https://www.maptiler.com/news/2026/11/eu-data-residency-for-your-maps-user-ips-never-leave-the-eu",
   "https://www.maptiler.com/news/2026/11/geosplats-blend-3d-models-seamlessly-into-your-maps",
   "https://www.maptiler.com/news/2026/11/latest-satellite-images-new-high-resolution-aerial-imagery-for-pennsylvania-and-missouri",
@@ -13130,6 +13132,7 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
+  "https://realpython.com/quizzes/llm-evaluation/",
   "https://realpython.com/python-conditional-statements/",
   "https://realpython.com/k-means-clustering-python/",
   "https://realpython.com/courses/build-ai-agent-scratch-python/",
@@ -13139,10 +13142,10 @@
   "https://realpython.com/quizzes/langchain-tutorial/",
   "https://realpython.com/top-python-game-engines/",
   "https://realpython.com/ai-benchmark-daisyrose-27b/",
-  "https://realpython.com/ai-benchmark-inkling-2-mini/",
   "https://realpython.com/ai-benchmark-gemini-4-neon/",
-  "https://realpython.com/ai-refactor-python/",
+  "https://realpython.com/ai-benchmark-inkling-2-mini/",
   "https://realpython.com/ai-news-weekly-2026-11-20/",
+  "https://realpython.com/ai-refactor-python/",
   "https://realpython.com/any-python/",
   "https://realpython.com/quizzes/python-interview-problem-parsing-csv-files/",
   "https://realpython.com/quizzes/exploring-python-math-module/",
@@ -13152,7 +13155,6 @@
   "https://realpython.com/quizzes/python-project-for-agentic-coding/",
   "https://realpython.com/podcasts/rpp/319/",
   "https://realpython.com/quizzes/working-json-data-python/",
-  "https://realpython.com/quizzes/mentor-ai-coding-exercise/",
   "https://realpython.com/courses/coding-interview-practice-prefix-sums-binary-search/",
   "https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows/",
   "https://realpython.com/podcasts/rpp/318/",
@@ -14742,6 +14744,7 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/how-to-add-idempotency-keys-to-a-node-js-api-with-postgresql/",
   "https://www.sitepoint.com/a-practical-guide-to-browser-developer-tools-for-debugging-and-improving-websites/",
   "https://www.sitepoint.com/top-10-black-friday-deals-designers-agencies/",
   "https://www.sitepoint.com/why-the-agent-isn-t-the-hard-part-where-developers-go-wrong-with-agentic-workflows/",
@@ -14751,6 +14754,7 @@
   "https://www.sitepoint.com/webhooks-best-practices-before-you-ship/",
   "https://www.sitepoint.com/what-is-bio-tagging-and-how-to-use-it-for-document-ai-training-data/",
   "https://www.sitepoint.com/what-to-check-before-adding-a-tripo-model-to-a-website/",
+  "https://www.sitepoint.com/how-to-test-android-apps-on-windows-a-practical-guide-to-emulators-and-apk-testing/",
   "https://www.sitepoint.com/how-developers-can-detect-fake-payment-gateways-and-build-secure-checkout-integrations/",
   "https://www.sitepoint.com/your-ai-pipeline-works-but-can-you-trust-it/",
   "https://www.sitepoint.com/from-script-to-screen-a-developer-s-workflow-for-long-form-ai-video/",
@@ -14839,9 +14843,7 @@
   "https://www.sitepoint.com/top-5-ai-animation-generators-in-2026-features-strengths-and-limits/",
   "https://www.sitepoint.com/the-hidden-problems-behind-website-to-crm-integrations-and-how-to-prevent-them/",
   "https://www.sitepoint.com/how-to-test-ai-generated-content-before-it-reaches-your-users/",
-  "https://www.sitepoint.com/how-to-optimize-ai-generated-images-for-faster-websites/",
-  "https://www.sitepoint.com/pin-vs-juicebox/",
-  "https://www.sitepoint.com/how-to-add-ai-content-detection-to-your-node-js-app/"
+  "https://www.sitepoint.com/how-to-optimize-ai-generated-images-for-faster-websites/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15692,6 +15694,7 @@
   "https://www.thecodedself.com/A-Caution-On-Superfluous-Code/"
  ],
  "The Daily WTF": [
+  "https://thedailywtf.com/articles/referenceerror-hell-is-not-defined",
   "https://thedailywtf.com/articles/how-not-to-get-honey-trapped",
   "https://thedailywtf.com/articles/the-perils-of-web-development",
   "https://thedailywtf.com/articles/there-s-a-chill-in-the-air",
@@ -15705,8 +15708,7 @@
   "https://thedailywtf.com/articles/plenty-of-ids",
   "https://thedailywtf.com/articles/eventually",
   "https://thedailywtf.com/articles/remember-remember",
-  "https://thedailywtf.com/articles/only-create-me-if-i-exist",
-  "https://thedailywtf.com/articles/what-it-doesn-t-do"
+  "https://thedailywtf.com/articles/only-create-me-if-i-exist"
  ],
  "Thomas Young": [
   "https://upcoder.com/22/the-alignment-trap-ai-safety-as-path-to-power",
@@ -16021,6 +16023,8 @@
   "https://engineering.tumblr.com/post/733445594295762944"
  ],
  "Twilio": [
+  "https://www.twilio.com/en-us/blog/insights/best-practices/update-to-fcc-tcpa-consent-revocation-rules",
+  "https://www.twilio.com/en-us/blog/insights/best-practices/improving-your-chances-of-a2p10dlc-registration-approval",
   "https://www.twilio.com/en-us/blog/developers/new-shape-twilio-docs",
   "https://www.twilio.com/en-us/blog/how-to-schedule-a-text-message",
   "https://www.twilio.com/en-us/blog/what-is-sms-verification",
@@ -16048,9 +16052,7 @@
   "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-sna",
   "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Rethinking-Enterprise-AI-Across-the-Customer-Journey",
   "https://www.twilio.com/en-us/blog/insights/omnichannel-customer-context",
-  "https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what-do-you-need-to-do",
-  "https://www.twilio.com/en-us/blog/partners/integrations/transition-communications-tyntec-twilio",
-  "https://www.twilio.com/en-us/blog/insights/customer-engagement-platform-lock-in-questions"
+  "https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what-do-you-need-to-do"
  ],
  "Una Kravets": [
   "https://una.im/modern-css-theming/",
