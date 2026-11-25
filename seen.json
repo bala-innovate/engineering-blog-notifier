@@ -1401,6 +1401,7 @@
   "https://engineering.clever.com/?p=154"
  ],
  "Cloudflare": [
+  "01M87EHEACB4SNPV680X1CZPQ1",
   "01M7XNSFEMYQNMHGRYWVF2TQ82",
   "01M7X91JJQ5CWGQ65DZBAHW4Q9",
   "01M7X76K1JK00SF9K4YN83WANQ",
@@ -1419,10 +1420,10 @@
   "01M6HZ245M2MBZAF7ZQXKC85X6",
   "01M6GJ3RNQ17SDPWXJVW49JAFW",
   "01M5J4YTFMTRT7PG1Y8HAPNPYG",
-  "01M66XYRNK559YY01V2P37EBD7",
-  "01M64V2TDYZYSS8RE60T3MWKSM"
+  "01M66XYRNK559YY01V2P37EBD7"
  ],
  "Codrops": [
+  "https://tympanus.net/codrops/?p=126514",
   "https://tympanus.net/codrops/?p=126376",
   "https://tympanus.net/codrops/?p=126274",
   "https://tympanus.net/codrops/?p=126761",
@@ -1431,8 +1432,7 @@
   "https://tympanus.net/codrops/?p=122686",
   "https://tympanus.net/codrops/?p=125689",
   "https://tympanus.net/codrops/?p=125819",
-  "https://tympanus.net/codrops/?p=125101",
-  "https://tympanus.net/codrops/?p=125579"
+  "https://tympanus.net/codrops/?p=125101"
  ],
  "Confluent": [
   "https://www.confluent.io/blog/managed-model-inference/",
@@ -1904,6 +1904,7 @@
   "https://discord.com/blog/checkpoint-3-leveling-up-discord-quests-with-orbs-and-advanced-measurement"
  ],
  "Docker": [
+  "https://www.docker.com/?p=96403",
   "https://www.docker.com/?p=96314",
   "https://www.docker.com/?p=96224",
   "https://www.docker.com/?p=96241",
@@ -1912,8 +1913,7 @@
   "https://www.docker.com/?p=95875",
   "https://www.docker.com/?p=95692",
   "https://www.docker.com/?p=95691",
-  "https://www.docker.com/?p=95666",
-  "https://www.docker.com/?p=95520"
+  "https://www.docker.com/?p=95666"
  ],
  "Domenico Luciani": [
   "https://domenicoluciani.com/2025/11/29/getting-started-with-open-telemetry.html",
@@ -2071,6 +2071,9 @@
   "5a846a12f911ac0018cfb96c",
   "5a846a12f911ac0018cfb96b",
   "5a846a12f911ac0018cfb96a"
+ ],
+ "Elegant Code": [
+  "https://elegantcode.com/?p=1"
  ],
  "Eli Bendersky": [
   "tag:eli.thegreenplace.net,2026-11-21:/2026/notes-on-the-discrete-fourier-transform-dft/",
@@ -2457,6 +2460,8 @@
   "https://github.blog/?p=98354"
  ],
  "GitHub Old": [
+  "https://github.blog/?p=100468",
+  "https://github.blog/?p=99982",
   "https://github.blog/?p=100438",
   "https://github.blog/?p=100161",
   "https://github.blog/?p=100215",
@@ -2464,9 +2469,7 @@
   "https://github.blog/?p=100130",
   "https://github.blog/?p=100122",
   "https://github.blog/?p=100077",
-  "https://github.blog/?p=100047",
-  "https://github.blog/?p=100002",
-  "https://github.blog/?p=99949"
+  "https://github.blog/?p=100047"
  ],
  "Gleb Bahmutov": [
   "https://glebbahmutov.com/blog/branded-phone-type/",
@@ -8861,6 +8864,7 @@
   "5664c2f3e4b0957c43aa14f4:5666531469a91a17ec801e9c:65b1f007149f361907318203"
  ],
  "Kotlin": [
+  "https://blog.jetbrains.com/?post_type=kotlin&p=761144",
   "https://blog.jetbrains.com/?post_type=kotlin&p=759663",
   "https://blog.jetbrains.com/?post_type=kotlin&p=757982",
   "https://blog.jetbrains.com/?post_type=kotlin&p=753700",
@@ -8871,8 +8875,7 @@
   "https://blog.jetbrains.com/?post_type=kotlin&p=744876",
   "https://blog.jetbrains.com/?post_type=kotlin&p=744281",
   "https://blog.jetbrains.com/?post_type=kotlin&p=743559",
-  "https://blog.jetbrains.com/?post_type=kotlin&p=743045",
-  "https://blog.jetbrains.com/?post_type=kotlin&p=742576"
+  "https://blog.jetbrains.com/?post_type=kotlin&p=743045"
  ],
  "Kyle Kingsbury": [
   "https://aphyr.com/posts/429-and-you-would-be-supporting-a-local-paper",
@@ -8906,11 +8909,11 @@
   "http://lambda-the-ultimate.org/ltu-blockchain-plt-thinktank"
  ],
  "Laravel": [
+  "https://laravel-news.com/laravel-13-44-0",
   "https://laravel-news.com/laravel-json-schema-validation-rules",
   "https://laravel-news.com/laravel-suspicious-login",
   "https://laravel-news.com/decide-with-jev-make-failed-ai-requests-safe-in-laravel",
-  "https://laravel-news.com/unlearn-dev-black-friday",
-  "https://laravel-news.com/laravel-black-friday-deals-2026"
+  "https://laravel-news.com/unlearn-dev-black-friday"
  ],
  "Larry Land": [
   "https://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html",
@@ -9615,7 +9618,6 @@
   "https://www.maptiler.com/news/2014/01/visual-georeferencing-in-maptiler-0-5-2"
  ],
  "Marcelo Rinesi": [
-  "https://blog.rinesi.com/2026/02/mathematics-of-change/index.html",
   "https://blog.rinesi.com/2026/03/interference-pattern/index.html",
   "https://blog.rinesi.com/2026/03/children-insurance/index.html",
   "https://blog.rinesi.com/2026/03/the-net-sum-of-love/index.html",
@@ -9664,7 +9666,8 @@
   "https://blog.rinesi.com/2026/11/the-stanislavski-plot/index.html",
   "https://blog.rinesi.com/2026/11/a-clockwork-heart/index.html",
   "https://blog.rinesi.com/2026/11/the-soul-market/index.html",
-  "https://blog.rinesi.com/2026/11/the-shape-of-the-game-update/index.html"
+  "https://blog.rinesi.com/2026/11/the-shape-of-the-game-update/index.html",
+  "https://blog.rinesi.com/2026/11/mechanical-life/index.html"
  ],
  "Marco Pivetta": [
   "https://ocramius.github.io/blog/php-logging-with-psr-3/",
@@ -13132,6 +13135,9 @@
   "https://reactjsnews.com/webpack-in-production"
  ],
  "Real Python": [
+  "https://realpython.com/pandas-project-gradebook/",
+  "https://realpython.com/no-ai-slop-manifesto/",
+  "https://realpython.com/llm-evaluation/",
   "https://realpython.com/quizzes/llm-evaluation/",
   "https://realpython.com/python-conditional-statements/",
   "https://realpython.com/k-means-clustering-python/",
@@ -13140,13 +13146,10 @@
   "https://realpython.com/quizzes/plotting-declarative-charts-with-altair/",
   "https://realpython.com/langchain-tutorial/",
   "https://realpython.com/quizzes/langchain-tutorial/",
-  "https://realpython.com/top-python-game-engines/",
   "https://realpython.com/ai-benchmark-daisyrose-27b/",
+  "https://realpython.com/top-python-game-engines/",
   "https://realpython.com/ai-benchmark-gemini-4-neon/",
   "https://realpython.com/ai-benchmark-inkling-2-mini/",
-  "https://realpython.com/ai-news-weekly-2026-11-20/",
-  "https://realpython.com/ai-refactor-python/",
-  "https://realpython.com/any-python/",
   "https://realpython.com/quizzes/python-interview-problem-parsing-csv-files/",
   "https://realpython.com/quizzes/exploring-python-math-module/",
   "https://realpython.com/quizzes/nuitka/",
@@ -14744,6 +14747,8 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/what-an-ai-marketing-agent-actually-does-and-how-to-build-a-guarded-one/",
+  "https://www.sitepoint.com/how-sd-card-photo-and-video-recovery-works-a-practical-guide-with-a-jpeg-carving-example/",
   "https://www.sitepoint.com/how-to-add-idempotency-keys-to-a-node-js-api-with-postgresql/",
   "https://www.sitepoint.com/a-practical-guide-to-browser-developer-tools-for-debugging-and-improving-websites/",
   "https://www.sitepoint.com/top-10-black-friday-deals-designers-agencies/",
@@ -14841,9 +14846,7 @@
   "https://www.sitepoint.com/pin-vs-noon/",
   "https://www.sitepoint.com/a-10-point-checklist-for-legacy-application-modernization/",
   "https://www.sitepoint.com/top-5-ai-animation-generators-in-2026-features-strengths-and-limits/",
-  "https://www.sitepoint.com/the-hidden-problems-behind-website-to-crm-integrations-and-how-to-prevent-them/",
-  "https://www.sitepoint.com/how-to-test-ai-generated-content-before-it-reaches-your-users/",
-  "https://www.sitepoint.com/how-to-optimize-ai-generated-images-for-faster-websites/"
+  "https://www.sitepoint.com/the-hidden-problems-behind-website-to-crm-integrations-and-how-to-prevent-them/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
@@ -15161,6 +15164,7 @@
   "2126"
  ],
  "Stack Overflow": [
+  "819496d5-695a-4d26-a90a-0d63495d1ebc",
   "843c137c-4e3d-41b5-8364-b1fda875d00e",
   "98567dcf-95b4-4062-bd40-1affc0660c32",
   "ee58a65d-ea11-42d8-b360-b51d9839ca29",
@@ -15199,8 +15203,7 @@
   "f22d7111-f9e2-4469-89e9-cbe110bb74be",
   "870dcae3-41b2-4900-aa96-bf1a15691828",
   "65868662-3b7d-4a63-9fa9-e699c48529fc",
-  "004e0789-dc2d-496b-a8af-b6e6aefde5f7",
-  "358fa8ac-2467-4ef4-893c-dad3490046df"
+  "004e0789-dc2d-496b-a8af-b6e6aefde5f7"
  ],
  "Stanko Tadi\u0107": [
   "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
@@ -15529,6 +15532,7 @@
   "https://www.surveymonkey.com/curiosity/2025-social-impact-report/"
  ],
  "Swizec Teller": [
+  "https://swizec.com/blog/hillclimbing-your-prompts",
   "https://swizec.com/blog/software-has-no-value",
   "https://swizec.com/blog/how-do-we-auto-approve-and-merge-60p-of-prs",
   "https://swizec.com/blog/no-more-tech-debt",
@@ -15577,8 +15581,7 @@
   "https://swizec.com/blog/a-tough-job-market-is-the-best-time-to-start-something",
   "https://swizec.com/blog/place-good-startup-bets",
   "https://swizec.com/blog/small-projects-clear-scope",
-  "https://swizec.com/blog/a-better-way-to-end-to-end-test-your-webapp",
-  "https://swizec.com/blog/2025-year-in-review"
+  "https://swizec.com/blog/a-better-way-to-end-to-end-test-your-webapp"
  ],
  "T.J. Maher": [
   "tag:blogger.com,1999:blog-3868566217808655382.post-315234326844963803",
@@ -16252,6 +16255,7 @@
   "https://vinted.engineering//2025/11/06/vespa-match-features"
  ],
  "Vlad Mihalcea": [
+  "https://vladmihalcea.com/?p=52953",
   "https://vladmihalcea.com/?p=52765",
   "https://vladmihalcea.com/?p=52704",
   "https://vladmihalcea.com/?p=52649",
@@ -16260,8 +16264,7 @@
   "https://vladmihalcea.com/?p=48905",
   "https://vladmihalcea.com/?p=49280",
   "https://vladmihalcea.com/?p=49060",
-  "https://vladmihalcea.com/?p=48900",
-  "https://vladmihalcea.com/?p=48716"
+  "https://vladmihalcea.com/?p=48900"
  ],
  "Wealthfront": [
   "https://eng.wealthfront.com/?p=4232",
