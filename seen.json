@@ -725,6 +725,7 @@
   "tag:blog.arkency.com,2026-07-16:/3-example-process-managers-in-rails/"
  ],
  "Armin Ronacher": [
+  "https://lucumr.pocoo.org/2026/11/25/poisoning/",
   "https://lucumr.pocoo.org/2026/11/9/irontown/",
   "https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/",
   "https://lucumr.pocoo.org/2026/10/6/codemode/",
@@ -733,8 +734,7 @@
   "https://lucumr.pocoo.org/2026/9/12/pdoom/",
   "https://lucumr.pocoo.org/2026/9/7/astra-why/",
   "https://lucumr.pocoo.org/2026/9/5/latent-powers/",
-  "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-  "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/"
+  "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/"
  ],
  "Artsy": [
   "https://artsy.github.io/blog/2026/10/26/going-all-in-on-ai-agents-for-five-weeks/",
@@ -5664,6 +5664,7 @@
   "https://www.gosquared.com/blog/?p=10129"
  ],
  "Grab": [
+  "https://engineering.grab.com/part-2-ads-simulation-blogpost",
   "https://engineering.grab.com/part-1-ads-simulation-blogpost",
   "https://engineering.grab.com/replaying-merged-changes-knowledge-base-coding-agents-better",
   "https://engineering.grab.com/how-grab-built-scarlet-blog",
@@ -5672,8 +5673,7 @@
   "https://engineering.grab.com/grabmart-data-for-faster-disease-outbreak-detection",
   "https://engineering.grab.com/price-sensitivity-profiling-using-llm",
   "https://engineering.grab.com/powering-ai-led-research-through-simulation",
-  "https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
-  "https://engineering.grab.com/data-mesh-at-grab-part-three"
+  "https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback"
  ],
  "Graham King": [
   "https://darkcoding.net/software/personal-ai-evals-aug-2025/",
@@ -9204,6 +9204,7 @@
   "https://lea.verou.me/blog/2026/nudeps/"
  ],
  "Lerner Consulting Blog": [
+  "https://lernerpython.com/?p=19401",
   "https://lernerpython.com/?p=18633",
   "https://lernerpython.com/2026/11/22/python-loading-spinners-with-rich-using-console-status/",
   "https://lernerpython.com/2026/11/21/rich-tables-in-python-using-table-add-column-and-add-row/",
@@ -9212,8 +9213,7 @@
   "https://lernerpython.com/2026/11/17/python-rich-console-separate-style-from-text-with-console-print/",
   "https://lernerpython.com/?p=18843",
   "https://lernerpython.com/2026/11/11/pandas-option-context-temporarily-change-display-settings/",
-  "https://lernerpython.com/2026/11/10/pandas-options-setting-display-precision-with-pd-set-option/",
-  "https://lernerpython.com/2026/11/09/pandas-3-1-csv-loading-multi-threaded-but-pyarrow-is-still-faster/"
+  "https://lernerpython.com/2026/11/10/pandas-options-setting-display-precision-with-pd-set-option/"
  ],
  "Life Plus Linux": [
   "tag:blogger.com,1999:blog-6272733848189485006.post-3094632893629608548",
@@ -9613,7 +9613,6 @@
   "https://www.maptiler.com/news/2014/01/visual-georeferencing-in-maptiler-0-5-2"
  ],
  "Marcelo Rinesi": [
-  "https://blog.rinesi.com/2026/02/runaway-geodesics/index.html",
   "https://blog.rinesi.com/2026/02/mathematics-of-change/index.html",
   "https://blog.rinesi.com/2026/03/interference-pattern/index.html",
   "https://blog.rinesi.com/2026/03/children-insurance/index.html",
@@ -9662,7 +9661,8 @@
   "https://blog.rinesi.com/2026/11/the-shape-of-the-game/index.html",
   "https://blog.rinesi.com/2026/11/the-stanislavski-plot/index.html",
   "https://blog.rinesi.com/2026/11/a-clockwork-heart/index.html",
-  "https://blog.rinesi.com/2026/11/the-soul-market/index.html"
+  "https://blog.rinesi.com/2026/11/the-soul-market/index.html",
+  "https://blog.rinesi.com/2026/11/the-shape-of-the-game-update/index.html"
  ],
  "Marco Pivetta": [
   "https://ocramius.github.io/blog/php-logging-with-psr-3/",
@@ -15159,6 +15159,7 @@
   "2126"
  ],
  "Stack Overflow": [
+  "843c137c-4e3d-41b5-8364-b1fda875d00e",
   "98567dcf-95b4-4062-bd40-1affc0660c32",
   "ee58a65d-ea11-42d8-b360-b51d9839ca29",
   "ae4b9eaf-3d04-4d92-9cda-63119ee69cb7",
@@ -15197,8 +15198,7 @@
   "870dcae3-41b2-4900-aa96-bf1a15691828",
   "65868662-3b7d-4a63-9fa9-e699c48529fc",
   "004e0789-dc2d-496b-a8af-b6e6aefde5f7",
-  "358fa8ac-2467-4ef4-893c-dad3490046df",
-  "4ae1a4e4-cb6e-4110-b6f3-50b8afa09f49"
+  "358fa8ac-2467-4ef4-893c-dad3490046df"
  ],
  "Stanko Tadi\u0107": [
   "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
