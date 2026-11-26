@@ -1423,6 +1423,7 @@
   "01M66XYRNK559YY01V2P37EBD7"
  ],
  "Codrops": [
+  "https://tympanus.net/codrops/?p=126670",
   "https://tympanus.net/codrops/?p=126514",
   "https://tympanus.net/codrops/?p=126376",
   "https://tympanus.net/codrops/?p=126274",
@@ -1431,8 +1432,7 @@
   "https://tympanus.net/codrops/?p=126285",
   "https://tympanus.net/codrops/?p=122686",
   "https://tympanus.net/codrops/?p=125689",
-  "https://tympanus.net/codrops/?p=125819",
-  "https://tympanus.net/codrops/?p=125101"
+  "https://tympanus.net/codrops/?p=125819"
  ],
  "Confluent": [
   "https://www.confluent.io/blog/managed-model-inference/",
@@ -1659,6 +1659,7 @@
   "https://medium.com/p/bf3aa4a715e5"
  ],
  "Databricks": [
+  "https://www.databricks.com/blog/rethinking-read-replicas-lakebase-architecture",
   "https://www.databricks.com/blog/agentic-cdp-data-modeling-data-foundation",
   "https://www.databricks.com/blog/sharing-catalog-metadata-across-data-platforms-engines-and-agents",
   "https://www.databricks.com/blog/what-5400-malicious-npm-packages-reveal-about-software-supply-chain-risk-2026",
@@ -1667,8 +1668,7 @@
   "https://www.databricks.com/blog/why-postgresql-19-shipped-late",
   "https://www.databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer",
   "https://www.databricks.com/blog/genie-one-accuracy-why-curated-agents-need-governed-context",
-  "https://www.databricks.com/blog/ai-architecture-patterns-regulated-industries",
-  "https://www.databricks.com/blog/how-partners-use-genies-free-tier-azure-databricks"
+  "https://www.databricks.com/blog/ai-architecture-patterns-regulated-industries"
  ],
  "Dave Cheney": [
   "https://dave.cheney.net/?p=4428",
@@ -2472,6 +2472,7 @@
   "https://github.blog/?p=100047"
  ],
  "Gleb Bahmutov": [
+  "https://glebbahmutov.com/blog/freeze-network-calls/",
   "https://glebbahmutov.com/blog/branded-phone-type/",
   "https://glebbahmutov.com/blog/cypress-test-for-optional-data/",
   "https://glebbahmutov.com/blog/cypress-cloud-test-triage-using-ai/",
@@ -2500,8 +2501,7 @@
   "https://glebbahmutov.com/blog/verify-then-control-the-data/",
   "https://glebbahmutov.com/blog/copilot-instructions-example/",
   "https://glebbahmutov.com/blog/source-of-truth/",
-  "https://glebbahmutov.com/blog/cy-vs-pw-browser/",
-  "https://glebbahmutov.com/blog/check-data-in-page-objects/"
+  "https://glebbahmutov.com/blog/cy-vs-pw-browser/"
  ],
  "GoCardless": [
   "https://gocardless.com/blog/engineering-learnings-first-agentic-payment",
@@ -8910,11 +8910,11 @@
   "http://lambda-the-ultimate.org/ltu-blockchain-plt-thinktank"
  ],
  "Laravel": [
+  "https://laravel-news.com/pun-php-toolchain",
   "https://laravel-news.com/laravel-13-44-0",
   "https://laravel-news.com/laravel-json-schema-validation-rules",
   "https://laravel-news.com/laravel-suspicious-login",
-  "https://laravel-news.com/decide-with-jev-make-failed-ai-requests-safe-in-laravel",
-  "https://laravel-news.com/unlearn-dev-black-friday"
+  "https://laravel-news.com/decide-with-jev-make-failed-ai-requests-safe-in-laravel"
  ],
  "Larry Land": [
   "https://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html",
@@ -13107,6 +13107,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112899",
   "https://devblogs.microsoft.com/oldnewthing/?p=112895",
   "https://devblogs.microsoft.com/oldnewthing/?p=112889",
   "https://devblogs.microsoft.com/oldnewthing/?p=112887",
@@ -13115,8 +13116,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112870",
   "https://devblogs.microsoft.com/oldnewthing/?p=112866",
   "https://devblogs.microsoft.com/oldnewthing/?p=112863",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112856",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112851"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112856"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -14748,6 +14748,8 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/nodejs-hosting-serverless-vs-vps-predictable-costs/",
+  "https://www.sitepoint.com/how-to-build-an-accessible-multi-step-form-a-practical-guide-with-a-vanilla-javascript-example/",
   "https://www.sitepoint.com/how-ai-powered-cameras-are-changing-content-creation-what-developers-should-know/",
   "https://www.sitepoint.com/what-an-ai-marketing-agent-actually-does-and-how-to-build-a-guarded-one/",
   "https://www.sitepoint.com/how-sd-card-photo-and-video-recovery-works-a-practical-guide-with-a-jpeg-carving-example/",
@@ -14845,9 +14847,7 @@
   "https://www.sitepoint.com/how-product-teams-can-use-ai-user-research-to-test-assumptions-before-sprint-planning/",
   "https://www.sitepoint.com/porting-the-ndk-endless-tunnel-to-ios-a-masterclass-in-cross-platform-c/",
   "https://www.sitepoint.com/how-to-build-a-typed-ai-pipeline-with-jev-and-clairic/",
-  "https://www.sitepoint.com/pin-vs-noon/",
-  "https://www.sitepoint.com/a-10-point-checklist-for-legacy-application-modernization/",
-  "https://www.sitepoint.com/top-5-ai-animation-generators-in-2026-features-strengths-and-limits/"
+  "https://www.sitepoint.com/pin-vs-noon/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
