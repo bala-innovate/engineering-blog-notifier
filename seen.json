@@ -761,16 +761,16 @@
   "https://spin.atomicobject.com/?p=3676381"
  ],
  "Auth0": [
+  "https://auth0.com/blog/fr-secure-agentic-commerce-interactions-auth0-auth-mcp/",
+  "https://auth0.com/blog/jp-secure-agentic-commerce-interactions-auth0-auth-mcp/",
   "https://auth0.com/blog/new-add-ons-self-service-enterprise/",
   "https://auth0.com/blog/registering-mcp-clients-with-cimd-in-auth0/",
   "https://auth0.com/blog/auth0-security-agent-early-access/",
-  "https://auth0.com/blog/legacy-factors-fail-in-ciam-passkeys-are-the-answer/",
   "https://auth0.com/blog/auth-for-personal-agents-beta-release/",
+  "https://auth0.com/blog/legacy-factors-fail-in-ciam-passkeys-are-the-answer/",
   "https://auth0.com/blog/building-secure-mcp-server-with-auth0/",
   "https://auth0.com/blog/authentication-and-authorization-what-s-new-in-net-11/",
-  "https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/",
-  "https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/",
-  "https://auth0.com/blog/who-will-consumers-trust-to-act-shop-pay-on-their-behalf/"
+  "https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/"
  ],
  "Avenue Code": [
   "https://blog.avenuecode.com/using-generative-ai-to-streamline-internal-it-support-a-comprehensive-demonstration",
@@ -1625,6 +1625,8 @@
   "https://danluu.com/randomize-hn/"
  ],
  "Daniel Doubrovkine (dB.)": [
+  "https://code.dblock.org/2026/11/27/naming-claude-code-and-copilot-sessions-after-their-project",
+  "https://code.dblock.org/2026/11/26/automatic-javascript-test-sharding-on-github-actions",
   "https://code.dblock.org/2026/11/25/launch-agents-for-my-ai-agents",
   "https://code.dblock.org/2026/11/23/the-link-is-not-dead-its-behind-cloudflare",
   "https://code.dblock.org/2026/11/22/teaching-my-copilot-and-claude-children-to-share",
@@ -1642,9 +1644,7 @@
   "https://code.dblock.org/2026/10/23/i-am-just-one-engineer-armed-with-ai",
   "https://code.dblock.org/2026/10/22/introducing-markdownlint-rule-spellcheck",
   "https://code.dblock.org/2026/10/22/introducing-dylint-spellcheck",
-  "https://code.dblock.org/2026/10/21/introducing-rubocop-spellcheck",
-  "https://code.dblock.org/2026/10/15/ai-wants-to-eat-your-project-backlog",
-  "https://code.dblock.org/2026/10/11/elpds-a-1995-dos-disk-inspection-tool"
+  "https://code.dblock.org/2026/10/21/introducing-rubocop-spellcheck"
  ],
  "Daniel Schmidt": [
   "https://medium.com/p/825e6dedf46d",
@@ -8910,11 +8910,11 @@
   "http://lambda-the-ultimate.org/ltu-blockchain-plt-thinktank"
  ],
  "Laravel": [
+  "https://laravel-news.com/laravel-autobuilder",
   "https://laravel-news.com/pun-php-toolchain",
   "https://laravel-news.com/laravel-13-44-0",
   "https://laravel-news.com/laravel-json-schema-validation-rules",
-  "https://laravel-news.com/laravel-suspicious-login",
-  "https://laravel-news.com/decide-with-jev-make-failed-ai-requests-safe-in-laravel"
+  "https://laravel-news.com/laravel-suspicious-login"
  ],
  "Larry Land": [
   "https://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html",
@@ -13527,6 +13527,7 @@
   "tag:ruslanspivak.com,2015-03-09:/lsbaws-part1/"
  ],
  "Rust": [
+  "https://blog.rust-lang.org/2026/11/27/Rust-1.100.1/",
   "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/",
   "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
   "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/",
@@ -13535,8 +13536,7 @@
   "https://blog.rust-lang.org/2026/10/20/Rustup-1.29.2/",
   "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
   "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
-  "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
-  "https://blog.rust-lang.org/2026/09/22/announcing-a-maintainer-in-residence-scott-schafer-for-the-cargo-team/"
+  "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/"
  ],
  "Sam Saffron": [
   "discuss.samsaffron.com-post-16580",
@@ -14748,6 +14748,8 @@
   "https://shopify.engineering/activemerchant-version-1-9-released"
  ],
  "SitePoint": [
+  "https://www.sitepoint.com/beyond-smartphones-how-ai-is-shaping-the-next-generation-of-personal-devices-developer-guide/",
+  "https://www.sitepoint.com/how-to-shut-down-a-node-js-api-without-dropping-requests/",
   "https://www.sitepoint.com/nodejs-hosting-serverless-vs-vps-predictable-costs/",
   "https://www.sitepoint.com/how-to-build-an-accessible-multi-step-form-a-practical-guide-with-a-vanilla-javascript-example/",
   "https://www.sitepoint.com/how-ai-powered-cameras-are-changing-content-creation-what-developers-should-know/",
@@ -14845,9 +14847,7 @@
   "https://www.sitepoint.com/top-4-mcp-servers-for-marketers-features-use-cases-and-limitations/",
   "https://www.sitepoint.com/how-to-learn-java-with-ai-a-practical-guide-for-beginners/",
   "https://www.sitepoint.com/how-to-build-an-ai-assisted-workflow-that-does-not-leak/",
-  "https://www.sitepoint.com/retrying-a-send-is-harder-than-sending/",
-  "https://www.sitepoint.com/ai-powered-pentesting-for-devsecops-7-checks-developers-should-make-first/",
-  "https://www.sitepoint.com/how-product-teams-can-use-ai-user-research-to-test-assumptions-before-sprint-planning/"
+  "https://www.sitepoint.com/retrying-a-send-is-harder-than-sending/"
  ],
  "Skyscanner": [
   "https://medium.com/p/655167a49d2f",
