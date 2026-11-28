@@ -13107,6 +13107,7 @@
   "https://www.kodeco.com/ios/paths/object-oriented-programming"
  ],
  "Raymond Chen": [
+  "https://devblogs.microsoft.com/oldnewthing/?p=112901",
   "https://devblogs.microsoft.com/oldnewthing/?p=112899",
   "https://devblogs.microsoft.com/oldnewthing/?p=112895",
   "https://devblogs.microsoft.com/oldnewthing/?p=112889",
@@ -13115,8 +13116,7 @@
   "https://devblogs.microsoft.com/oldnewthing/?p=112879",
   "https://devblogs.microsoft.com/oldnewthing/?p=112870",
   "https://devblogs.microsoft.com/oldnewthing/?p=112866",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112863",
-  "https://devblogs.microsoft.com/oldnewthing/?p=112856"
+  "https://devblogs.microsoft.com/oldnewthing/?p=112863"
  ],
  "Raymond Hettinger": [
   "http://rhettinger.wordpress.com/?p=134",
@@ -16030,8 +16030,8 @@
   "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/blueprint-voice-ai-agent-guardrails-twilio-aws",
   "https://www.twilio.com/en-us/blog/developers/best-practices/voice-ai-agent-reference-architecture",
   "https://www.twilio.com/en-us/blog/how-to-enable-mms-on-iphone",
-  "https://www.twilio.com/en-us/blog/mms-messages-not-sending",
   "https://www.twilio.com/en-us/blog/insights/compliance/opt-in-opt-out-text-messages",
+  "https://www.twilio.com/en-us/blog/mms-messages-not-sending",
   "https://www.twilio.com/en-us/blog/developers/tutorials/product/conversation-relay-graceful-ai-to-human-handoff",
   "https://www.twilio.com/en-us/blog/insights/best-practices/update-to-fcc-tcpa-consent-revocation-rules",
   "https://www.twilio.com/en-us/blog/insights/best-practices/improving-your-chances-of-a2p10dlc-registration-approval",
